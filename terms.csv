@@ -1,7 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'b08a276ec2',extremes,Fog,#d60d2b,wmo,nebbia italia,2025-12-08T03:44:00+00:00,Italy,0.7170324044310169,0,2,it,MED,Europe
-'7104ad3c83',extremes,Thunderstorm,#53785a,wmo,temporale italia,2025-12-04T03:42:00+00:00,Italy,0.6868418269901522,0,2,it,MED,Europe
-'12060a7df7',extremes,Storm,#b3b2b1,wmo,mareggiata italia,2025-12-06T03:32:00+00:00,Italy,0.6832395222034481,0,2,it,MED,Europe
 '51c2ca3328',extremes,Fog,#d60d2b,wmo,nebbia toscana,2025-12-10T03:45:00+00:00,Italy,0.6794746784383959,0,2,it,MED,Europe
 '507412aefc',extremes,Storm,#b3b2b1,wmo,tempesta italia,2025-12-01T04:02:00+00:00,Italy,0.6789219801858272,0,2,it,MED,Europe
 'e190a41be9',extremes,Precipitation,#d60d2b,wmo,pioggia على بعض مناطق غرب ليبيا.,2025-12-03T03:40:00+00:00,Libya,0.678716097197681,0,2,it,SAH,Africa
@@ -15,3 +12,5 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8e5338dae6',extremes,Thunderstorm,#53785a,wmo,salve italia,2025-12-05T03:41:00+00:00,Italy,0.6650333906209626,0,2,it,MED,Europe
 '4e5e4292b1',extremes,Thunderstorm,#53785a,wmo,grandine libia,2025-12-02T03:41:00+00:00,Libya,0.6597194159485898,0,2,it,SAH,Africa
 'dcf82560b0',extremes,Fog,#d60d2b,wmo,nebbia lombardia,2025-12-08T03:44:00+00:00,Italy,0.6442491090629521,0,2,it,MED,Europe
+'b08a276ec2',extremes,Fog,#d60d2b,wmo,nebbia italia,2025-12-08T03:44:00+00:00,Italy,0.6094778887663643,1,1,it,MED,Europe
+'7104ad3c83',extremes,Thunderstorm,#53785a,wmo,temporale italia,2025-12-04T03:42:00+00:00,Italy,0.5887665729416294,1,3,it,MED,Europe
