@@ -13,6 +13,7 @@ import aiohttp
 import asyncio
 import requests
 from urllib.parse import urlparse
+import urllib
 import json
 import time
 import smtplib
@@ -419,29 +420,9 @@ def extractData(article, language, keyWord, topic, feed, country, ipcc, continen
             'image':image, 'content':content, 'quote':'', 'language': language, 'term':keyWord, 'topic':topic, 'feed':feed, 'country':country, 'ipcc':ipcc, 'continent':continent}
     return data  
 
-def countSingleCharsInQuote(keyword, quote, case=True):
-    if(not case):
-        quote = quote.lower()
-        keyword = keyword.lower()
-    keywords = list(keyword.strip("'").replace(" ",""))
-    countFound = 0
-    countAll = 0
-    for keyw in keywords:
-      countAll += 1
-      if(keyw in quote):
-        countFound += 1
-    if(countAll>0):
-      print(['countSingleCharsInQuote', countFound, countAll])
-      return countFound/countAll
-    return 0
-
-
-
-def checkKeywordInQuote(keyword, quote, case=True, anyKey=False, singleChars=False):
+def checkKeywordInQuote(keyword, quote, case=True, anyKey=False):
     keyword = keyword.replace("+","").replace("-","")
     keywords = keyword.strip("'").split(" ")
-    if(singleChars):
-       keywords = list(keyword.strip("'").replace(" ",""))
     if(not case):
         keywords = keyword.strip("'").lower().split(" ")
         quote = quote.lower()
@@ -511,16 +492,6 @@ def checkArticlesForKeywords(articles, termsDF, seldomDF, language, keyWord, top
              foundColumns.append(column2) 
              found = True
              max(valid,0.2) 
-      if(language in ['zh','ja']):
-       if(not found):
-         for index2, column2 in termsLangDF.iterrows(): 
-           numFound = countSingleCharsInQuote(keyword, fullQuote, case=True)
-           if(numFound>0):
-             foundKeywords.append(keyword) 
-             foundColumns.append(column2) 
-             found = True
-             max(valid,numFound) 
-
       data['valid'] = valid
       if(valid>0.15):
         foundKeywords.append(keyWord) 
@@ -534,14 +505,7 @@ def checkArticlesForKeywords(articles, termsDF, seldomDF, language, keyWord, top
         foundArticles.append(data)
       else:
         data['term'] = keyWord
-        data['country'] = country
-        data['ipcc'] = ipcc
-        data['continent'] = continent
-        data['feed'] = feed
-        data['topic'] = topic
         #foundArticles.append(data)
-        if(language in ['zh','ja']):   
-          foundArticles.append(data) 
 
     return foundArticles
 
@@ -674,9 +638,9 @@ def inqRandomNews(maxCount=1):
         # https://newsapi.org/docs/endpoints/everything
         url = ('https://newsapi.org/v2/everything?'+
             #"q='"+keyWord+"'&"
-            "q="+keyWord+"&"
+            "q="+urllib.parse.quote(keyWord)+"&"
             'pageSize='+str(pageSize)+'&'
-            'language='+nLang+'&'
+            'language='+language+'&'
             'page='+str(currPage)+'&'
             'sortBy='+sort+'&'
             'apiKey='+apiKey
@@ -737,6 +701,9 @@ def inqRandomNews(maxCount=1):
                 if(foundNew):     
                     maxCount  -= (2 + len(newArticles))  
                     storeCollection()
+             else:
+               #0 articles found
+               print(['0 articles found, counter:',newCounter ,'ratio: ',currRatio, 'pages:', newLimit])
             else:
               print(response.text)
               if(jsonData['code'] == 'maximumResultsReached'):
