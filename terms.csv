@@ -1,5 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'9e93dbaea9',extremes,Fog,#d60d2b,wmo,nebbia campana,2025-12-11T03:46:00+00:00,Italy,0.6698142342384911,0,2,it,MED,Europe
 '8e5338dae6',extremes,Thunderstorm,#53785a,wmo,salve italia,2025-12-05T03:41:00+00:00,Italy,0.6650333906209626,0,2,it,MED,Europe
 '4e5e4292b1',extremes,Thunderstorm,#53785a,wmo,grandine libia,2025-12-02T03:41:00+00:00,Libya,0.6597194159485898,0,2,it,SAH,Africa
 'dcf82560b0',extremes,Fog,#d60d2b,wmo,nebbia lombardia,2025-12-08T03:44:00+00:00,Italy,0.6442491090629521,0,2,it,MED,Europe
