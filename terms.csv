@@ -1,12 +1,19 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'ebfa477aa2',extremes,Fog,#d60d2b,wmo,nebbia veneta,2025-12-13T03:38:00+00:00,Italy,0.6910365564092849,0,1,it,MED,Europe
+'429ae37885',extremes,Fog,#d60d2b,wmo,nebbia piemontese,2025-12-14T03:49:00+00:00,Italy,0.6855647394690196,0,1,it,MED,Europe
+'3550c99ca4',extremes,Fog,#d60d2b,wmo,nebbia emilia e romagna,2025-12-08T03:44:00+00:00,Italy,0.6850172391324364,0,1,it,MED,Europe
+'dcf82560b0',extremes,Fog,#d60d2b,wmo,nebbia lombardia,2025-12-08T03:44:00+00:00,Italy,0.6799238909311346,0,1,it,MED,Europe
+'9e93dbaea9',extremes,Fog,#d60d2b,wmo,nebbia campana,2025-12-11T03:46:00+00:00,Italy,0.6707179621574697,0,1,it,MED,Europe
+'c19cef35d3',extremes,Fog,#d60d2b,wmo,nebbia calabria,2025-12-11T03:46:00+00:00,Italy,0.6705760590758717,0,1,it,MED,Europe
+'4e5e4292b1',extremes,Thunderstorm,#53785a,wmo,grandine libia,2025-12-02T03:41:00+00:00,Libya,0.6597194159485898,0,1,it,SAH,Africa
 '7104ad3c83',extremes,Thunderstorm,#53785a,wmo,temporale italia,2025-12-04T03:42:00+00:00,Italy,0.5887665729416294,1,3,it,MED,Europe
 '507412aefc',extremes,Storm,#b3b2b1,wmo,tempesta italia,2025-12-01T04:02:00+00:00,Italy,0.5809840731579531,1,2,it,MED,Europe
 '51c2ca3328',extremes,Fog,#d60d2b,wmo,nebbia toscana,2025-12-10T03:45:00+00:00,Italy,0.5780035216726366,1,2,it,MED,Europe
 '075cc3fe36',extremes,Thunderstorm,#53785a,wmo,maltempo italia,2025-11-28T03:34:00+00:00,Italy,0.56606053577397,1,1,it,MED,Europe
 'b08a276ec2',extremes,Fog,#d60d2b,wmo,nebbia italia,2025-12-08T03:44:00+00:00,Italy,0.5216565654514096,2,2,it,MED,Europe
 '12060a7df7',extremes,Storm,#b3b2b1,wmo,mareggiata italia,2025-12-06T03:32:00+00:00,Italy,0.4941956102919912,2,1,it,MED,Europe
-'e190a41be9',extremes,Precipitation,#d60d2b,wmo,pioggia على بعض مناطق غرب ليبيا.,2025-12-03T03:40:00+00:00,Libya,0.49037238022532453,2,1,it,SAH,Africa
-'a999041fe7',extremes,Precipitation,#d60d2b,wmo,acquazzone libia,2025-12-05T03:41:00+00:00,Libya,0.49008849291411544,2,1,it,SAH,Africa
+'e190a41be9',extremes,Precipitation,#d60d2b,wmo,pioggia على بعض مناطق غرب ليبيا.,2025-12-03T03:40:00+00:00,Libya,0.4903723802253245,2,1,it,SAH,Africa
+'a999041fe7',extremes,Precipitation,#d60d2b,wmo,acquazzone libia,2025-12-05T03:41:00+00:00,Libya,0.4900884929141154,2,1,it,SAH,Africa
 '80d6b52deb',extremes,Precipitation,#d60d2b,wmo,pioggia torrenziale على بعض مناطق غرب ليبيا.,2025-12-01T04:02:00+00:00,Libya,0.4896955110561747,2,1,it,SAH,Africa
 '8fa1b857b6',extremes,Fog,#d60d2b,wmo,nebbia umbria,2025-12-13T03:38:00+00:00,Italy,0.4894934554407463,2,1,it,MED,Europe
 '14ed38a1e4',extremes,Fog,#d60d2b,wmo,nebbia molisana,2025-12-11T03:46:00+00:00,Italy,0.4877065508753652,2,1,it,MED,Europe
