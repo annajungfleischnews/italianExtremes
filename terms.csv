@@ -1,7 +1,6 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 'ebfa477aa2',extremes,Fog,#d60d2b,wmo,nebbia veneta,2025-12-13T03:38:00+00:00,Italy,0.6951020997259081,0,1,it,MED,Europe
 'dcf82560b0',extremes,Fog,#d60d2b,wmo,nebbia lombardia,2025-12-08T03:44:00+00:00,Italy,0.6799238909311346,0,1,it,MED,Europe
-'d92d2dbe23',extremes,Snow&Ice,#d60d2b,wmo,ghiaccio italia,2025-12-16T03:47:00+00:00,Italy,0.6707491484151394,0,1,it,MED,Europe
 '3a8dcca50b',extremes,Snow&Ice,#d60d2b,wmo,l'italia gelida,2025-12-15T03:54:00+00:00,Italy,0.6475149603720637,0,1,it,MED,Europe
 'db4deee12d',extremes,Fog,#d60d2b,wmo,nebbia pugliese,2025-12-10T03:45:00+00:00,Italy,0.6388554597876581,0,1,it,MED,Europe
 '2cce7328e9',extremes,Storm,#b3b2b1,wmo,tempesta liguria,2025-12-15T03:54:00+00:00,Italy,0.6305790648957041,0,1,it,MED,Europe
