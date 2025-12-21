@@ -1,5 +1,8 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'42eb55f644',extremes,Precipitation,#d60d2b,wmo,precipitazioni libia,2025-12-04T03:42:00+00:00,Libya,0.6754957817085917,0,1,it,SAH,Africa
+'3a8dcca50b',extremes,Snow&Ice,#d60d2b,wmo,l'italia gelida,2025-12-15T03:54:00+00:00,Italy,0.6475149603720637,0,1,it,MED,Europe
 'd4d8b57886',extremes,Storm,#b3b2b1,wmo,mareggiata sicilia,2025-12-04T03:42:00+00:00,Italy,0.6381583418062975,0,1,it,MED,Europe
+'30f7444e18',extremes,Storm,#b3b2b1,wmo,tempesta puglia,2025-12-04T03:42:00+00:00,Italy,0.6342049091924566,0,1,it,MED,Europe
 '8dbdda11a1',extremes,Thunderstorm,#53785a,wmo,maltempo piemonte,2025-12-14T03:49:00+00:00,Italy,0.6215527350812785,0,1,it,MED,Europe
 '42f1336000',extremes,Drought,#edc291,edo,siccità Somalia,2025-12-11T03:46:00+00:00,Somalia,0.6173067301771619,0,1,it,NEAF,Africa
 '3a23ad42fe',extremes,Precipitation,#d60d2b,wmo,pioggia torrenziale argentina,2025-12-10T03:45:00+00:00,Argentina,0.6168656994193579,0,1,it,SES,South-America
