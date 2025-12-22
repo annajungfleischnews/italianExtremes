@@ -6,7 +6,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ae340540d6',extremes,Precipitation,#d60d2b,wmo,acquazzone argentina,2025-12-14T03:49:00+00:00,Argentina,0.6055224823804521,0,1,it,SES,South-America
 '02711610b5',extremes,Storm,#b3b2b1,wmo,tempesta argentina,2025-12-14T03:49:00+00:00,Argentina,0.6048051887799936,0,1,it,SES,South-America
 'e529bb6ac5',extremes,Precipitation,#d60d2b,wmo,pioggia argentina,2025-12-16T03:47:00+00:00,Argentina,0.6038948730721849,0,1,it,SES,South-America
-'973af89b5a',extremes,Thunderstorm,#53785a,wmo,temporale calabria,2025-12-15T03:54:00+00:00,Italy,0.6032973210022491,0,1,it,MED,Europe
 '7e5900487d',extremes,Thunderstorm,#53785a,wmo,grandine molise,2025-12-04T03:42:00+00:00,Italy,0.6032521809583689,0,1,it,MED,Europe
 'fa77cf1f9e',extremes,Storm,#b3b2b1,wmo,tempesta mendoza gral alvear malargue.,2025-12-04T03:42:00+00:00,Argentina,0.6028605565655752,0,1,it,SES,South-America
 'ebfa477aa2',extremes,Fog,#d60d2b,wmo,nebbia veneta,2025-12-13T03:38:00+00:00,Italy,0.5908367847670218,1,1,it,MED,Europe
