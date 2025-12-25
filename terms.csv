@@ -1,5 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'7104ad3c83',extremes,Thunderstorm,#53785a,wmo,temporale italia,2025-12-04T03:42:00+00:00,Italy,0.6397527570003849,2,3,it,MED,Europe
 '71aee81e61',extremes,Storm,#b3b2b1,wmo,mareggiata lazio,2025-12-15T03:54:00+00:00,Italy,0.6086362747819947,0,1,it,MED,Europe
 'ae340540d6',extremes,Precipitation,#d60d2b,wmo,acquazzone argentina,2025-12-14T03:49:00+00:00,Argentina,0.6055224823804521,0,1,it,SES,South-America
 '973af89b5a',extremes,Thunderstorm,#53785a,wmo,temporale calabria,2025-12-15T03:54:00+00:00,Italy,0.6032973210022491,0,1,it,MED,Europe
