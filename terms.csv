@@ -54,5 +54,5 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8fa1b857b6',extremes,Fog,#d60d2b,wmo,nebbia umbria,2025-12-13T03:38:00+00:00,Italy,0.4894934554407463,2,1,it,MED,Europe
 '14ed38a1e4',extremes,Fog,#d60d2b,wmo,nebbia molisana,2025-12-11T03:46:00+00:00,Italy,0.4877065508753652,2,1,it,MED,Europe
 '8e5338dae6',extremes,Thunderstorm,#53785a,wmo,salve italia,2025-12-05T03:41:00+00:00,Italy,0.4807416652236455,2,1,it,MED,Europe
-'12060a7df7',extremes,Storm,#b3b2b1,wmo,mareggiata italia,2025-12-06T03:32:00+00:00,Italy,0.4203662987481925,3,1,it,MED,Europe
 '80d6b52deb',extremes,Precipitation,#d60d2b,wmo,pioggia torrenziale على بعض مناطق غرب ليبيا.,2025-12-01T04:02:00+00:00,Libya,0.4162411843977485,3,1,it,SAH,Africa
+'12060a7df7',extremes,Storm,#b3b2b1,wmo,mareggiata italia,2025-12-06T03:32:00+00:00,Italy,0.3574613689359636,4,1,it,MED,Europe
