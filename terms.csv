@@ -1,14 +1,10 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'db4deee12d',extremes,Fog,#d60d2b,wmo,nebbia pugliese,2025-12-10T03:45:00+00:00,Italy,0.667234836345948,0,1,it,MED,Europe
 'cd3d048b5a',extremes,Precipitation,#d60d2b,wmo,pioggia italia,2025-12-04T03:42:00+00:00,Italy,0.6101551898235207,0,1,it,MED,Europe
-'02711610b5',extremes,Storm,#b3b2b1,wmo,tempesta argentina,2025-12-14T03:49:00+00:00,Argentina,0.6048051887799936,0,1,it,SES,South-America
 '7e5900487d',extremes,Thunderstorm,#53785a,wmo,grandine molise,2025-12-04T03:42:00+00:00,Italy,0.6032521809583689,0,1,it,MED,Europe
 '8744ccb432',extremes,Storm,#b3b2b1,wmo,tempesta la rioja la rioja.,2025-12-06T03:32:00+00:00,Argentina,0.6027273314521001,0,1,it,SES,South-America
 '0c3d21da24',extremes,Precipitation,#d60d2b,wmo,acquazzone italia,2025-12-15T03:54:00+00:00,Italy,0.6017109763103955,0,1,it,MED,Europe
 '925c8e1c57',extremes,Thunderstorm,#53785a,wmo,maltempo lombardia,2025-12-15T03:54:00+00:00,Italy,0.5956363402261708,0,1,it,MED,Europe
-'82b8913676',extremes,Storm,#b3b2b1,wmo,mareggiata sardegna,2025-12-15T03:54:00+00:00,Italy,0.5926247782214089,0,1,it,MED,Europe
 'ebfa477aa2',extremes,Fog,#d60d2b,wmo,nebbia veneta,2025-12-13T03:38:00+00:00,Italy,0.5908367847670218,1,1,it,MED,Europe
-'d5d4b91634',extremes,Earthquake,#870007,usgs,terremoto vinchina,2025-12-02T03:41:00+00:00,Argentina,0.5886952276574007,0,1,it,SWS,South-America
 '429ae37885',extremes,Fog,#d60d2b,wmo,nebbia piemontese,2025-12-14T03:49:00+00:00,Italy,0.5828800435486666,1,1,it,MED,Europe
 '3550c99ca4',extremes,Fog,#d60d2b,wmo,nebbia emilia e romagna,2025-12-08T03:44:00+00:00,Italy,0.5828647132625709,1,1,it,MED,Europe
 '5e29cd96b0',extremes,Precipitation,#d60d2b,wmo,pioggia torrenziale italia,2025-12-16T03:47:00+00:00,Italy,0.5813684616258491,0,1,it,MED,Europe
@@ -16,15 +12,14 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '507412aefc',extremes,Storm,#b3b2b1,wmo,tempesta italia,2025-12-01T04:02:00+00:00,Italy,0.5809840731579531,1,2,it,MED,Europe
 'f7a88fba0a',extremes,Fog,#d60d2b,wmo,nebbia lazio,2025-12-14T03:49:00+00:00,Italy,0.5805361559276112,1,1,it,MED,Europe
 'dcf82560b0',extremes,Fog,#d60d2b,wmo,nebbia lombardia,2025-12-08T03:44:00+00:00,Italy,0.5788353972914644,1,1,it,MED,Europe
-'51c2ca3328',extremes,Fog,#d60d2b,wmo,nebbia toscana,2025-12-10T03:45:00+00:00,Italy,0.5780035216726366,1,2,it,MED,Europe
 'c5c6cf44f3',extremes,Precipitation,#d60d2b,wmo,precipitazioni puglia,2025-12-04T03:42:00+00:00,Italy,0.5757025726557305,0,1,it,MED,Europe
-'997a2e2157',extremes,Earthquake,#870007,usgs,terremoto argentina,2025-12-07T03:46:00+00:00,Argentina,0.5756771950556705,0,1,it,SWS,South-America
 'd92d2dbe23',extremes,Snow&Ice,#d60d2b,wmo,ghiaccio italia,2025-12-16T03:47:00+00:00,Italy,0.5750877061528685,1,2,it,MED,Europe
 '42eb55f644',extremes,Precipitation,#d60d2b,wmo,precipitazioni libia,2025-12-04T03:42:00+00:00,Libya,0.5743214294523029,1,1,it,SAH,Africa
 '973af89b5a',extremes,Thunderstorm,#53785a,wmo,temporale calabria,2025-12-15T03:54:00+00:00,Italy,0.5735527978519117,1,1,it,MED,Europe
 'c620088f41',extremes,Precipitation,#d60d2b,wmo,piogge torrenziali liguria,2025-12-01T04:02:00+00:00,Italy,0.5707416511341445,0,1,it,MED,Europe
 '9e93dbaea9',extremes,Fog,#d60d2b,wmo,nebbia campana,2025-12-11T03:46:00+00:00,Italy,0.5704102978338492,1,1,it,MED,Europe
 '8a590c18c2',extremes,Precipitation,#d60d2b,wmo,precipitazioni sardegna,2025-12-15T03:54:00+00:00,Italy,0.5696991944116161,0,1,it,MED,Europe
+'db4deee12d',extremes,Fog,#d60d2b,wmo,nebbia pugliese,2025-12-10T03:45:00+00:00,Italy,0.5671496108940558,1,1,it,MED,Europe
 '075cc3fe36',extremes,Thunderstorm,#53785a,wmo,maltempo italia,2025-11-28T03:34:00+00:00,Italy,0.56606053577397,1,1,it,MED,Europe
 '8dbdda11a1',extremes,Thunderstorm,#53785a,wmo,maltempo piemonte,2025-12-14T03:49:00+00:00,Italy,0.5643534281524201,1,1,it,MED,Europe
 'c1907effc6',extremes,Precipitation,#d60d2b,wmo,piogge torrenziali puglia,2025-12-01T04:02:00+00:00,Italy,0.5607949776590689,0,1,it,MED,Europe
@@ -47,6 +42,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ee23d47ac0',extremes,Heat Wave,#c40202,wmo,ondata di caldo rio cuarto y alrededores,2025-12-07T03:47:00+00:00,Argentina,0.5168402533680587,1,1,it,SES,South-America
 'ae340540d6',extremes,Precipitation,#d60d2b,wmo,acquazzone argentina,2025-12-14T03:49:00+00:00,Argentina,0.5146941100233843,1,1,it,SES,South-America
 'ac9b4f5444',extremes,Storm,#b3b2b1,wmo,mareggiata argentina,2025-12-14T03:49:00+00:00,Argentina,0.514332901025564,1,1,it,SES,South-America
+'02711610b5',extremes,Storm,#b3b2b1,wmo,tempesta argentina,2025-12-14T03:49:00+00:00,Argentina,0.5140844104629945,1,1,it,SES,South-America
 'e529bb6ac5',extremes,Precipitation,#d60d2b,wmo,pioggia argentina,2025-12-16T03:47:00+00:00,Argentina,0.5133106421113571,1,1,it,SES,South-America
 'fa77cf1f9e',extremes,Storm,#b3b2b1,wmo,tempesta mendoza gral alvear malargue.,2025-12-04T03:42:00+00:00,Argentina,0.512431473080739,1,1,it,SES,South-America
 '6c6666b2af',extremes,Precipitation,#d60d2b,wmo,precipitazioni argentina,2025-12-16T03:47:00+00:00,Argentina,0.5117167761443401,1,1,it,SES,South-America
@@ -54,12 +50,16 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8009981fb6',extremes,Thunderstorm,#53785a,wmo,grandine campania,2025-12-15T03:54:00+00:00,Italy,0.5102230074479135,1,1,it,MED,Europe
 'f82cdd7aef',extremes,Fog,#d60d2b,wmo,nebbia basilicata,2025-12-19T03:46:00+00:00,Italy,0.5086121930186578,1,1,it,MED,Europe
 'ad1d094d2b',extremes,Thunderstorm,#53785a,wmo,grandine sardegna,2025-12-03T03:40:00+00:00,Italy,0.5052926568039257,1,1,it,MED,Europe
+'82b8913676',extremes,Storm,#b3b2b1,wmo,mareggiata sardegna,2025-12-15T03:54:00+00:00,Italy,0.5037310614881976,1,1,it,MED,Europe
 'e876b3ff36',extremes,Earthquake,#870007,usgs,terremoto abra pampa,2025-11-30T03:46:00+00:00,Argentina,0.5008491053396911,1,1,it,SES,South-America
+'d5d4b91634',extremes,Earthquake,#870007,usgs,terremoto vinchina,2025-12-02T03:41:00+00:00,Argentina,0.5003909435087905,1,1,it,SWS,South-America
 '1a2e308d48',extremes,Thunderstorm,#53785a,wmo,temporale molisano,2025-12-01T04:02:00+00:00,Italy,0.4963027124526933,1,1,it,MED,Europe
+'51c2ca3328',extremes,Fog,#d60d2b,wmo,nebbia toscana,2025-12-10T03:45:00+00:00,Italy,0.49130302342174104,2,1,it,MED,Europe
 'e190a41be9',extremes,Precipitation,#d60d2b,wmo,pioggia على بعض مناطق غرب ليبيا.,2025-12-03T03:40:00+00:00,Libya,0.4903723802253245,2,1,it,SAH,Africa
 'a999041fe7',extremes,Precipitation,#d60d2b,wmo,acquazzone libia,2025-12-05T03:41:00+00:00,Libya,0.4900884929141154,2,1,it,SAH,Africa
+'997a2e2157',extremes,Earthquake,#870007,usgs,terremoto argentina,2025-12-07T03:46:00+00:00,Argentina,0.48962564579731993,1,1,it,SWS,South-America
 '8fa1b857b6',extremes,Fog,#d60d2b,wmo,nebbia umbria,2025-12-13T03:38:00+00:00,Italy,0.4894934554407463,2,1,it,MED,Europe
-'165e1b5216',extremes,Drought,#edc291,edo,siccità libia,2025-12-16T03:47:00+00:00,Libya,0.48857009234527515,1,1,it,SAH,Africa
+'165e1b5216',extremes,Drought,#edc291,edo,siccità libia,2025-12-16T03:47:00+00:00,Libya,0.4885700923452751,1,1,it,SAH,Africa
 '14ed38a1e4',extremes,Fog,#d60d2b,wmo,nebbia molisana,2025-12-11T03:46:00+00:00,Italy,0.4877065508753652,2,1,it,MED,Europe
 '8e5338dae6',extremes,Thunderstorm,#53785a,wmo,salve italia,2025-12-05T03:41:00+00:00,Italy,0.4807416652236455,2,1,it,MED,Europe
 '80d6b52deb',extremes,Precipitation,#d60d2b,wmo,pioggia torrenziale على بعض مناطق غرب ليبيا.,2025-12-01T04:02:00+00:00,Libya,0.4162411843977485,3,1,it,SAH,Africa
