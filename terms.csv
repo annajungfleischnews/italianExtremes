@@ -1,7 +1,5 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'42eb55f644',extremes,Precipitation,#d60d2b,wmo,precipitazioni libia,2025-12-04T03:42:00+00:00,Libya,0.6754957817085917,0,1,it,SAH,Africa
 'cd3d048b5a',extremes,Precipitation,#d60d2b,wmo,pioggia italia,2025-12-04T03:42:00+00:00,Italy,0.6101551898235207,0,1,it,MED,Europe
-'8744ccb432',extremes,Storm,#b3b2b1,wmo,tempesta la rioja la rioja.,2025-12-06T03:32:00+00:00,Argentina,0.6027273314521001,0,1,it,SES,South-America
 '0c3d21da24',extremes,Precipitation,#d60d2b,wmo,acquazzone italia,2025-12-15T03:54:00+00:00,Italy,0.6017109763103955,0,1,it,MED,Europe
 '925c8e1c57',extremes,Thunderstorm,#53785a,wmo,maltempo lombardia,2025-12-15T03:54:00+00:00,Italy,0.5956363402261708,0,1,it,MED,Europe
 'ebfa477aa2',extremes,Fog,#d60d2b,wmo,nebbia veneta,2025-12-13T03:38:00+00:00,Italy,0.5908367847670218,1,1,it,MED,Europe
@@ -13,6 +11,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'dcf82560b0',extremes,Fog,#d60d2b,wmo,nebbia lombardia,2025-12-08T03:44:00+00:00,Italy,0.5788353972914644,1,1,it,MED,Europe
 'c5c6cf44f3',extremes,Precipitation,#d60d2b,wmo,precipitazioni puglia,2025-12-04T03:42:00+00:00,Italy,0.5757025726557305,0,1,it,MED,Europe
 'd92d2dbe23',extremes,Snow&Ice,#d60d2b,wmo,ghiaccio italia,2025-12-16T03:47:00+00:00,Italy,0.5750877061528685,1,2,it,MED,Europe
+'42eb55f644',extremes,Precipitation,#d60d2b,wmo,precipitazioni libia,2025-12-04T03:42:00+00:00,Libya,0.5743214294523029,1,1,it,SAH,Africa
 '973af89b5a',extremes,Thunderstorm,#53785a,wmo,temporale calabria,2025-12-15T03:54:00+00:00,Italy,0.5735527978519117,1,1,it,MED,Europe
 'c620088f41',extremes,Precipitation,#d60d2b,wmo,piogge torrenziali liguria,2025-12-01T04:02:00+00:00,Italy,0.5707416511341445,0,1,it,MED,Europe
 '9e93dbaea9',extremes,Fog,#d60d2b,wmo,nebbia campana,2025-12-11T03:46:00+00:00,Italy,0.5704102978338492,1,1,it,MED,Europe
