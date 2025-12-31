@@ -1,5 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'cd3d048b5a',extremes,Precipitation,#d60d2b,wmo,pioggia italia,2025-12-04T03:42:00+00:00,Italy,0.6101551898235207,0,1,it,MED,Europe
 '8744ccb432',extremes,Storm,#b3b2b1,wmo,tempesta la rioja la rioja.,2025-12-06T03:32:00+00:00,Argentina,0.6027273314521001,0,1,it,SES,South-America
 '0c3d21da24',extremes,Precipitation,#d60d2b,wmo,acquazzone italia,2025-12-15T03:54:00+00:00,Italy,0.6017109763103955,0,1,it,MED,Europe
 '925c8e1c57',extremes,Thunderstorm,#53785a,wmo,maltempo lombardia,2025-12-15T03:54:00+00:00,Italy,0.5956363402261708,0,1,it,MED,Europe
@@ -88,7 +87,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '887af33c5b',extremes,Snow&Ice,#d60d2b,wmo,gelo svizzera,2025-12-08T03:44:00+00:00,Switzerland,0.480868503395231,0,1,it,WCE,Europe
 '8e5338dae6',extremes,Thunderstorm,#53785a,wmo,salve italia,2025-12-05T03:41:00+00:00,Italy,0.4807416652236455,2,1,it,MED,Europe
 '92ff957955',extremes,Snow&Ice,#d60d2b,wmo,neve svizzera,2025-12-08T03:44:00+00:00,Switzerland,0.4772234391814145,0,1,it,WCE,Europe
-'4e5e4292b1',extremes,Thunderstorm,#53785a,wmo,grandine libia,2025-12-02T03:41:00+00:00,Libya,0.47664727802285617,2,1,it,SAH,Africa
+'4e5e4292b1',extremes,Thunderstorm,#53785a,wmo,grandine libia,2025-12-02T03:41:00+00:00,Libya,0.4766472780228561,2,1,it,SAH,Africa
 'eee27f7ca4',extremes,Precipitation,#d60d2b,wmo,acquazzone campano,2025-12-16T03:47:00+00:00,Italy,0.4744364373247102,0,1,it,MED,Europe
 '69dc5fcfc4',extremes,Heat Wave,#c40202,wmo,ondata di caldo parana y alrededores,2025-12-06T03:32:00+00:00,Argentina,0.4741401180301826,1,1,it,SES,South-America
 '59a8bad88b',extremes,Precipitation,#d60d2b,wmo,piogge torrenziali emilia e romagna,2025-12-01T04:02:00+00:00,Italy,0.4728761938793213,1,1,it,MED,Europe
