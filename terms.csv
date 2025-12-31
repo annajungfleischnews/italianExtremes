@@ -18,7 +18,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8a590c18c2',extremes,Precipitation,#d60d2b,wmo,precipitazioni sardegna,2025-12-15T03:54:00+00:00,Italy,0.5696991944116161,0,1,it,MED,Europe
 'db4deee12d',extremes,Fog,#d60d2b,wmo,nebbia pugliese,2025-12-10T03:45:00+00:00,Italy,0.5671496108940558,1,1,it,MED,Europe
 '075cc3fe36',extremes,Thunderstorm,#53785a,wmo,maltempo italia,2025-11-28T03:34:00+00:00,Italy,0.56606053577397,1,1,it,MED,Europe
-'8dbdda11a1',extremes,Thunderstorm,#53785a,wmo,maltempo piemonte,2025-12-14T03:49:00+00:00,Italy,0.5643534281524201,1,1,it,MED,Europe
 'c1907effc6',extremes,Precipitation,#d60d2b,wmo,piogge torrenziali puglia,2025-12-01T04:02:00+00:00,Italy,0.5607949776590689,0,1,it,MED,Europe
 'cb207f7e4e',extremes,Drought,#edc291,edo,mancanza di pioggia argentina,2025-12-13T03:38:00+00:00,Argentina,0.558489274799884,0,1,it,SES,South-America
 '1fea4f642d',extremes,Storm,#b3b2b1,wmo,tempesta svizzera,2025-12-15T03:54:00+00:00,Switzerland,0.5573323861494026,0,1,it,WCE,Europe
