@@ -9,7 +9,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3550c99ca4',extremes,Fog,#d60d2b,wmo,nebbia emilia e romagna,2025-12-08T03:44:00+00:00,Italy,0.583014728262571,1,1,it,MED,Europe
 '429ae37885',extremes,Fog,#d60d2b,wmo,nebbia piemontese,2025-12-14T03:49:00+00:00,Italy,0.5828800435486666,1,1,it,MED,Europe
 '5e29cd96b0',extremes,Precipitation,#d60d2b,wmo,pioggia torrenziale italia,2025-12-16T03:47:00+00:00,Italy,0.5813684616258491,0,1,it,MED,Europe
-'dcef080672',extremes,Thunderstorm,#53785a,wmo,temporale toscana,2025-12-15T03:54:00+00:00,Italy,0.5810721717091252,0,1,it,MED,Europe
 'f7a88fba0a',extremes,Fog,#d60d2b,wmo,nebbia lazio,2025-12-14T03:49:00+00:00,Italy,0.5805361559276112,1,1,it,MED,Europe
 'dcf82560b0',extremes,Fog,#d60d2b,wmo,nebbia lombardia,2025-12-08T03:44:00+00:00,Italy,0.5788353972914644,1,1,it,MED,Europe
 'c5c6cf44f3',extremes,Precipitation,#d60d2b,wmo,precipitazioni puglia,2025-12-04T03:42:00+00:00,Italy,0.5757025726557305,0,1,it,MED,Europe
@@ -139,11 +138,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '23a21b83bb',extremes,Precipitation,#d60d2b,wmo,precipitazioni val d'entremont val ferret,2025-12-07T03:47:00+00:00,Switzerland,0.4117872826719257,0,1,it,WCE,Europe
 '6960fb1641',extremes,Precipitation,#d60d2b,wmo,pioggia torrenziale st. stephan lenk,2025-12-07T03:47:00+00:00,Switzerland,0.4116845038645919,0,1,it,WCE,Europe
 '7c3e42078e',extremes,Precipitation,#d60d2b,wmo,acquazzone jogne haute groyere,2025-12-07T03:47:00+00:00,Switzerland,0.4115261893533494,0,1,it,WCE,Europe
-'3fd670b0ec',extremes,Precipitation,#d60d2b,wmo,precipitazioni turtmanntal,2025-12-07T03:47:00+00:00,Switzerland,0.41096931592758784,0,1,it,WCE,Europe
+'3fd670b0ec',extremes,Precipitation,#d60d2b,wmo,precipitazioni turtmanntal,2025-12-07T03:47:00+00:00,Switzerland,0.4109693159275878,0,1,it,WCE,Europe
 '5786f5d7b9',extremes,Precipitation,#d60d2b,wmo,acquazzone sarnen lungern,2025-12-07T03:47:00+00:00,Switzerland,0.4070537322316251,0,1,it,WCE,Europe
 'ccc92b1f07',extremes,Precipitation,#d60d2b,wmo,le precipitazioni le contengono integralmente,2025-12-07T03:47:00+00:00,Switzerland,0.4064092258497522,0,1,it,WCE,Europe
 '3a7960fcd2',extremes,Precipitation,#d60d2b,wmo,pioggia appenzello,2025-12-07T03:47:00+00:00,Switzerland,0.406181356495461,0,1,it,WCE,Europe
-'b5cb89d511',extremes,Drought,#edc291,edo,siccità svizzera,2025-12-07T03:47:00+00:00,Switzerland,0.40299739726432615,0,1,it,WCE,Europe
+'b5cb89d511',extremes,Drought,#edc291,edo,siccità svizzera,2025-12-07T03:47:00+00:00,Switzerland,0.4029973972643261,0,1,it,WCE,Europe
 '6970f30399',extremes,Precipitation,#d60d2b,wmo,pioggia torrenziale vallée de joux,2025-12-07T03:47:00+00:00,Switzerland,0.4025884591077924,0,1,it,WCE,Europe
 '402de54131',extremes,Precipitation,#d60d2b,wmo,pioggia torrenziale saint cergue,2025-12-07T03:47:00+00:00,Switzerland,0.4011995079321446,0,1,it,WCE,Europe
 '12060a7df7',extremes,Storm,#b3b2b1,wmo,mareggiata italia,2025-12-06T03:32:00+00:00,Italy,0.3574613689359636,4,1,it,MED,Europe
