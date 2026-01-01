@@ -2,13 +2,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8dbdda11a1',extremes,Thunderstorm,#53785a,wmo,maltempo piemonte,2025-12-14T03:49:00+00:00,Italy,0.6215527350812785,0,1,it,MED,Europe
 'cd3d048b5a',extremes,Precipitation,#d60d2b,wmo,pioggia italia,2025-12-04T03:42:00+00:00,Italy,0.6101551898235207,0,1,it,MED,Europe
 '8744ccb432',extremes,Storm,#b3b2b1,wmo,tempesta la rioja la rioja.,2025-12-06T03:32:00+00:00,Argentina,0.6027273314521001,0,1,it,SES,South-America
-'0c3d21da24',extremes,Precipitation,#d60d2b,wmo,acquazzone italia,2025-12-15T03:54:00+00:00,Italy,0.6017109763103955,0,1,it,MED,Europe
 '925c8e1c57',extremes,Thunderstorm,#53785a,wmo,maltempo lombardia,2025-12-15T03:54:00+00:00,Italy,0.5956363402261708,0,1,it,MED,Europe
 'ebfa477aa2',extremes,Fog,#d60d2b,wmo,nebbia veneta,2025-12-13T03:38:00+00:00,Italy,0.5908367847670218,1,1,it,MED,Europe
 '7104ad3c83',extremes,Thunderstorm,#53785a,wmo,temporale italia,2025-12-04T03:42:00+00:00,Italy,0.5887666329416293,1,2,it,MED,Europe
 '3550c99ca4',extremes,Fog,#d60d2b,wmo,nebbia emilia e romagna,2025-12-08T03:44:00+00:00,Italy,0.583014728262571,1,1,it,MED,Europe
 '429ae37885',extremes,Fog,#d60d2b,wmo,nebbia piemontese,2025-12-14T03:49:00+00:00,Italy,0.5828800435486666,1,1,it,MED,Europe
-'5e29cd96b0',extremes,Precipitation,#d60d2b,wmo,pioggia torrenziale italia,2025-12-16T03:47:00+00:00,Italy,0.5813684616258491,0,1,it,MED,Europe
 'f7a88fba0a',extremes,Fog,#d60d2b,wmo,nebbia lazio,2025-12-14T03:49:00+00:00,Italy,0.5805361559276112,1,1,it,MED,Europe
 'dcf82560b0',extremes,Fog,#d60d2b,wmo,nebbia lombardia,2025-12-08T03:44:00+00:00,Italy,0.5788353972914644,1,1,it,MED,Europe
 'c5c6cf44f3',extremes,Precipitation,#d60d2b,wmo,precipitazioni puglia,2025-12-04T03:42:00+00:00,Italy,0.5757025726557305,0,1,it,MED,Europe
@@ -28,7 +26,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c60253873f',extremes,Precipitation,#d60d2b,wmo,acquazzone lombardia,2025-12-15T03:54:00+00:00,Italy,0.5543755715147183,0,1,it,MED,Europe
 'a559add9e4',extremes,Precipitation,#d60d2b,wmo,pioggia lazio,2025-12-04T03:42:00+00:00,Italy,0.5502526598743701,0,1,it,MED,Europe
 'd4d8b57886',extremes,Storm,#b3b2b1,wmo,mareggiata sicilia,2025-12-04T03:42:00+00:00,Italy,0.5424345905353528,1,1,it,MED,Europe
-'f2f37cb268',extremes,Precipitation,#d60d2b,wmo,acquazzone sardegna,2025-12-05T03:41:00+00:00,Italy,0.5415136673834727,0,1,it,MED,Europe
 'cefc77a4b3',extremes,Storm,#b3b2b1,wmo,tempesta svizzera,2025-12-15T03:54:00+00:00,Switzerland,0.5394687297533067,1,2,it,WCE,Europe
 '30f7444e18',extremes,Storm,#b3b2b1,wmo,tempesta puglia,2025-12-04T03:42:00+00:00,Italy,0.5392241878135882,1,1,it,MED,Europe
 '316c1a7868',extremes,Precipitation,#d60d2b,wmo,acquazzone toscana,2025-12-15T03:54:00+00:00,Italy,0.5386813245262984,0,1,it,MED,Europe
@@ -57,6 +54,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7e5900487d',extremes,Thunderstorm,#53785a,wmo,grandine molise,2025-12-04T03:42:00+00:00,Italy,0.5127643538146135,1,1,it,MED,Europe
 'fa77cf1f9e',extremes,Storm,#b3b2b1,wmo,tempesta mendoza gral alvear malargue.,2025-12-04T03:42:00+00:00,Argentina,0.512431473080739,1,1,it,SES,South-America
 '6c6666b2af',extremes,Precipitation,#d60d2b,wmo,precipitazioni argentina,2025-12-16T03:47:00+00:00,Argentina,0.5117167761443401,1,1,it,SES,South-America
+'0c3d21da24',extremes,Precipitation,#d60d2b,wmo,acquazzone italia,2025-12-15T03:54:00+00:00,Italy,0.5116043448638362,1,1,it,MED,Europe
 '21cbdf87d9',extremes,Thunderstorm,#53785a,wmo,forte tempo toscana,2025-12-19T03:46:00+00:00,Italy,0.5102867048659026,1,2,it,MED,Europe
 '8009981fb6',extremes,Thunderstorm,#53785a,wmo,grandine campania,2025-12-15T03:54:00+00:00,Italy,0.5102230074479135,1,1,it,MED,Europe
 'a5f7d9bde6',extremes,Storm,#b3b2b1,wmo,mareggiata sarganserland,2025-12-15T03:54:00+00:00,Switzerland,0.5088304212963803,0,1,it,WCE,Europe
@@ -72,6 +70,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1f4020ebca',extremes,Precipitation,#d60d2b,wmo,precipitazioni liguria,2025-12-15T03:54:00+00:00,Italy,0.5002248527305373,1,2,it,MED,Europe
 'a8a0a1043d',extremes,Storm,#b3b2b1,wmo,tempesta Werdenberg,2025-12-15T03:54:00+00:00,Switzerland,0.4989524133983045,0,1,it,WCE,Europe
 '1a2e308d48',extremes,Thunderstorm,#53785a,wmo,temporale molisano,2025-12-01T04:02:00+00:00,Italy,0.4963027124526933,1,1,it,MED,Europe
+'5e29cd96b0',extremes,Precipitation,#d60d2b,wmo,pioggia torrenziale italia,2025-12-16T03:47:00+00:00,Italy,0.4941631923819717,1,1,it,MED,Europe
 '507412aefc',extremes,Storm,#b3b2b1,wmo,tempesta italia,2025-12-01T04:02:00+00:00,Italy,0.4938368521842601,2,1,it,MED,Europe
 '6c3aaa0f15',extremes,Precipitation,#d60d2b,wmo,pioggia lombardia,2025-12-01T04:02:00+00:00,Italy,0.4928327746114163,0,1,it,MED,Europe
 '51c2ca3328',extremes,Fog,#d60d2b,wmo,nebbia toscana,2025-12-10T03:45:00+00:00,Italy,0.491303023421741,2,1,it,MED,Europe
