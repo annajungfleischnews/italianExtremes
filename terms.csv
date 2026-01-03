@@ -1,11 +1,11 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'f7a88fba0a',extremes,Fog,#d60d2b,wmo,nebbia lazio,2025-12-14T03:49:00+00:00,Italy,0.6824542481501309,0,1,it,MED,Europe
 '9e93dbaea9',extremes,Fog,#d60d2b,wmo,nebbia campana,2025-12-11T03:46:00+00:00,Italy,0.6707179621574697,0,1,it,MED,Europe
 '8dbdda11a1',extremes,Thunderstorm,#53785a,wmo,maltempo piemonte,2025-12-14T03:49:00+00:00,Italy,0.6215527350812785,0,1,it,MED,Europe
 'ebfa477aa2',extremes,Fog,#d60d2b,wmo,nebbia veneta,2025-12-13T03:38:00+00:00,Italy,0.5908367847670218,1,1,it,MED,Europe
 '7104ad3c83',extremes,Thunderstorm,#53785a,wmo,temporale italia,2025-12-04T03:42:00+00:00,Italy,0.5887666329416293,1,2,it,MED,Europe
 '3550c99ca4',extremes,Fog,#d60d2b,wmo,nebbia emilia e romagna,2025-12-08T03:44:00+00:00,Italy,0.583014728262571,1,1,it,MED,Europe
 '429ae37885',extremes,Fog,#d60d2b,wmo,nebbia piemontese,2025-12-14T03:49:00+00:00,Italy,0.5828800435486666,1,1,it,MED,Europe
+'f7a88fba0a',extremes,Fog,#d60d2b,wmo,nebbia lazio,2025-12-14T03:49:00+00:00,Italy,0.5802361259276112,1,1,it,MED,Europe
 'dcf82560b0',extremes,Fog,#d60d2b,wmo,nebbia lombardia,2025-12-08T03:44:00+00:00,Italy,0.5788353972914644,1,1,it,MED,Europe
 'c5c6cf44f3',extremes,Precipitation,#d60d2b,wmo,precipitazioni puglia,2025-12-04T03:42:00+00:00,Italy,0.5757025726557305,0,1,it,MED,Europe
 'd92d2dbe23',extremes,Snow&Ice,#d60d2b,wmo,ghiaccio italia,2025-12-16T03:47:00+00:00,Italy,0.5750877061528685,1,2,it,MED,Europe
@@ -39,7 +39,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '906eca8937',extremes,Storm,#b3b2b1,wmo,tempesta erstfeld engelberg,2025-12-16T03:47:00+00:00,Switzerland,0.5224973222676974,0,1,it,WCE,Europe
 'b08a276ec2',extremes,Fog,#d60d2b,wmo,nebbia italia,2025-12-08T03:44:00+00:00,Italy,0.5216565654514096,2,2,it,MED,Europe
 '0a36c64301',extremes,Thunderstorm,#53785a,wmo,grandine piemonte,2025-12-15T03:54:00+00:00,Italy,0.520597679746231,1,1,it,MED,Europe
-'93f18e9364',extremes,Heat Wave,#c40202,wmo,ondata di caldo argentina,2025-12-01T04:02:00+00:00,Argentina,0.5194839851331907,1,1,it,SES,South-America
 '93f796a1ae',extremes,Thunderstorm,#53785a,wmo,grandine umbria,2025-12-01T04:02:00+00:00,Italy,0.5180221586168756,0,1,it,MED,Europe
 '71aee81e61',extremes,Storm,#b3b2b1,wmo,mareggiata lazio,2025-12-15T03:54:00+00:00,Italy,0.5173408335646954,1,1,it,MED,Europe
 'ee23d47ac0',extremes,Heat Wave,#c40202,wmo,ondata di caldo rio cuarto y alrededores,2025-12-07T03:47:00+00:00,Argentina,0.5168402533680587,1,1,it,SES,South-America
@@ -107,6 +106,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '2db753a4e6',extremes,Snow&Ice,#d60d2b,wmo,valanga alto moesano,2025-12-16T03:47:00+00:00,Switzerland,0.4438293697402554,0,1,it,WCE,Europe
 'b863d00f22',extremes,Drought,#edc291,edo,siccità italia,2025-12-13T03:38:00+00:00,Italy,0.4433998324701421,0,1,it,MED,Europe
 'c19cef35d3',extremes,Fog,#d60d2b,wmo,nebbia calabria,2025-12-11T03:46:00+00:00,Italy,0.4425333104873492,4,1,it,MED,Europe
+'93f18e9364',extremes,Heat Wave,#c40202,wmo,ondata di caldo argentina,2025-12-01T04:02:00+00:00,Argentina,0.4415613873632121,2,1,it,SES,South-America
 '1b51011837',extremes,Snow&Ice,#d60d2b,wmo,gelo blenio,2025-12-08T03:44:00+00:00,Switzerland,0.4411852600769943,0,1,it,WCE,Europe
 '9d6cac03c7',extremes,Precipitation,#d60d2b,wmo,precipitazioni svizzera,2025-12-07T03:47:00+00:00,Switzerland,0.4410521235296479,0,1,it,WCE,Europe
 '1a931eb2e9',extremes,Snow&Ice,#d60d2b,wmo,ghiaccio schangnau sigriswil,2025-12-06T03:32:00+00:00,Switzerland,0.4407544939175393,0,1,it,WCE,Europe
@@ -157,5 +157,5 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6977afac24',extremes,Volcano,#b83202,eonet,vulcano Puracé Colombia,2025-12-06T03:32:00+00:00,Colombia,0.3175532868372554,0,1,it,NWS,South-America
 '707df29480',extremes,Tropical Cyclone,#4f4f4f,eonet,ciclone tropicale 08p,2025-12-16T03:46:00+00:00,,0.3171000998359699,0,1,it,SPO,Pacific Ocean
 'b747714817',extremes,Cold Wave,#a7e9fa,acwe,ondata di freddo victoria,2025-12-04T03:42:00+00:00,Australia,0.3167451186826359,0,1,it,SAU,Oceania
-'8a654473a4',extremes,Drought,#edc291,edo,siccità sao tome e principe,2025-12-02T03:41:00+00:00,Sao Tome and Principe,0.31286540847169286,0,1,it,WAF,Africa
+'8a654473a4',extremes,Drought,#edc291,edo,siccità sao tome e principe,2025-12-02T03:41:00+00:00,Sao Tome and Principe,0.3128654084716928,0,1,it,WAF,Africa
 '291335c911',extremes,Drought,#edc291,edo,mancanza di pioggia gabon,2025-12-08T03:45:00+00:00,Gabon,0.3107013622976347,0,1,it,CAF,Africa
