@@ -1,5 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'8dbdda11a1',extremes,Thunderstorm,#53785a,wmo,maltempo piemonte,2025-12-14T03:49:00+00:00,Italy,0.6215527350812785,0,1,it,MED,Europe
 'ebfa477aa2',extremes,Fog,#d60d2b,wmo,nebbia veneta,2025-12-13T03:38:00+00:00,Italy,0.5908367847670218,1,1,it,MED,Europe
 '7104ad3c83',extremes,Thunderstorm,#53785a,wmo,temporale italia,2025-12-04T03:42:00+00:00,Italy,0.5887666329416293,1,2,it,MED,Europe
 '3550c99ca4',extremes,Fog,#d60d2b,wmo,nebbia emilia e romagna,2025-12-08T03:44:00+00:00,Italy,0.583014728262571,1,1,it,MED,Europe
@@ -159,6 +158,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b747714817',extremes,Cold Wave,#a7e9fa,acwe,ondata di freddo victoria,2025-12-04T03:42:00+00:00,Australia,0.3167451186826359,0,1,it,SAU,Oceania
 '8a654473a4',extremes,Drought,#edc291,edo,siccità sao tome e principe,2025-12-02T03:41:00+00:00,Sao Tome and Principe,0.3128654084716928,0,1,it,WAF,Africa
 '291335c911',extremes,Drought,#edc291,edo,mancanza di pioggia gabon,2025-12-08T03:45:00+00:00,Gabon,0.3107013622976347,0,1,it,CAF,Africa
-'5a20612e67',extremes,Drought,#edc291,edo,mancanza di pioggia trinidad e tobago,2025-12-08T03:45:00+00:00,Trinidad and Tobago,0.30987815223639087,0,1,it,NSA,North-America
-'cc855d70a2',extremes,Drought,#edc291,edo,siccità tagikistan,2025-12-08T03:45:00+00:00,Tajikistan,0.30987586903372333,0,1,it,WCA,Asia
-'5d85dc5645',extremes,Drought,#edc291,edo,siccità ruanda,2025-12-16T03:47:00+00:00,Rwanda,0.30974341646375864,0,1,it,SEAF,Africa
+'5a20612e67',extremes,Drought,#edc291,edo,mancanza di pioggia trinidad e tobago,2025-12-08T03:45:00+00:00,Trinidad and Tobago,0.3098781522363908,0,1,it,NSA,North-America
+'cc855d70a2',extremes,Drought,#edc291,edo,siccità tagikistan,2025-12-08T03:45:00+00:00,Tajikistan,0.3098758690337233,0,1,it,WCA,Asia
+'5d85dc5645',extremes,Drought,#edc291,edo,siccità ruanda,2025-12-16T03:47:00+00:00,Rwanda,0.3097434164637586,0,1,it,SEAF,Africa
