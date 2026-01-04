@@ -14,6 +14,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'db4deee12d',extremes,Fog,#d60d2b,wmo,nebbia pugliese,2025-12-10T03:45:00+00:00,Italy,0.5671496108940558,1,1,it,MED,Europe
 '075cc3fe36',extremes,Thunderstorm,#53785a,wmo,maltempo italia,2025-11-28T03:34:00+00:00,Italy,0.56606053577397,1,1,it,MED,Europe
 'c1907effc6',extremes,Precipitation,#d60d2b,wmo,piogge torrenziali puglia,2025-12-01T04:02:00+00:00,Italy,0.5607949776590689,0,1,it,MED,Europe
+'887af33c5b',extremes,Snow&Ice,#d60d2b,wmo,gelo svizzera,2025-12-08T03:44:00+00:00,Switzerland,0.5590382578859463,1,2,it,WCE,Europe
 'cb207f7e4e',extremes,Drought,#edc291,edo,mancanza di pioggia argentina,2025-12-13T03:38:00+00:00,Argentina,0.558489274799884,0,1,it,SES,South-America
 '1fea4f642d',extremes,Storm,#b3b2b1,wmo,tempesta svizzera,2025-12-15T03:54:00+00:00,Switzerland,0.5573323861494026,0,1,it,WCE,Europe
 '207df0d218',extremes,Precipitation,#d60d2b,wmo,piogge torrenziali piemonte,2025-12-15T03:54:00+00:00,Italy,0.5570332663502862,0,1,it,MED,Europe
@@ -78,7 +79,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '14ed38a1e4',extremes,Fog,#d60d2b,wmo,nebbia molisana,2025-12-11T03:46:00+00:00,Italy,0.4877065508753652,2,1,it,MED,Europe
 'f6ff301646',extremes,Drought,#edc291,edo,siccità in Somalia,2025-12-14T03:49:00+00:00,Somalia,0.4855266786357132,0,1,it,NEAF,Africa
 '18d25abe80',extremes,Storm,#b3b2b1,wmo,tempesta liechtenstein,2025-12-15T03:54:00+00:00,Switzerland,0.4821607842245949,0,1,it,WCE,Europe
-'887af33c5b',extremes,Snow&Ice,#d60d2b,wmo,gelo svizzera,2025-12-08T03:44:00+00:00,Switzerland,0.480868503395231,0,1,it,WCE,Europe
 '8e5338dae6',extremes,Thunderstorm,#53785a,wmo,salve italia,2025-12-05T03:41:00+00:00,Italy,0.4807416652236455,2,1,it,MED,Europe
 '92ff957955',extremes,Snow&Ice,#d60d2b,wmo,neve svizzera,2025-12-08T03:44:00+00:00,Switzerland,0.4772234391814145,0,1,it,WCE,Europe
 '4e5e4292b1',extremes,Thunderstorm,#53785a,wmo,grandine libia,2025-12-02T03:41:00+00:00,Libya,0.4766472780228561,2,1,it,SAH,Africa
@@ -158,7 +158,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '707df29480',extremes,Tropical Cyclone,#4f4f4f,eonet,ciclone tropicale 08p,2025-12-16T03:46:00+00:00,,0.3171000998359699,0,1,it,SPO,Pacific Ocean
 'b747714817',extremes,Cold Wave,#a7e9fa,acwe,ondata di freddo victoria,2025-12-04T03:42:00+00:00,Australia,0.3167451186826359,0,1,it,SAU,Oceania
 '8a654473a4',extremes,Drought,#edc291,edo,siccità sao tome e principe,2025-12-02T03:41:00+00:00,Sao Tome and Principe,0.3128654084716928,0,1,it,WAF,Africa
-'5ea67ea4a7',extremes,Drought,#edc291,edo,siccità trinidad e tobago,2025-12-10T03:45:00+00:00,Trinidad and Tobago,0.31137423657753116,0,1,it,NSA,North-America
+'5ea67ea4a7',extremes,Drought,#edc291,edo,siccità trinidad e tobago,2025-12-10T03:45:00+00:00,Trinidad and Tobago,0.3113742365775311,0,1,it,NSA,North-America
 '291335c911',extremes,Drought,#edc291,edo,mancanza di pioggia gabon,2025-12-08T03:45:00+00:00,Gabon,0.3107013622976347,0,1,it,CAF,Africa
 '5a20612e67',extremes,Drought,#edc291,edo,mancanza di pioggia trinidad e tobago,2025-12-08T03:45:00+00:00,Trinidad and Tobago,0.3098781522363908,0,1,it,NSA,North-America
 'cc855d70a2',extremes,Drought,#edc291,edo,siccità tagikistan,2025-12-08T03:45:00+00:00,Tajikistan,0.3098758690337233,0,1,it,WCA,Asia
