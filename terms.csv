@@ -81,7 +81,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8e5b367351',extremes,Precipitation,#d60d2b,wmo,precipitazioni italia,2025-12-14T03:49:00+00:00,Italy,0.4688471651797183,3,1,it,MED,Europe
 'ddaab30fbb',extremes,Storm,#b3b2b1,wmo,tempesta gersau engelbergertal,2025-12-15T03:54:00+00:00,Switzerland,0.467797293398293,0,1,it,WCE,Europe
 '0587e67588',extremes,Precipitation,#d60d2b,wmo,piogge torrenziali lazio,2025-12-15T03:54:00+00:00,Italy,0.4669288113514798,0,1,it,MED,Europe
-'d4d8b57886',extremes,Storm,#b3b2b1,wmo,mareggiata sicilia,2025-12-04T03:42:00+00:00,Italy,0.46106940195504986,2,1,it,MED,Europe
+'d4d8b57886',extremes,Storm,#b3b2b1,wmo,mareggiata sicilia,2025-12-04T03:42:00+00:00,Italy,0.4610694019550498,2,1,it,MED,Europe
 'f2f37cb268',extremes,Precipitation,#d60d2b,wmo,acquazzone sardegna,2025-12-05T03:41:00+00:00,Italy,0.4602866172759518,1,1,it,MED,Europe
 'f9eb244a9a',extremes,Drought,#edc291,edo,mancanza di pioggia italia,2025-12-01T04:02:00+00:00,Italy,0.4586278605261661,0,1,it,MED,Europe
 '080f963f9f',extremes,Snow&Ice,#d60d2b,wmo,gelo langenthal,2025-12-06T03:32:00+00:00,Switzerland,0.4565338427220498,0,1,it,WCE,Europe
@@ -159,5 +159,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5a20612e67',extremes,Drought,#edc291,edo,mancanza di pioggia trinidad e tobago,2025-12-08T03:45:00+00:00,Trinidad and Tobago,0.3098781522363908,0,1,it,NSA,North-America
 'cc855d70a2',extremes,Drought,#edc291,edo,siccità tagikistan,2025-12-08T03:45:00+00:00,Tajikistan,0.3098758690337233,0,1,it,WCA,Asia
 '5d85dc5645',extremes,Drought,#edc291,edo,siccità ruanda,2025-12-16T03:47:00+00:00,Rwanda,0.3097434164637586,0,1,it,SEAF,Africa
+'da5c6d0821',extremes,Drought,#edc291,edo,mancanza di pioggia kirghizistan,2025-11-30T03:47:00+00:00,Kyrgyzstan,0.30882337474258037,0,1,it,WCA,Asia
 'dd6493c331',extremes,Storm,#b3b2b1,aidr,temporale australia,2025-12-05T03:41:00+00:00,Australia,0.3087605287264497,0,1,it,SAU,Oceania
 '99251f8aa7',extremes,Drought,#edc291,edo,mancanza di pioggia liberia,2025-12-08T03:45:00+00:00,Liberia,0.3086632499214838,0,1,it,WAF,Africa
