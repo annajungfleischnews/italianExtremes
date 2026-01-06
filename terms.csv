@@ -1,9 +1,9 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'12060a7df7',extremes,Storm,#b3b2b1,wmo,mareggiata italia,2025-12-06T03:32:00+00:00,Italy,0.6832395222034481,0,1,it,MED,Europe
 '507412aefc',extremes,Storm,#b3b2b1,wmo,tempesta italia,2025-12-01T04:02:00+00:00,Italy,0.6789219801858272,0,1,it,MED,Europe
 '8dbdda11a1',extremes,Thunderstorm,#53785a,wmo,maltempo piemonte,2025-12-14T03:49:00+00:00,Italy,0.6215527350812785,0,1,it,MED,Europe
 '93f18e9364',extremes,Heat Wave,#c40202,wmo,ondata di caldo argentina,2025-12-01T04:02:00+00:00,Argentina,0.6111576295684596,0,1,it,SES,South-America
 '429ae37885',extremes,Fog,#d60d2b,wmo,nebbia piemontese,2025-12-14T03:49:00+00:00,Italy,0.5828800435486666,1,1,it,MED,Europe
+'12060a7df7',extremes,Storm,#b3b2b1,wmo,mareggiata italia,2025-12-06T03:32:00+00:00,Italy,0.5809036088729309,1,1,it,MED,Europe
 'f7a88fba0a',extremes,Fog,#d60d2b,wmo,nebbia lazio,2025-12-14T03:49:00+00:00,Italy,0.5802361259276112,1,1,it,MED,Europe
 'dcf82560b0',extremes,Fog,#d60d2b,wmo,nebbia lombardia,2025-12-08T03:44:00+00:00,Italy,0.5788353972914644,1,1,it,MED,Europe
 '80d6b52deb',extremes,Precipitation,#d60d2b,wmo,pioggia torrenziale على بعض مناطق غرب ليبيا.,2025-12-01T04:02:00+00:00,Libya,0.5761123659484408,1,1,it,SAH,Africa
@@ -28,7 +28,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '2cce7328e9',extremes,Storm,#b3b2b1,wmo,tempesta liguria,2025-12-15T03:54:00+00:00,Italy,0.5359922051613485,1,1,it,MED,Europe
 'f47d67ad09',extremes,Precipitation,#d60d2b,wmo,pioggia pugliese,2025-12-03T03:40:00+00:00,Italy,0.5337162623015429,0,1,it,MED,Europe
 '13ba8452d9',extremes,Fog,#d60d2b,wmo,nebbia siciliana,2025-12-11T03:46:00+00:00,Italy,0.5330585422281994,0,1,it,MED,Europe
-'b55290ca0d',extremes,Drought,#edc291,edo,siccità argentina,2025-12-08T03:45:00+00:00,Argentina,0.5280506160098443,0,1,it,SES,South-America
 '0d99295f2f',extremes,Drought,#edc291,edo,mancanza di pioggia somalia,2025-12-09T03:41:00+00:00,Somalia,0.5274992256242156,0,1,it,NEAF,Africa
 '42f1336000',extremes,Drought,#edc291,edo,siccità Somalia,2025-12-11T03:46:00+00:00,Somalia,0.5247107206505875,1,1,it,NEAF,Africa
 '3a23ad42fe',extremes,Precipitation,#d60d2b,wmo,pioggia torrenziale argentina,2025-12-10T03:45:00+00:00,Argentina,0.5243358445064542,1,1,it,SES,South-America
@@ -171,5 +170,5 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '99251f8aa7',extremes,Drought,#edc291,edo,mancanza di pioggia liberia,2025-12-08T03:45:00+00:00,Liberia,0.3086632499214838,0,1,it,WAF,Africa
 '5e4bef8c2c',extremes,Cold Wave,#a7e9fa,wmo,ondata di freddo India,2025-12-08T03:44:00+00:00,India,0.308512567006855,0,1,it,SAS,Asia
 '53af3d9646',extremes,Drought,#edc291,edo,siccità turkmenistan,2025-12-15T03:54:00+00:00,Turkmenistan,0.3083762106398596,0,1,it,WCA,Asia
-'eceab9ea2d',extremes,Precipitation,#d60d2b,wmo,precipitazioni Tanzania,2025-12-18T03:44:00+00:00,Tanzania,0.30823699937486887,0,1,it,SEAF,Africa
-'99d338c49c',extremes,Drought,#edc291,edo,siccità uzbekistan,2025-11-30T03:47:00+00:00,Uzbekistan,0.30805157951839723,0,1,it,WCA,Asia
+'eceab9ea2d',extremes,Precipitation,#d60d2b,wmo,precipitazioni Tanzania,2025-12-18T03:44:00+00:00,Tanzania,0.3082369993748688,0,1,it,SEAF,Africa
+'99d338c49c',extremes,Drought,#edc291,edo,siccità uzbekistan,2025-11-30T03:47:00+00:00,Uzbekistan,0.3080515795183972,0,1,it,WCA,Asia
