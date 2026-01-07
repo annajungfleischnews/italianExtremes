@@ -1,5 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'8dbdda11a1',extremes,Thunderstorm,#53785a,wmo,maltempo piemonte,2025-12-14T03:49:00+00:00,Italy,0.6215527350812785,0,1,it,MED,Europe
 '93f18e9364',extremes,Heat Wave,#c40202,wmo,ondata di caldo argentina,2025-12-01T04:02:00+00:00,Argentina,0.6111576295684596,0,1,it,SES,South-America
 '507412aefc',extremes,Storm,#b3b2b1,wmo,tempesta italia,2025-12-01T04:02:00+00:00,Italy,0.5919983888722388,1,2,it,MED,Europe
 '429ae37885',extremes,Fog,#d60d2b,wmo,nebbia piemontese,2025-12-14T03:49:00+00:00,Italy,0.5828800435486666,1,1,it,MED,Europe
@@ -172,7 +171,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5e4bef8c2c',extremes,Cold Wave,#a7e9fa,wmo,ondata di freddo India,2025-12-08T03:44:00+00:00,India,0.308512567006855,0,1,it,SAS,Asia
 '53af3d9646',extremes,Drought,#edc291,edo,siccità turkmenistan,2025-12-15T03:54:00+00:00,Turkmenistan,0.3083762106398596,0,1,it,WCA,Asia
 'eceab9ea2d',extremes,Precipitation,#d60d2b,wmo,precipitazioni Tanzania,2025-12-18T03:44:00+00:00,Tanzania,0.3082369993748688,0,1,it,SEAF,Africa
-'2407b3a8ab',extremes,Drought,#edc291,edo,secchezza burundi,2025-12-03T03:40:00+00:00,Burundi,0.30817215710272894,0,1,it,SEAF,Africa
+'2407b3a8ab',extremes,Drought,#edc291,edo,secchezza burundi,2025-12-03T03:40:00+00:00,Burundi,0.3081721571027289,0,1,it,SEAF,Africa
 '99d338c49c',extremes,Drought,#edc291,edo,siccità uzbekistan,2025-11-30T03:47:00+00:00,Uzbekistan,0.3080515795183972,0,1,it,WCA,Asia
 'bed53cc600',extremes,Precipitation,#d60d2b,wmo,acquazzone brasile,2025-12-18T03:44:00+00:00,Brazil,0.3079353969092855,0,1,it,SAM,South-America
 'c4be795f03',extremes,Drought,#edc291,edo,mancanza di pioggia guinea equatoriale,2025-12-10T03:45:00+00:00,Equatorial Guinea,0.3071540363877651,0,1,it,WAF,Africa
