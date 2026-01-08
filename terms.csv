@@ -24,8 +24,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0d99295f2f',extremes,Drought,#edc291,edo,mancanza di pioggia somalia,2025-12-09T03:41:00+00:00,Somalia,0.5274992256242156,0,1,it,NEAF,Africa
 '42f1336000',extremes,Drought,#edc291,edo,siccità Somalia,2025-12-11T03:46:00+00:00,Somalia,0.5247107206505875,1,1,it,NEAF,Africa
 '3a23ad42fe',extremes,Precipitation,#d60d2b,wmo,pioggia torrenziale argentina,2025-12-10T03:45:00+00:00,Argentina,0.5243358445064542,1,1,it,SES,South-America
-'cd3d048b5a',extremes,Precipitation,#d60d2b,wmo,pioggia italia,2025-12-04T03:42:00+00:00,Italy,0.5235827363499925,1,2,it,MED,Europe
-'906eca8937',extremes,Storm,#b3b2b1,wmo,tempesta erstfeld engelberg,2025-12-16T03:47:00+00:00,Switzerland,0.5224973222676974,0,1,it,WCE,Europe
 'b08a276ec2',extremes,Fog,#d60d2b,wmo,nebbia italia,2025-12-08T03:44:00+00:00,Italy,0.5216565654514096,2,2,it,MED,Europe
 '0a36c64301',extremes,Thunderstorm,#53785a,wmo,grandine piemonte,2025-12-15T03:54:00+00:00,Italy,0.520597679746231,1,1,it,MED,Europe
 '93f18e9364',extremes,Heat Wave,#c40202,wmo,ondata di caldo argentina,2025-12-01T04:02:00+00:00,Argentina,0.5194839851331907,1,1,it,SES,South-America
@@ -81,6 +79,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f47d67ad09',extremes,Precipitation,#d60d2b,wmo,pioggia pugliese,2025-12-03T03:40:00+00:00,Italy,0.4536588229563114,1,1,it,MED,Europe
 'd18c9a3f35',extremes,Earthquake,#870007,usgs,terremoto san antonio de los cobres,2025-12-05T03:40:00+00:00,Argentina,0.4485899502735377,1,1,it,SES,South-America
 'b3d667681f',extremes,Snow&Ice,#d60d2b,wmo,gelata alta valmaggia,2025-12-08T03:44:00+00:00,Switzerland,0.44813542289677,0,1,it,WCE,Europe
+'cd3d048b5a',extremes,Precipitation,#d60d2b,wmo,pioggia italia,2025-12-04T03:42:00+00:00,Italy,0.4477460908974936,2,2,it,MED,Europe
 '2db753a4e6',extremes,Snow&Ice,#d60d2b,wmo,valanga alto moesano,2025-12-16T03:47:00+00:00,Switzerland,0.4438293697402554,0,1,it,WCE,Europe
 'c19cef35d3',extremes,Fog,#d60d2b,wmo,nebbia calabria,2025-12-11T03:46:00+00:00,Italy,0.4425333104873492,4,1,it,MED,Europe
 '0c3d21da24',extremes,Precipitation,#d60d2b,wmo,acquazzone italia,2025-12-15T03:54:00+00:00,Italy,0.4420749318770033,4,2,it,MED,Europe
