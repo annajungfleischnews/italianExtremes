@@ -1,6 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'e190a41be9',extremes,Precipitation,#d60d2b,wmo,pioggia على بعض مناطق غرب ليبيا.,2025-12-03T03:40:00+00:00,Libya,0.678716097197681,0,1,it,SAH,Africa
-'8dbdda11a1',extremes,Thunderstorm,#53785a,wmo,maltempo piemonte,2025-12-14T03:49:00+00:00,Italy,0.6215527350812785,0,1,it,MED,Europe
 'e876b3ff36',extremes,Earthquake,#870007,usgs,terremoto abra pampa,2025-11-30T03:46:00+00:00,Argentina,0.5892342415761072,0,1,it,SES,South-America
 'f7a88fba0a',extremes,Fog,#d60d2b,wmo,nebbia lazio,2025-12-14T03:49:00+00:00,Italy,0.5802361259276112,1,1,it,MED,Europe
 'dcf82560b0',extremes,Fog,#d60d2b,wmo,nebbia lombardia,2025-12-08T03:44:00+00:00,Italy,0.5788353972914644,1,1,it,MED,Europe
@@ -20,6 +18,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '316c1a7868',extremes,Precipitation,#d60d2b,wmo,acquazzone toscana,2025-12-15T03:54:00+00:00,Italy,0.5386813245262984,0,1,it,MED,Europe
 '2cce7328e9',extremes,Storm,#b3b2b1,wmo,tempesta liguria,2025-12-15T03:54:00+00:00,Italy,0.5359922051613485,1,1,it,MED,Europe
 '13ba8452d9',extremes,Fog,#d60d2b,wmo,nebbia siciliana,2025-12-11T03:46:00+00:00,Italy,0.5330585422281994,0,1,it,MED,Europe
+'8dbdda11a1',extremes,Thunderstorm,#53785a,wmo,maltempo piemonte,2025-12-14T03:49:00+00:00,Italy,0.5317701698190866,1,2,it,MED,Europe
 'b55290ca0d',extremes,Drought,#edc291,edo,siccità argentina,2025-12-08T03:45:00+00:00,Argentina,0.5280506160098443,0,1,it,SES,South-America
 '0d99295f2f',extremes,Drought,#edc291,edo,mancanza di pioggia somalia,2025-12-09T03:41:00+00:00,Somalia,0.5274992256242156,0,1,it,NEAF,Africa
 '42f1336000',extremes,Drought,#edc291,edo,siccità Somalia,2025-12-11T03:46:00+00:00,Somalia,0.5247107206505875,1,1,it,NEAF,Africa
@@ -43,7 +42,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '075d3faeae',extremes,Storm,#b3b2b1,wmo,tempesta glarus süd grosstal,2025-12-15T03:54:00+00:00,Switzerland,0.5081033969503318,0,1,it,WCE,Europe
 '925c8e1c57',extremes,Thunderstorm,#53785a,wmo,maltempo lombardia,2025-12-15T03:54:00+00:00,Italy,0.5080910691922452,1,1,it,MED,Europe
 '3a8dcca50b',extremes,Snow&Ice,#d60d2b,wmo,l'italia gelida,2025-12-15T03:54:00+00:00,Italy,0.506312157118816,2,1,it,MED,Europe
-'4377d8044c',extremes,Storm,#b3b2b1,wmo,tempesta grindelwald,2025-12-16T03:47:00+00:00,Switzerland,0.5057466799035732,0,1,it,WCE,Europe
 '7104ad3c83',extremes,Thunderstorm,#53785a,wmo,temporale italia,2025-12-04T03:42:00+00:00,Italy,0.5054027780003849,2,3,it,MED,Europe
 'ad1d094d2b',extremes,Thunderstorm,#53785a,wmo,grandine sardegna,2025-12-03T03:40:00+00:00,Italy,0.5052926568039257,1,1,it,MED,Europe
 '075cc3fe36',extremes,Thunderstorm,#53785a,wmo,maltempo italia,2025-11-28T03:34:00+00:00,Italy,0.5049063308624199,2,2,it,MED,Europe
@@ -101,6 +99,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0e8f392ce9',extremes,Drought,#edc291,edo,siccità libia,2025-12-05T03:41:00+00:00,Libya,0.4316398393514406,0,1,it,SAH,Africa
 '69af7a0917',extremes,Storm,#b3b2b1,wmo,tempesta goldauägeri,2025-12-16T03:47:00+00:00,Switzerland,0.4316372118858102,1,1,it,WCE,Europe
 'd9a90b1185',extremes,Snow&Ice,#d60d2b,wmo,valle di valanghe,2025-12-06T03:32:00+00:00,Switzerland,0.4308040455616248,0,1,it,WCE,Europe
+'4377d8044c',extremes,Storm,#b3b2b1,wmo,tempesta grindelwald,2025-12-16T03:47:00+00:00,Switzerland,0.42988467791803725,1,1,it,WCE,Europe
 'e5b46f3978',extremes,Drought,#edc291,edo,periodo di siccità argentina,2025-12-14T03:49:00+00:00,Argentina,0.4290052804232807,0,1,it,SES,South-America
 '3773d1b4cd',extremes,Snow&Ice,#d60d2b,wmo,sarnen lungern gelido,2025-12-06T03:32:00+00:00,Switzerland,0.4286536425814234,0,1,it,WCE,Europe
 'aae4197a95',extremes,Snow&Ice,#d60d2b,wmo,gelido langnau eggiwil,2025-12-06T03:32:00+00:00,Switzerland,0.4285434523302125,0,1,it,WCE,Europe
