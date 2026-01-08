@@ -1,4 +1,5 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'ebfa477aa2',extremes,Fog,#d60d2b,wmo,nebbia veneta,2025-12-13T03:38:00+00:00,Italy,0.6951020997259081,0,1,it,MED,Europe
 '12060a7df7',extremes,Storm,#b3b2b1,wmo,mareggiata italia,2025-12-06T03:32:00+00:00,Italy,0.5809036088729309,1,1,it,MED,Europe
 'f7a88fba0a',extremes,Fog,#d60d2b,wmo,nebbia lazio,2025-12-14T03:49:00+00:00,Italy,0.5802361259276112,1,1,it,MED,Europe
 'dcf82560b0',extremes,Fog,#d60d2b,wmo,nebbia lombardia,2025-12-08T03:44:00+00:00,Italy,0.5788353972914644,1,1,it,MED,Europe
@@ -166,6 +167,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '53af3d9646',extremes,Drought,#edc291,edo,siccità turkmenistan,2025-12-15T03:54:00+00:00,Turkmenistan,0.3083762106398596,0,1,it,WCA,Asia
 'eceab9ea2d',extremes,Precipitation,#d60d2b,wmo,precipitazioni Tanzania,2025-12-18T03:44:00+00:00,Tanzania,0.3082369993748688,0,1,it,SEAF,Africa
 '2407b3a8ab',extremes,Drought,#edc291,edo,secchezza burundi,2025-12-03T03:40:00+00:00,Burundi,0.3081721571027289,0,1,it,SEAF,Africa
+'99d338c49c',extremes,Drought,#edc291,edo,siccità uzbekistan,2025-11-30T03:47:00+00:00,Uzbekistan,0.30805157951839723,0,1,it,WCA,Asia
 '8d6eb5f6e2',extremes,Precipitation,#d60d2b,wmo,rovesci zona sur,2025-12-19T03:46:00+00:00,Ecuador,0.3079706041549017,0,1,it,NWS,South-America
 'bed53cc600',extremes,Precipitation,#d60d2b,wmo,acquazzone brasile,2025-12-18T03:44:00+00:00,Brazil,0.3079353969092855,0,1,it,SAM,South-America
 '56dca2743f',extremes,Drought,#edc291,edo,periodo di siccità guinea equatoriale,2025-12-07T03:47:00+00:00,Equatorial Guinea,0.3078450454677852,0,1,it,WAF,Africa
