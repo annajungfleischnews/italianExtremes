@@ -10,7 +10,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a559add9e4',extremes,Precipitation,#d60d2b,wmo,pioggia lazio,2025-12-04T03:42:00+00:00,Italy,0.5619726482009069,1,2,it,MED,Europe
 'c1907effc6',extremes,Precipitation,#d60d2b,wmo,piogge torrenziali puglia,2025-12-01T04:02:00+00:00,Italy,0.5607949776590689,0,1,it,MED,Europe
 '887af33c5b',extremes,Snow&Ice,#d60d2b,wmo,gelo svizzera,2025-12-08T03:44:00+00:00,Switzerland,0.5590382578859463,1,2,it,WCE,Europe
-'cb207f7e4e',extremes,Drought,#edc291,edo,mancanza di pioggia argentina,2025-12-13T03:38:00+00:00,Argentina,0.558489274799884,0,1,it,SES,South-America
 '1fea4f642d',extremes,Storm,#b3b2b1,wmo,tempesta svizzera,2025-12-15T03:54:00+00:00,Switzerland,0.5573323861494026,0,1,it,WCE,Europe
 '207df0d218',extremes,Precipitation,#d60d2b,wmo,piogge torrenziali piemonte,2025-12-15T03:54:00+00:00,Italy,0.5570332663502862,0,1,it,MED,Europe
 '94300b4dad',extremes,Snow&Ice,#d60d2b,wmo,neve italia,2025-12-16T03:47:00+00:00,Italy,0.556569888840719,1,2,it,MED,Europe
@@ -58,7 +57,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '429ae37885',extremes,Fog,#d60d2b,wmo,nebbia piemontese,2025-12-14T03:49:00+00:00,Italy,0.4957480670163666,2,1,it,MED,Europe
 'dcef080672',extremes,Thunderstorm,#53785a,wmo,temporale toscana,2025-12-15T03:54:00+00:00,Italy,0.4946614209527564,1,1,it,MED,Europe
 '5e29cd96b0',extremes,Precipitation,#d60d2b,wmo,pioggia torrenziale italia,2025-12-16T03:47:00+00:00,Italy,0.4941631923819717,1,1,it,MED,Europe
-'6c3aaa0f15',extremes,Precipitation,#d60d2b,wmo,pioggia lombardia,2025-12-01T04:02:00+00:00,Italy,0.4928327746114163,0,1,it,MED,Europe
 '51c2ca3328',extremes,Fog,#d60d2b,wmo,nebbia toscana,2025-12-10T03:45:00+00:00,Italy,0.491303023421741,2,1,it,MED,Europe
 'e190a41be9',extremes,Precipitation,#d60d2b,wmo,pioggia على بعض مناطق غرب ليبيا.,2025-12-03T03:40:00+00:00,Libya,0.4903723802253245,2,1,it,SAH,Africa
 'a999041fe7',extremes,Precipitation,#d60d2b,wmo,acquazzone libia,2025-12-05T03:41:00+00:00,Libya,0.4900884929141154,2,1,it,SAH,Africa
@@ -70,6 +68,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c620088f41',extremes,Precipitation,#d60d2b,wmo,piogge torrenziali liguria,2025-12-01T04:02:00+00:00,Italy,0.4851304034640228,1,1,it,MED,Europe
 '8e5338dae6',extremes,Thunderstorm,#53785a,wmo,salve italia,2025-12-05T03:41:00+00:00,Italy,0.4807416652236455,2,1,it,MED,Europe
 '92ff957955',extremes,Snow&Ice,#d60d2b,wmo,neve svizzera,2025-12-08T03:44:00+00:00,Switzerland,0.4772234391814145,0,1,it,WCE,Europe
+'cb207f7e4e',extremes,Drought,#edc291,edo,mancanza di pioggia argentina,2025-12-13T03:38:00+00:00,Argentina,0.47471588357990135,1,1,it,SES,South-America
 'eee27f7ca4',extremes,Precipitation,#d60d2b,wmo,acquazzone campano,2025-12-16T03:47:00+00:00,Italy,0.4744364373247102,0,1,it,MED,Europe
 '69dc5fcfc4',extremes,Heat Wave,#c40202,wmo,ondata di caldo parana y alrededores,2025-12-06T03:32:00+00:00,Argentina,0.4741401180301826,1,1,it,SES,South-America
 '59a8bad88b',extremes,Precipitation,#d60d2b,wmo,piogge torrenziali emilia e romagna,2025-12-01T04:02:00+00:00,Italy,0.4728761938793213,1,1,it,MED,Europe
@@ -83,7 +82,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '97a2529f41',extremes,Snow&Ice,#d60d2b,wmo,ghiaccio svizzero,2025-12-08T03:44:00+00:00,Switzerland,0.4551768936586201,0,1,it,WCE,Europe
 '977a7cdeb6',extremes,Snow&Ice,#d60d2b,wmo,ghiaccio leventina,2025-12-08T03:44:00+00:00,Switzerland,0.4489229746998113,0,1,it,WCE,Europe
 'd18c9a3f35',extremes,Earthquake,#870007,usgs,terremoto san antonio de los cobres,2025-12-05T03:40:00+00:00,Argentina,0.4485899502735377,1,1,it,SES,South-America
-'930b9adc51',extremes,Drought,#edc291,edo,siccità argentina,2025-11-30T03:47:00+00:00,Argentina,0.4482414877949334,0,1,it,SES,South-America
 'b3d667681f',extremes,Snow&Ice,#d60d2b,wmo,gelata alta valmaggia,2025-12-08T03:44:00+00:00,Switzerland,0.44813542289677,0,1,it,WCE,Europe
 '2db753a4e6',extremes,Snow&Ice,#d60d2b,wmo,valanga alto moesano,2025-12-16T03:47:00+00:00,Switzerland,0.4438293697402554,0,1,it,WCE,Europe
 'b863d00f22',extremes,Drought,#edc291,edo,siccità italia,2025-12-13T03:38:00+00:00,Italy,0.4433998324701421,0,1,it,MED,Europe
@@ -96,6 +94,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5535b68b72',extremes,Snow&Ice,#d60d2b,wmo,ghiaccio delémont bellelay,2025-12-06T03:32:00+00:00,Switzerland,0.4388449950850284,0,1,it,WCE,Europe
 'f4cca3599c',extremes,Storm,#b3b2b1,wmo,mareggiata meiringen gadmertal,2025-12-16T03:47:00+00:00,Switzerland,0.438583306035287,1,1,it,WCE,Europe
 'ac9b4f5444',extremes,Storm,#b3b2b1,wmo,mareggiata argentina,2025-12-14T03:49:00+00:00,Argentina,0.4371829658717293,2,1,it,SES,South-America
+'6c3aaa0f15',extremes,Precipitation,#d60d2b,wmo,pioggia lombardia,2025-12-01T04:02:00+00:00,Italy,0.43692466008637054,1,1,it,MED,Europe
 '194fe621b3',extremes,Snow&Ice,#d60d2b,wmo,neve bellinzonese,2025-12-08T03:44:00+00:00,Switzerland,0.4368408508891596,0,1,it,WCE,Europe
 '911e98ccfe',extremes,Storm,#b3b2b1,wmo,tempesta maderanertal,2025-12-15T03:54:00+00:00,Switzerland,0.4362472058999319,1,1,it,WCE,Europe
 '5c5726d584',extremes,Snow&Ice,#d60d2b,wmo,gelida alpnach di Lucerna,2025-12-06T03:32:00+00:00,Switzerland,0.4362235360020032,0,1,it,WCE,Europe
@@ -167,7 +166,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '53af3d9646',extremes,Drought,#edc291,edo,siccità turkmenistan,2025-12-15T03:54:00+00:00,Turkmenistan,0.3083762106398596,0,1,it,WCA,Asia
 'eceab9ea2d',extremes,Precipitation,#d60d2b,wmo,precipitazioni Tanzania,2025-12-18T03:44:00+00:00,Tanzania,0.3082369993748688,0,1,it,SEAF,Africa
 '2407b3a8ab',extremes,Drought,#edc291,edo,secchezza burundi,2025-12-03T03:40:00+00:00,Burundi,0.3081721571027289,0,1,it,SEAF,Africa
-'99d338c49c',extremes,Drought,#edc291,edo,siccità uzbekistan,2025-11-30T03:47:00+00:00,Uzbekistan,0.30805157951839723,0,1,it,WCA,Asia
 '8d6eb5f6e2',extremes,Precipitation,#d60d2b,wmo,rovesci zona sur,2025-12-19T03:46:00+00:00,Ecuador,0.3079706041549017,0,1,it,NWS,South-America
 'bed53cc600',extremes,Precipitation,#d60d2b,wmo,acquazzone brasile,2025-12-18T03:44:00+00:00,Brazil,0.3079353969092855,0,1,it,SAM,South-America
 '56dca2743f',extremes,Drought,#edc291,edo,periodo di siccità guinea equatoriale,2025-12-07T03:47:00+00:00,Equatorial Guinea,0.3078450454677852,0,1,it,WAF,Africa
