@@ -1,11 +1,9 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'ebfa477aa2',extremes,Fog,#d60d2b,wmo,nebbia veneta,2025-12-13T03:38:00+00:00,Italy,0.5908367847670218,1,1,it,MED,Europe
 'dcf82560b0',extremes,Fog,#d60d2b,wmo,nebbia lombardia,2025-12-08T03:44:00+00:00,Italy,0.5788353972914644,1,1,it,MED,Europe
 'd92d2dbe23',extremes,Snow&Ice,#d60d2b,wmo,ghiaccio italia,2025-12-16T03:47:00+00:00,Italy,0.5750877061528685,1,2,it,MED,Europe
 '9e93dbaea9',extremes,Fog,#d60d2b,wmo,nebbia campana,2025-12-11T03:46:00+00:00,Italy,0.5702602828338492,1,1,it,MED,Europe
 'db4deee12d',extremes,Fog,#d60d2b,wmo,nebbia pugliese,2025-12-10T03:45:00+00:00,Italy,0.5671496108940558,1,1,it,MED,Europe
 '4e5e4292b1',extremes,Thunderstorm,#53785a,wmo,grandine libia,2025-12-02T03:41:00+00:00,Libya,0.5607615035563014,1,1,it,SAH,Africa
-'1fea4f642d',extremes,Storm,#b3b2b1,wmo,tempesta svizzera,2025-12-15T03:54:00+00:00,Switzerland,0.5573323861494026,0,1,it,WCE,Europe
 '207df0d218',extremes,Precipitation,#d60d2b,wmo,piogge torrenziali piemonte,2025-12-15T03:54:00+00:00,Italy,0.5570332663502862,0,1,it,MED,Europe
 '94300b4dad',extremes,Snow&Ice,#d60d2b,wmo,neve italia,2025-12-16T03:47:00+00:00,Italy,0.556569888840719,1,2,it,MED,Europe
 '59a8bad88b',extremes,Precipitation,#d60d2b,wmo,piogge torrenziali emilia e romagna,2025-12-01T04:02:00+00:00,Italy,0.5563249339756722,0,1,it,MED,Europe
@@ -47,7 +45,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'dcef080672',extremes,Thunderstorm,#53785a,wmo,temporale toscana,2025-12-15T03:54:00+00:00,Italy,0.4946614209527564,1,1,it,MED,Europe
 '5e29cd96b0',extremes,Precipitation,#d60d2b,wmo,pioggia torrenziale italia,2025-12-16T03:47:00+00:00,Italy,0.4941631923819717,1,1,it,MED,Europe
 '12060a7df7',extremes,Storm,#b3b2b1,wmo,mareggiata italia,2025-12-06T03:32:00+00:00,Italy,0.4939180825419912,2,1,it,MED,Europe
-'8a590c18c2',extremes,Precipitation,#d60d2b,wmo,precipitazioni sardegna,2025-12-15T03:54:00+00:00,Italy,0.49380187810701653,1,2,it,MED,Europe
+'8a590c18c2',extremes,Precipitation,#d60d2b,wmo,precipitazioni sardegna,2025-12-15T03:54:00+00:00,Italy,0.4938018781070165,1,2,it,MED,Europe
 '6c3aaa0f15',extremes,Precipitation,#d60d2b,wmo,pioggia lombardia,2025-12-01T04:02:00+00:00,Italy,0.4928327746114163,0,1,it,MED,Europe
 '51c2ca3328',extremes,Fog,#d60d2b,wmo,nebbia toscana,2025-12-10T03:45:00+00:00,Italy,0.491303023421741,2,1,it,MED,Europe
 'a999041fe7',extremes,Precipitation,#d60d2b,wmo,acquazzone libia,2025-12-05T03:41:00+00:00,Libya,0.4900884929141154,2,1,it,SAH,Africa
@@ -58,6 +56,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8e5338dae6',extremes,Thunderstorm,#53785a,wmo,salve italia,2025-12-05T03:41:00+00:00,Italy,0.4807416652236455,2,1,it,MED,Europe
 '92ff957955',extremes,Snow&Ice,#d60d2b,wmo,neve svizzera,2025-12-08T03:44:00+00:00,Switzerland,0.4772234391814145,0,1,it,WCE,Europe
 '887af33c5b',extremes,Snow&Ice,#d60d2b,wmo,gelo svizzera,2025-12-08T03:44:00+00:00,Switzerland,0.4753325342030543,2,2,it,WCE,Europe
+'1fea4f642d',extremes,Storm,#b3b2b1,wmo,tempesta svizzera,2025-12-15T03:54:00+00:00,Switzerland,0.4747826332269922,1,1,it,WCE,Europe
 'cb207f7e4e',extremes,Drought,#edc291,edo,mancanza di pioggia argentina,2025-12-13T03:38:00+00:00,Argentina,0.4747158835799013,1,1,it,SES,South-America
 'eee27f7ca4',extremes,Precipitation,#d60d2b,wmo,acquazzone campano,2025-12-16T03:47:00+00:00,Italy,0.4744364373247102,0,1,it,MED,Europe
 '69dc5fcfc4',extremes,Heat Wave,#c40202,wmo,ondata di caldo parana y alrededores,2025-12-06T03:32:00+00:00,Argentina,0.4741401180301826,1,1,it,SES,South-America
@@ -130,7 +129,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '977a7cdeb6',extremes,Snow&Ice,#d60d2b,wmo,ghiaccio leventina,2025-12-08T03:44:00+00:00,Switzerland,0.3815845284948396,1,1,it,WCE,Europe
 'b3d667681f',extremes,Snow&Ice,#d60d2b,wmo,gelata alta valmaggia,2025-12-08T03:44:00+00:00,Switzerland,0.3809151094622545,1,1,it,WCE,Europe
 'b863d00f22',extremes,Drought,#edc291,edo,siccità italia,2025-12-13T03:38:00+00:00,Italy,0.3785400225996207,1,1,it,MED,Europe
-'2db753a4e6',extremes,Snow&Ice,#d60d2b,wmo,valanga alto moesano,2025-12-16T03:47:00+00:00,Switzerland,0.37725496427921706,1,1,it,WCE,Europe
+'2db753a4e6',extremes,Snow&Ice,#d60d2b,wmo,valanga alto moesano,2025-12-16T03:47:00+00:00,Switzerland,0.377254964279217,1,1,it,WCE,Europe
 '1a931eb2e9',extremes,Snow&Ice,#d60d2b,wmo,ghiaccio schangnau sigriswil,2025-12-06T03:32:00+00:00,Switzerland,0.3746413198299084,1,1,it,WCE,Europe
 '618e955f78',extremes,Drought,#edc291,edo,mancanza di pioggia in svizzera,2025-12-03T03:40:00+00:00,Switzerland,0.3666170279386058,0,1,it,WCE,Europe
 'a68fadbbf5',extremes,Drought,#edc291,edo,siccità svizzera,2025-12-14T03:49:00+00:00,Switzerland,0.3628291546937895,0,1,it,WCE,Europe
