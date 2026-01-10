@@ -1,5 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'c19cef35d3',extremes,Fog,#d60d2b,wmo,nebbia calabria,2025-12-11T03:46:00+00:00,Italy,0.6705760590758717,0,1,it,MED,Europe
 '8e5338dae6',extremes,Thunderstorm,#53785a,wmo,salve italia,2025-12-05T03:41:00+00:00,Italy,0.6650333906209626,0,1,it,MED,Europe
 '93f18e9364',extremes,Heat Wave,#c40202,wmo,ondata di caldo argentina,2025-12-01T04:02:00+00:00,Argentina,0.6111576295684596,0,1,it,SES,South-America
 'e876b3ff36',extremes,Earthquake,#870007,usgs,terremoto abra pampa,2025-11-30T03:46:00+00:00,Argentina,0.5892342415761072,0,1,it,SES,South-America
@@ -125,7 +124,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'aae4197a95',extremes,Snow&Ice,#d60d2b,wmo,gelido langnau eggiwil,2025-12-06T03:32:00+00:00,Switzerland,0.3642619344806806,1,1,it,WCE,Europe
 'a68fadbbf5',extremes,Drought,#edc291,edo,siccità svizzera,2025-12-14T03:49:00+00:00,Switzerland,0.3628291546937895,0,1,it,WCE,Europe
 '05884de97d',extremes,Precipitation,#d60d2b,wmo,la pioggia paga d'enhaut,2025-12-07T03:47:00+00:00,Switzerland,0.3530793257919365,1,1,it,WCE,Europe
-'e1317685b8',extremes,Precipitation,#d60d2b,wmo,piogge mensili in val d'illiez,2025-12-07T03:47:00+00:00,Switzerland,0.35002861908704014,1,1,it,WCE,Europe
+'e1317685b8',extremes,Precipitation,#d60d2b,wmo,piogge mensili in val d'illiez,2025-12-07T03:47:00+00:00,Switzerland,0.3500286190870401,1,1,it,WCE,Europe
 '6960fb1641',extremes,Precipitation,#d60d2b,wmo,pioggia torrenziale st. stephan lenk,2025-12-07T03:47:00+00:00,Switzerland,0.3499318282849031,1,1,it,WCE,Europe
 '18d25abe80',extremes,Storm,#b3b2b1,wmo,tempesta liechtenstein,2025-12-15T03:54:00+00:00,Switzerland,0.3483611666022698,2,1,it,WCE,Europe
 'e0e3c5707c',extremes,Precipitation,#d60d2b,wmo,pioggia einsiedeln wägital,2025-12-07T03:47:00+00:00,Switzerland,0.3479056151990911,0,1,it,WCE,Europe
