@@ -1,6 +1,10 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'ebfa477aa2',extremes,Fog,#d60d2b,wmo,nebbia veneta,2025-12-13T03:38:00+00:00,Italy,0.6951020997259081,0,1,it,MED,Europe
 '80d6b52deb',extremes,Precipitation,#d60d2b,wmo,pioggia torrenziale على بعض مناطق غرب ليبيا.,2025-12-01T04:02:00+00:00,Libya,0.6777792540569892,0,1,it,SAH,Africa
 'd4d8b57886',extremes,Storm,#b3b2b1,wmo,mareggiata sicilia,2025-12-04T03:42:00+00:00,Italy,0.6381583418062975,0,1,it,MED,Europe
+'93f18e9364',extremes,Heat Wave,#c40202,wmo,ondata di caldo argentina,2025-12-01T04:02:00+00:00,Argentina,0.6111576295684596,0,1,it,SES,South-America
+'fa77cf1f9e',extremes,Storm,#b3b2b1,wmo,tempesta mendoza gral alvear malargue.,2025-12-04T03:42:00+00:00,Argentina,0.6028605565655752,0,1,it,SES,South-America
+'e876b3ff36',extremes,Earthquake,#870007,usgs,terremoto abra pampa,2025-11-30T03:46:00+00:00,Argentina,0.5892342415761072,0,1,it,SES,South-America
 '1a2e308d48',extremes,Thunderstorm,#53785a,wmo,temporale molisano,2025-12-01T04:02:00+00:00,Italy,0.5838855440619922,0,1,it,MED,Europe
 'dcf82560b0',extremes,Fog,#d60d2b,wmo,nebbia lombardia,2025-12-08T03:44:00+00:00,Italy,0.5788353972914644,1,1,it,MED,Europe
 'd92d2dbe23',extremes,Snow&Ice,#d60d2b,wmo,ghiaccio italia,2025-12-16T03:47:00+00:00,Italy,0.5750877061528685,1,2,it,MED,Europe
