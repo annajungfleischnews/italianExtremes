@@ -48,7 +48,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8fa1b857b6',extremes,Fog,#d60d2b,wmo,nebbia umbria,2025-12-13T03:38:00+00:00,Italy,0.4894934554407463,2,1,it,MED,Europe
 '14ed38a1e4',extremes,Fog,#d60d2b,wmo,nebbia molisana,2025-12-11T03:46:00+00:00,Italy,0.4877065508753652,2,1,it,MED,Europe
 'd9a90b1185',extremes,Snow&Ice,#d60d2b,wmo,valle di valanghe,2025-12-06T03:32:00+00:00,Switzerland,0.481083678727381,1,2,it,WCE,Europe
-'92ff957955',extremes,Snow&Ice,#d60d2b,wmo,neve svizzera,2025-12-08T03:44:00+00:00,Switzerland,0.4772234391814145,0,1,it,WCE,Europe
 '887af33c5b',extremes,Snow&Ice,#d60d2b,wmo,gelo svizzera,2025-12-08T03:44:00+00:00,Switzerland,0.4753325342030543,2,2,it,WCE,Europe
 '1fea4f642d',extremes,Storm,#b3b2b1,wmo,tempesta svizzera,2025-12-15T03:54:00+00:00,Switzerland,0.4747826332269922,1,1,it,WCE,Europe
 'cb207f7e4e',extremes,Drought,#edc291,edo,mancanza di pioggia argentina,2025-12-13T03:38:00+00:00,Argentina,0.4747158835799013,1,1,it,SES,South-America
@@ -83,6 +82,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'dcef080672',extremes,Thunderstorm,#53785a,wmo,temporale toscana,2025-12-15T03:54:00+00:00,Italy,0.421662327809843,2,1,it,MED,Europe
 '2198e04ffb',extremes,Precipitation,#d60d2b,wmo,precipitazioni préalpes vaudoises,2025-12-07T03:47:00+00:00,Switzerland,0.4208711219714764,0,1,it,WCE,Europe
 'a9700718a5',extremes,Precipitation,#d60d2b,wmo,precipitazioni goldau ägeri,2025-12-07T03:47:00+00:00,Switzerland,0.420810274798541,0,1,it,WCE,Europe
+'92ff957955',extremes,Snow&Ice,#d60d2b,wmo,neve svizzera,2025-12-08T03:44:00+00:00,Switzerland,0.42080143941531345,1,2,it,WCE,Europe
 '5e29cd96b0',extremes,Precipitation,#d60d2b,wmo,pioggia torrenziale italia,2025-12-16T03:47:00+00:00,Italy,0.4200387135246759,2,1,it,MED,Europe
 '4b20cf5146',extremes,Precipitation,#d60d2b,wmo,acquazzone muotathal,2025-12-07T03:47:00+00:00,Switzerland,0.4199773570266917,0,1,it,WCE,Europe
 'fc5823cc73',extremes,Precipitation,#d60d2b,wmo,precipitazioni urner oberland,2025-12-07T03:47:00+00:00,Switzerland,0.419652683242492,0,1,it,WCE,Europe
@@ -116,7 +116,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '18d25abe80',extremes,Storm,#b3b2b1,wmo,tempesta liechtenstein,2025-12-15T03:54:00+00:00,Switzerland,0.3483611666022698,2,1,it,WCE,Europe
 'e0e3c5707c',extremes,Precipitation,#d60d2b,wmo,pioggia einsiedeln wägital,2025-12-07T03:47:00+00:00,Switzerland,0.3479056151990911,0,1,it,WCE,Europe
 '63829ebe88',extremes,Precipitation,#d60d2b,wmo,pioggia abbondante,2025-12-07T03:47:00+00:00,Switzerland,0.3470716024600132,0,1,it,WCE,Europe
-'0587e67588',extremes,Precipitation,#d60d2b,wmo,piogge torrenziali lazio,2025-12-15T03:54:00+00:00,Italy,0.33735606620144415,2,1,it,MED,Europe
+'0587e67588',extremes,Precipitation,#d60d2b,wmo,piogge torrenziali lazio,2025-12-15T03:54:00+00:00,Italy,0.3373560662014441,2,1,it,MED,Europe
 '80670918c5',extremes,Precipitation,#d60d2b,wmo,acquazzone adelboden kandersteg,2025-12-07T03:47:00+00:00,Switzerland,0.3364372416136154,0,1,it,WCE,Europe
 'b86a28f9d7',extremes,Precipitation,#d60d2b,wmo,piogge torrenziali glarus süd sernftal,2025-12-07T03:47:00+00:00,Switzerland,0.3325288921515322,0,1,it,WCE,Europe
 '2db753a4e6',extremes,Snow&Ice,#d60d2b,wmo,valanga alto moesano,2025-12-16T03:47:00+00:00,Switzerland,0.3206667196373344,2,1,it,WCE,Europe
