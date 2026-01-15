@@ -1,10 +1,8 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'997a2e2157',extremes,Earthquake,#870007,usgs,terremoto argentina,2026-01-15T10:56:00+00:00,Argentina,0.6951085623666733,1,2,it,SWS,South-America
 '3550c99ca4',extremes,Fog,#d60d2b,wmo,nebbia emilia e romagna,2025-12-08T03:44:00+00:00,Italy,0.6850172391324364,0,1,it,MED,Europe
 'e190a41be9',extremes,Precipitation,#d60d2b,wmo,pioggia على بعض مناطق غرب ليبيا.,2025-12-03T03:40:00+00:00,Libya,0.678716097197681,0,1,it,SAH,Africa
 '8e5338dae6',extremes,Thunderstorm,#53785a,wmo,salve italia,2025-12-05T03:41:00+00:00,Italy,0.6650333906209626,0,1,it,MED,Europe
-'6bad2a8cbc',extremes,Earthquake,#870007,usgs,terremoto san agustín de valle fertil,2026-01-15T12:13:00+00:00,Argentina,0.6412268833575281,0,1,it,SES,South-America
-'daed8f4597',extremes,Earthquake,#870007,usgs,terremoto in somalia,2026-01-15T12:13:00+00:00,Somalia,0.6409634991463927,0,1,it,NEAF,Africa
-'997a2e2157',extremes,Earthquake,#870007,usgs,terremoto argentina,2026-01-15T10:56:00+00:00,Argentina,0.6409512145490275,0,1,it,SWS,South-America
 '30f7444e18',extremes,Storm,#b3b2b1,wmo,tempesta puglia,2025-12-04T03:42:00+00:00,Italy,0.6342049091924566,0,1,it,MED,Europe
 'cd3d048b5a',extremes,Precipitation,#d60d2b,wmo,pioggia italia,2025-12-04T03:42:00+00:00,Italy,0.6101551898235207,0,1,it,MED,Europe
 '8744ccb432',extremes,Storm,#b3b2b1,wmo,tempesta la rioja la rioja.,2025-12-06T03:32:00+00:00,Argentina,0.6027273314521001,0,1,it,SES,South-America
@@ -18,6 +16,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'db4deee12d',extremes,Fog,#d60d2b,wmo,nebbia pugliese,2025-12-10T03:45:00+00:00,Italy,0.5671496108940558,1,1,it,MED,Europe
 '5d8c239887',extremes,Drought,#edc291,edo,mancanza di pioggia libia,2025-12-04T03:42:00+00:00,Libya,0.556214793537351,0,1,it,SAH,Africa
 'c60253873f',extremes,Precipitation,#d60d2b,wmo,acquazzone lombardia,2025-12-15T03:54:00+00:00,Italy,0.5543755715147183,0,1,it,MED,Europe
+'daed8f4597',extremes,Earthquake,#870007,usgs,terremoto in somalia,2026-01-15T12:13:00+00:00,Somalia,0.5448189742744338,1,1,it,NEAF,Africa
 '2cce7328e9',extremes,Storm,#b3b2b1,wmo,tempesta liguria,2025-12-15T03:54:00+00:00,Italy,0.5359922051613485,1,1,it,MED,Europe
 '8dbdda11a1',extremes,Thunderstorm,#53785a,wmo,maltempo piemonte,2025-12-14T03:49:00+00:00,Italy,0.5317701698190866,1,2,it,MED,Europe
 '3a23ad42fe',extremes,Precipitation,#d60d2b,wmo,pioggia torrenziale argentina,2025-12-10T03:45:00+00:00,Argentina,0.5243358445064542,1,1,it,SES,South-America
