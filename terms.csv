@@ -89,3 +89,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'bed53cc600',extremes,Precipitation,#d60d2b,wmo,acquazzone brasile,2025-12-18T03:44:00+00:00,Brazil,0.3079353969092855,0,1,it,SAM,South-America
 'c4be795f03',extremes,Drought,#edc291,edo,mancanza di pioggia guinea equatoriale,2025-12-10T03:45:00+00:00,Equatorial Guinea,0.3071540363877651,0,1,it,WAF,Africa
 '052d9fa0c5',extremes,Storm,#b3b2b1,aidr,tempesta temporale asma victoria,2025-12-12T03:46:00+00:00,Australia,0.3069466746055845,0,1,it,SAU,Oceania
+'95b2881221',extremes,Precipitation,#d60d2b,random,fiume atmosferico,2026-01-15T10:20:00+00:00,,0.25657695119733326,0,1,it,,
+'f3b91506ec',extremes,Cold Wave,#a7e9fa,random,freddo record,2026-01-15T10:20:00+00:00,,0.2565293677315337,0,1,it,,
+'633ed59c63',extremes,Iceberg,#d60d2b,random,ghiaccio marino artico,2026-01-15T10:20:00+00:00,,0.256417319727148,0,1,it,,
+'ccefefc59e',extremes,Drought,#edc291,random,siccità improvvisa,2026-01-15T10:20:00+00:00,,0.2561951224549235,0,1,it,,
