@@ -66,8 +66,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f6ff301646',extremes,Drought,#edc291,edo,siccità in Somalia,2025-12-14T03:49:00+00:00,Somalia,0.4126976768403562,1,1,it,NEAF,Africa
 '7c3e42078e',extremes,Precipitation,#d60d2b,wmo,acquazzone jogne haute groyere,2025-12-07T03:47:00+00:00,Switzerland,0.4115261893533494,0,1,it,WCE,Europe
 '3fd670b0ec',extremes,Precipitation,#d60d2b,wmo,precipitazioni turtmanntal,2025-12-07T03:47:00+00:00,Switzerland,0.4109693159275878,0,1,it,WCE,Europe
-'20741ce7eb',extremes,Tsunami,#690191,random,tsunami,2026-01-15T10:39:00+00:00,,0.40997654267340694,0,1,it,,
 'c0ea0632ba',extremes,Heat Wave,#c40202,random,caldo,2026-01-15T10:39:00+00:00,,0.4099752445939704,0,1,it,,
+'20741ce7eb',extremes,Tsunami,#690191,random,tsunami,2026-01-15T10:39:00+00:00,,0.40343060127239583,1,2,it,,
 'eee27f7ca4',extremes,Precipitation,#d60d2b,wmo,acquazzone campano,2025-12-16T03:47:00+00:00,Italy,0.4032709717260037,1,1,it,MED,Europe
 'ddaab30fbb',extremes,Storm,#b3b2b1,wmo,tempesta gersau engelbergertal,2025-12-15T03:54:00+00:00,Switzerland,0.397627699388549,1,1,it,WCE,Europe
 'b863d00f22',extremes,Drought,#edc291,edo,siccità italia,2025-12-13T03:38:00+00:00,Italy,0.3785400225996207,1,1,it,MED,Europe
