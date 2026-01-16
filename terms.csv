@@ -1,10 +1,12 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'5bf34f285a',extremes,Earthquake,#870007,usgs,terremoto italia,2026-01-15T10:56:00+00:00,Italy,0.7912539873207414,0,1,it,MED,Europe
 '3550c99ca4',extremes,Fog,#d60d2b,wmo,nebbia emilia e romagna,2025-12-08T03:44:00+00:00,Italy,0.732414668262571,1,2,it,MED,Europe
 '997a2e2157',extremes,Earthquake,#870007,usgs,terremoto argentina,2026-01-15T10:56:00+00:00,Argentina,0.6951085623666733,1,2,it,SWS,South-America
 'e190a41be9',extremes,Precipitation,#d60d2b,wmo,pioggia على بعض مناطق غرب ليبيا.,2025-12-03T03:40:00+00:00,Libya,0.678716097197681,0,1,it,SAH,Africa
 '8e5338dae6',extremes,Thunderstorm,#53785a,wmo,salve italia,2025-12-05T03:41:00+00:00,Italy,0.6650333906209626,0,1,it,MED,Europe
 'd18c9a3f35',extremes,Earthquake,#870007,usgs,terremoto san antonio de los cobres,2026-01-15T10:56:00+00:00,Argentina,0.6411762131470319,0,1,it,SES,South-America
 '43165fdae0',extremes,Earthquake,#870007,usgs,terremoto villa basilio nievas,2026-01-15T12:13:00+00:00,Argentina,0.6411529765626534,0,1,it,SWS,South-America
+'a03bfb69ba',extremes,Drought,#edc291,edo,periodo di siccità in svizzera,2026-01-15T10:57:00+00:00,Switzerland,0.6389808682680602,0,1,it,WCE,Europe
 '30f7444e18',extremes,Storm,#b3b2b1,wmo,tempesta puglia,2025-12-04T03:42:00+00:00,Italy,0.6342049091924566,0,1,it,MED,Europe
 '5697900bff',extremes,Snow&Ice,#d60d2b,wmo,neve alto moesano,2026-01-15T12:14:00+00:00,Switzerland,0.624997793357623,0,1,it,WCE,Europe
 'cd3d048b5a',extremes,Precipitation,#d60d2b,wmo,pioggia italia,2025-12-04T03:42:00+00:00,Italy,0.6101551898235207,0,1,it,MED,Europe
@@ -18,6 +20,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'db4deee12d',extremes,Fog,#d60d2b,wmo,nebbia pugliese,2025-12-10T03:45:00+00:00,Italy,0.5671496108940558,1,1,it,MED,Europe
 'c60253873f',extremes,Precipitation,#d60d2b,wmo,acquazzone lombardia,2025-12-15T03:54:00+00:00,Italy,0.5543755715147183,0,1,it,MED,Europe
 'daed8f4597',extremes,Earthquake,#870007,usgs,terremoto in somalia,2026-01-15T12:13:00+00:00,Somalia,0.5448189742744338,1,1,it,NEAF,Africa
+'0d99295f2f',extremes,Drought,#edc291,edo,mancanza di pioggia somalia,2026-01-15T12:14:00+00:00,Somalia,0.54089449130812,0,1,it,NEAF,Africa
 '2cce7328e9',extremes,Storm,#b3b2b1,wmo,tempesta liguria,2025-12-15T03:54:00+00:00,Italy,0.5359922051613485,1,1,it,MED,Europe
 '8dbdda11a1',extremes,Thunderstorm,#53785a,wmo,maltempo piemonte,2025-12-14T03:49:00+00:00,Italy,0.5317701698190866,1,2,it,MED,Europe
 '3a23ad42fe',extremes,Precipitation,#d60d2b,wmo,pioggia torrenziale argentina,2025-12-10T03:45:00+00:00,Argentina,0.5243358445064542,1,1,it,SES,South-America
@@ -59,12 +62,14 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '82b8913676',extremes,Storm,#b3b2b1,wmo,mareggiata sardegna,2025-12-15T03:54:00+00:00,Italy,0.4281714022649679,2,1,it,MED,Europe
 'a8a0a1043d',extremes,Storm,#b3b2b1,wmo,tempesta Werdenberg,2025-12-15T03:54:00+00:00,Switzerland,0.4241095513885588,1,1,it,WCE,Europe
 'dcef080672',extremes,Thunderstorm,#53785a,wmo,temporale toscana,2025-12-15T03:54:00+00:00,Italy,0.421662327809843,2,1,it,MED,Europe
+'77c06ce7ba',extremes,Earthquake,#870007,usgs,terremoto fornace zarattini,2026-01-15T10:56:00+00:00,Italy,0.4216334918634574,0,1,it,MED,Europe
 '92ff957955',extremes,Snow&Ice,#d60d2b,wmo,neve svizzera,2025-12-08T03:44:00+00:00,Switzerland,0.4208014394153134,1,2,it,WCE,Europe
 '5e29cd96b0',extremes,Precipitation,#d60d2b,wmo,pioggia torrenziale italia,2025-12-16T03:47:00+00:00,Italy,0.4200387135246759,2,1,it,MED,Europe
 '504a6f9634',extremes,Storm,#b3b2b1,wmo,tempesta erstfeld engelberg,2025-12-15T03:54:00+00:00,Switzerland,0.4173274382376984,1,1,it,WCE,Europe
 '165e1b5216',extremes,Drought,#edc291,edo,siccità libia,2025-12-16T03:47:00+00:00,Libya,0.4152845784934838,2,1,it,SAH,Africa
 'f6ff301646',extremes,Drought,#edc291,edo,siccità in Somalia,2025-12-14T03:49:00+00:00,Somalia,0.4126976768403562,1,1,it,NEAF,Africa
 'c0ea0632ba',extremes,Heat Wave,#c40202,random,caldo,2026-01-15T10:39:00+00:00,,0.4099752445939704,0,1,it,,
+'8d4e6fcc3e',extremes,Snow&Ice,#d60d2b,random,raffica di neve,2026-01-15T10:39:00+00:00,,0.4099516371853199,0,1,it,,
 '20741ce7eb',extremes,Tsunami,#690191,random,tsunami,2026-01-15T10:39:00+00:00,,0.4034306012723958,1,2,it,,
 'eee27f7ca4',extremes,Precipitation,#d60d2b,wmo,acquazzone campano,2025-12-16T03:47:00+00:00,Italy,0.4032709717260037,1,1,it,MED,Europe
 'ddaab30fbb',extremes,Storm,#b3b2b1,wmo,tempesta gersau engelbergertal,2025-12-15T03:54:00+00:00,Switzerland,0.397627699388549,1,1,it,WCE,Europe
