@@ -1,8 +1,11 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'f9eb244a9a',extremes,Drought,#edc291,edo,mancanza di pioggia italia,2026-01-15T10:57:00+00:00,Italy,0.7895570998166836,0,1,it,MED,Europe
 '997a2e2157',extremes,Earthquake,#870007,usgs,terremoto argentina,2026-01-15T10:56:00+00:00,Argentina,0.6951085623666733,1,2,it,SWS,South-America
 '3550c99ca4',extremes,Fog,#d60d2b,wmo,nebbia emilia e romagna,2025-12-08T03:44:00+00:00,Italy,0.6850172391324364,0,1,it,MED,Europe
 'e190a41be9',extremes,Precipitation,#d60d2b,wmo,pioggia على بعض مناطق غرب ليبيا.,2025-12-03T03:40:00+00:00,Libya,0.678716097197681,0,1,it,SAH,Africa
 '8e5338dae6',extremes,Thunderstorm,#53785a,wmo,salve italia,2025-12-05T03:41:00+00:00,Italy,0.6650333906209626,0,1,it,MED,Europe
+'d18c9a3f35',extremes,Earthquake,#870007,usgs,terremoto san antonio de los cobres,2026-01-15T10:56:00+00:00,Argentina,0.6411762131470319,0,1,it,SES,South-America
+'43165fdae0',extremes,Earthquake,#870007,usgs,terremoto villa basilio nievas,2026-01-15T12:13:00+00:00,Argentina,0.6411529765626534,0,1,it,SWS,South-America
 '30f7444e18',extremes,Storm,#b3b2b1,wmo,tempesta puglia,2025-12-04T03:42:00+00:00,Italy,0.6342049091924566,0,1,it,MED,Europe
 'cd3d048b5a',extremes,Precipitation,#d60d2b,wmo,pioggia italia,2025-12-04T03:42:00+00:00,Italy,0.6101551898235207,0,1,it,MED,Europe
 '8744ccb432',extremes,Storm,#b3b2b1,wmo,tempesta la rioja la rioja.,2025-12-06T03:32:00+00:00,Argentina,0.6027273314521001,0,1,it,SES,South-America
