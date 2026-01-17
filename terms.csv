@@ -1,19 +1,14 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'5bf34f285a',extremes,Earthquake,#870007,usgs,terremoto italia,2026-01-15T10:56:00+00:00,Italy,0.7912539873207414,0,1,it,MED,Europe
 'f9eb244a9a',extremes,Drought,#edc291,edo,mancanza di pioggia italia,2026-01-15T10:57:00+00:00,Italy,0.7895570998166836,0,1,it,MED,Europe
 '3550c99ca4',extremes,Fog,#d60d2b,wmo,nebbia emilia e romagna,2025-12-08T03:44:00+00:00,Italy,0.732414668262571,1,2,it,MED,Europe
 '997a2e2157',extremes,Earthquake,#870007,usgs,terremoto argentina,2026-01-15T10:56:00+00:00,Argentina,0.6951085623666733,1,2,it,SWS,South-America
-'e190a41be9',extremes,Precipitation,#d60d2b,wmo,pioggia على بعض مناطق غرب ليبيا.,2025-12-03T03:40:00+00:00,Libya,0.678716097197681,0,1,it,SAH,Africa
 '8e5338dae6',extremes,Thunderstorm,#53785a,wmo,salve italia,2025-12-05T03:41:00+00:00,Italy,0.6650333906209626,0,1,it,MED,Europe
 '6bad2a8cbc',extremes,Earthquake,#870007,usgs,terremoto san agustín de valle fertil,2026-01-15T12:13:00+00:00,Argentina,0.6412268833575281,0,1,it,SES,South-America
 'd18c9a3f35',extremes,Earthquake,#870007,usgs,terremoto san antonio de los cobres,2026-01-15T10:56:00+00:00,Argentina,0.6411762131470319,0,1,it,SES,South-America
 '43165fdae0',extremes,Earthquake,#870007,usgs,terremoto villa basilio nievas,2026-01-15T12:13:00+00:00,Argentina,0.6411529765626534,0,1,it,SWS,South-America
 'a03bfb69ba',extremes,Drought,#edc291,edo,periodo di siccità in svizzera,2026-01-15T10:57:00+00:00,Switzerland,0.6389808682680602,0,1,it,WCE,Europe
-'30f7444e18',extremes,Storm,#b3b2b1,wmo,tempesta puglia,2025-12-04T03:42:00+00:00,Italy,0.6342049091924566,0,1,it,MED,Europe
 '5697900bff',extremes,Snow&Ice,#d60d2b,wmo,neve alto moesano,2026-01-15T12:14:00+00:00,Switzerland,0.624997793357623,0,1,it,WCE,Europe
-'cd3d048b5a',extremes,Precipitation,#d60d2b,wmo,pioggia italia,2025-12-04T03:42:00+00:00,Italy,0.6101551898235207,0,1,it,MED,Europe
 '8744ccb432',extremes,Storm,#b3b2b1,wmo,tempesta la rioja la rioja.,2025-12-06T03:32:00+00:00,Argentina,0.6027273314521001,0,1,it,SES,South-America
-'507412aefc',extremes,Storm,#b3b2b1,wmo,tempesta italia,2025-12-01T04:02:00+00:00,Italy,0.5870557672883879,1,2,it,MED,Europe
 'dcf82560b0',extremes,Fog,#d60d2b,wmo,nebbia lombardia,2025-12-08T03:44:00+00:00,Italy,0.5788353972914644,1,1,it,MED,Europe
 '0e8f392ce9',extremes,Drought,#edc291,edo,siccità libia,2026-01-15T10:57:00+00:00,Libya,0.5757245090896277,0,1,it,SAH,Africa
 'd92d2dbe23',extremes,Snow&Ice,#d60d2b,wmo,ghiaccio italia,2025-12-16T03:47:00+00:00,Italy,0.5750877061528685,1,2,it,MED,Europe
@@ -81,8 +76,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b863d00f22',extremes,Drought,#edc291,edo,siccità italia,2025-12-13T03:38:00+00:00,Italy,0.3785400225996207,1,1,it,MED,Europe
 '99a9404d72',extremes,Drought,#edc291,edo,periodo di siccità italia,2025-12-19T03:46:00+00:00,Italy,0.3704042219455191,1,1,it,MED,Europe
 'e5b46f3978',extremes,Drought,#edc291,edo,periodo di siccità argentina,2025-12-14T03:49:00+00:00,Argentina,0.3646544883597886,1,1,it,SES,South-America
-'18d25abe80',extremes,Storm,#b3b2b1,wmo,tempesta liechtenstein,2025-12-15T03:54:00+00:00,Switzerland,0.3483611666022698,2,1,it,WCE,Europe
-'0587e67588',extremes,Precipitation,#d60d2b,wmo,piogge torrenziali lazio,2025-12-15T03:54:00+00:00,Italy,0.3373560662014441,2,1,it,MED,Europe
 '2db753a4e6',extremes,Snow&Ice,#d60d2b,wmo,valanga alto moesano,2025-12-16T03:47:00+00:00,Switzerland,0.3206667196373344,2,1,it,WCE,Europe
 '707df29480',extremes,Tropical Cyclone,#4f4f4f,eonet,ciclone tropicale 08p,2025-12-16T03:46:00+00:00,,0.3171000998359699,0,1,it,SPO,Pacific Ocean
 '5d85dc5645',extremes,Drought,#edc291,edo,siccità ruanda,2025-12-16T03:47:00+00:00,Rwanda,0.3097434164637586,0,1,it,SEAF,Africa
@@ -91,7 +84,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'eceab9ea2d',extremes,Precipitation,#d60d2b,wmo,precipitazioni Tanzania,2025-12-18T03:44:00+00:00,Tanzania,0.3082369993748688,0,1,it,SEAF,Africa
 '8d6eb5f6e2',extremes,Precipitation,#d60d2b,wmo,rovesci zona sur,2025-12-19T03:46:00+00:00,Ecuador,0.3079706041549017,0,1,it,NWS,South-America
 'bed53cc600',extremes,Precipitation,#d60d2b,wmo,acquazzone brasile,2025-12-18T03:44:00+00:00,Brazil,0.3079353969092855,0,1,it,SAM,South-America
-'c4be795f03',extremes,Drought,#edc291,edo,mancanza di pioggia guinea equatoriale,2025-12-10T03:45:00+00:00,Equatorial Guinea,0.3071540363877651,0,1,it,WAF,Africa
 '052d9fa0c5',extremes,Storm,#b3b2b1,aidr,tempesta temporale asma victoria,2025-12-12T03:46:00+00:00,Australia,0.3069466746055845,0,1,it,SAU,Oceania
 '95b2881221',extremes,Precipitation,#d60d2b,random,fiume atmosferico,2026-01-15T10:20:00+00:00,,0.2565769511973332,0,1,it,,
 'f3b91506ec',extremes,Cold Wave,#a7e9fa,random,freddo record,2026-01-15T10:20:00+00:00,,0.2565293677315337,0,1,it,,
