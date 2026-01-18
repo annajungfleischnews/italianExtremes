@@ -3,6 +3,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3550c99ca4',extremes,Fog,#d60d2b,wmo,nebbia emilia e romagna,2025-12-08T03:44:00+00:00,Italy,0.732414668262571,1,2,it,MED,Europe
 '997a2e2157',extremes,Earthquake,#870007,usgs,terremoto argentina,2026-01-15T10:56:00+00:00,Argentina,0.6951085623666733,1,2,it,SWS,South-America
 '8e5338dae6',extremes,Thunderstorm,#53785a,wmo,salve italia,2025-12-05T03:41:00+00:00,Italy,0.6650333906209626,0,1,it,MED,Europe
+'6bad2a8cbc',extremes,Earthquake,#870007,usgs,terremoto san agustín de valle fertil,2026-01-15T12:13:00+00:00,Argentina,0.6412268833575281,0,1,it,SES,South-America
+'a0092fba89',extremes,Thunderstorm,#53785a,wmo,temporale sardegna,2026-01-18T03:57:00+00:00,Italy,0.614160853452701,0,1,it,MED,Europe
+'5eae3aed3f',extremes,Thunderstorm,#53785a,wmo,grandine basilicata,2026-01-18T03:57:00+00:00,Italy,0.6134371790972257,0,1,it,MED,Europe
 '8744ccb432',extremes,Storm,#b3b2b1,wmo,tempesta la rioja la rioja.,2025-12-06T03:32:00+00:00,Argentina,0.6027273314521001,0,1,it,SES,South-America
 'd92d2dbe23',extremes,Snow&Ice,#d60d2b,wmo,ghiaccio italia,2025-12-16T03:47:00+00:00,Italy,0.5750877061528685,1,2,it,MED,Europe
 'c19cef35d3',extremes,Fog,#d60d2b,wmo,nebbia calabria,2025-12-11T03:46:00+00:00,Italy,0.5702896802144909,1,1,it,MED,Europe
@@ -45,7 +48,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '618e955f78',extremes,Drought,#edc291,edo,mancanza di pioggia in svizzera,2026-01-15T12:14:00+00:00,Switzerland,0.4480790109401668,1,1,it,WCE,Europe
 '0c3d21da24',extremes,Precipitation,#d60d2b,wmo,acquazzone italia,2025-12-15T03:54:00+00:00,Italy,0.4420749318770033,4,2,it,MED,Europe
 '4213b8a736',extremes,Storm,#b3b2b1,wmo,mareggiata gersau engelbergertal,2025-12-16T03:47:00+00:00,Switzerland,0.4397516082356406,1,1,it,WCE,Europe
-'fb7bf220d2',extremes,Precipitation,#d60d2b,wmo,acquazzone calabria,2026-01-17T03:44:00+00:00,Italy,0.43861273922754496,1,1,it,MED,Europe
+'fb7bf220d2',extremes,Precipitation,#d60d2b,wmo,acquazzone calabria,2026-01-17T03:44:00+00:00,Italy,0.4386127392275449,1,1,it,MED,Europe
 'f4cca3599c',extremes,Storm,#b3b2b1,wmo,mareggiata meiringen gadmertal,2025-12-16T03:47:00+00:00,Switzerland,0.438583306035287,1,1,it,WCE,Europe
 '911e98ccfe',extremes,Storm,#b3b2b1,wmo,tempesta maderanertal,2025-12-15T03:54:00+00:00,Switzerland,0.4362472058999319,1,1,it,WCE,Europe
 '6c6666b2af',extremes,Precipitation,#d60d2b,wmo,precipitazioni argentina,2025-12-16T03:47:00+00:00,Argentina,0.434959259722689,2,1,it,SES,South-America
@@ -70,11 +73,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ddaab30fbb',extremes,Storm,#b3b2b1,wmo,tempesta gersau engelbergertal,2025-12-15T03:54:00+00:00,Switzerland,0.397627699388549,1,1,it,WCE,Europe
 'b863d00f22',extremes,Drought,#edc291,edo,siccità italia,2025-12-13T03:38:00+00:00,Italy,0.3785400225996207,1,1,it,MED,Europe
 '99a9404d72',extremes,Drought,#edc291,edo,periodo di siccità italia,2025-12-19T03:46:00+00:00,Italy,0.3704042219455191,1,1,it,MED,Europe
-'c0ea0632ba',extremes,Heat Wave,#c40202,random,caldo,2026-01-15T10:39:00+00:00,,0.36707225154123846,1,2,it,,
-'9389acab50',extremes,Snow&Ice,#d60d2b,wmo,gelo alto moesano,2026-01-15T10:56:00+00:00,Switzerland,0.36655255343239446,1,1,it,WCE,Europe
-'9f48ec0192',extremes,Snow&Ice,#d60d2b,wmo,gelo alta valmaggia,2026-01-17T03:44:00+00:00,Switzerland,0.36569678964120933,1,1,it,WCE,Europe
+'c0ea0632ba',extremes,Heat Wave,#c40202,random,caldo,2026-01-15T10:39:00+00:00,,0.3670722515412384,1,2,it,,
+'9389acab50',extremes,Snow&Ice,#d60d2b,wmo,gelo alto moesano,2026-01-15T10:56:00+00:00,Switzerland,0.3665525534323944,1,1,it,WCE,Europe
+'9f48ec0192',extremes,Snow&Ice,#d60d2b,wmo,gelo alta valmaggia,2026-01-17T03:44:00+00:00,Switzerland,0.3656967896412093,1,1,it,WCE,Europe
 'e5b46f3978',extremes,Drought,#edc291,edo,periodo di siccità argentina,2025-12-14T03:49:00+00:00,Argentina,0.3646544883597886,1,1,it,SES,South-America
-'77c06ce7ba',extremes,Earthquake,#870007,usgs,terremoto fornace zarattini,2026-01-15T10:56:00+00:00,Italy,0.35838846808393876,1,1,it,MED,Europe
+'77c06ce7ba',extremes,Earthquake,#870007,usgs,terremoto fornace zarattini,2026-01-15T10:56:00+00:00,Italy,0.3583884680839387,1,1,it,MED,Europe
 '707df29480',extremes,Tropical Cyclone,#4f4f4f,eonet,ciclone tropicale 08p,2025-12-16T03:46:00+00:00,,0.3171000998359699,0,1,it,SPO,Pacific Ocean
 '5d85dc5645',extremes,Drought,#edc291,edo,siccità ruanda,2025-12-16T03:47:00+00:00,Rwanda,0.3097434164637586,0,1,it,SEAF,Africa
 '53af3d9646',extremes,Drought,#edc291,edo,siccità turkmenistan,2025-12-15T03:54:00+00:00,Turkmenistan,0.3083762106398596,0,1,it,WCA,Asia
