@@ -1,18 +1,14 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 '5bf34f285a',extremes,Earthquake,#870007,usgs,terremoto italia,2026-01-15T10:56:00+00:00,Italy,0.8127002251903721,1,3,it,MED,Europe
-'f9eb244a9a',extremes,Drought,#edc291,edo,mancanza di pioggia italia,2026-01-15T10:57:00+00:00,Italy,0.7895570998166836,0,1,it,MED,Europe
 '3550c99ca4',extremes,Fog,#d60d2b,wmo,nebbia emilia e romagna,2025-12-08T03:44:00+00:00,Italy,0.732414668262571,1,2,it,MED,Europe
 '997a2e2157',extremes,Earthquake,#870007,usgs,terremoto argentina,2026-01-15T10:56:00+00:00,Argentina,0.6951085623666733,1,2,it,SWS,South-America
-'8e5338dae6',extremes,Thunderstorm,#53785a,wmo,salve italia,2025-12-05T03:41:00+00:00,Italy,0.6650333906209626,0,1,it,MED,Europe
 '8e5b367351',extremes,Precipitation,#d60d2b,wmo,precipitazioni italia,2026-01-17T03:44:00+00:00,Italy,0.6161874707929966,0,1,it,MED,Europe
 '12060a7df7',extremes,Storm,#b3b2b1,wmo,mareggiata italia,2026-01-18T03:57:00+00:00,Italy,0.6140495220760709,0,1,it,MED,Europe
 '5eae3aed3f',extremes,Thunderstorm,#53785a,wmo,grandine basilicata,2026-01-18T03:57:00+00:00,Italy,0.6134371790972257,0,1,it,MED,Europe
 'cd3d048b5a',extremes,Precipitation,#d60d2b,wmo,pioggia italia,2026-01-18T03:57:00+00:00,Italy,0.6107779961176832,0,1,it,MED,Europe
-'8744ccb432',extremes,Storm,#b3b2b1,wmo,tempesta la rioja la rioja.,2025-12-06T03:32:00+00:00,Argentina,0.6027273314521001,0,1,it,SES,South-America
 'd92d2dbe23',extremes,Snow&Ice,#d60d2b,wmo,ghiaccio italia,2025-12-16T03:47:00+00:00,Italy,0.5750877061528685,1,2,it,MED,Europe
 'c19cef35d3',extremes,Fog,#d60d2b,wmo,nebbia calabria,2025-12-11T03:46:00+00:00,Italy,0.5702896802144909,1,1,it,MED,Europe
 '9e93dbaea9',extremes,Fog,#d60d2b,wmo,nebbia campana,2025-12-11T03:46:00+00:00,Italy,0.5702602828338492,1,1,it,MED,Europe
-'db4deee12d',extremes,Fog,#d60d2b,wmo,nebbia pugliese,2025-12-10T03:45:00+00:00,Italy,0.5671496108940558,1,1,it,MED,Europe
 'c60253873f',extremes,Precipitation,#d60d2b,wmo,acquazzone lombardia,2025-12-15T03:54:00+00:00,Italy,0.5543755715147183,0,1,it,MED,Europe
 '507412aefc',extremes,Storm,#b3b2b1,wmo,tempesta italia,2026-01-17T03:44:00+00:00,Italy,0.546328348699261,0,1,it,MED,Europe
 'd18c9a3f35',extremes,Earthquake,#870007,usgs,terremoto san antonio de los cobres,2026-01-15T10:56:00+00:00,Argentina,0.544999781174977,1,1,it,SES,South-America
@@ -36,12 +32,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7104ad3c83',extremes,Thunderstorm,#53785a,wmo,temporale italia,2025-12-04T03:42:00+00:00,Italy,0.5054027780003849,2,3,it,MED,Europe
 '94300b4dad',extremes,Snow&Ice,#d60d2b,wmo,neve italia,2025-12-16T03:47:00+00:00,Italy,0.5053083927873384,2,3,it,MED,Europe
 '1f4020ebca',extremes,Precipitation,#d60d2b,wmo,precipitazioni liguria,2025-12-15T03:54:00+00:00,Italy,0.5002248527305373,1,2,it,MED,Europe
-'429ae37885',extremes,Fog,#d60d2b,wmo,nebbia piemontese,2025-12-14T03:49:00+00:00,Italy,0.4957480670163666,2,1,it,MED,Europe
 '8a590c18c2',extremes,Precipitation,#d60d2b,wmo,precipitazioni sardegna,2025-12-15T03:54:00+00:00,Italy,0.4938018781070165,1,2,it,MED,Europe
 '0e8f392ce9',extremes,Drought,#edc291,edo,siccità libia,2026-01-15T10:57:00+00:00,Libya,0.4893658327261835,1,1,it,SAH,Africa
 'd9a90b1185',extremes,Snow&Ice,#d60d2b,wmo,valle di valanghe,2025-12-06T03:32:00+00:00,Switzerland,0.481083678727381,1,2,it,WCE,Europe
 '5d8c239887',extremes,Drought,#edc291,edo,mancanza di pioggia libia,2026-01-17T03:44:00+00:00,Libya,0.4768906447876689,0,1,it,SAH,Africa
-'887af33c5b',extremes,Snow&Ice,#d60d2b,wmo,gelo svizzera,2025-12-08T03:44:00+00:00,Switzerland,0.4753325342030543,2,2,it,WCE,Europe
 '1fea4f642d',extremes,Storm,#b3b2b1,wmo,tempesta svizzera,2025-12-15T03:54:00+00:00,Switzerland,0.4747826332269922,1,1,it,WCE,Europe
 'cb207f7e4e',extremes,Drought,#edc291,edo,mancanza di pioggia argentina,2025-12-13T03:38:00+00:00,Argentina,0.4747158835799013,1,1,it,SES,South-America
 '207df0d218',extremes,Precipitation,#d60d2b,wmo,piogge torrenziali piemonte,2025-12-15T03:54:00+00:00,Italy,0.4734782763977432,1,1,it,MED,Europe
@@ -59,9 +53,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '075d3faeae',extremes,Storm,#b3b2b1,wmo,tempesta glarus süd grosstal,2025-12-15T03:54:00+00:00,Switzerland,0.431887887407782,1,1,it,WCE,Europe
 '69af7a0917',extremes,Storm,#b3b2b1,wmo,tempesta goldauägeri,2025-12-16T03:47:00+00:00,Switzerland,0.4316372118858102,1,1,it,WCE,Europe
 '4377d8044c',extremes,Storm,#b3b2b1,wmo,tempesta grindelwald,2025-12-16T03:47:00+00:00,Switzerland,0.4298846779180372,1,1,it,WCE,Europe
-'82b8913676',extremes,Storm,#b3b2b1,wmo,mareggiata sardegna,2025-12-15T03:54:00+00:00,Italy,0.4281714022649679,2,1,it,MED,Europe
 'a8a0a1043d',extremes,Storm,#b3b2b1,wmo,tempesta Werdenberg,2025-12-15T03:54:00+00:00,Switzerland,0.4241095513885588,1,1,it,WCE,Europe
-'dcef080672',extremes,Thunderstorm,#53785a,wmo,temporale toscana,2025-12-15T03:54:00+00:00,Italy,0.421662327809843,2,1,it,MED,Europe
 '92ff957955',extremes,Snow&Ice,#d60d2b,wmo,neve svizzera,2025-12-08T03:44:00+00:00,Switzerland,0.4208014394153134,1,2,it,WCE,Europe
 '5e29cd96b0',extremes,Precipitation,#d60d2b,wmo,pioggia torrenziale italia,2025-12-16T03:47:00+00:00,Italy,0.4200387135246759,2,1,it,MED,Europe
 '504a6f9634',extremes,Storm,#b3b2b1,wmo,tempesta erstfeld engelberg,2025-12-15T03:54:00+00:00,Switzerland,0.4173274382376984,1,1,it,WCE,Europe
@@ -73,12 +65,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '20741ce7eb',extremes,Tsunami,#690191,random,tsunami,2026-01-15T10:39:00+00:00,,0.4034306012723958,1,2,it,,
 'eee27f7ca4',extremes,Precipitation,#d60d2b,wmo,acquazzone campano,2025-12-16T03:47:00+00:00,Italy,0.4032709717260037,1,1,it,MED,Europe
 'ddaab30fbb',extremes,Storm,#b3b2b1,wmo,tempesta gersau engelbergertal,2025-12-15T03:54:00+00:00,Switzerland,0.397627699388549,1,1,it,WCE,Europe
-'b863d00f22',extremes,Drought,#edc291,edo,siccità italia,2025-12-13T03:38:00+00:00,Italy,0.3785400225996207,1,1,it,MED,Europe
 '99a9404d72',extremes,Drought,#edc291,edo,periodo di siccità italia,2025-12-19T03:46:00+00:00,Italy,0.3704042219455191,1,1,it,MED,Europe
 'c0ea0632ba',extremes,Heat Wave,#c40202,random,caldo,2026-01-15T10:39:00+00:00,,0.3670722515412384,1,2,it,,
 '9389acab50',extremes,Snow&Ice,#d60d2b,wmo,gelo alto moesano,2026-01-15T10:56:00+00:00,Switzerland,0.3665525534323944,1,1,it,WCE,Europe
 '9f48ec0192',extremes,Snow&Ice,#d60d2b,wmo,gelo alta valmaggia,2026-01-17T03:44:00+00:00,Switzerland,0.3656967896412093,1,1,it,WCE,Europe
-'e5b46f3978',extremes,Drought,#edc291,edo,periodo di siccità argentina,2025-12-14T03:49:00+00:00,Argentina,0.3646544883597886,1,1,it,SES,South-America
 '77c06ce7ba',extremes,Earthquake,#870007,usgs,terremoto fornace zarattini,2026-01-15T10:56:00+00:00,Italy,0.3583884680839387,1,1,it,MED,Europe
 '707df29480',extremes,Tropical Cyclone,#4f4f4f,eonet,ciclone tropicale 08p,2025-12-16T03:46:00+00:00,,0.3171000998359699,0,1,it,SPO,Pacific Ocean
 '5d85dc5645',extremes,Drought,#edc291,edo,siccità ruanda,2025-12-16T03:47:00+00:00,Rwanda,0.3097434164637586,0,1,it,SEAF,Africa
@@ -86,7 +76,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'eceab9ea2d',extremes,Precipitation,#d60d2b,wmo,precipitazioni Tanzania,2025-12-18T03:44:00+00:00,Tanzania,0.3082369993748688,0,1,it,SEAF,Africa
 '8d6eb5f6e2',extremes,Precipitation,#d60d2b,wmo,rovesci zona sur,2025-12-19T03:46:00+00:00,Ecuador,0.3079706041549017,0,1,it,NWS,South-America
 'bed53cc600',extremes,Precipitation,#d60d2b,wmo,acquazzone brasile,2025-12-18T03:44:00+00:00,Brazil,0.3079353969092855,0,1,it,SAM,South-America
-'052d9fa0c5',extremes,Storm,#b3b2b1,aidr,tempesta temporale asma victoria,2025-12-12T03:46:00+00:00,Australia,0.3069466746055845,0,1,it,SAU,Oceania
 '95b2881221',extremes,Precipitation,#d60d2b,random,fiume atmosferico,2026-01-15T10:20:00+00:00,,0.2565769511973332,0,1,it,,
 'f3b91506ec',extremes,Cold Wave,#a7e9fa,random,freddo record,2026-01-15T10:20:00+00:00,,0.2565293677315337,0,1,it,,
 '633ed59c63',extremes,Iceberg,#d60d2b,random,ghiaccio marino artico,2026-01-15T10:20:00+00:00,,0.256417319727148,0,1,it,,
