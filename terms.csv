@@ -61,7 +61,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '504a6f9634',extremes,Storm,#b3b2b1,wmo,tempesta erstfeld engelberg,2025-12-15T03:54:00+00:00,Switzerland,0.4173274382376984,1,1,it,WCE,Europe
 '165e1b5216',extremes,Drought,#edc291,edo,siccità libia,2025-12-16T03:47:00+00:00,Libya,0.4152845784934838,2,1,it,SAH,Africa
 'f6ff301646',extremes,Drought,#edc291,edo,siccità in Somalia,2025-12-14T03:49:00+00:00,Somalia,0.4126976768403562,1,1,it,NEAF,Africa
-'3fa143a609',extremes,Storm,#b3b2b1,random,bufera di polvere,2026-01-15T10:39:00+00:00,,0.4099006868118564,0,1,it,,
 '20741ce7eb',extremes,Tsunami,#690191,random,tsunami,2026-01-15T10:39:00+00:00,,0.4034306012723958,1,2,it,,
 'eee27f7ca4',extremes,Precipitation,#d60d2b,wmo,acquazzone campano,2025-12-16T03:47:00+00:00,Italy,0.4032709717260037,1,1,it,MED,Europe
 'ddaab30fbb',extremes,Storm,#b3b2b1,wmo,tempesta gersau engelbergertal,2025-12-15T03:54:00+00:00,Switzerland,0.397627699388549,1,1,it,WCE,Europe
@@ -71,6 +70,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9f48ec0192',extremes,Snow&Ice,#d60d2b,wmo,gelo alta valmaggia,2026-01-17T03:44:00+00:00,Switzerland,0.3656967896412093,1,1,it,WCE,Europe
 '77c06ce7ba',extremes,Earthquake,#870007,usgs,terremoto fornace zarattini,2026-01-15T10:56:00+00:00,Italy,0.3583884680839387,1,1,it,MED,Europe
 '8d4e6fcc3e',extremes,Snow&Ice,#d60d2b,random,raffica di neve,2026-01-15T10:39:00+00:00,,0.3492089666075219,1,1,it,,
+'3fa143a609',extremes,Storm,#b3b2b1,random,bufera di polvere,2026-01-15T10:39:00+00:00,,0.3485655987900779,1,1,it,,
 '1c38b19449',extremes,Storm,#b3b2b1,random,ciotole di polvere,2026-01-15T10:39:00+00:00,,0.3484455631965196,1,1,it,,
 '707df29480',extremes,Tropical Cyclone,#4f4f4f,eonet,ciclone tropicale 08p,2025-12-16T03:46:00+00:00,,0.3171000998359699,0,1,it,SPO,Pacific Ocean
 '5d85dc5645',extremes,Drought,#edc291,edo,siccità ruanda,2025-12-16T03:47:00+00:00,Rwanda,0.3097434164637586,0,1,it,SEAF,Africa
