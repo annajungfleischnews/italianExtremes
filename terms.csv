@@ -1,6 +1,5 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 '5bf34f285a',extremes,Earthquake,#870007,usgs,terremoto italia,2026-01-15T10:56:00+00:00,Italy,0.7912539873207414,0,1,it,MED,Europe
-'f9eb244a9a',extremes,Drought,#edc291,edo,mancanza di pioggia italia,2026-01-15T10:57:00+00:00,Italy,0.7895570998166836,0,1,it,MED,Europe
 '3550c99ca4',extremes,Fog,#d60d2b,wmo,nebbia emilia e romagna,2025-12-08T03:44:00+00:00,Italy,0.732414668262571,1,2,it,MED,Europe
 '7104ad3c83',extremes,Thunderstorm,#53785a,wmo,temporale italia,2026-01-18T03:57:00+00:00,Italy,0.7253057569621709,0,1,it,MED,Europe
 '8e5338dae6',extremes,Thunderstorm,#53785a,wmo,salve italia,2026-01-18T03:57:00+00:00,Italy,0.7105361477079658,0,1,it,MED,Europe
@@ -32,13 +31,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5697900bff',extremes,Snow&Ice,#d60d2b,wmo,neve alto moesano,2026-01-15T12:14:00+00:00,Switzerland,0.5312481243539795,1,1,it,WCE,Europe
 'fdaa0a92ad',extremes,Storm,#b3b2b1,wmo,tempesta campania,2026-01-20T03:56:00+00:00,Italy,0.5250060049305509,1,1,it,MED,Europe
 '5eae3aed3f',extremes,Thunderstorm,#53785a,wmo,grandine basilicata,2026-01-18T03:57:00+00:00,Italy,0.5214216022326419,1,1,it,MED,Europe
-'0a36c64301',extremes,Thunderstorm,#53785a,wmo,grandine piemonte,2025-12-15T03:54:00+00:00,Italy,0.520597679746231,1,1,it,MED,Europe
-'71aee81e61',extremes,Storm,#b3b2b1,wmo,mareggiata lazio,2025-12-15T03:54:00+00:00,Italy,0.5173408335646954,1,1,it,MED,Europe
 'e529bb6ac5',extremes,Precipitation,#d60d2b,wmo,pioggia argentina,2025-12-16T03:47:00+00:00,Argentina,0.5133106421113571,1,1,it,SES,South-America
-'8009981fb6',extremes,Thunderstorm,#53785a,wmo,grandine campania,2025-12-15T03:54:00+00:00,Italy,0.5102230074479135,1,1,it,MED,Europe
 'cefc77a4b3',extremes,Storm,#b3b2b1,wmo,tempesta svizzera,2025-12-15T03:54:00+00:00,Switzerland,0.5089984652903108,2,2,it,WCE,Europe
 'f82cdd7aef',extremes,Fog,#d60d2b,wmo,nebbia basilicata,2025-12-19T03:46:00+00:00,Italy,0.5086121930186578,1,1,it,MED,Europe
-'925c8e1c57',extremes,Thunderstorm,#53785a,wmo,maltempo lombardia,2025-12-15T03:54:00+00:00,Italy,0.5080910691922452,1,1,it,MED,Europe
 '94300b4dad',extremes,Snow&Ice,#d60d2b,wmo,neve italia,2025-12-16T03:47:00+00:00,Italy,0.5053083927873384,2,3,it,MED,Europe
 '1f4020ebca',extremes,Precipitation,#d60d2b,wmo,precipitazioni liguria,2025-12-15T03:54:00+00:00,Italy,0.5002248527305373,1,2,it,MED,Europe
 '8a590c18c2',extremes,Precipitation,#d60d2b,wmo,precipitazioni sardegna,2025-12-15T03:54:00+00:00,Italy,0.4938018781070165,1,2,it,MED,Europe
@@ -48,12 +43,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'daed8f4597',extremes,Earthquake,#870007,usgs,terremoto in somalia,2026-01-15T12:13:00+00:00,Somalia,0.4632461431332687,2,1,it,NEAF,Africa
 '0d99295f2f',extremes,Drought,#edc291,edo,mancanza di pioggia somalia,2026-01-15T12:14:00+00:00,Somalia,0.4597603176119019,1,1,it,NEAF,Africa
 '618e955f78',extremes,Drought,#edc291,edo,mancanza di pioggia in svizzera,2026-01-15T12:14:00+00:00,Switzerland,0.4480790109401668,1,1,it,WCE,Europe
-'4213b8a736',extremes,Storm,#b3b2b1,wmo,mareggiata gersau engelbergertal,2025-12-16T03:47:00+00:00,Switzerland,0.4397516082356406,1,1,it,WCE,Europe
 'fb7bf220d2',extremes,Precipitation,#d60d2b,wmo,acquazzone calabria,2026-01-17T03:44:00+00:00,Italy,0.4386127392275449,1,1,it,MED,Europe
-'f4cca3599c',extremes,Storm,#b3b2b1,wmo,mareggiata meiringen gadmertal,2025-12-16T03:47:00+00:00,Switzerland,0.438583306035287,1,1,it,WCE,Europe
-'21cbdf87d9',extremes,Thunderstorm,#53785a,wmo,forte tempo toscana,2025-12-19T03:46:00+00:00,Italy,0.4337440741360172,2,1,it,MED,Europe
-'69af7a0917',extremes,Storm,#b3b2b1,wmo,tempesta goldauägeri,2025-12-16T03:47:00+00:00,Switzerland,0.4316372118858102,1,1,it,WCE,Europe
-'4377d8044c',extremes,Storm,#b3b2b1,wmo,tempesta grindelwald,2025-12-16T03:47:00+00:00,Switzerland,0.4298846779180372,1,1,it,WCE,Europe
 '5d8c239887',extremes,Drought,#edc291,edo,mancanza di pioggia libia,2026-01-17T03:44:00+00:00,Libya,0.4053570480695185,1,1,it,SAH,Africa
 '20741ce7eb',extremes,Tsunami,#690191,random,tsunami,2026-01-15T10:39:00+00:00,,0.4034306012723958,1,2,it,,
 '99a9404d72',extremes,Drought,#edc291,edo,periodo di siccità italia,2025-12-19T03:46:00+00:00,Italy,0.3704042219455191,1,1,it,MED,Europe
