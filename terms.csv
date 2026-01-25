@@ -1,9 +1,9 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'5bf34f285a',extremes,Earthquake,#870007,usgs,terremoto italia,2026-01-15T10:56:00+00:00,Italy,0.7912539873207414,0,1,it,MED,Europe
 '3550c99ca4',extremes,Fog,#d60d2b,wmo,nebbia emilia e romagna,2025-12-08T03:44:00+00:00,Italy,0.732414668262571,1,2,it,MED,Europe
 '7104ad3c83',extremes,Thunderstorm,#53785a,wmo,temporale italia,2026-01-18T03:57:00+00:00,Italy,0.7253057569621709,0,1,it,MED,Europe
 '8e5338dae6',extremes,Thunderstorm,#53785a,wmo,salve italia,2026-01-18T03:57:00+00:00,Italy,0.7105361477079658,0,1,it,MED,Europe
 '997a2e2157',extremes,Earthquake,#870007,usgs,terremoto argentina,2026-01-15T10:56:00+00:00,Argentina,0.6951085623666733,1,2,it,SWS,South-America
+'5bf34f285a',extremes,Earthquake,#870007,usgs,terremoto italia,2026-01-15T10:56:00+00:00,Italy,0.6775163842226302,1,2,it,MED,Europe
 '12060a7df7',extremes,Storm,#b3b2b1,wmo,mareggiata italia,2026-01-18T03:57:00+00:00,Italy,0.6720921087646603,1,2,it,MED,Europe
 'c0e18437c9',extremes,Snow&Ice,#d60d2b,wmo,gelo italia,2026-01-19T04:03:00+00:00,Italy,0.6515923666232818,0,1,it,MED,Europe
 'b1d7a75a38',extremes,Storm,#b3b2b1,wmo,tempesta sicilia,2026-01-17T03:44:00+00:00,Italy,0.6341959466338516,0,1,it,MED,Europe
@@ -11,7 +11,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '075cc3fe36',extremes,Thunderstorm,#53785a,wmo,maltempo italia,2026-01-20T03:56:00+00:00,Italy,0.6261384768992071,1,2,it,MED,Europe
 'e529bb6ac5',extremes,Precipitation,#d60d2b,wmo,pioggia argentina,2026-01-15T10:56:00+00:00,Argentina,0.625304274279061,0,1,it,SES,South-America
 'ae340540d6',extremes,Precipitation,#d60d2b,wmo,acquazzone argentina,2026-01-15T10:56:00+00:00,Argentina,0.6252200520615436,0,1,it,SES,South-America
-'6c6666b2af',extremes,Precipitation,#d60d2b,wmo,precipitazioni argentina,2026-01-15T10:56:00+00:00,Argentina,0.6252114817853748,0,1,it,SES,South-America
 '6076c8543a',extremes,Storm,#b3b2b1,wmo,mareggiata liguria,2026-01-20T03:56:00+00:00,Italy,0.6230412738202108,0,1,it,MED,Europe
 '3254ebc328',extremes,Snow&Ice,#d60d2b,wmo,neve calabria,2026-01-18T03:57:00+00:00,Italy,0.6213617516793901,0,1,it,MED,Europe
 '731c9c6599',extremes,Storm,#b3b2b1,wmo,tempesta basilicata,2026-01-20T03:56:00+00:00,Italy,0.6203515225776199,0,1,it,MED,Europe
