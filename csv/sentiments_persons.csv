@@ -1,38 +1,40 @@
 ,phrase,label,sentiment,subjectivity,language,count
-Alessandro Gilioli,Alessandro Gilioli,PERSON,0.0,0.0,en,1.7
+Cyclone Harry,Cyclone Harry,PERSON,-0.08570788530465949,0.49587813620071686,en,3.0999999999999996
+Alessandro Gilioli,Alessandro Gilioli,PERSON,0.0,0.0,en,1.9
 Massa Martana,Massa Martana,PERSON,0.0457516339869281,0.21568627450980393,en,1.7
 John Giannandrea,John Giannandrea,PERSON,-0.14583333333333331,0.6770833333333334,en,1.6
 Katherine Adams,Katherine Adams,PERSON,0.18229166666666666,0.625,en,1.6
 Sam Altman,Sam Altman,PERSON,-0.09038461538461538,0.3362179487179487,en,1.3
 Federico Brescia,Federico Brescia,PERSON,0.17857142857142858,0.293040293040293,en,1.3
-Chison Valleys,Chison Valleys,PERSON,0.025,0.19999999999999998,en,1.0
-Lorenzo Tedici,Lorenzo Tedici,PERSON,0.0,0.0,en,1.0
-Kinetic US,Kinetic US,PERSON,0.26666666666666666,0.6333333333333333,en,1.0
 Il Fatto Quotidiano,Il Fatto Quotidiano,PERSON,0.0,0.0,en,1.0
 Mohamed Shahin,Mohamed Shahin,PERSON,0.0,0.0,en,1.0
 Narges Mohammadi,Narges Mohammadi,PERSON,-0.0875,0.1875,en,1.0
 Emmanuelle Girard,Emmanuelle Girard,PERSON,0.15,0.3055555555555556,en,1.0
 Donald Trump,Donald Trump,PERSON,-0.02121212121212122,0.28484848484848485,en,1.0
 Volodymyr Zelensky,Volodymyr Zelensky,PERSON,-0.02121212121212122,0.28484848484848485,en,1.0
-Vincenzo Cosenza,Vincenzo Cosenza,PERSON,0.011111111111111112,0.2722222222222222,en,1.0
-Licia Colò,Licia Colò,PERSON,-0.575,0.65,en,1.0
-del Clitunno,del Clitunno,PERSON,-0.2,0.3,en,1.0
-Clair Obscur Expedition 33,Clair Obscur Expedition 33,PERSON,0.0,0.0,en,1.0
-Il Messaggero,Il Messaggero,PERSON,0.0,0.0,en,1.0
-Timothée Chalamet,Timothée Chalamet,PERSON,0.1,0.25,en,1.0
 A19 Pro,A19 Pro,PERSON,0.6000000000000001,1.25,en,1.0
-Antonio Angelucci,Antonio Angelucci,PERSON,0.0,0.0,en,1.0
+Lorenzo Tedici,Lorenzo Tedici,PERSON,0.0,0.0,en,1.0
+Clair Obscur Expedition 33,Clair Obscur Expedition 33,PERSON,0.0,0.0,en,1.0
+Timothée Chalamet,Timothée Chalamet,PERSON,0.1,0.25,en,1.0
+Licia Colò,Licia Colò,PERSON,-0.575,0.65,en,1.0
 Carlo Nesti,Carlo Nesti,PERSON,0.0,0.0,en,1.0
-San Giuliano,San Giuliano,PERSON,0.0,0.30000000000000004,en,1.0
+Alagna Valsesia,Alagna Valsesia,PERSON,0.2,0.2,en,1.0
+Wang et al,Wang et al,PERSON,0.0,0.0,en,1.0
 PIERO ANGEL,PIERO ANGEL,PERSON,0.5333333333333333,0.6166666666666667,en,1.0
-Christian Manfredini,Christian Manfredini,PERSON,0.0,0.0,en,1.0
 the Calanchi di Piana,the Calanchi di Piana,PERSON,0.0,0.0,en,1.0
 Dalia Gubbay,Dalia Gubbay,PERSON,0.0,0.1,en,1.0
 Mattia Gussoni,Mattia Gussoni,PERSON,0.0,0.0,en,1.0
-Alagna Valsesia,Alagna Valsesia,PERSON,0.2,0.2,en,1.0
-Gian Piero Gasperini,Gian Piero Gasperini,PERSON,0.85,1.0,en,1.0
+Il Messaggero,Il Messaggero,PERSON,0.0,0.0,en,1.0
+Chison Valleys,Chison Valleys,PERSON,0.025,0.19999999999999998,en,1.0
+Christian Manfredini,Christian Manfredini,PERSON,0.0,0.0,en,1.0
+San Giuliano,San Giuliano,PERSON,0.0,0.30000000000000004,en,1.0
+del Clitunno,del Clitunno,PERSON,-0.2,0.3,en,1.0
+Vincenzo Cosenza,Vincenzo Cosenza,PERSON,0.011111111111111112,0.2722222222222222,en,1.0
+Caterina Balivo,Caterina Balivo,PERSON,0.19318181818181818,0.675,en,1.0
+Kinetic US,Kinetic US,PERSON,0.26666666666666666,0.6333333333333333,en,1.0
 Riccardo Pecini,Riccardo Pecini,PERSON,0.0,0.0625,en,1.0
-Vincent Van Gogh,Vincent Van Gogh,PERSON,-0.2,0.3,en,1.0
+Antonio Angelucci,Antonio Angelucci,PERSON,0.0,0.0,en,1.0
+Moira Orfei,Moira Orfei,PERSON,0.0,0.0,en,1.0
 Arturo Brachetti,Arturo Brachetti,PERSON,0.0,0.0,en,1.0
 Niklas Pyyhtia,Niklas Pyyhtia,PERSON,0.2,0.3,en,1.0
 Andrea Stöllner,Andrea Stöllner,PERSON,0.0,0.0,en,1.0
@@ -44,8 +46,8 @@ Appiano Gentile,Appiano Gentile,PERSON,0.10000000000000002,0.3833333333333333,en
 Cristian Chivu,Cristian Chivu,PERSON,0.22727272727272727,0.5454545454545454,en,1.0
 Amar Subramanya,Amar Subramanya,PERSON,0.21212121212121213,0.40151515151515155,en,1.0
 Paul Cézanne,Paul Cézanne,PERSON,-0.2,0.3,en,1.0
+Vincent Van Gogh,Vincent Van Gogh,PERSON,-0.2,0.3,en,1.0
 Pierre-Auguste Renoir,Pierre-Auguste Renoir,PERSON,-0.2,0.3,en,1.0
-Arianna Meloni,Arianna Meloni,PERSON,0.06818181818181818,0.2772727272727273,en,1.0
 Edgar Degas,Edgar Degas,PERSON,-0.2,0.3,en,1.0
 Henri Matisse,Henri Matisse,PERSON,-0.2,0.3,en,1.0
 Kiro Pro+,Kiro Pro+,PERSON,0.4,0.8,en,1.0
@@ -56,5 +58,6 @@ Wayne Gretzky,Wayne Gretzky,PERSON,1.0,1.0,en,1.0
 Aaron Judge,Aaron Judge,PERSON,1.0,1.0,en,1.0
 Fleur Jaeggy,Fleur Jaeggy,PERSON,0.1,0.1,en,1.0
 Christopher Kay,Christopher Kay,PERSON,0.0,0.0,en,1.0
-Moira Orfei,Moira Orfei,PERSON,0.0,0.0,en,1.0
-Caterina Balivo,Caterina Balivo,PERSON,0.19318181818181818,0.675,en,1.0
+Gian Piero Gasperini,Gian Piero Gasperini,PERSON,0.85,1.0,en,1.0
+Arianna Meloni,Arianna Meloni,PERSON,0.06818181818181818,0.2772727272727273,en,1.0
+Mel Crotonese,Mel Crotonese,PERSON,0.0,0.0,en,1.0
