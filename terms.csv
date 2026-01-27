@@ -6,15 +6,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '12060a7df7',extremes,Storm,#b3b2b1,wmo,mareggiata italia,2026-01-18T03:57:00+00:00,Italy,0.6720921087646603,1,2,it,MED,Europe
 'f9eb244a9a',extremes,Drought,#edc291,edo,mancanza di pioggia italia,2026-01-15T10:57:00+00:00,Italy,0.6715735798441811,1,1,it,MED,Europe
 '3a8dcca50b',extremes,Snow&Ice,#d60d2b,wmo,l'italia gelida,2026-01-19T04:03:00+00:00,Italy,0.6592533237049184,0,1,it,MED,Europe
+'5f576fa4c7',extremes,Precipitation,#d60d2b,wmo,pioggia sicilia,2026-01-20T03:56:00+00:00,Italy,0.6495389510830544,1,3,it,MED,Europe
 'b1d7a75a38',extremes,Storm,#b3b2b1,wmo,tempesta sicilia,2026-01-17T03:44:00+00:00,Italy,0.6341959466338516,0,1,it,MED,Europe
 '8e5b367351',extremes,Precipitation,#d60d2b,wmo,precipitazioni italia,2026-01-17T03:44:00+00:00,Italy,0.6315575212610036,1,3,it,MED,Europe
 '075cc3fe36',extremes,Thunderstorm,#53785a,wmo,maltempo italia,2026-01-20T03:56:00+00:00,Italy,0.6261384768992071,1,2,it,MED,Europe
 'ae340540d6',extremes,Precipitation,#d60d2b,wmo,acquazzone argentina,2026-01-15T10:56:00+00:00,Argentina,0.6252200520615436,0,1,it,SES,South-America
 '82b8913676',extremes,Storm,#b3b2b1,wmo,mareggiata sardegna,2026-01-22T03:59:00+00:00,Italy,0.6145090047169505,1,3,it,MED,Europe
-'5a9124c973',extremes,Heat Wave,#c40202,wmo,ondata di caldo las flores y alrededores,2026-01-27T03:58:00+00:00,Argentina,0.6097652054159582,0,1,it,SES,South-America
-'e9f2b42100',extremes,Heat Wave,#c40202,wmo,ondata di caldo la plata y alrededores,2026-01-27T03:58:00+00:00,Argentina,0.6095019108983225,0,1,it,SES,South-America
-'84c81d05e3',extremes,Heat Wave,#c40202,wmo,ondata di caldo villa reynolds e dintorni,2026-01-23T04:03:00+00:00,Argentina,0.6089132542954994,0,1,it,SES,South-America
-'5f576fa4c7',extremes,Precipitation,#d60d2b,wmo,pioggia sicilia,2026-01-20T03:56:00+00:00,Italy,0.608606580953326,0,1,it,MED,Europe
 '2fbb3e12ae',extremes,Heat Wave,#c40202,wmo,ondata di caldo concordia y alrededores,2026-01-27T03:58:00+00:00,Argentina,0.6084814989416816,0,1,it,SES,South-America
 '1d6da9893b',extremes,Heat Wave,#c40202,wmo,ondata di caldo giugno e dintorni,2026-01-27T03:58:00+00:00,Argentina,0.6078473754573502,0,1,it,SES,South-America
 '93f18e9364',extremes,Heat Wave,#c40202,wmo,ondata di caldo argentina,2026-01-21T03:56:00+00:00,Argentina,0.6075889030843039,0,1,it,SES,South-America
@@ -70,6 +67,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5eae3aed3f',extremes,Thunderstorm,#53785a,wmo,grandine basilicata,2026-01-18T03:57:00+00:00,Italy,0.5214216022326419,1,1,it,MED,Europe
 'dcef080672',extremes,Thunderstorm,#53785a,wmo,temporale toscana,2026-01-25T04:06:00+00:00,Italy,0.5204656919216881,1,1,it,MED,Europe
 'b862f62894',extremes,Storm,#b3b2b1,wmo,mareggiata basilicata,2026-01-24T03:48:00+00:00,Italy,0.5194146522944026,1,1,it,MED,Europe
+'5a9124c973',extremes,Heat Wave,#c40202,wmo,ondata di caldo las flores y alrededores,2026-01-27T03:58:00+00:00,Argentina,0.5183004246035645,1,1,it,SES,South-America
+'e9f2b42100',extremes,Heat Wave,#c40202,wmo,ondata di caldo la plata y alrededores,2026-01-27T03:58:00+00:00,Argentina,0.5180766242635741,1,1,it,SES,South-America
+'84c81d05e3',extremes,Heat Wave,#c40202,wmo,ondata di caldo villa reynolds e dintorni,2026-01-23T04:03:00+00:00,Argentina,0.5175762661511745,1,1,it,SES,South-America
 '94300b4dad',extremes,Snow&Ice,#d60d2b,wmo,neve italia,2025-12-16T03:47:00+00:00,Italy,0.5053083927873384,2,3,it,MED,Europe
 '1f4020ebca',extremes,Precipitation,#d60d2b,wmo,precipitazioni liguria,2025-12-15T03:54:00+00:00,Italy,0.5002248527305373,1,2,it,MED,Europe
 '8a590c18c2',extremes,Precipitation,#d60d2b,wmo,precipitazioni sardegna,2025-12-15T03:54:00+00:00,Italy,0.4938018781070165,1,2,it,MED,Europe
