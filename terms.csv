@@ -21,7 +21,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0df834d969',extremes,Thunderstorm,#53785a,wmo,maltempo sardegna,2026-01-19T04:03:00+00:00,Italy,0.5995292350612155,0,1,it,MED,Europe
 'd90bfca4a4',extremes,Storm,#b3b2b1,wmo,tempesta sardegna,2026-01-18T03:57:00+00:00,Italy,0.5994697028534371,1,3,it,MED,Europe
 '71aee81e61',extremes,Storm,#b3b2b1,wmo,mareggiata lazio,2026-01-18T03:57:00+00:00,Italy,0.5979969445110996,0,1,it,MED,Europe
-'d3161b1db8',extremes,Snow&Ice,#d60d2b,wmo,gelo piemonte,2026-01-23T04:03:00+00:00,Italy,0.5977202491498407,0,1,it,MED,Europe
 'fd3876a26f',extremes,Snow&Ice,#d60d2b,wmo,gelo emilia e romagna,2026-01-24T03:48:00+00:00,Italy,0.5963251655494047,0,1,it,MED,Europe
 '7233a5596d',extremes,Snow&Ice,#d60d2b,wmo,gelida lombardia,2026-01-23T04:03:00+00:00,Italy,0.596308383836959,0,1,it,MED,Europe
 'dc8fc164ae',extremes,Precipitation,#d60d2b,wmo,piogge torrenziali sicilia,2026-01-19T04:03:00+00:00,Italy,0.596229600989042,0,1,it,MED,Europe
@@ -50,6 +49,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd92d2dbe23',extremes,Snow&Ice,#d60d2b,wmo,ghiaccio italia,2025-12-16T03:47:00+00:00,Italy,0.5750877061528685,1,2,it,MED,Europe
 '4bd563dc86',extremes,Precipitation,#d60d2b,wmo,acquazzone على مناطق شرق ليبيا.,2026-01-26T04:09:00+00:00,Libya,0.5746201054256805,1,1,it,SAH,Africa
 'ce6e6561d3',extremes,Snow&Ice,#d60d2b,wmo,neve liguria,2026-01-23T04:03:00+00:00,Italy,0.5628246042693501,1,1,it,MED,Europe
+'d3161b1db8',extremes,Snow&Ice,#d60d2b,wmo,gelo piemonte,2026-01-23T04:03:00+00:00,Italy,0.5585122567773646,1,1,it,MED,Europe
 '731c9c6599',extremes,Storm,#b3b2b1,wmo,tempesta basilicata,2026-01-20T03:56:00+00:00,Italy,0.553198884190977,1,1,it,MED,Europe
 '5e29cd96b0',extremes,Precipitation,#d60d2b,wmo,pioggia torrenziale italia,2026-01-21T03:56:00+00:00,Italy,0.552297638954074,1,1,it,MED,Europe
 '6bad2a8cbc',extremes,Earthquake,#870007,usgs,terremoto san agustín de valle fertil,2026-01-15T12:13:00+00:00,Argentina,0.5450428508538988,1,1,it,SES,South-America
