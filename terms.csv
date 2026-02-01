@@ -1,4 +1,5 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'f6374995d1',extremes,Tropical Cyclone,#4f4f4f,cmeter,ciclone tropicale italia,2026-01-28T03:57:00+00:00,Italy,0.7920186796260393,0,1,it,MED,Europe
 '997a2e2157',extremes,Earthquake,#870007,usgs,terremoto argentina,2026-01-15T10:56:00+00:00,Argentina,0.6951085623666733,1,2,it,SWS,South-America
 '5bf34f285a',extremes,Earthquake,#870007,usgs,terremoto italia,2026-01-15T10:56:00+00:00,Italy,0.6775163842226302,1,2,it,MED,Europe
 '12060a7df7',extremes,Storm,#b3b2b1,wmo,mareggiata italia,2026-01-18T03:57:00+00:00,Italy,0.6720921087646603,1,2,it,MED,Europe
@@ -15,6 +16,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8e5338dae6',extremes,Thunderstorm,#53785a,wmo,salve italia,2026-01-18T03:57:00+00:00,Italy,0.6162059505517709,1,1,it,MED,Europe
 '82b8913676',extremes,Storm,#b3b2b1,wmo,mareggiata sardegna,2026-01-22T03:59:00+00:00,Italy,0.6145090047169505,1,3,it,MED,Europe
 '8a590c18c2',extremes,Precipitation,#d60d2b,wmo,precipitazioni sardegna,2026-01-21T03:56:00+00:00,Italy,0.614482724511577,0,1,it,MED,Europe
+'20d3210be7',extremes,Heat Wave,#c40202,wmo,ondata di caldo bernardo de irigoyen y alrededores,2026-01-30T04:21:00+00:00,Argentina,0.6086241525320434,0,1,it,SES,South-America
 '63b8afd7a4',extremes,Storm,#b3b2b1,wmo,tempesta lazio,2026-01-19T04:03:00+00:00,Italy,0.6056622764771052,1,2,it,MED,Europe
 '7880ffef77',extremes,Snow&Ice,#d60d2b,wmo,gelo veneto,2026-01-25T04:06:00+00:00,Italy,0.6029757117811604,1,2,it,MED,Europe
 '255e7908d3',extremes,Snow&Ice,#d60d2b,wmo,neve trentino alto adige,2026-01-24T03:48:00+00:00,Italy,0.6008096532530878,1,2,it,MED,Europe
@@ -42,6 +44,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f66afddf57',extremes,Snow&Ice,#d60d2b,wmo,gelo lombardia,2026-01-27T03:58:00+00:00,Italy,0.5698384948930469,0,1,it,MED,Europe
 '1e5dc0cc78',extremes,Precipitation,#d60d2b,wmo,pioggia calabria,2026-01-18T03:57:00+00:00,Italy,0.5697124316893499,1,2,it,MED,Europe
 'c96b2c0ee7',extremes,Snow&Ice,#d60d2b,wmo,piemonte gelido,2026-01-19T04:03:00+00:00,Italy,0.5696369775137248,0,1,it,MED,Europe
+'21347a721a',extremes,Precipitation,#d60d2b,wmo,acquazzone lazio,2026-01-24T03:48:00+00:00,Italy,0.5695646728271563,0,1,it,MED,Europe
 'ce6e6561d3',extremes,Snow&Ice,#d60d2b,wmo,neve liguria,2026-01-23T04:03:00+00:00,Italy,0.5628246042693501,1,1,it,MED,Europe
 '3a8dcca50b',extremes,Snow&Ice,#d60d2b,wmo,l'italia gelida,2026-01-19T04:03:00+00:00,Italy,0.5606653551491806,1,1,it,MED,Europe
 'd3161b1db8',extremes,Snow&Ice,#d60d2b,wmo,gelo piemonte,2026-01-23T04:03:00+00:00,Italy,0.5585122567773646,1,1,it,MED,Europe
