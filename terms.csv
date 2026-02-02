@@ -19,11 +19,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c0e18437c9',extremes,Snow&Ice,#d60d2b,wmo,gelo italia,2026-01-19T04:03:00+00:00,Italy,0.5927181123440752,1,2,it,MED,Europe
 '8a590c18c2',extremes,Precipitation,#d60d2b,wmo,precipitazioni sardegna,2026-01-21T03:56:00+00:00,Italy,0.5908974894712041,1,2,it,MED,Europe
 '117e9a9455',extremes,Storm,#b3b2b1,wmo,mareggiata calabria,2026-01-21T03:56:00+00:00,Italy,0.5885696538972435,1,1,it,MED,Europe
+'548bcaf393',extremes,Precipitation,#d60d2b,wmo,piogge emilia e romagna,2026-01-24T03:48:00+00:00,Italy,0.5869279394983115,1,2,it,MED,Europe
 'd4d8b57886',extremes,Storm,#b3b2b1,wmo,mareggiata sicilia,2026-01-26T04:09:00+00:00,Italy,0.5841039662135491,0,1,it,MED,Europe
 'e1705f0f96',extremes,Thunderstorm,#53785a,wmo,temporale Basilicata,2026-01-29T04:19:00+00:00,Italy,0.5802929020106213,0,1,it,MED,Europe
 '3254ebc328',extremes,Snow&Ice,#d60d2b,wmo,neve calabria,2026-01-18T03:57:00+00:00,Italy,0.5798329689274816,1,2,it,MED,Europe
 '639c6678ba',extremes,Snow&Ice,#d60d2b,wmo,neve veneta,2026-01-19T04:03:00+00:00,Italy,0.5795458965092573,0,1,it,MED,Europe
-'548bcaf393',extremes,Precipitation,#d60d2b,wmo,piogge emilia e romagna,2026-01-24T03:48:00+00:00,Italy,0.5773855288215429,0,1,it,MED,Europe
 '241b679149',extremes,Thunderstorm,#53785a,wmo,salve sicilia,2026-01-20T03:56:00+00:00,Italy,0.5772049321364572,0,1,it,MED,Europe
 '2acc964cba',extremes,Storm,#b3b2b1,wmo,mareggiata toscana,2026-01-19T04:03:00+00:00,Italy,0.576412156034639,0,1,it,MED,Europe
 '99e70937bb',extremes,Heat Wave,#c40202,wmo,ondata di caldo punta indio y alrededores,2026-01-27T03:58:00+00:00,Argentina,0.5762382512355563,0,1,it,SES,South-America
