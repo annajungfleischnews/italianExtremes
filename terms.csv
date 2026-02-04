@@ -18,7 +18,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8a590c18c2',extremes,Precipitation,#d60d2b,wmo,precipitazioni sardegna,2026-01-21T03:56:00+00:00,Italy,0.5908974894712041,1,2,it,MED,Europe
 '117e9a9455',extremes,Storm,#b3b2b1,wmo,mareggiata calabria,2026-01-21T03:56:00+00:00,Italy,0.5885696538972435,1,1,it,MED,Europe
 '548bcaf393',extremes,Precipitation,#d60d2b,wmo,piogge emilia e romagna,2026-01-24T03:48:00+00:00,Italy,0.5856639885735647,2,2,it,MED,Europe
-'d4d8b57886',extremes,Storm,#b3b2b1,wmo,mareggiata sicilia,2026-01-26T04:09:00+00:00,Italy,0.5841039662135491,0,1,it,MED,Europe
 'e1705f0f96',extremes,Thunderstorm,#53785a,wmo,temporale Basilicata,2026-01-29T04:19:00+00:00,Italy,0.5802929020106213,0,1,it,MED,Europe
 '3254ebc328',extremes,Snow&Ice,#d60d2b,wmo,neve calabria,2026-01-18T03:57:00+00:00,Italy,0.5798329689274816,1,2,it,MED,Europe
 '639c6678ba',extremes,Snow&Ice,#d60d2b,wmo,neve veneta,2026-01-19T04:03:00+00:00,Italy,0.5795458965092573,0,1,it,MED,Europe
@@ -26,7 +25,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'cefc77a4b3',extremes,Storm,#b3b2b1,wmo,tempesta svizzera,2026-01-27T03:58:00+00:00,Switzerland,0.5730131047880594,0,1,it,WCE,Europe
 'f6374995d1',extremes,Tropical Cyclone,#4f4f4f,cmeter,ciclone tropicale italia,2026-01-28T03:57:00+00:00,Italy,0.5722334960298134,2,1,it,MED,Europe
 '1e5dc0cc78',extremes,Precipitation,#d60d2b,wmo,pioggia calabria,2026-01-18T03:57:00+00:00,Italy,0.5697124316893499,1,2,it,MED,Europe
-'c96b2c0ee7',extremes,Snow&Ice,#d60d2b,wmo,piemonte gelido,2026-01-19T04:03:00+00:00,Italy,0.5696369775137248,0,1,it,MED,Europe
 '21347a721a',extremes,Precipitation,#d60d2b,wmo,acquazzone lazio,2026-01-24T03:48:00+00:00,Italy,0.5695646728271563,0,1,it,MED,Europe
 '8e12d8e374',extremes,Heat Wave,#c40202,wmo,resistenza all'ondata di caldo e dintorni,2026-01-28T03:56:00+00:00,Argentina,0.5692621145087787,0,1,it,SES,South-America
 '6f0a779664',extremes,Heat Wave,#c40202,wmo,ondata di caldo tandil y alrededores,2026-01-27T03:58:00+00:00,Argentina,0.569052224091263,0,1,it,SES,South-America
@@ -63,6 +61,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd18c9a3f35',extremes,Earthquake,#870007,usgs,terremoto san antonio de los cobres,2026-01-15T10:56:00+00:00,Argentina,0.544999781174977,1,1,it,SES,South-America
 '43165fdae0',extremes,Earthquake,#870007,usgs,terremoto villa basilio nievas,2026-01-15T12:13:00+00:00,Argentina,0.5449800300782554,1,1,it,SWS,South-America
 'f6ff301646',extremes,Drought,#edc291,edo,siccità Somalia,2026-01-15T10:57:00+00:00,Somalia,0.5445517651632864,1,1,it,NEAF,Africa
+'d4d8b57886',extremes,Storm,#b3b2b1,wmo,mareggiata sicilia,2026-01-26T04:09:00+00:00,Italy,0.5444886712815168,1,1,it,MED,Europe
 'a03bfb69ba',extremes,Drought,#edc291,edo,periodo di siccità in svizzera,2026-01-15T10:57:00+00:00,Switzerland,0.5431337380278511,1,1,it,WCE,Europe
 'cd3d048b5a',extremes,Precipitation,#d60d2b,wmo,pioggia italia,2026-01-18T03:57:00+00:00,Italy,0.542293879881849,1,2,it,MED,Europe
 '3840c76d04',extremes,Storm,#b3b2b1,wmo,tempesta calabria,2026-01-18T03:57:00+00:00,Italy,0.5391870395914278,1,2,it,MED,Europe
@@ -130,6 +129,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0e8f392ce9',extremes,Drought,#edc291,edo,siccità libia,2026-01-15T10:57:00+00:00,Libya,0.4893658327261835,1,1,it,SAH,Africa
 '89c5c380c9',extremes,Precipitation,#d60d2b,wmo,pioggia campanese,2026-01-19T04:03:00+00:00,Italy,0.4849704966009439,1,1,it,MED,Europe
 'cb97282513',extremes,Heat Wave,#c40202,wmo,ondata di caldo nueve de julio y alrededores,2026-01-28T03:56:00+00:00,Argentina,0.484399099800429,1,1,it,SES,South-America
+'c96b2c0ee7',extremes,Snow&Ice,#d60d2b,wmo,piemonte gelido,2026-01-19T04:03:00+00:00,Italy,0.48419143088666605,1,1,it,MED,Europe
 '507412aefc',extremes,Storm,#b3b2b1,wmo,tempesta italia,2026-01-17T03:44:00+00:00,Italy,0.4672293813943718,1,1,it,MED,Europe
 'daed8f4597',extremes,Earthquake,#870007,usgs,terremoto in somalia,2026-01-15T12:13:00+00:00,Somalia,0.4632461431332687,2,1,it,NEAF,Africa
 '0d99295f2f',extremes,Drought,#edc291,edo,mancanza di pioggia somalia,2026-01-15T12:14:00+00:00,Somalia,0.4597603176119019,1,1,it,NEAF,Africa
