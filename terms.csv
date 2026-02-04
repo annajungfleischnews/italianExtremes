@@ -25,7 +25,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4bd563dc86',extremes,Precipitation,#d60d2b,wmo,acquazzone على مناطق شرق ليبيا.,2026-01-26T04:09:00+00:00,Libya,0.5746201054256805,1,1,it,SAH,Africa
 'cefc77a4b3',extremes,Storm,#b3b2b1,wmo,tempesta svizzera,2026-01-27T03:58:00+00:00,Switzerland,0.5730131047880594,0,1,it,WCE,Europe
 'f6374995d1',extremes,Tropical Cyclone,#4f4f4f,cmeter,ciclone tropicale italia,2026-01-28T03:57:00+00:00,Italy,0.5722334960298134,2,1,it,MED,Europe
-'f66afddf57',extremes,Snow&Ice,#d60d2b,wmo,gelo lombardia,2026-01-27T03:58:00+00:00,Italy,0.5698384948930469,0,1,it,MED,Europe
 '1e5dc0cc78',extremes,Precipitation,#d60d2b,wmo,pioggia calabria,2026-01-18T03:57:00+00:00,Italy,0.5697124316893499,1,2,it,MED,Europe
 'c96b2c0ee7',extremes,Snow&Ice,#d60d2b,wmo,piemonte gelido,2026-01-19T04:03:00+00:00,Italy,0.5696369775137248,0,1,it,MED,Europe
 '21347a721a',extremes,Precipitation,#d60d2b,wmo,acquazzone lazio,2026-01-24T03:48:00+00:00,Italy,0.5695646728271563,0,1,it,MED,Europe
@@ -41,6 +40,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3a8dcca50b',extremes,Snow&Ice,#d60d2b,wmo,l'italia gelida,2026-01-19T04:03:00+00:00,Italy,0.5606653551491806,1,1,it,MED,Europe
 '065a434526',extremes,Storm,#b3b2b1,wmo,tempesta Abruzzo,2026-01-24T03:48:00+00:00,Italy,0.560641553960927,2,1,it,MED,Europe
 '4ef708e6ed',extremes,Precipitation,#d60d2b,wmo,piogge torrenziali toscana,2026-02-02T04:36:00+00:00,Italy,0.560308704706696,0,1,it,MED,Europe
+'f66afddf57',extremes,Snow&Ice,#d60d2b,wmo,gelo lombardia,2026-01-27T03:58:00+00:00,Italy,0.5602628106590899,1,2,it,MED,Europe
 '0df834d969',extremes,Thunderstorm,#53785a,wmo,maltempo sardegna,2026-01-19T04:03:00+00:00,Italy,0.5600071252565786,1,2,it,MED,Europe
 '8c14b0683f',extremes,Snow&Ice,#d60d2b,wmo,gelo trentino alto adige,2026-01-28T03:56:00+00:00,Italy,0.5597419974813185,0,1,it,MED,Europe
 '165e1b5216',extremes,Drought,#edc291,edo,siccità libia,2026-01-19T04:03:00+00:00,Libya,0.559736997241783,0,1,it,SAH,Africa
