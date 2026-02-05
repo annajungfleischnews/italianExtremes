@@ -12,6 +12,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '075cc3fe36',extremes,Thunderstorm,#53785a,wmo,maltempo italia,2026-01-20T03:56:00+00:00,Italy,0.6261384768992071,1,2,it,MED,Europe
 '7104ad3c83',extremes,Thunderstorm,#53785a,wmo,temporale italia,2026-01-18T03:57:00+00:00,Italy,0.6214608084178452,1,2,it,MED,Europe
 '8e5338dae6',extremes,Thunderstorm,#53785a,wmo,salve italia,2026-01-18T03:57:00+00:00,Italy,0.6162059505517709,1,1,it,MED,Europe
+'8742149670',extremes,Thunderstorm,#53785a,wmo,temporale lazio,2026-02-04T04:21:00+00:00,Italy,0.6159898677706994,1,2,it,MED,Europe
 '12060a7df7',extremes,Storm,#b3b2b1,wmo,mareggiata italia,2026-01-18T03:57:00+00:00,Italy,0.6035285174499612,2,2,it,MED,Europe
 '7880ffef77',extremes,Snow&Ice,#d60d2b,wmo,gelo veneto,2026-01-25T04:06:00+00:00,Italy,0.6029757117811604,1,2,it,MED,Europe
 '255e7908d3',extremes,Snow&Ice,#d60d2b,wmo,neve trentino alto adige,2026-01-24T03:48:00+00:00,Italy,0.6008096532530878,1,2,it,MED,Europe
@@ -19,7 +20,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c0e18437c9',extremes,Snow&Ice,#d60d2b,wmo,gelo italia,2026-01-19T04:03:00+00:00,Italy,0.5927181123440752,1,2,it,MED,Europe
 '8a590c18c2',extremes,Precipitation,#d60d2b,wmo,precipitazioni sardegna,2026-01-21T03:56:00+00:00,Italy,0.5908974894712041,1,2,it,MED,Europe
 '117e9a9455',extremes,Storm,#b3b2b1,wmo,mareggiata calabria,2026-01-21T03:56:00+00:00,Italy,0.5885696538972435,1,1,it,MED,Europe
-'8742149670',extremes,Thunderstorm,#53785a,wmo,temporale lazio,2026-02-04T04:21:00+00:00,Italy,0.5867455651973627,0,1,it,MED,Europe
 '548bcaf393',extremes,Precipitation,#d60d2b,wmo,piogge emilia e romagna,2026-01-24T03:48:00+00:00,Italy,0.5856639885735647,2,2,it,MED,Europe
 '3254ebc328',extremes,Snow&Ice,#d60d2b,wmo,neve calabria,2026-01-18T03:57:00+00:00,Italy,0.5798329689274816,1,2,it,MED,Europe
 '4bd563dc86',extremes,Precipitation,#d60d2b,wmo,acquazzone على مناطق شرق ليبيا.,2026-01-26T04:09:00+00:00,Libya,0.5746201054256805,1,1,it,SAH,Africa
