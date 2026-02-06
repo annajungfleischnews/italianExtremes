@@ -28,7 +28,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f6374995d1',extremes,Tropical Cyclone,#4f4f4f,cmeter,ciclone tropicale italia,2026-01-28T03:57:00+00:00,Italy,0.5722334960298134,2,1,it,MED,Europe
 '1e5dc0cc78',extremes,Precipitation,#d60d2b,wmo,pioggia calabria,2026-01-18T03:57:00+00:00,Italy,0.5697124316893499,1,2,it,MED,Europe
 'ce6e6561d3',extremes,Snow&Ice,#d60d2b,wmo,neve liguria,2026-01-23T04:03:00+00:00,Italy,0.5628246042693501,1,1,it,MED,Europe
-'5a36105e4d',extremes,Snow&Ice,#d60d2b,wmo,la Svizzera gelida,2026-01-22T03:59:00+00:00,Switzerland,0.5618804839972465,0,1,it,WCE,Europe
 '3a8dcca50b',extremes,Snow&Ice,#d60d2b,wmo,l'italia gelida,2026-01-19T04:03:00+00:00,Italy,0.5606653551491806,1,1,it,MED,Europe
 '065a434526',extremes,Storm,#b3b2b1,wmo,tempesta Abruzzo,2026-01-24T03:48:00+00:00,Italy,0.560641553960927,2,1,it,MED,Europe
 '4ef708e6ed',extremes,Precipitation,#d60d2b,wmo,piogge torrenziali toscana,2026-02-02T04:36:00+00:00,Italy,0.560308704706696,0,1,it,MED,Europe
@@ -84,6 +83,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3a23ad42fe',extremes,Precipitation,#d60d2b,wmo,pioggia torrenziale argentina,2026-01-15T10:56:00+00:00,Argentina,0.5314276159184483,1,1,it,SES,South-America
 '5697900bff',extremes,Snow&Ice,#d60d2b,wmo,neve alto moesano,2026-01-15T12:14:00+00:00,Switzerland,0.5312481243539795,1,1,it,WCE,Europe
 '6076c8543a',extremes,Storm,#b3b2b1,wmo,mareggiata liguria,2026-01-20T03:56:00+00:00,Italy,0.5297350977471792,1,1,it,MED,Europe
+'5a36105e4d',extremes,Snow&Ice,#d60d2b,wmo,la Svizzera gelida,2026-01-22T03:59:00+00:00,Switzerland,0.5280484563976595,1,1,it,WCE,Europe
 'fdaa0a92ad',extremes,Storm,#b3b2b1,wmo,tempesta campania,2026-01-20T03:56:00+00:00,Italy,0.5250060049305509,1,1,it,MED,Europe
 '8742149670',extremes,Thunderstorm,#53785a,wmo,temporale lazio,2026-02-04T04:21:00+00:00,Italy,0.5235916426050945,2,1,it,MED,Europe
 '82b8913676',extremes,Storm,#b3b2b1,wmo,mareggiata sardegna,2026-01-22T03:59:00+00:00,Italy,0.5223330290094079,2,2,it,MED,Europe
