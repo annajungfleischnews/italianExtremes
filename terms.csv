@@ -22,7 +22,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8a590c18c2',extremes,Precipitation,#d60d2b,wmo,precipitazioni sardegna,2026-01-21T03:56:00+00:00,Italy,0.5908974894712041,1,2,it,MED,Europe
 '117e9a9455',extremes,Storm,#b3b2b1,wmo,mareggiata calabria,2026-01-21T03:56:00+00:00,Italy,0.5885696538972435,1,1,it,MED,Europe
 '548bcaf393',extremes,Precipitation,#d60d2b,wmo,piogge emilia e romagna,2026-01-24T03:48:00+00:00,Italy,0.5856639885735647,2,2,it,MED,Europe
-'2cce7328e9',extremes,Storm,#b3b2b1,wmo,tempesta liguria,2026-02-05T04:27:00+00:00,Italy,0.5846868274824821,0,1,it,MED,Europe
 '3254ebc328',extremes,Snow&Ice,#d60d2b,wmo,neve calabria,2026-01-18T03:57:00+00:00,Italy,0.5798329689274816,1,2,it,MED,Europe
 'd96b92e228',extremes,Precipitation,#d60d2b,wmo,precipitazioni campania,2026-01-23T04:03:00+00:00,Italy,0.5746342715761529,0,1,it,MED,Europe
 '4bd563dc86',extremes,Precipitation,#d60d2b,wmo,acquazzone على مناطق شرق ليبيا.,2026-01-26T04:09:00+00:00,Libya,0.5746201054256805,1,1,it,SAH,Africa
@@ -124,6 +123,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5022ceabea',extremes,Storm,#b3b2b1,wmo,mareggiata abruzzo,2026-01-25T04:06:00+00:00,Italy,0.5012849550814288,1,1,it,MED,Europe
 'c620088f41',extremes,Precipitation,#d60d2b,wmo,piogge torrenziali liguria,2026-01-23T04:03:00+00:00,Italy,0.4990958482371953,1,1,it,MED,Europe
 '33f847dd45',extremes,Precipitation,#d60d2b,wmo,acquazzone formosa formosa laishi pirane.,2026-01-29T04:19:00+00:00,Argentina,0.4978832175841576,1,1,it,SES,South-America
+'2cce7328e9',extremes,Storm,#b3b2b1,wmo,tempesta liguria,2026-02-05T04:27:00+00:00,Italy,0.4975838633601098,1,1,it,MED,Europe
 '30b7b41a32',extremes,Storm,#b3b2b1,wmo,mareggiata marcia,2026-01-27T03:58:00+00:00,Italy,0.4972828526613449,1,1,it,MED,Europe
 '6f77ec93ab',extremes,Snow&Ice,#d60d2b,wmo,ghiaccio lombardia,2026-01-28T03:56:00+00:00,Italy,0.4972325364106069,1,1,it,MED,Europe
 '5b10a8b809',extremes,Snow&Ice,#d60d2b,wmo,gelido friuli venezia giulia,2026-01-25T04:06:00+00:00,Italy,0.4950267834597239,1,1,it,MED,Europe
