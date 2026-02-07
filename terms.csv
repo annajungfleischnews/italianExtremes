@@ -18,7 +18,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7880ffef77',extremes,Snow&Ice,#d60d2b,wmo,gelo veneto,2026-01-25T04:06:00+00:00,Italy,0.6029757117811604,1,2,it,MED,Europe
 '255e7908d3',extremes,Snow&Ice,#d60d2b,wmo,neve trentino alto adige,2026-01-24T03:48:00+00:00,Italy,0.6008096532530878,1,2,it,MED,Europe
 'd90bfca4a4',extremes,Storm,#b3b2b1,wmo,tempesta sardegna,2026-01-18T03:57:00+00:00,Italy,0.5994697028534371,1,3,it,MED,Europe
-'2379a90e4c',extremes,Storm,#b3b2b1,cmeter,tempesta cosenza,2026-02-07T04:20:00+00:00,Italy,0.5937799995063937,0,1,it,MED,Europe
 'c0e18437c9',extremes,Snow&Ice,#d60d2b,wmo,gelo italia,2026-01-19T04:03:00+00:00,Italy,0.5927181123440752,1,2,it,MED,Europe
 '8a590c18c2',extremes,Precipitation,#d60d2b,wmo,precipitazioni sardegna,2026-01-21T03:56:00+00:00,Italy,0.5908974894712041,1,2,it,MED,Europe
 '117e9a9455',extremes,Storm,#b3b2b1,wmo,mareggiata calabria,2026-01-21T03:56:00+00:00,Italy,0.5885696538972435,1,1,it,MED,Europe
@@ -33,9 +32,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '065a434526',extremes,Storm,#b3b2b1,wmo,tempesta Abruzzo,2026-01-24T03:48:00+00:00,Italy,0.560641553960927,2,1,it,MED,Europe
 'f66afddf57',extremes,Snow&Ice,#d60d2b,wmo,gelo lombardia,2026-01-27T03:58:00+00:00,Italy,0.5602628106590899,1,2,it,MED,Europe
 '0df834d969',extremes,Thunderstorm,#53785a,wmo,maltempo sardegna,2026-01-19T04:03:00+00:00,Italy,0.5600071252565786,1,2,it,MED,Europe
-'8c14b0683f',extremes,Snow&Ice,#d60d2b,wmo,gelo trentino alto adige,2026-01-28T03:56:00+00:00,Italy,0.5597419974813185,0,1,it,MED,Europe
-'165e1b5216',extremes,Drought,#edc291,edo,siccità libia,2026-01-19T04:03:00+00:00,Libya,0.559736997241783,0,1,it,SAH,Africa
-'a68fadbbf5',extremes,Drought,#edc291,edo,siccità svizzera,2026-01-25T04:06:00+00:00,Switzerland,0.559441068766762,0,1,it,WCE,Europe
 '3a29524b96',extremes,Snow&Ice,#d60d2b,wmo,la gelida Liguria,2026-01-28T03:56:00+00:00,Italy,0.5589597998103321,0,1,it,MED,Europe
 'd3161b1db8',extremes,Snow&Ice,#d60d2b,wmo,gelo piemonte,2026-01-23T04:03:00+00:00,Italy,0.5585122567773646,1,1,it,MED,Europe
 '4c403cc983',extremes,Precipitation,#d60d2b,wmo,piogge torrenziali friuli venezia giulia,2026-01-28T03:56:00+00:00,Italy,0.557934171120203,0,1,it,MED,Europe
@@ -126,6 +122,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9745b37167',extremes,Storm,#b3b2b1,wmo,marcia della tempesta,2026-01-19T04:03:00+00:00,Italy,0.5061488295970994,1,1,it,MED,Europe
 'e5b46f3978',extremes,Drought,#edc291,edo,periodo di siccità argentina,2026-01-15T10:57:00+00:00,Argentina,0.5058319862878583,2,1,it,SES,South-America
 'e1705f0f96',extremes,Thunderstorm,#53785a,wmo,temporale Basilicata,2026-01-29T04:19:00+00:00,Italy,0.5054991917090281,1,1,it,MED,Europe
+'2379a90e4c',extremes,Storm,#b3b2b1,cmeter,tempesta cosenza,2026-02-07T04:20:00+00:00,Italy,0.5047129995804346,1,1,it,MED,Europe
 '715d602abe',extremes,Drought,#edc291,edo,secchezza italia,2026-01-19T04:03:00+00:00,Italy,0.5043989205275982,1,1,it,MED,Europe
 'b77d2e68e3',extremes,Storm,#b3b2b1,wmo,tempesta molisana,2026-01-27T03:58:00+00:00,Italy,0.50325401161551,1,1,it,MED,Europe
 '5022ceabea',extremes,Storm,#b3b2b1,wmo,mareggiata abruzzo,2026-01-25T04:06:00+00:00,Italy,0.5012849550814288,1,1,it,MED,Europe
@@ -155,6 +152,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '45278c4de3',extremes,Drought,#edc291,edo,periodo di siccità in Somalia,2026-01-22T04:00:00+00:00,Somalia,0.4787519725853066,1,1,it,NEAF,Africa
 '4ef708e6ed',extremes,Precipitation,#d60d2b,wmo,piogge torrenziali toscana,2026-02-02T04:36:00+00:00,Italy,0.4764124140006916,1,1,it,MED,Europe
 'a262662183',extremes,Precipitation,#d60d2b,wmo,acquazzone basilicata,2026-01-27T03:58:00+00:00,Italy,0.4757976773198096,1,1,it,MED,Europe
+'8c14b0683f',extremes,Snow&Ice,#d60d2b,wmo,gelo trentino alto adige,2026-01-28T03:56:00+00:00,Italy,0.4757806978591207,1,1,it,MED,Europe
+'165e1b5216',extremes,Drought,#edc291,edo,siccità libia,2026-01-19T04:03:00+00:00,Libya,0.4757764476555156,1,1,it,SAH,Africa
+'a68fadbbf5',extremes,Drought,#edc291,edo,siccità svizzera,2026-01-25T04:06:00+00:00,Switzerland,0.4756749234517477,1,1,it,WCE,Europe
 '507412aefc',extremes,Storm,#b3b2b1,wmo,tempesta italia,2026-01-17T03:44:00+00:00,Italy,0.4672293813943718,1,1,it,MED,Europe
 'daed8f4597',extremes,Earthquake,#870007,usgs,terremoto in somalia,2026-01-15T12:13:00+00:00,Somalia,0.4632461431332687,2,1,it,NEAF,Africa
 '0d99295f2f',extremes,Drought,#edc291,edo,mancanza di pioggia somalia,2026-01-15T12:14:00+00:00,Somalia,0.4597603176119019,1,1,it,NEAF,Africa
