@@ -30,7 +30,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ce6e6561d3',extremes,Snow&Ice,#d60d2b,wmo,neve liguria,2026-01-23T04:03:00+00:00,Italy,0.5628246042693501,1,1,it,MED,Europe
 '3a8dcca50b',extremes,Snow&Ice,#d60d2b,wmo,l'italia gelida,2026-01-19T04:03:00+00:00,Italy,0.5606653551491806,1,1,it,MED,Europe
 '065a434526',extremes,Storm,#b3b2b1,wmo,tempesta Abruzzo,2026-01-24T03:48:00+00:00,Italy,0.560641553960927,2,1,it,MED,Europe
-'4ef708e6ed',extremes,Precipitation,#d60d2b,wmo,piogge torrenziali toscana,2026-02-02T04:36:00+00:00,Italy,0.560308704706696,0,1,it,MED,Europe
 'f66afddf57',extremes,Snow&Ice,#d60d2b,wmo,gelo lombardia,2026-01-27T03:58:00+00:00,Italy,0.5602628106590899,1,2,it,MED,Europe
 '0df834d969',extremes,Thunderstorm,#53785a,wmo,maltempo sardegna,2026-01-19T04:03:00+00:00,Italy,0.5600071252565786,1,2,it,MED,Europe
 'a262662183',extremes,Precipitation,#d60d2b,wmo,acquazzone basilicata,2026-01-27T03:58:00+00:00,Italy,0.5597619733174232,0,1,it,MED,Europe
@@ -149,6 +148,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6f0a779664',extremes,Heat Wave,#c40202,wmo,ondata di caldo tandil y alrededores,2026-01-27T03:58:00+00:00,Argentina,0.4836943904775735,1,1,it,SES,South-America
 'eee27f7ca4',extremes,Precipitation,#d60d2b,wmo,acquazzone campano,2026-01-26T04:09:00+00:00,Italy,0.4836424532671597,1,1,it,MED,Europe
 '45278c4de3',extremes,Drought,#edc291,edo,periodo di siccità in Somalia,2026-01-22T04:00:00+00:00,Somalia,0.4787519725853066,1,1,it,NEAF,Africa
+'4ef708e6ed',extremes,Precipitation,#d60d2b,wmo,piogge torrenziali toscana,2026-02-02T04:36:00+00:00,Italy,0.4764124140006916,1,1,it,MED,Europe
 '507412aefc',extremes,Storm,#b3b2b1,wmo,tempesta italia,2026-01-17T03:44:00+00:00,Italy,0.4672293813943718,1,1,it,MED,Europe
 'daed8f4597',extremes,Earthquake,#870007,usgs,terremoto in somalia,2026-01-15T12:13:00+00:00,Somalia,0.4632461431332687,2,1,it,NEAF,Africa
 '0d99295f2f',extremes,Drought,#edc291,edo,mancanza di pioggia somalia,2026-01-15T12:14:00+00:00,Somalia,0.4597603176119019,1,1,it,NEAF,Africa
