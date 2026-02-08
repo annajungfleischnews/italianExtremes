@@ -27,7 +27,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c988798ce9',extremes,Thunderstorm,#53785a,wmo,maltempo puglia,2026-02-04T04:21:00+00:00,Italy,0.5743696820981498,2,3,it,MED,Europe
 'f6374995d1',extremes,Tropical Cyclone,#4f4f4f,cmeter,ciclone tropicale italia,2026-01-28T03:57:00+00:00,Italy,0.5722334960298134,2,1,it,MED,Europe
 '1e5dc0cc78',extremes,Precipitation,#d60d2b,wmo,pioggia calabria,2026-01-18T03:57:00+00:00,Italy,0.5697124316893499,1,2,it,MED,Europe
-'e9a8279e1e',extremes,Storm,#b3b2b1,wmo,tempesta toscana,2026-02-05T04:27:00+00:00,Italy,0.5647888013725602,0,1,it,MED,Europe
 'ce6e6561d3',extremes,Snow&Ice,#d60d2b,wmo,neve liguria,2026-01-23T04:03:00+00:00,Italy,0.5628246042693501,1,1,it,MED,Europe
 '3a8dcca50b',extremes,Snow&Ice,#d60d2b,wmo,l'italia gelida,2026-01-19T04:03:00+00:00,Italy,0.5606653551491806,1,1,it,MED,Europe
 '065a434526',extremes,Storm,#b3b2b1,wmo,tempesta Abruzzo,2026-01-24T03:48:00+00:00,Italy,0.560641553960927,2,1,it,MED,Europe
@@ -149,6 +148,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8e12d8e374',extremes,Heat Wave,#c40202,wmo,resistenza all'ondata di caldo e dintorni,2026-01-28T03:56:00+00:00,Argentina,0.4838727973324619,1,1,it,SES,South-America
 '6f0a779664',extremes,Heat Wave,#c40202,wmo,ondata di caldo tandil y alrededores,2026-01-27T03:58:00+00:00,Argentina,0.4836943904775735,1,1,it,SES,South-America
 'eee27f7ca4',extremes,Precipitation,#d60d2b,wmo,acquazzone campano,2026-01-26T04:09:00+00:00,Italy,0.4836424532671597,1,1,it,MED,Europe
+'e9a8279e1e',extremes,Storm,#b3b2b1,wmo,tempesta toscana,2026-02-05T04:27:00+00:00,Italy,0.48097057116667613,1,1,it,MED,Europe
 '45278c4de3',extremes,Drought,#edc291,edo,periodo di siccità in Somalia,2026-01-22T04:00:00+00:00,Somalia,0.4787519725853066,1,1,it,NEAF,Africa
 '4ef708e6ed',extremes,Precipitation,#d60d2b,wmo,piogge torrenziali toscana,2026-02-02T04:36:00+00:00,Italy,0.4764124140006916,1,1,it,MED,Europe
 'a262662183',extremes,Precipitation,#d60d2b,wmo,acquazzone basilicata,2026-01-27T03:58:00+00:00,Italy,0.4757976773198096,1,1,it,MED,Europe
