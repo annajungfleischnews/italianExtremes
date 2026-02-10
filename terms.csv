@@ -102,8 +102,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8ebba92b76',extremes,Snow&Ice,#d60d2b,wmo,gelo zurzach bülach,2026-01-24T03:48:00+00:00,Switzerland,0.5202539617507925,0,1,it,WCE,Europe
 'b3c0051e90',extremes,Heat Wave,#c40202,wmo,ondata di caldo formosa y alrededores,2026-02-06T04:27:00+00:00,Argentina,0.519909994162271,1,1,it,SES,South-America
 'a07f9a3b5e',extremes,Snow&Ice,#d60d2b,wmo,mendrisiotto di ghiaccio,2026-01-23T04:03:00+00:00,Switzerland,0.5197006459394513,0,1,it,WCE,Europe
+'c4e95835b8',extremes,Storm,#b3b2b1,wmo,tempesta urner oberland,2026-01-28T03:56:00+00:00,Switzerland,0.5194219248634342,0,1,it,WCE,Europe
 'b862f62894',extremes,Storm,#b3b2b1,wmo,mareggiata basilicata,2026-01-24T03:48:00+00:00,Italy,0.5194146522944026,1,1,it,MED,Europe
 'ee113d9ba2',extremes,Heat Wave,#c40202,wmo,ondata di caldo iguazu y alrededores,2026-02-07T04:19:00+00:00,Argentina,0.519414014995427,1,1,it,SES,South-America
+'ee5f7d0760',extremes,Snow&Ice,#d60d2b,wmo,ghiaccio verzasca,2026-01-23T04:03:00+00:00,Switzerland,0.5188667722643336,0,1,it,WCE,Europe
 'aa38978c0b',extremes,Heat Wave,#c40202,wmo,ondata di caldo gualeguaychu y alrededores,2026-01-27T03:58:00+00:00,Argentina,0.5183713019240691,1,1,it,SES,South-America
 '5a9124c973',extremes,Heat Wave,#c40202,wmo,ondata di caldo las flores y alrededores,2026-01-27T03:58:00+00:00,Argentina,0.5183004246035645,1,1,it,SES,South-America
 'e9f2b42100',extremes,Heat Wave,#c40202,wmo,ondata di caldo la plata y alrededores,2026-01-27T03:58:00+00:00,Argentina,0.5180766242635741,1,1,it,SES,South-America
