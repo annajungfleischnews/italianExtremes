@@ -65,6 +65,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3840c76d04',extremes,Storm,#b3b2b1,wmo,tempesta calabria,2026-01-18T03:57:00+00:00,Italy,0.5391870395914278,1,2,it,MED,Europe
 'a0092fba89',extremes,Thunderstorm,#53785a,wmo,temporale sardegna,2026-01-18T03:57:00+00:00,Italy,0.5385368754347959,1,1,it,MED,Europe
 '642e895343',extremes,Snow&Ice,#d60d2b,wmo,neve valle d'aosta,2026-01-27T03:58:00+00:00,Italy,0.5383695873389786,2,1,it,MED,Europe
+'bfe8b114a8',extremes,Storm,#b3b2b1,wmo,mareggiata valle d'aosta,2026-02-10T04:43:00+00:00,Italy,0.5376031580500272,0,1,it,MED,Europe
 '128c953b1e',extremes,Precipitation,#d60d2b,wmo,precipitazioni sicilia,2026-01-26T04:09:00+00:00,Italy,0.5352483356777437,1,2,it,MED,Europe
 '0c3d21da24',extremes,Precipitation,#d60d2b,wmo,acquazzone italia,2026-01-18T03:57:00+00:00,Italy,0.5347992008857811,1,1,it,MED,Europe
 'eced88a9b2',extremes,Precipitation,#d60d2b,wmo,acquazzone liguria,2026-01-26T04:09:00+00:00,Italy,0.5347468372870731,0,1,it,MED,Europe
@@ -110,6 +111,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '395db40dcf',extremes,Heat Wave,#c40202,wmo,ondata di caldo corrientes y alrededores,2026-01-28T03:56:00+00:00,Argentina,0.5179600536983483,1,1,it,SES,South-America
 '6653d205b8',extremes,Heat Wave,#c40202,wmo,ondata di caldo marcos juarez y alrededores,2026-01-28T03:56:00+00:00,Argentina,0.5175779570696407,1,1,it,SES,South-America
 '84c81d05e3',extremes,Heat Wave,#c40202,wmo,ondata di caldo villa reynolds e dintorni,2026-01-23T04:03:00+00:00,Argentina,0.5175762661511745,1,1,it,SES,South-America
+'5c418b222c',extremes,Precipitation,#d60d2b,wmo,piogge torrenziali basilicata,2026-01-28T03:56:00+00:00,Italy,0.5174268667086126,0,1,it,MED,Europe
 '20d3210be7',extremes,Heat Wave,#c40202,wmo,ondata di caldo bernardo de irigoyen y alrededores,2026-01-30T04:21:00+00:00,Argentina,0.5173305296522369,1,1,it,SES,South-America
 '2fbb3e12ae',extremes,Heat Wave,#c40202,wmo,ondata di caldo concordia y alrededores,2026-01-27T03:58:00+00:00,Argentina,0.5172092741004293,1,1,it,SES,South-America
 '8a442a950f',extremes,Heat Wave,#c40202,wmo,ondata di caldo bahia blanca y alrededores,2026-01-29T04:19:00+00:00,Argentina,0.5171353907004667,1,1,it,SES,South-America
