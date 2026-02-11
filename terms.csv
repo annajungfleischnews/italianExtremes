@@ -42,7 +42,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '21b6e29992',extremes,Precipitation,#d60d2b,wmo,precipitazioni piemonte,2026-01-23T04:03:00+00:00,Italy,0.5501019185353885,1,1,it,MED,Europe
 'cc2c75197d',extremes,Snow&Ice,#d60d2b,wmo,neve piemonte,2026-01-28T03:56:00+00:00,Italy,0.5489281532524937,1,2,it,MED,Europe
 '56da66adf9',extremes,Thunderstorm,#53785a,wmo,maltempo basilicata,2026-02-05T04:27:00+00:00,Italy,0.5484861954767511,1,1,it,MED,Europe
-'89cd0748e9',extremes,Precipitation,#d60d2b,wmo,pioggia friuli venezia giulia,2026-02-03T04:27:00+00:00,Italy,0.5484817210167492,0,1,it,MED,Europe
 '0587e67588',extremes,Precipitation,#d60d2b,wmo,piogge torrenziali lazio,2026-02-02T04:36:00+00:00,Italy,0.5483852821561472,0,1,it,MED,Europe
 '687e972301',extremes,Precipitation,#d60d2b,wmo,precipitazioni calabria,2026-01-29T04:19:00+00:00,Italy,0.5480728847881173,0,1,it,MED,Europe
 'f14331b9f6',extremes,Thunderstorm,#53785a,wmo,maltempo calabria,2026-01-17T03:44:00+00:00,Italy,0.5478674724328132,0,1,it,MED,Europe
@@ -116,6 +115,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8a442a950f',extremes,Heat Wave,#c40202,wmo,ondata di caldo bahia blanca y alrededores,2026-01-29T04:19:00+00:00,Argentina,0.5171353907004667,1,1,it,SES,South-America
 '372f6d8ad2',extremes,Heat Wave,#c40202,wmo,ondata di caldo tres arroyos y alrededores,2026-01-27T03:58:00+00:00,Argentina,0.5168225693087708,1,1,it,SES,South-America
 '1d6da9893b',extremes,Heat Wave,#c40202,wmo,ondata di caldo giugno e dintorni,2026-01-27T03:58:00+00:00,Argentina,0.5166702691387477,1,1,it,SES,South-America
+'89cd0748e9',extremes,Precipitation,#d60d2b,wmo,pioggia friuli venezia giulia,2026-02-03T04:27:00+00:00,Italy,0.5166595078642369,1,1,it,MED,Europe
 '93f18e9364',extremes,Heat Wave,#c40202,wmo,ondata di caldo argentina,2026-01-21T03:56:00+00:00,Argentina,0.5164505676216583,1,1,it,SES,South-America
 'fe7674590b',extremes,Storm,#b3b2b1,wmo,tempesta cordoba san justo.,2026-01-29T04:19:00+00:00,Argentina,0.5157323251862284,1,1,it,SES,South-America
 'e93b64a215',extremes,Storm,#b3b2b1,wmo,mareggiata cordoba ischilin totoral.,2026-01-29T04:19:00+00:00,Argentina,0.5155091497967308,1,1,it,SES,South-America
@@ -180,7 +180,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f47d67ad09',extremes,Precipitation,#d60d2b,wmo,pioggia pugliese,2026-02-03T04:27:00+00:00,Italy,0.4695826864754298,1,1,it,MED,Europe
 '0e11501646',extremes,Storm,#b3b2b1,wmo,tempesta emilia e romagna,2026-01-25T04:06:00+00:00,Italy,0.4691985619934791,2,1,it,MED,Europe
 '686603e210',extremes,Precipitation,#d60d2b,wmo,diluvio molisano,2026-02-05T04:27:00+00:00,Italy,0.4687495056347335,1,1,it,MED,Europe
-'13d52d0826',extremes,Thunderstorm,#53785a,wmo,grandine lazio,2026-02-10T04:43:00+00:00,Italy,0.46762310208075486,1,1,it,MED,Europe
+'13d52d0826',extremes,Thunderstorm,#53785a,wmo,grandine lazio,2026-02-10T04:43:00+00:00,Italy,0.4676231020807548,1,1,it,MED,Europe
 '507412aefc',extremes,Storm,#b3b2b1,wmo,tempesta italia,2026-01-17T03:44:00+00:00,Italy,0.4672293813943718,1,1,it,MED,Europe
 'daed8f4597',extremes,Earthquake,#870007,usgs,terremoto in somalia,2026-01-15T12:13:00+00:00,Somalia,0.4632461431332687,2,1,it,NEAF,Africa
 '0d99295f2f',extremes,Drought,#edc291,edo,mancanza di pioggia somalia,2026-01-15T12:14:00+00:00,Somalia,0.4597603176119019,1,1,it,NEAF,Africa
