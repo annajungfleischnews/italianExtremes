@@ -44,7 +44,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '56da66adf9',extremes,Thunderstorm,#53785a,wmo,maltempo basilicata,2026-02-05T04:27:00+00:00,Italy,0.5484861954767511,1,1,it,MED,Europe
 '0587e67588',extremes,Precipitation,#d60d2b,wmo,piogge torrenziali lazio,2026-02-02T04:36:00+00:00,Italy,0.5483852821561472,0,1,it,MED,Europe
 '687e972301',extremes,Precipitation,#d60d2b,wmo,precipitazioni calabria,2026-01-29T04:19:00+00:00,Italy,0.5480728847881173,0,1,it,MED,Europe
-'f14331b9f6',extremes,Thunderstorm,#53785a,wmo,maltempo calabria,2026-01-17T03:44:00+00:00,Italy,0.5478674724328132,0,1,it,MED,Europe
 '1fea4f642d',extremes,Storm,#b3b2b1,wmo,tempesta svizzera,2026-01-27T03:58:00+00:00,Switzerland,0.5465602405368215,0,1,it,WCE,Europe
 'd5d4b91634',extremes,Earthquake,#870007,usgs,terremoto vinchina,2026-02-06T04:27:00+00:00,Argentina,0.5463941080995889,0,1,it,SWS,South-America
 '6bad2a8cbc',extremes,Earthquake,#870007,usgs,terremoto san agustín de valle fertil,2026-01-15T12:13:00+00:00,Argentina,0.5450428508538988,1,1,it,SES,South-America
@@ -119,6 +118,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1d6da9893b',extremes,Heat Wave,#c40202,wmo,ondata di caldo giugno e dintorni,2026-01-27T03:58:00+00:00,Argentina,0.5166702691387477,1,1,it,SES,South-America
 '89cd0748e9',extremes,Precipitation,#d60d2b,wmo,pioggia friuli venezia giulia,2026-02-03T04:27:00+00:00,Italy,0.5166595078642369,1,1,it,MED,Europe
 '93f18e9364',extremes,Heat Wave,#c40202,wmo,ondata di caldo argentina,2026-01-21T03:56:00+00:00,Argentina,0.5164505676216583,1,1,it,SES,South-America
+'f14331b9f6',extremes,Thunderstorm,#53785a,wmo,maltempo calabria,2026-01-17T03:44:00+00:00,Italy,0.5160945220224367,1,2,it,MED,Europe
 'fe7674590b',extremes,Storm,#b3b2b1,wmo,tempesta cordoba san justo.,2026-01-29T04:19:00+00:00,Argentina,0.5157323251862284,1,1,it,SES,South-America
 'e93b64a215',extremes,Storm,#b3b2b1,wmo,mareggiata cordoba ischilin totoral.,2026-01-29T04:19:00+00:00,Argentina,0.5155091497967308,1,1,it,SES,South-America
 '2e5d011ec9',extremes,Heat Wave,#c40202,wmo,ondata di caldo monte caseros y alrededores,2026-01-30T04:21:00+00:00,Argentina,0.5152717551001313,1,1,it,SES,South-America
