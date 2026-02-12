@@ -81,6 +81,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '347dca16c6',extremes,Snow&Ice,#d60d2b,wmo,neve delémont bellelay,2026-01-24T03:48:00+00:00,Switzerland,0.5286934529890107,0,1,it,WCE,Europe
 '5a36105e4d',extremes,Snow&Ice,#d60d2b,wmo,la Svizzera gelida,2026-01-22T03:59:00+00:00,Switzerland,0.5280484563976595,1,1,it,WCE,Europe
 'cde991c059',extremes,Snow&Ice,#d60d2b,wmo,gelida saint cergue,2026-01-24T03:48:00+00:00,Switzerland,0.5273894406556,0,1,it,WCE,Europe
+'fc6d3a4255',extremes,Storm,#b3b2b1,wmo,mareggiata werdenberg,2026-01-28T03:56:00+00:00,Switzerland,0.5272110886206652,0,1,it,WCE,Europe
 '5c854a933c',extremes,Precipitation,#d60d2b,wmo,pioggia liguria,2026-01-27T03:58:00+00:00,Italy,0.5267751776833213,1,1,it,MED,Europe
 'fdaa0a92ad',extremes,Storm,#b3b2b1,wmo,tempesta campania,2026-01-20T03:56:00+00:00,Italy,0.5250060049305509,1,1,it,MED,Europe
 '8742149670',extremes,Thunderstorm,#53785a,wmo,temporale lazio,2026-02-04T04:21:00+00:00,Italy,0.5235916426050945,2,1,it,MED,Europe
@@ -98,6 +99,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b862f62894',extremes,Storm,#b3b2b1,wmo,mareggiata basilicata,2026-01-24T03:48:00+00:00,Italy,0.5194146522944026,1,1,it,MED,Europe
 'ee113d9ba2',extremes,Heat Wave,#c40202,wmo,ondata di caldo iguazu y alrededores,2026-02-07T04:19:00+00:00,Argentina,0.519414014995427,1,1,it,SES,South-America
 'f102553123',extremes,Snow&Ice,#d60d2b,wmo,riviera di ghiaccio,2026-01-23T04:03:00+00:00,Switzerland,0.519327053018953,0,1,it,WCE,Europe
+'15c6a45e95',extremes,Snow&Ice,#d60d2b,wmo,Basilea ghiaccio,2026-01-24T03:48:00+00:00,Switzerland,0.5188716119208069,0,1,it,WCE,Europe
 'ee5f7d0760',extremes,Snow&Ice,#d60d2b,wmo,ghiaccio verzasca,2026-01-23T04:03:00+00:00,Switzerland,0.5188667722643336,0,1,it,WCE,Europe
 'aa38978c0b',extremes,Heat Wave,#c40202,wmo,ondata di caldo gualeguaychu y alrededores,2026-01-27T03:58:00+00:00,Argentina,0.5183713019240691,1,1,it,SES,South-America
 '5a9124c973',extremes,Heat Wave,#c40202,wmo,ondata di caldo las flores y alrededores,2026-01-27T03:58:00+00:00,Argentina,0.5183004246035645,1,1,it,SES,South-America
@@ -121,6 +123,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '63b8afd7a4',extremes,Storm,#b3b2b1,wmo,tempesta lazio,2026-01-19T04:03:00+00:00,Italy,0.5152629800055395,2,2,it,MED,Europe
 'da505455fb',extremes,Thunderstorm,#53785a,wmo,temporale sicilia,2026-01-18T03:57:00+00:00,Italy,0.5152622864244311,1,1,it,MED,Europe
 'ee23d47ac0',extremes,Heat Wave,#c40202,wmo,ondata di caldo rio cuarto y alrededores,2026-01-22T03:59:00+00:00,Argentina,0.5151755628911959,1,1,it,SES,South-America
+'d0368c0f3c',extremes,Storm,#b3b2b1,wmo,tempesta glarona sud sernftal,2026-01-28T03:56:00+00:00,Switzerland,0.5149666101594266,0,1,it,WCE,Europe
 '508b73fb8c',extremes,Storm,#b3b2b1,wmo,mareggiata molisana,2026-01-19T04:03:00+00:00,Italy,0.514918710257812,1,1,it,MED,Europe
 '69dc5fcfc4',extremes,Heat Wave,#c40202,wmo,ondata di caldo parana y alrededores,2026-01-23T04:03:00+00:00,Argentina,0.513859658656549,1,1,it,SES,South-America
 'e9be999d01',extremes,Thunderstorm,#53785a,wmo,grandine calabria,2026-01-19T04:03:00+00:00,Italy,0.5137262165095425,1,1,it,MED,Europe
