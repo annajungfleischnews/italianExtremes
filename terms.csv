@@ -28,7 +28,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c988798ce9',extremes,Thunderstorm,#53785a,wmo,maltempo puglia,2026-02-04T04:21:00+00:00,Italy,0.5743696820981498,2,3,it,MED,Europe
 'f6374995d1',extremes,Tropical Cyclone,#4f4f4f,cmeter,ciclone tropicale italia,2026-01-28T03:57:00+00:00,Italy,0.5722334960298134,2,1,it,MED,Europe
 '1e5dc0cc78',extremes,Precipitation,#d60d2b,wmo,pioggia calabria,2026-01-18T03:57:00+00:00,Italy,0.5697124316893499,1,2,it,MED,Europe
-'0812394012',extremes,Thunderstorm,#53785a,wmo,maltempo lazio,2026-02-12T04:37:00+00:00,Italy,0.5664602977044603,0,1,it,MED,Europe
 'ce6e6561d3',extremes,Snow&Ice,#d60d2b,wmo,neve liguria,2026-01-23T04:03:00+00:00,Italy,0.5628246042693501,1,1,it,MED,Europe
 '3a8dcca50b',extremes,Snow&Ice,#d60d2b,wmo,l'italia gelida,2026-01-19T04:03:00+00:00,Italy,0.5606653551491806,1,1,it,MED,Europe
 '065a434526',extremes,Storm,#b3b2b1,wmo,tempesta Abruzzo,2026-01-24T03:48:00+00:00,Italy,0.560641553960927,2,1,it,MED,Europe
@@ -128,6 +127,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ee23d47ac0',extremes,Heat Wave,#c40202,wmo,ondata di caldo rio cuarto y alrededores,2026-01-22T03:59:00+00:00,Argentina,0.5151755628911959,1,1,it,SES,South-America
 'd0368c0f3c',extremes,Storm,#b3b2b1,wmo,tempesta glarona sud sernftal,2026-01-28T03:56:00+00:00,Switzerland,0.5149666101594266,0,1,it,WCE,Europe
 '508b73fb8c',extremes,Storm,#b3b2b1,wmo,mareggiata molisana,2026-01-19T04:03:00+00:00,Italy,0.514918710257812,1,1,it,MED,Europe
+'0812394012',extremes,Thunderstorm,#53785a,wmo,maltempo lazio,2026-02-12T04:37:00+00:00,Italy,0.5144915530487912,1,1,it,MED,Europe
 '69dc5fcfc4',extremes,Heat Wave,#c40202,wmo,ondata di caldo parana y alrededores,2026-01-23T04:03:00+00:00,Argentina,0.513859658656549,1,1,it,SES,South-America
 'e9be999d01',extremes,Thunderstorm,#53785a,wmo,grandine calabria,2026-01-19T04:03:00+00:00,Italy,0.5137262165095425,1,1,it,MED,Europe
 '01f0f04dd7',extremes,Heat Wave,#c40202,wmo,ondata di caldo caba y alrededores,2026-01-22T03:59:00+00:00,Argentina,0.5131466609840133,1,1,it,SES,South-America
