@@ -122,10 +122,14 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3cbaf14869',extremes,Snow&Ice,#d60d2b,wmo,gelo val de travers,2026-01-24T03:48:00+00:00,Switzerland,0.5142656870065102,0,1,it,WCE,Europe
 '69dc5fcfc4',extremes,Heat Wave,#c40202,wmo,ondata di caldo parana y alrededores,2026-01-23T04:03:00+00:00,Argentina,0.513859658656549,1,1,it,SES,South-America
 'e9be999d01',extremes,Thunderstorm,#53785a,wmo,grandine calabria,2026-01-19T04:03:00+00:00,Italy,0.5137262165095425,1,1,it,MED,Europe
+'5ad66ae8ea',extremes,Storm,#b3b2b1,wmo,la tempesta svolazza laax,2026-02-03T04:27:00+00:00,Switzerland,0.5135278233975691,0,1,it,WCE,Europe
+'64f2fc2dba',extremes,Storm,#b3b2b1,wmo,mareggiata glarona nord mitte,2026-01-28T03:56:00+00:00,Switzerland,0.5135078835039136,0,1,it,WCE,Europe
 '01f0f04dd7',extremes,Heat Wave,#c40202,wmo,ondata di caldo caba y alrededores,2026-01-22T03:59:00+00:00,Argentina,0.5131466609840133,1,1,it,SES,South-America
 '42f1336000',extremes,Drought,#edc291,edo,siccità Somalia,2026-01-21T03:56:00+00:00,Somalia,0.5120765947712943,1,1,it,NEAF,Africa
 'e540afa0aa',extremes,Snow&Ice,#d60d2b,wmo,gelida laufental,2026-01-24T03:48:00+00:00,Switzerland,0.511281219341394,0,1,it,WCE,Europe
+'1938b369dd',extremes,Storm,#b3b2b1,wmo,tempesta rheintal,2026-01-28T03:56:00+00:00,Switzerland,0.5112197765328355,0,1,it,WCE,Europe
 'd94ba52881',extremes,Snow&Ice,#d60d2b,wmo,ghiaccio huttwil willisau,2026-01-24T03:48:00+00:00,Switzerland,0.5106041530030699,0,1,it,WCE,Europe
+'37eae1ce40',extremes,Storm,#b3b2b1,wmo,tempesta brienz interlaken,2026-01-27T03:58:00+00:00,Switzerland,0.5089247232855685,0,1,it,WCE,Europe
 '71aee81e61',extremes,Storm,#b3b2b1,wmo,mareggiata lazio,2026-01-18T03:57:00+00:00,Italy,0.5082974028344347,1,1,it,MED,Europe
 'fd3876a26f',extremes,Snow&Ice,#d60d2b,wmo,gelo emilia e romagna,2026-01-24T03:48:00+00:00,Italy,0.508076510716994,1,1,it,MED,Europe
 'dc8fc164ae',extremes,Precipitation,#d60d2b,wmo,piogge torrenziali sicilia,2026-01-19T04:03:00+00:00,Italy,0.5070951908406857,1,1,it,MED,Europe
