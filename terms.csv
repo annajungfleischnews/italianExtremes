@@ -27,7 +27,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c988798ce9',extremes,Thunderstorm,#53785a,wmo,maltempo puglia,2026-02-04T04:21:00+00:00,Italy,0.5743696820981498,2,3,it,MED,Europe
 'f6374995d1',extremes,Tropical Cyclone,#4f4f4f,cmeter,ciclone tropicale italia,2026-01-28T03:57:00+00:00,Italy,0.5722334960298134,2,1,it,MED,Europe
 '1e5dc0cc78',extremes,Precipitation,#d60d2b,wmo,pioggia calabria,2026-01-18T03:57:00+00:00,Italy,0.5697124316893499,1,2,it,MED,Europe
-'9d36efcb9c',extremes,Thunderstorm,#53785a,wmo,maltempo sicilia,2026-02-01T04:41:00+00:00,Italy,0.5680643665077291,0,1,it,MED,Europe
 '065a434526',extremes,Storm,#b3b2b1,wmo,tempesta Abruzzo,2026-01-24T03:48:00+00:00,Italy,0.560641553960927,2,1,it,MED,Europe
 'f66afddf57',extremes,Snow&Ice,#d60d2b,wmo,gelo lombardia,2026-01-27T03:58:00+00:00,Italy,0.5602628106590899,1,2,it,MED,Europe
 '0df834d969',extremes,Thunderstorm,#53785a,wmo,maltempo sardegna,2026-01-19T04:03:00+00:00,Italy,0.5600071252565786,1,2,it,MED,Europe
@@ -35,6 +34,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '569a1f5c0e',extremes,Storm,#b3b2b1,wmo,mareggiata friuli venezia giulia,2026-01-18T03:57:00+00:00,Italy,0.5539387559942593,2,2,it,MED,Europe
 'a9dcb49498',extremes,Earthquake,#870007,usgs,terremoto del 28 novembre,2026-02-12T04:36:00+00:00,Argentina,0.5528038893242806,0,1,it,SSA,South-America
 '5e29cd96b0',extremes,Precipitation,#d60d2b,wmo,pioggia torrenziale italia,2026-01-21T03:56:00+00:00,Italy,0.552297638954074,1,1,it,MED,Europe
+'9d36efcb9c',extremes,Thunderstorm,#53785a,wmo,maltempo sicilia,2026-02-01T04:41:00+00:00,Italy,0.5514437751679333,1,2,it,MED,Europe
 'ddb888f66d',extremes,Tropical Cyclone,#4f4f4f,cmeter,ciclone mediterraneo harry italia,2026-02-08T04:44:00+00:00,Italy,0.5506766485699092,3,1,it,MED,Europe
 '21b6e29992',extremes,Precipitation,#d60d2b,wmo,precipitazioni piemonte,2026-01-23T04:03:00+00:00,Italy,0.5501019185353885,1,1,it,MED,Europe
 'cc2c75197d',extremes,Snow&Ice,#d60d2b,wmo,neve piemonte,2026-01-28T03:56:00+00:00,Italy,0.5489281532524937,1,2,it,MED,Europe
