@@ -139,6 +139,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '2379a90e4c',extremes,Storm,#b3b2b1,cmeter,tempesta cosenza,2026-02-07T04:20:00+00:00,Italy,0.5047129995804346,1,1,it,MED,Europe
 '715d602abe',extremes,Drought,#edc291,edo,secchezza italia,2026-01-19T04:03:00+00:00,Italy,0.5043989205275982,1,1,it,MED,Europe
 'b77d2e68e3',extremes,Storm,#b3b2b1,wmo,tempesta molisana,2026-01-27T03:58:00+00:00,Italy,0.50325401161551,1,1,it,MED,Europe
+'e3e1ff99ed',extremes,Storm,#b3b2b1,wmo,tempesta lucerna alpnach,2026-02-11T04:41:00+00:00,Switzerland,0.5032153389561103,0,1,it,WCE,Europe
 '5022ceabea',extremes,Storm,#b3b2b1,wmo,mareggiata abruzzo,2026-01-25T04:06:00+00:00,Italy,0.5012849550814288,1,1,it,MED,Europe
 '56da66adf9',extremes,Thunderstorm,#53785a,wmo,maltempo basilicata,2026-02-05T04:27:00+00:00,Italy,0.5004563332980956,2,1,it,MED,Europe
 'c620088f41',extremes,Precipitation,#d60d2b,wmo,piogge torrenziali liguria,2026-01-23T04:03:00+00:00,Italy,0.4990958482371953,1,1,it,MED,Europe
