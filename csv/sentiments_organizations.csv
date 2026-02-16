@@ -1,159 +1,181 @@
 ,phrase,label,sentiment,subjectivity,language,count
 Apple,Apple,ORG,0.15851161995898835,2.0048444976076554,en,9.5
-iLMeteo.it,iLMeteo.it,ORG,0.07488479262672812,0.12288786482334871,en,3.0999999999999996
+iLMeteo.it,iLMeteo.it,ORG,-0.12312030075187966,0.2756892230576441,en,3.8
+the Civil Protection,the Civil Protection,ORG,0.06111535523300228,0.1336898395721925,en,3.4000000000000004
 NASA,NASA,ORG,0.08035714285714286,0.5952380952380952,en,2.8
-AI,AI,ORG,-0.34363636363636363,1.1112121212121213,en,2.5
 iPhone,iPhone,ORG,0.18825757575757573,0.8884469696969697,en,2.5
+AI,AI,ORG,-0.34363636363636363,1.1112121212121213,en,2.5
 Spotify,Spotify,ORG,0.48394660894660896,1.0957792207792207,en,2.1
 Inter,Inter,ORG,0.22047543100174677,0.4990506569453938,en,1.9000000000000001
 iOS,iOS,ORG,0.14912280701754385,0.5614035087719298,en,1.9000000000000001
 Anticyclone,Anticyclone,ORG,0.2631578947368421,0.0,en,1.9
 Arpal,Arpal,ORG,-0.3888888888888888,0.0,en,1.8
 Ciciliano,Ciciliano,ORG,0.17647058823529413,0.05882352941176471,en,1.7
+Niscemi,Niscemi,ORG,0.0,0.0,en,1.7
+Civil Protection,Civil Protection,ORG,0.0,0.11764705882352942,en,1.7
 Heated Rivalry,Heated Rivalry,ORG,0.44786096256684493,0.26737967914438504,en,1.7
 Serie A,Serie A,ORG,0.056581439393939385,0.47159090909090906,en,1.6
-Samsung,Samsung,ORG,0.21117424242424238,0.8219696969696969,en,1.6
-Google,Google,ORG,-0.12851731601731603,1.807224025974026,en,1.6
 UI,UI,ORG,0.5624999999999999,0.5625,en,1.6
+TuttoAndroid,TuttoAndroid,ORG,0.31534090909090906,0.42329545454545453,en,1.6
+Samsung,Samsung,ORG,0.21117424242424238,0.8219696969696969,en,1.6
+Google Home,Google Home,ORG,0.3125,0.390625,en,1.6
+Google,Google,ORG,-0.12851731601731603,1.807224025974026,en,1.6
 Senate,Senate,ORG,-0.03571428571428572,0.0,en,1.4
-hydrogeological,hydrogeological,ORG,0.057692307692307696,0.375,en,1.3
-TuttoAndroid,TuttoAndroid,ORG,0.38811188811188807,0.5209790209790209,en,1.3
+Monte Isola,Monte Isola,ORG,0.05128205128205128,0.4334554334554334,en,1.3
+Apple Glasses,Apple Glasses,ORG,0.4567307692307692,0.3365384615384615,en,1.3
 iOS 26.2.1,iOS 26.2.1,ORG,0.14685314685314682,0.303962703962704,en,1.3
 OpenAI,OpenAI,ORG,-0.09038461538461538,0.3362179487179487,en,1.3
 Hinge,Hinge,ORG,0.1818181818181818,0.3076923076923077,en,1.3
-App Tracking Transparency,App Tracking Transparency,ORG,0.0,0.3846153846153846,en,1.3
-the Civil Protection,the Civil Protection,ORG,0.10489510489510488,0.34965034965034963,en,1.3
-Apple Glasses,Apple Glasses,ORG,0.4567307692307692,0.3365384615384615,en,1.3
 Siri,Siri,ORG,-0.2141192141192141,0.7172827172827172,en,1.3
+hydrogeological,hydrogeological,ORG,0.057692307692307696,0.375,en,1.3
+App Tracking Transparency,App Tracking Transparency,ORG,0.0,0.3846153846153846,en,1.3
 ANSA,ANSA,ORG,0.0,0.05128205128205128,en,1.3
 Modena,Modena,ORG,0.5757575757575757,0.2727272727272727,en,1.1
 iPhone Pocket,iPhone Pocket,ORG,0.0,0.11363636363636363,en,1.1
-Southern Italy,Southern Italy,ORG,0.015555555555555581,0.0,en,1.0
-Ultra,Ultra,ORG,0.6,0.0,en,1.0
-Issime,Issime,ORG,0.0,0.0,en,1.0
-Camerino,Camerino,ORG,-0.1527777777777778,0.0,en,1.0
-the Milan Cortina Games,the Milan Cortina Games,ORG,0.0,0.0,en,1.0
-Flakes,Flakes,ORG,0.0,0.0,en,1.0
-the US Geological Survey,the US Geological Survey,ORG,0.0,0.0,en,1.0
-Radio FirenzeViola,Radio FirenzeViola,ORG,0.0,0.0,en,1.0
-Pnrr,Pnrr,ORG,-0.2,0.0,en,1.0
-Speleological Rescue,Speleological Rescue,ORG,-0.3,0.0,en,1.0
-Ceresole Reale,Ceresole Reale,ORG,-0.3,0.0,en,1.0
-Niscemi,Niscemi,ORG,0.0,0.0,en,1.0
-Rrahmani,Rrahmani,ORG,0.020833333333333336,0.0,en,1.0
-Befana,Befana,ORG,-0.11666666666666665,0.0,en,1.0
-Messaggero Veneto,Messaggero Veneto,ORG,0.0,0.0,en,1.0
-Chivu,Chivu,ORG,0.4,0.0,en,1.0
-Climate,Climate,ORG,0.125,0.0,en,1.0
-Bora,Bora,ORG,0.0,0.0,en,1.0
-MOURNEY,MOURNEY,ORG,-0.06875,0.0,en,1.0
-the Center for Media and Public Af,the Center for Media and Public Af,ORG,-0.05,0.0,en,1.0
-Cold,Cold,ORG,-0.3222222222222222,0.0,en,1.0
-Regional Agency for Environmental Protection,Regional Agency for Environmental Protection,ORG,-0.1244444444444444,0.0,en,1.0
-ARPA,ARPA,ORG,-0.1244444444444444,0.0,en,1.0
-Communications Earth & Environment,Communications Earth & Environment,ORG,0.0,0.0,en,1.0
-Confagricoltura,Confagricoltura,ORG,-0.6999999999999998,0.0,en,1.0
-LCD,LCD,ORG,0.13333333333333333,0.0,en,1.0
-Apple Watch,Apple Watch,ORG,0.13333333333333333,0.0,en,1.0
-iMac OLED,iMac OLED,ORG,0.13333333333333333,0.0,en,1.0
-LG,LG,ORG,0.13333333333333333,0.6333333333333333,en,1.0
-the Pavia Observatory,the Pavia Observatory,ORG,0.0,0.0,en,1.0
-Corriere dello Sport,Corriere dello Sport,ORG,0.4,0.0,en,1.0
+Apple TV,Apple TV,ORG,0.34375,0.0,en,1.0
+Gemini,Gemini,ORG,0.3,0.0,en,1.0
+Beppe Sala,Beppe Sala,ORG,0.16666666666666666,0.0,en,1.0
+NINJAGO,NINJAGO,ORG,0.25,0.0,en,1.0
+Smartworld,Smartworld,ORG,0.25,0.0,en,1.0
+Zes,Zes,ORG,0.25,0.0,en,1.0
+CGIL Marche,CGIL Marche,ORG,0.23870129870129872,0.0,en,1.0
+Feltrinelli,Feltrinelli,ORG,0.0,0.0,en,1.0
+Ardo,Ardo,ORG,0.13333333333333333,0.0,en,1.0
+Piscinas,Piscinas,ORG,0.3666666666666667,0.0,en,1.0
+Mattarella,Mattarella,ORG,0.75,0.0,en,1.0
+L'Aquila Capital of Culture 2026,L'Aquila Capital of Culture 2026,ORG,0.75,0.0,en,1.0
+eastern,eastern,ORG,0.11111111111111109,0.0,en,1.0
+Cammariere,Cammariere,ORG,0.13636363636363635,0.0,en,1.0
+l'Italia,l'Italia,ORG,-0.015909090909090914,0.0,en,1.0
 the Rio Posada,the Rio Posada,ORG,-0.1125,0.0,en,1.0
-Demoskopika,Demoskopika,ORG,0.0,0.0,en,1.0
+Southern Italy,Southern Italy,ORG,0.015555555555555581,0.0,en,1.0
+Sala & Co.,Sala & Co.,ORG,0.4,0.0,en,1.0
+Google Gemini,Google Gemini,ORG,0.0,0.0,en,1.0
+Ceresole Reale,Ceresole Reale,ORG,-0.3,0.0,en,1.0
+Issime,Issime,ORG,0.0,0.0,en,1.0
+AMG SUV,AMG SUV,ORG,0.675,0.0,en,1.0
+GLC 63 S E Performance Amg,GLC 63 S E Performance Amg,ORG,0.0,0.0,en,1.0
+Radio FirenzeViola,Radio FirenzeViola,ORG,0.0,0.0,en,1.0
+the US Geological Survey,the US Geological Survey,ORG,0.0,0.0,en,1.0
+Municipality,Municipality,ORG,0.5,0.0,en,1.0
+Camerino,Camerino,ORG,-0.1527777777777778,0.0,en,1.0
+Chivu,Chivu,ORG,0.4,0.0,en,1.0
+Bozzetti,Bozzetti,ORG,0.0,0.0,en,1.0
+Corriere dello Sport,Corriere dello Sport,ORG,0.4,0.0,en,1.0
+Campello sul Clitunno,Campello sul Clitunno,ORG,0.1,0.0,en,1.0
+Ornella,Ornella,ORG,0.0,0.0,en,1.0
+LGBT TV,LGBT TV,ORG,0.13636363636363635,0.0,en,1.0
+BuoneFeste2026,BuoneFeste2026,ORG,0.0,0.0,en,1.0
+Audicom-Audiwe,Audicom-Audiwe,ORG,0.011111111111111112,0.0,en,1.0
 the Sardinia Channel,the Sardinia Channel,ORG,0.25,0.0,en,1.0
+Foroglio,Foroglio,ORG,0.8,0.0,en,1.0
 iLMeteo,iLMeteo,ORG,0.0,0.0,en,1.0
 Cimone,Cimone,ORG,0.3,0.0,en,1.0
-Corno alle Scale,Corno alle Scale,ORG,0.3,0.0,en,1.0
-Milan-Cortina,Milan-Cortina,ORG,0.10000000000000005,0.0,en,1.0
-l'Italia,l'Italia,ORG,-0.015909090909090914,0.0,en,1.0
-Civil Protection,Civil Protection,ORG,0.0,0.0,en,1.0
-eastern,eastern,ORG,0.11111111111111109,0.0,en,1.0
-L'Aquila Capital of Culture 2026,L'Aquila Capital of Culture 2026,ORG,0.75,0.0,en,1.0
-Mattarella,Mattarella,ORG,0.75,0.0,en,1.0
-Ardo,Ardo,ORG,0.13333333333333333,0.0,en,1.0
-Gemini,Gemini,ORG,0.3,0.0,en,1.0
-Bloomberg,Bloomberg,ORG,0.0,0.0,en,1.0
-Campello sul Clitunno,Campello sul Clitunno,ORG,0.1,0.0,en,1.0
-Proietti,Proietti,ORG,0.0,0.0,en,1.0
-NINJAGO,NINJAGO,ORG,0.25,0.0,en,1.0
-Beppe Sala,Beppe Sala,ORG,0.16666666666666666,0.0,en,1.0
-Sala & Co.,Sala & Co.,ORG,0.4,0.0,en,1.0
-Piscinas,Piscinas,ORG,0.3666666666666667,0.0,en,1.0
-Google Gemini,Google Gemini,ORG,0.0,0.0,en,1.0
-The Information,The Information,ORG,-0.2409090909090909,0.0,en,1.0
-Audicom-Audiwe,Audicom-Audiwe,ORG,0.011111111111111112,0.0,en,1.0
-BuoneFeste2026,BuoneFeste2026,ORG,0.0,0.0,en,1.0
-LGBT TV,LGBT TV,ORG,0.13636363636363635,0.0,en,1.0
-"Olympics, Bracco Foundation","Olympics, Bracco Foundation",ORG,0.0,0.0,en,1.0
+the Milan Cortina Games,the Milan Cortina Games,ORG,0.0,0.0,en,1.0
+Frane,Frane,ORG,0.0,0.0,en,1.0
+Flakes,Flakes,ORG,0.0,0.0,en,1.0
+Pnrr,Pnrr,ORG,-0.2,0.0,en,1.0
+ISTA,ISTA,ORG,0.0,0.0,en,1.0
+Ultra,Ultra,ORG,0.6,0.0,en,1.0
+Confagricoltura,Confagricoltura,ORG,-0.6999999999999998,0.0,en,1.0
+SIULP,SIULP,ORG,-0.3,0.0,en,1.0
+the Catholic University,the Catholic University,ORG,0.0,0.0,en,1.0
+Tajani,Tajani,ORG,-0.6999999999999998,0.0,en,1.0
+Forca,Forca,ORG,0.0,0.0,en,1.0
+Mediterranea,Mediterranea,ORG,-0.10833333333333334,0.0,en,1.0
+Cortina d'Ampezzo,Cortina d'Ampezzo,ORG,0.4458333333333333,0.0,en,1.0
+Scirocco,Scirocco,ORG,0.25,0.0,en,1.0
+Bologna,Bologna,ORG,0.2,0.0,en,1.0
+the Pavia Observatory,the Pavia Observatory,ORG,0.0,0.0,en,1.0
 Verona,Verona,ORG,0.0,0.0,en,1.0
-Smartworld,Smartworld,ORG,0.25,0.0,en,1.0
-OLED,OLED,ORG,0.26969696969696966,1.087878787878788,en,1.0
-Netflix,Netflix,ORG,2.1166666666666667,1.15,en,1.0
-Presepi d'Italia,Presepi d'Italia,ORG,0.07777777777777777,0.0,en,1.0
-Galliani,Galliani,ORG,0.25,0.0,en,1.0
+"Olympics, Bracco Foundation","Olympics, Bracco Foundation",ORG,0.0,0.0,en,1.0
+the Council of Ministers,the Council of Ministers,ORG,0.0,0.0,en,1.0
+Corno alle Scale,Corno alle Scale,ORG,0.3,0.0,en,1.0
+Coasts,Coasts,ORG,0.0,0.0,en,1.0
+Milan-Cortina,Milan-Cortina,ORG,0.10000000000000005,0.0,en,1.0
+Demoskopika,Demoskopika,ORG,0.0,0.0,en,1.0
+the Austrian Institute of Science and Technology,the Austrian Institute of Science and Technology,ORG,0.0,0.0,en,1.0
+Campo Imperatore,Campo Imperatore,ORG,0.15,0.0,en,1.0
+Bloomberg,Bloomberg,ORG,0.0,0.0,en,1.0
+Lens,Lens,ORG,-0.1875,0.0,en,1.0
+The Information,The Information,ORG,-0.2409090909090909,0.0,en,1.0
+Chianale,Chianale,ORG,0.25,0.0,en,1.0
+Calenda,Calenda,ORG,0.0,0.0,en,1.0
+"Serie B,","Serie B,",ORG,-0.1,0.0,en,1.0
+Banzato,Banzato,ORG,0.0,0.0,en,1.0
+Canneto Pave,Canneto Pave,ORG,0.0,0.0,en,1.0
+Speleological Rescue,Speleological Rescue,ORG,-0.3,0.0,en,1.0
+Rrahmani,Rrahmani,ORG,0.020833333333333336,0.0,en,1.0
 Panettone,Panettone,ORG,0.0,0.0,en,1.0
-Apple TV,Apple TV,ORG,0.34375,0.0,en,1.0
+the Narges Mohammadi Foundation,the Narges Mohammadi Foundation,ORG,-0.19166666666666665,0.0,en,1.0
+Match Group,Match Group,ORG,0.1,0.0,en,1.0
+Air Review,Air Review,ORG,0.0,0.0,en,1.0
+AMD FSR Redstone,AMD FSR Redstone,ORG,-0.4,0.0,en,1.0
+AMD,AMD,ORG,0.3333333333333333,1.0,en,1.0
+AMD FidelityFX Super Resolution,AMD FidelityFX Super Resolution,ORG,0.3333333333333333,0.0,en,1.0
+Pisilli,Pisilli,ORG,0.2857142857142857,0.0,en,1.0
+Sky Sport,Sky Sport,ORG,0.85,0.0,en,1.0
+Celtic Glasgow-Roma,Celtic Glasgow-Roma,ORG,0.85,0.0,en,1.0
+Lavazza,Lavazza,ORG,0.0,0.0,en,1.0
+Fdi,Fdi,ORG,0.06818181818181818,0.0,en,1.0
+the Chamber of Deputies,the Chamber of Deputies,ORG,0.0,0.0,en,1.0
+Council,Council,ORG,0.0,0.0,en,1.0
+the European Space Agency,the European Space Agency,ORG,0.0,0.0,en,1.0
+Sirocco,Sirocco,ORG,0.23214285714285715,0.0,en,1.0
+Palestinian Civil Protection,Palestinian Civil Protection,ORG,0.0,0.0,en,1.0
+the Italian Coffee Committee,the Italian Coffee Committee,ORG,0.05794205794205794,0.0,en,1.0
+Titanium,Titanium,ORG,0.058333333333333334,0.0,en,1.0
+Antitrust,Antitrust,ORG,-0.13333333333333333,0.0,en,1.0
+The iPhone Air's,The iPhone Air's,ORG,0.03125,0.0,en,1.0
+Galliani,Galliani,ORG,0.25,0.0,en,1.0
 the Ara Pacis Museum,the Ara Pacis Museum,ORG,0.26666666666666666,0.0,en,1.0
 Auvers,Auvers,ORG,-0.2,0.0,en,1.0
 Amazon,Amazon,ORG,-0.24166666666666667,0.0,en,1.0
+Presepi d'Italia,Presepi d'Italia,ORG,0.07777777777777777,0.0,en,1.0
 Lazio-Milan,Lazio-Milan,ORG,0.0,0.0,en,1.0
-Avengers,Avengers,ORG,0.25,0.0,en,1.0
-The iPhone Air's,The iPhone Air's,ORG,0.03125,0.0,en,1.0
 iPhone Air,iPhone Air,ORG,0.03125,0.0,en,1.0
+the European Union,the European Union,ORG,0.125,0.0,en,1.0
 the iPhone Air,the iPhone Air,ORG,0.7,0.0,en,1.0
+the Italian Food Union,the Italian Food Union,ORG,0.05794205794205794,0.0,en,1.0
 Maccaja,Maccaja,ORG,0.0,0.0,en,1.0
 Pfas,Pfas,ORG,0.08333333333333334,0.0,en,1.0
 Solvay,Solvay,ORG,0.08333333333333334,0.0,en,1.0
-the Italian Food Union,the Italian Food Union,ORG,0.05794205794205794,0.0,en,1.0
-the Italian Coffee Committee,the Italian Coffee Committee,ORG,0.05794205794205794,0.0,en,1.0
-Lavazza,Lavazza,ORG,0.0,0.0,en,1.0
-Council,Council,ORG,0.0,0.0,en,1.0
-the European Space Agency,the European Space Agency,ORG,0.0,0.0,en,1.0
-Chamber,Chamber,ORG,0.0,0.0,en,1.0
-ISSEY,ISSEY,ORG,0.0,0.0,en,1.0
-AMG SUV,AMG SUV,ORG,0.675,0.0,en,1.0
-GLC 63 S E Performance Amg,GLC 63 S E Performance Amg,ORG,0.0,0.0,en,1.0
-Ornella,Ornella,ORG,0.0,0.0,en,1.0
-Bozzetti,Bozzetti,ORG,0.0,0.0,en,1.0
-Feltrinelli,Feltrinelli,ORG,0.0,0.0,en,1.0
-Cammariere,Cammariere,ORG,0.13636363636363635,0.0,en,1.0
-the Austrian Institute of Science and Technology,the Austrian Institute of Science and Technology,ORG,0.0,0.0,en,1.0
-ISTA,ISTA,ORG,0.0,0.0,en,1.0
-Forca,Forca,ORG,0.0,0.0,en,1.0
-Bologna,Bologna,ORG,0.2,0.0,en,1.0
 PFAS,PFAS,ORG,0.125,0.0,en,1.0
-the European Union,the European Union,ORG,0.125,0.0,en,1.0
-Antitrust,Antitrust,ORG,-0.13333333333333333,0.0,en,1.0
-3I/ATLAS,3I/ATLAS,ORG,0.6,0.0,en,1.0
-NIST,NIST,ORG,-0.015151515151515152,0.0,en,1.0
-the National Institute of Standards and Technology,the National Institute of Standards and Technology,ORG,-0.015151515151515152,0.0,en,1.0
-the Clair Obscure Expedition 33,the Clair Obscure Expedition 33,ORG,0.273939393939394,0.0,en,1.0
-Panini Comics,Panini Comics,ORG,0.273939393939394,0.0,en,1.0
-Stelvio Pass,Stelvio Pass,ORG,0.0,0.0,en,1.0
-Avatar,Avatar,ORG,0.0,0.0,en,1.0
-Mac - iPhone Italy,Mac - iPhone Italy,ORG,0.25,0.0,en,1.0
-Il Resto,Il Resto,ORG,0.2,0.0,en,1.0
-Bolzano,Bolzano,ORG,0.0,0.0,en,1.0
-gazzetta.it,gazzetta.it,ORG,0.0,0.0,en,1.0
-Supercoppa Italia,Supercoppa Italia,ORG,0.0,0.0,en,1.0
-Calhanoglu,Calhanoglu,ORG,0.5,0.0,en,1.0
-Licia Colò,Licia Colò,ORG,-0.16666666666666666,0.0,en,1.0
-Walnuts,Walnuts,ORG,-0.6999999999999998,0.0,en,1.0
-the Oval Office,the Oval Office,ORG,-0.02121212121212122,0.0,en,1.0
-Titanium,Titanium,ORG,0.058333333333333334,0.0,en,1.0
-the Narges Mohammadi Foundation,the Narges Mohammadi Foundation,ORG,-0.19166666666666665,0.0,en,1.0
 Luca Grandicelli,Luca Grandicelli,ORG,0.0,0.0,en,1.0
-Palestinian Civil Protection,Palestinian Civil Protection,ORG,0.0,0.0,en,1.0
-Sirocco,Sirocco,ORG,0.23214285714285715,0.0,en,1.0
-the Chamber of Deputies,the Chamber of Deputies,ORG,0.0,0.0,en,1.0
-Fdi,Fdi,ORG,0.06818181818181818,0.0,en,1.0
-Celtic Glasgow-Roma,Celtic Glasgow-Roma,ORG,0.85,0.0,en,1.0
-Sky Sport,Sky Sport,ORG,0.85,0.0,en,1.0
-Pisilli,Pisilli,ORG,0.2857142857142857,0.0,en,1.0
-AMD FidelityFX Super Resolution,AMD FidelityFX Super Resolution,ORG,0.3333333333333333,0.0,en,1.0
-AMD,AMD,ORG,0.3333333333333333,1.0,en,1.0
-AMD FSR Redstone,AMD FSR Redstone,ORG,-0.4,0.0,en,1.0
-Air Review,Air Review,ORG,0.0,0.0,en,1.0
-Match Group,Match Group,ORG,0.1,0.0,en,1.0
-SIULP,SIULP,ORG,-0.3,0.0,en,1.0
+the Oval Office,the Oval Office,ORG,-0.02121212121212122,0.0,en,1.0
+Befana,Befana,ORG,-0.11666666666666665,0.0,en,1.0
+Chamber,Chamber,ORG,0.0,0.0,en,1.0
+Proietti,Proietti,ORG,0.0,0.0,en,1.0
+Il Resto,Il Resto,ORG,0.2,0.0,en,1.0
+LG,LG,ORG,0.13333333333333333,0.6333333333333333,en,1.0
+iMac OLED,iMac OLED,ORG,0.13333333333333333,0.0,en,1.0
+Apple Watch,Apple Watch,ORG,0.13333333333333333,0.0,en,1.0
+LCD,LCD,ORG,0.13333333333333333,0.0,en,1.0
+Communications Earth & Environment,Communications Earth & Environment,ORG,0.0,0.0,en,1.0
+ARPA,ARPA,ORG,-0.1244444444444444,0.0,en,1.0
+Regional Agency for Environmental Protection,Regional Agency for Environmental Protection,ORG,-0.1244444444444444,0.0,en,1.0
+Cold,Cold,ORG,-0.3222222222222222,0.0,en,1.0
+the Center for Media and Public Af,the Center for Media and Public Af,ORG,-0.05,0.0,en,1.0
+MOURNEY,MOURNEY,ORG,-0.06875,0.0,en,1.0
+Bora,Bora,ORG,0.0,0.0,en,1.0
+Climate,Climate,ORG,0.125,0.0,en,1.0
+Messaggero Veneto,Messaggero Veneto,ORG,0.0,0.0,en,1.0
+Netflix,Netflix,ORG,2.1166666666666667,1.15,en,1.0
+Avengers,Avengers,ORG,0.25,0.0,en,1.0
+NIST,NIST,ORG,-0.015151515151515152,0.0,en,1.0
+gazzetta.it,gazzetta.it,ORG,0.0,0.0,en,1.0
+3I/ATLAS,3I/ATLAS,ORG,0.6,0.0,en,1.0
+Walnuts,Walnuts,ORG,-0.6999999999999998,0.0,en,1.0
+ISSEY,ISSEY,ORG,0.0,0.0,en,1.0
+Licia Colò,Licia Colò,ORG,-0.16666666666666666,0.0,en,1.0
+Calhanoglu,Calhanoglu,ORG,0.5,0.0,en,1.0
+Supercoppa Italia,Supercoppa Italia,ORG,0.0,0.0,en,1.0
+Bolzano,Bolzano,ORG,0.0,0.0,en,1.0
+the National Institute of Standards and Technology,the National Institute of Standards and Technology,ORG,-0.015151515151515152,0.0,en,1.0
+OLED,OLED,ORG,0.26969696969696966,1.087878787878788,en,1.0
+Mac - iPhone Italy,Mac - iPhone Italy,ORG,0.25,0.0,en,1.0
+Avatar,Avatar,ORG,0.0,0.0,en,1.0
+Stelvio Pass,Stelvio Pass,ORG,0.0,0.0,en,1.0
+Panini Comics,Panini Comics,ORG,0.273939393939394,0.0,en,1.0
+the Clair Obscure Expedition 33,the Clair Obscure Expedition 33,ORG,0.273939393939394,0.0,en,1.0
+Como,Como,ORG,-0.16666666666666666,0.0,en,1.0
