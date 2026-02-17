@@ -45,10 +45,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3840c76d04',extremes,Storm,#b3b2b1,wmo,tempesta calabria,2026-01-18T03:57:00+00:00,Italy,0.5391870395914278,1,2,it,MED,Europe
 '642e895343',extremes,Snow&Ice,#d60d2b,wmo,neve valle d'aosta,2026-01-27T03:58:00+00:00,Italy,0.5383695873389786,2,1,it,MED,Europe
 '116616eb5b',extremes,Storm,#b3b2b1,wmo,mareggiata emilia e romagna,2026-01-27T03:58:00+00:00,Italy,0.5378727376213503,2,2,it,MED,Europe
-'128c953b1e',extremes,Precipitation,#d60d2b,wmo,precipitazioni sicilia,2026-01-26T04:09:00+00:00,Italy,0.5352483356777437,1,2,it,MED,Europe
 '0c3d21da24',extremes,Precipitation,#d60d2b,wmo,acquazzone italia,2026-01-18T03:57:00+00:00,Italy,0.5347992008857811,1,1,it,MED,Europe
 '973af89b5a',extremes,Thunderstorm,#53785a,wmo,temporale calabria,2026-02-11T04:41:00+00:00,Italy,0.5337305498408975,1,2,it,MED,Europe
-'2a0fdfe0dd',extremes,Precipitation,#d60d2b,wmo,piogge torrenziali lombardia,2026-02-03T04:27:00+00:00,Italy,0.5332480661013104,0,1,it,MED,Europe
 'ddc0b2c2fb',extremes,Storm,#b3b2b1,wmo,mareggiata campania,2026-01-19T04:03:00+00:00,Italy,0.5332164736237878,1,1,it,MED,Europe
 'cd8395100f',extremes,Storm,#b3b2b1,wmo,mareggiata puglia,2026-01-20T03:56:00+00:00,Italy,0.5322080035141195,1,1,it,MED,Europe
 'ac9b4f5444',extremes,Storm,#b3b2b1,wmo,mareggiata argentina,2026-01-15T10:56:00+00:00,Argentina,0.5316418311751259,1,1,it,SES,South-America
@@ -154,6 +152,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '2cce7328e9',extremes,Storm,#b3b2b1,wmo,tempesta liguria,2026-02-05T04:27:00+00:00,Italy,0.4975838633601098,1,1,it,MED,Europe
 '30b7b41a32',extremes,Storm,#b3b2b1,wmo,mareggiata marcia,2026-01-27T03:58:00+00:00,Italy,0.4972828526613449,1,1,it,MED,Europe
 '6f77ec93ab',extremes,Snow&Ice,#d60d2b,wmo,ghiaccio lombardia,2026-01-28T03:56:00+00:00,Italy,0.4972325364106069,1,1,it,MED,Europe
+'128c953b1e',extremes,Precipitation,#d60d2b,wmo,precipitazioni sicilia,2026-01-26T04:09:00+00:00,Italy,0.4962753516897185,2,2,it,MED,Europe
 '5b10a8b809',extremes,Snow&Ice,#d60d2b,wmo,gelido friuli venezia giulia,2026-01-25T04:06:00+00:00,Italy,0.4950267834597239,1,1,it,MED,Europe
 '640b0c1fe5',extremes,Storm,#b3b2b1,wmo,tempesta umbria,2026-01-28T03:56:00+00:00,Italy,0.4949436934885814,1,1,it,MED,Europe
 '92ff957955',extremes,Snow&Ice,#d60d2b,wmo,neve svizzera,2026-01-23T04:03:00+00:00,Switzerland,0.494036210251531,1,2,it,WCE,Europe
@@ -222,12 +221,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'da7d718400',extremes,Thunderstorm,#53785a,wmo,temporale pugliese,2026-02-12T04:37:00+00:00,Italy,0.4607689012096559,1,1,it,MED,Europe
 '0d99295f2f',extremes,Drought,#edc291,edo,mancanza di pioggia somalia,2026-01-15T12:14:00+00:00,Somalia,0.4597603176119019,1,1,it,NEAF,Africa
 '008b58f095',extremes,Storm,#b3b2b1,wmo,mareggiata piemonte,2026-02-15T04:35:00+00:00,Italy,0.4596005651645084,1,1,it,MED,Europe
-'46faf1e7f5',extremes,Snow&Ice,#d60d2b,wmo,ghiaccio meseey val d'illiez,2026-02-17T04:31:00+00:00,Switzerland,0.45942331802448816,1,1,it,WCE,Europe
+'46faf1e7f5',extremes,Snow&Ice,#d60d2b,wmo,ghiaccio meseey val d'illiez,2026-02-17T04:31:00+00:00,Switzerland,0.4594233180244881,1,1,it,WCE,Europe
 '207df0d218',extremes,Precipitation,#d60d2b,wmo,piogge torrenziali piemonte,2026-02-02T04:36:00+00:00,Italy,0.4587910054336696,1,1,it,MED,Europe
 '3db2345e5f',extremes,Snow&Ice,#d60d2b,wmo,muotathal di ghiaccio,2026-02-15T04:35:00+00:00,Switzerland,0.4571959073410887,1,1,it,WCE,Europe
 'bfe8b114a8',extremes,Storm,#b3b2b1,wmo,mareggiata valle d'aosta,2026-02-10T04:43:00+00:00,Italy,0.4569626843425231,1,1,it,MED,Europe
 'eced88a9b2',extremes,Precipitation,#d60d2b,wmo,acquazzone liguria,2026-01-26T04:09:00+00:00,Italy,0.4545348116940121,1,1,it,MED,Europe
 '0301a561b6',extremes,Thunderstorm,#53785a,wmo,grandine puglia,2026-02-10T04:43:00+00:00,Italy,0.4540979476991577,1,1,it,MED,Europe
+'2a0fdfe0dd',extremes,Precipitation,#d60d2b,wmo,piogge torrenziali lombardia,2026-02-03T04:27:00+00:00,Italy,0.4532608561861138,1,1,it,MED,Europe
 '347dca16c6',extremes,Snow&Ice,#d60d2b,wmo,neve delémont bellelay,2026-01-24T03:48:00+00:00,Switzerland,0.4493894350406591,1,1,it,WCE,Europe
 'fc6d3a4255',extremes,Storm,#b3b2b1,wmo,mareggiata werdenberg,2026-01-28T03:56:00+00:00,Switzerland,0.4481294253275654,1,1,it,WCE,Europe
 '0c9ce7bbc6',extremes,Earthquake,#870007,usgs,terremoto calingasta,2026-01-28T03:56:00+00:00,Argentina,0.4481174567929397,1,1,it,SWS,South-America
