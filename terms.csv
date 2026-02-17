@@ -29,7 +29,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '065a434526',extremes,Storm,#b3b2b1,wmo,tempesta Abruzzo,2026-01-24T03:48:00+00:00,Italy,0.560641553960927,2,1,it,MED,Europe
 'f66afddf57',extremes,Snow&Ice,#d60d2b,wmo,gelo lombardia,2026-01-27T03:58:00+00:00,Italy,0.5602628106590899,1,2,it,MED,Europe
 '0df834d969',extremes,Thunderstorm,#53785a,wmo,maltempo sardegna,2026-01-19T04:03:00+00:00,Italy,0.5600071252565786,1,2,it,MED,Europe
-'b1d7a75a38',extremes,Storm,#b3b2b1,wmo,tempesta sicilia,2026-01-17T03:44:00+00:00,Italy,0.5576534432751374,1,2,it,MED,Europe
 '569a1f5c0e',extremes,Storm,#b3b2b1,wmo,mareggiata friuli venezia giulia,2026-01-18T03:57:00+00:00,Italy,0.5539387559942593,2,2,it,MED,Europe
 '5e29cd96b0',extremes,Precipitation,#d60d2b,wmo,pioggia torrenziale italia,2026-01-21T03:56:00+00:00,Italy,0.552297638954074,1,1,it,MED,Europe
 '9d36efcb9c',extremes,Thunderstorm,#53785a,wmo,maltempo sicilia,2026-02-01T04:41:00+00:00,Italy,0.5514437751679333,1,2,it,MED,Europe
@@ -108,7 +107,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '63b8afd7a4',extremes,Storm,#b3b2b1,wmo,tempesta lazio,2026-01-19T04:03:00+00:00,Italy,0.5152629800055395,2,2,it,MED,Europe
 'da505455fb',extremes,Thunderstorm,#53785a,wmo,temporale sicilia,2026-01-18T03:57:00+00:00,Italy,0.5152622864244311,1,1,it,MED,Europe
 'ee23d47ac0',extremes,Heat Wave,#c40202,wmo,ondata di caldo rio cuarto y alrededores,2026-01-22T03:59:00+00:00,Argentina,0.5151755628911959,1,1,it,SES,South-America
-'d0368c0f3c',extremes,Storm,#b3b2b1,wmo,tempesta glarona sud sernftal,2026-01-28T03:56:00+00:00,Switzerland,0.5149666101594266,0,1,it,WCE,Europe
 '508b73fb8c',extremes,Storm,#b3b2b1,wmo,mareggiata molisana,2026-01-19T04:03:00+00:00,Italy,0.514918710257812,1,1,it,MED,Europe
 '0812394012',extremes,Thunderstorm,#53785a,wmo,maltempo lazio,2026-02-12T04:37:00+00:00,Italy,0.5144915530487912,1,1,it,MED,Europe
 '3cbaf14869',extremes,Snow&Ice,#d60d2b,wmo,gelo val de travers,2026-01-24T03:48:00+00:00,Switzerland,0.5142656870065102,0,1,it,WCE,Europe
@@ -162,6 +160,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5535eb6776',extremes,Precipitation,#d60d2b,wmo,piogge torrenziali calabria,2026-02-04T04:21:00+00:00,Italy,0.4917060151874238,1,1,it,MED,Europe
 'b9a82bfdaa',extremes,Storm,#b3b2b1,wmo,tempesta veneta,2026-01-28T03:56:00+00:00,Italy,0.4916563607809098,1,1,it,MED,Europe
 '241b679149',extremes,Thunderstorm,#53785a,wmo,salve sicilia,2026-01-20T03:56:00+00:00,Italy,0.4906241923159886,1,1,it,MED,Europe
+'b1d7a75a38',extremes,Storm,#b3b2b1,wmo,tempesta sicilia,2026-01-17T03:44:00+00:00,Italy,0.4905060717838668,2,2,it,MED,Europe
 '2acc964cba',extremes,Storm,#b3b2b1,wmo,mareggiata toscana,2026-01-19T04:03:00+00:00,Italy,0.4899503326294431,1,1,it,MED,Europe
 '99e70937bb',extremes,Heat Wave,#c40202,wmo,ondata di caldo punta indio y alrededores,2026-01-27T03:58:00+00:00,Argentina,0.4898025135502228,1,1,it,SES,South-America
 'c67e1b756d',extremes,Snow&Ice,#d60d2b,wmo,ghiaccio liguria,2026-01-26T04:09:00+00:00,Italy,0.4895729130699549,1,1,it,MED,Europe
@@ -230,6 +229,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'cbda6735c3',extremes,Storm,#b3b2b1,wmo,mareggiata appenzello,2026-01-28T03:56:00+00:00,Switzerland,0.44229655773323,1,1,it,WCE,Europe
 'a07f9a3b5e',extremes,Snow&Ice,#d60d2b,wmo,mendrisiotto di ghiaccio,2026-01-23T04:03:00+00:00,Switzerland,0.4417455490485336,1,1,it,WCE,Europe
 'fb7bf220d2',extremes,Precipitation,#d60d2b,wmo,acquazzone calabria,2026-01-17T03:44:00+00:00,Italy,0.4386127392275449,1,1,it,MED,Europe
+'d0368c0f3c',extremes,Storm,#b3b2b1,wmo,tempesta glarona sud sernftal,2026-01-28T03:56:00+00:00,Switzerland,0.43772161863551257,1,1,it,WCE,Europe
 '1938b369dd',extremes,Storm,#b3b2b1,wmo,tempesta rheintal,2026-01-28T03:56:00+00:00,Switzerland,0.4345368100529101,1,1,it,WCE,Europe
 '5d8c239887',extremes,Drought,#edc291,edo,mancanza di pioggia libia,2026-01-17T03:44:00+00:00,Libya,0.4053570480695185,1,1,it,SAH,Africa
 '20741ce7eb',extremes,Tsunami,#690191,random,tsunami,2026-01-15T10:39:00+00:00,,0.4034306012723958,1,2,it,,
