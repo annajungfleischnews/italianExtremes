@@ -47,6 +47,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ddc0b2c2fb',extremes,Storm,#b3b2b1,wmo,mareggiata campania,2026-01-19T04:03:00+00:00,Italy,0.5332164736237878,1,1,it,MED,Europe
 'cd8395100f',extremes,Storm,#b3b2b1,wmo,mareggiata puglia,2026-01-20T03:56:00+00:00,Italy,0.5322080035141195,1,1,it,MED,Europe
 '3a23ad42fe',extremes,Precipitation,#d60d2b,wmo,pioggia torrenziale argentina,2026-01-15T10:56:00+00:00,Argentina,0.5314276159184483,1,1,it,SES,South-America
+'4089b2ad7c',extremes,Snow&Ice,#d60d2b,wmo,neve adelboden kandersteg,2026-02-17T04:31:00+00:00,Switzerland,0.5309751925888883,0,1,it,WCE,Europe
 '65daebfdc6',extremes,Snow&Ice,#d60d2b,wmo,neve luganese,2026-01-24T03:48:00+00:00,Switzerland,0.5296669435379597,0,1,it,WCE,Europe
 '5a36105e4d',extremes,Snow&Ice,#d60d2b,wmo,la Svizzera gelida,2026-01-22T03:59:00+00:00,Switzerland,0.5280484563976595,1,1,it,WCE,Europe
 'cde991c059',extremes,Snow&Ice,#d60d2b,wmo,gelida saint cergue,2026-01-24T03:48:00+00:00,Switzerland,0.5273894406556,0,1,it,WCE,Europe
