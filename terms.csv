@@ -52,10 +52,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6076c8543a',extremes,Storm,#b3b2b1,wmo,mareggiata liguria,2026-01-20T03:56:00+00:00,Italy,0.5255748630851023,2,2,it,MED,Europe
 '8742149670',extremes,Thunderstorm,#53785a,wmo,temporale lazio,2026-02-04T04:21:00+00:00,Italy,0.5235916426050945,2,1,it,MED,Europe
 '82b8913676',extremes,Storm,#b3b2b1,wmo,mareggiata sardegna,2026-01-22T03:59:00+00:00,Italy,0.5223330290094079,2,2,it,MED,Europe
-'9e16e98704',extremes,Snow&Ice,#d60d2b,wmo,gelo abruzzese,2026-01-25T04:06:00+00:00,Italy,0.522243143311354,1,1,it,MED,Europe
-'0a2976013b',extremes,Storm,#b3b2b1,wmo,mareggiata urner oberland,2026-02-03T04:27:00+00:00,Switzerland,0.5218396183398099,0,1,it,WCE,Europe
-'a63efd7f21',extremes,Heat Wave,#c40202,wmo,ondata di caldo tartagal y alrededores,2026-02-17T04:31:00+00:00,Argentina,0.5215480687407991,1,1,it,SES,South-America
-'b897902890',extremes,Snow&Ice,#d60d2b,wmo,gelo valle d'aosta,2026-02-10T04:43:00+00:00,Italy,0.5214759052100352,0,1,it,MED,Europe
 '5eae3aed3f',extremes,Thunderstorm,#53785a,wmo,grandine basilicata,2026-01-18T03:57:00+00:00,Italy,0.5214216022326419,1,1,it,MED,Europe
 'dcef080672',extremes,Thunderstorm,#53785a,wmo,temporale toscana,2026-01-25T04:06:00+00:00,Italy,0.5204656919216881,1,1,it,MED,Europe
 'a89147746d',extremes,Thunderstorm,#53785a,wmo,maltempo campania,2026-02-15T04:35:00+00:00,Italy,0.520383089523146,1,2,it,MED,Europe
@@ -254,6 +250,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6efb2f364a',extremes,Storm,#b3b2b1,wmo,tempesta delémont bellelay,2026-02-12T04:37:00+00:00,Switzerland,0.4453790902316806,1,1,it,WCE,Europe
 '8009981fb6',extremes,Thunderstorm,#53785a,wmo,grandine campania,2026-02-19T04:32:00+00:00,Italy,0.4449157625198098,1,1,it,MED,Europe
 'e083c2b821',extremes,Snow&Ice,#d60d2b,wmo,neve santa cergue,2026-01-22T03:59:00+00:00,Switzerland,0.4445210691235442,1,1,it,WCE,Europe
+'9e16e98704',extremes,Snow&Ice,#d60d2b,wmo,gelo abruzzese,2026-01-25T04:06:00+00:00,Italy,0.4439066718146509,2,1,it,MED,Europe
+'0a2976013b',extremes,Storm,#b3b2b1,wmo,mareggiata urner oberland,2026-02-03T04:27:00+00:00,Switzerland,0.44356367558883836,1,1,it,WCE,Europe
+'b897902890',extremes,Snow&Ice,#d60d2b,wmo,gelo valle d'aosta,2026-02-10T04:43:00+00:00,Italy,0.4434045344285299,1,1,it,MED,Europe
+'a63efd7f21',extremes,Heat Wave,#c40202,wmo,ondata di caldo tartagal y alrededores,2026-02-17T04:31:00+00:00,Argentina,0.4433158584296792,2,1,it,SES,South-America
 'cbda6735c3',extremes,Storm,#b3b2b1,wmo,mareggiata appenzello,2026-01-28T03:56:00+00:00,Switzerland,0.44229655773323,1,1,it,WCE,Europe
 'a07f9a3b5e',extremes,Snow&Ice,#d60d2b,wmo,mendrisiotto di ghiaccio,2026-01-23T04:03:00+00:00,Switzerland,0.4417455490485336,1,1,it,WCE,Europe
 'fb7bf220d2',extremes,Precipitation,#d60d2b,wmo,acquazzone calabria,2026-01-17T03:44:00+00:00,Italy,0.4386127392275449,1,1,it,MED,Europe
