@@ -12,6 +12,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8e5b367351',extremes,Precipitation,#d60d2b,wmo,precipitazioni italia,2026-01-17T03:44:00+00:00,Italy,0.6315575212610036,1,3,it,MED,Europe
 '075cc3fe36',extremes,Thunderstorm,#53785a,wmo,maltempo italia,2026-01-20T03:56:00+00:00,Italy,0.6261384768992071,1,2,it,MED,Europe
 '7104ad3c83',extremes,Thunderstorm,#53785a,wmo,temporale italia,2026-01-18T03:57:00+00:00,Italy,0.6214608084178452,1,2,it,MED,Europe
+'ae340540d6',extremes,Precipitation,#d60d2b,wmo,acquazzone argentina,2026-02-05T04:27:00+00:00,Argentina,0.6165757397446292,0,1,it,SES,South-America
 'cec5bc6302',extremes,Snow&Ice,#d60d2b,wmo,ghiaccio friuli venezia giulia,2026-02-03T04:27:00+00:00,Italy,0.6061841607349822,2,2,it,MED,Europe
 '198349cae8',extremes,Snow&Ice,#d60d2b,wmo,neve friuli venezia giulia,2026-01-27T03:58:00+00:00,Italy,0.6061185479540699,1,2,it,MED,Europe
 '12060a7df7',extremes,Storm,#b3b2b1,wmo,mareggiata italia,2026-01-18T03:57:00+00:00,Italy,0.6035285174499612,2,2,it,MED,Europe
@@ -51,8 +52,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3a23ad42fe',extremes,Precipitation,#d60d2b,wmo,pioggia torrenziale argentina,2026-01-15T10:56:00+00:00,Argentina,0.5314276159184483,1,1,it,SES,South-America
 '6076c8543a',extremes,Storm,#b3b2b1,wmo,mareggiata liguria,2026-01-20T03:56:00+00:00,Italy,0.5255748630851023,2,2,it,MED,Europe
 '6c6666b2af',extremes,Precipitation,#d60d2b,wmo,precipitazioni argentina,2026-02-05T04:27:00+00:00,Argentina,0.5247705245431797,1,1,it,SES,South-America
+'9389acab50',extremes,Snow&Ice,#d60d2b,wmo,gelo alto moesano,2026-02-05T04:27:00+00:00,Switzerland,0.5246675890983946,0,1,it,WCE,Europe
 '8742149670',extremes,Thunderstorm,#53785a,wmo,temporale lazio,2026-02-04T04:21:00+00:00,Italy,0.5235916426050945,2,1,it,MED,Europe
 'f6ff301646',extremes,Drought,#edc291,edo,siccità Somalia,2026-02-07T04:19:00+00:00,Somalia,0.5232323068467916,1,1,it,NEAF,Africa
+'309b00cfaf',extremes,Snow&Ice,#d60d2b,wmo,gelido erstfeld engelberg,2026-02-12T04:37:00+00:00,Switzerland,0.5228155001302881,0,1,it,WCE,Europe
 '82b8913676',extremes,Storm,#b3b2b1,wmo,mareggiata sardegna,2026-01-22T03:59:00+00:00,Italy,0.5223330290094079,2,2,it,MED,Europe
 '5eae3aed3f',extremes,Thunderstorm,#53785a,wmo,grandine basilicata,2026-01-18T03:57:00+00:00,Italy,0.5214216022326419,1,1,it,MED,Europe
 'e529bb6ac5',extremes,Precipitation,#d60d2b,wmo,pioggia argentina,2026-02-05T04:27:00+00:00,Argentina,0.5207305105740319,1,1,it,SES,South-America
@@ -103,9 +106,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5377abf72e',extremes,Snow&Ice,#d60d2b,wmo,gelo leventino,2026-02-17T04:31:00+00:00,Switzerland,0.510863906245188,0,1,it,WCE,Europe
 'ddb888f66d',extremes,Tropical Cyclone,#4f4f4f,cmeter,ciclone mediterraneo harry italia,2026-02-08T04:44:00+00:00,Italy,0.5106344071935137,4,1,it,MED,Europe
 'd94ba52881',extremes,Snow&Ice,#d60d2b,wmo,ghiaccio huttwil willisau,2026-01-24T03:48:00+00:00,Switzerland,0.5106041530030699,0,1,it,WCE,Europe
+'bec3111481',extremes,Snow&Ice,#d60d2b,wmo,neve glarona sud grosstal,2026-02-17T04:31:00+00:00,Switzerland,0.510529743109935,0,1,it,WCE,Europe
 'c4b2cc9b74',extremes,Tropical Cyclone,#4f4f4f,cmeter,ciclone mediterraneo harry catania,2026-02-16T04:39:00+00:00,Italy,0.5096689651296287,1,1,it,MED,Europe
 'ea8de7a9b2',extremes,Snow&Ice,#d60d2b,wmo,gelido innertkirchen guttannen,2026-02-17T04:31:00+00:00,Switzerland,0.5091682876778683,0,1,it,WCE,Europe
 '37eae1ce40',extremes,Storm,#b3b2b1,wmo,tempesta brienz interlaken,2026-01-27T03:58:00+00:00,Switzerland,0.5089247232855685,0,1,it,WCE,Europe
+'4e1b2d3b38',extremes,Snow&Ice,#d60d2b,wmo,gelo lötschental naters,2026-02-11T04:41:00+00:00,Switzerland,0.5087200734329694,0,1,it,WCE,Europe
 '71aee81e61',extremes,Storm,#b3b2b1,wmo,mareggiata lazio,2026-01-18T03:57:00+00:00,Italy,0.5082974028344347,1,1,it,MED,Europe
 'fd3876a26f',extremes,Snow&Ice,#d60d2b,wmo,gelo emilia e romagna,2026-01-24T03:48:00+00:00,Italy,0.508076510716994,1,1,it,MED,Europe
 '7f4bd97552',extremes,Storm,#b3b2b1,wmo,tempesta supersimmentale,2026-02-02T04:36:00+00:00,Switzerland,0.5072064313904285,0,1,it,WCE,Europe
