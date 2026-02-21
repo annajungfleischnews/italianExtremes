@@ -59,7 +59,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'dcef080672',extremes,Thunderstorm,#53785a,wmo,temporale toscana,2026-01-25T04:06:00+00:00,Italy,0.5204656919216881,1,1,it,MED,Europe
 'a89147746d',extremes,Thunderstorm,#53785a,wmo,maltempo campania,2026-02-15T04:35:00+00:00,Italy,0.520383089523146,1,2,it,MED,Europe
 'ee113d9ba2',extremes,Heat Wave,#c40202,wmo,ondata di caldo iguazu y alrededores,2026-02-07T04:19:00+00:00,Argentina,0.519414014995427,1,1,it,SES,South-America
-'f102553123',extremes,Snow&Ice,#d60d2b,wmo,riviera di ghiaccio,2026-01-23T04:03:00+00:00,Switzerland,0.519327053018953,0,1,it,WCE,Europe
 '15c6a45e95',extremes,Snow&Ice,#d60d2b,wmo,Basilea ghiaccio,2026-01-24T03:48:00+00:00,Switzerland,0.5188716119208069,0,1,it,WCE,Europe
 'ee5f7d0760',extremes,Snow&Ice,#d60d2b,wmo,ghiaccio verzasca,2026-01-23T04:03:00+00:00,Switzerland,0.5188667722643336,0,1,it,WCE,Europe
 'aa38978c0b',extremes,Heat Wave,#c40202,wmo,ondata di caldo gualeguaychu y alrededores,2026-01-27T03:58:00+00:00,Argentina,0.5183713019240691,1,1,it,SES,South-America
@@ -251,6 +250,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b3c0051e90',extremes,Heat Wave,#c40202,wmo,ondata di caldo formosa y alrededores,2026-02-06T04:27:00+00:00,Argentina,0.4419234950379303,2,1,it,SES,South-America
 'a07f9a3b5e',extremes,Snow&Ice,#d60d2b,wmo,mendrisiotto di ghiaccio,2026-01-23T04:03:00+00:00,Switzerland,0.4417455490485336,1,1,it,WCE,Europe
 '6678d475fb',extremes,Snow&Ice,#d60d2b,wmo,ghiaccio landquart coira,2026-02-17T04:31:00+00:00,Switzerland,0.4416375784150686,1,1,it,WCE,Europe
+'f102553123',extremes,Snow&Ice,#d60d2b,wmo,riviera di ghiaccio,2026-01-23T04:03:00+00:00,Switzerland,0.44157801006611,1,1,it,WCE,Europe
 'c4e95835b8',extremes,Storm,#b3b2b1,wmo,tempesta urner oberland,2026-01-28T03:56:00+00:00,Switzerland,0.441508636133919,1,1,it,WCE,Europe
 '5c418b222c',extremes,Precipitation,#d60d2b,wmo,piogge torrenziali basilicata,2026-01-28T03:56:00+00:00,Italy,0.4399628517023207,1,1,it,MED,Europe
 'fb7bf220d2',extremes,Precipitation,#d60d2b,wmo,acquazzone calabria,2026-01-17T03:44:00+00:00,Italy,0.4386127392275449,1,1,it,MED,Europe
@@ -261,6 +261,3 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '95b2881221',extremes,Precipitation,#d60d2b,random,fiume atmosferico,2026-01-15T10:20:00+00:00,,0.3682404235177332,1,2,it,,
 'c0ea0632ba',extremes,Heat Wave,#c40202,random,caldo,2026-01-15T10:39:00+00:00,,0.3670722515412384,1,2,it,,
 '9f48ec0192',extremes,Snow&Ice,#d60d2b,wmo,gelo alta valmaggia,2026-01-17T03:44:00+00:00,Switzerland,0.3656967896412093,1,1,it,WCE,Europe
-'f3b91506ec',extremes,Cold Wave,#a7e9fa,random,freddo record,2026-01-15T10:20:00+00:00,,0.2565293677315337,0,1,it,,
-'633ed59c63',extremes,Iceberg,#d60d2b,random,ghiaccio marino artico,2026-01-15T10:20:00+00:00,,0.256417319727148,0,1,it,,
-'ccefefc59e',extremes,Drought,#edc291,random,siccità improvvisa,2026-01-15T10:20:00+00:00,,0.2561951224549235,0,1,it,,
