@@ -70,7 +70,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '883b43737e',extremes,Precipitation,#d60d2b,wmo,pioggia cordoba juarez celman.,2026-02-19T04:32:00+00:00,Argentina,0.5179004585649792,1,1,it,SES,South-America
 '6653d205b8',extremes,Heat Wave,#c40202,wmo,ondata di caldo marcos juarez y alrededores,2026-01-28T03:56:00+00:00,Argentina,0.5175779570696407,1,1,it,SES,South-America
 '84c81d05e3',extremes,Heat Wave,#c40202,wmo,ondata di caldo villa reynolds e dintorni,2026-01-23T04:03:00+00:00,Argentina,0.5175762661511745,1,1,it,SES,South-America
-'5c418b222c',extremes,Precipitation,#d60d2b,wmo,piogge torrenziali basilicata,2026-01-28T03:56:00+00:00,Italy,0.5174268667086126,0,1,it,MED,Europe
 '20d3210be7',extremes,Heat Wave,#c40202,wmo,ondata di caldo bernardo de irigoyen y alrededores,2026-01-30T04:21:00+00:00,Argentina,0.5173305296522369,1,1,it,SES,South-America
 '2fbb3e12ae',extremes,Heat Wave,#c40202,wmo,ondata di caldo concordia y alrededores,2026-01-27T03:58:00+00:00,Argentina,0.5172092741004293,1,1,it,SES,South-America
 '8a442a950f',extremes,Heat Wave,#c40202,wmo,ondata di caldo bahia blanca y alrededores,2026-01-29T04:19:00+00:00,Argentina,0.5171353907004667,1,1,it,SES,South-America
@@ -238,18 +237,19 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6efb2f364a',extremes,Storm,#b3b2b1,wmo,tempesta delémont bellelay,2026-02-12T04:37:00+00:00,Switzerland,0.4453790902316806,1,1,it,WCE,Europe
 '8009981fb6',extremes,Thunderstorm,#53785a,wmo,grandine campania,2026-02-19T04:32:00+00:00,Italy,0.4449157625198098,1,1,it,MED,Europe
 'e083c2b821',extremes,Snow&Ice,#d60d2b,wmo,neve santa cergue,2026-01-22T03:59:00+00:00,Switzerland,0.4445210691235442,1,1,it,WCE,Europe
-'ac9b4f5444',extremes,Storm,#b3b2b1,wmo,mareggiata argentina,2026-02-05T04:27:00+00:00,Argentina,0.44424226005585704,2,1,it,SES,South-America
+'ac9b4f5444',extremes,Storm,#b3b2b1,wmo,mareggiata argentina,2026-02-05T04:27:00+00:00,Argentina,0.444242260055857,2,1,it,SES,South-America
 '9e16e98704',extremes,Snow&Ice,#d60d2b,wmo,gelo abruzzese,2026-01-25T04:06:00+00:00,Italy,0.4439066718146509,2,1,it,MED,Europe
 '0a2976013b',extremes,Storm,#b3b2b1,wmo,mareggiata urner oberland,2026-02-03T04:27:00+00:00,Switzerland,0.4435636755888383,1,1,it,WCE,Europe
 'b897902890',extremes,Snow&Ice,#d60d2b,wmo,gelo valle d'aosta,2026-02-10T04:43:00+00:00,Italy,0.4434045344285299,1,1,it,MED,Europe
 'a63efd7f21',extremes,Heat Wave,#c40202,wmo,ondata di caldo tartagal y alrededores,2026-02-17T04:31:00+00:00,Argentina,0.4433158584296792,2,1,it,SES,South-America
 'cbda6735c3',extremes,Storm,#b3b2b1,wmo,mareggiata appenzello,2026-01-28T03:56:00+00:00,Switzerland,0.44229655773323,1,1,it,WCE,Europe
-'8ebba92b76',extremes,Snow&Ice,#d60d2b,wmo,gelo zurzach bülach,2026-01-24T03:48:00+00:00,Switzerland,0.44221586748817365,1,1,it,WCE,Europe
-'b862f62894',extremes,Storm,#b3b2b1,wmo,mareggiata basilicata,2026-01-24T03:48:00+00:00,Italy,0.44195249945024223,2,1,it,MED,Europe
+'8ebba92b76',extremes,Snow&Ice,#d60d2b,wmo,gelo zurzach bülach,2026-01-24T03:48:00+00:00,Switzerland,0.4422158674881736,1,1,it,WCE,Europe
+'b862f62894',extremes,Storm,#b3b2b1,wmo,mareggiata basilicata,2026-01-24T03:48:00+00:00,Italy,0.4419524994502422,2,1,it,MED,Europe
 'b3c0051e90',extremes,Heat Wave,#c40202,wmo,ondata di caldo formosa y alrededores,2026-02-06T04:27:00+00:00,Argentina,0.4419234950379303,2,1,it,SES,South-America
 'a07f9a3b5e',extremes,Snow&Ice,#d60d2b,wmo,mendrisiotto di ghiaccio,2026-01-23T04:03:00+00:00,Switzerland,0.4417455490485336,1,1,it,WCE,Europe
 '6678d475fb',extremes,Snow&Ice,#d60d2b,wmo,ghiaccio landquart coira,2026-02-17T04:31:00+00:00,Switzerland,0.4416375784150686,1,1,it,WCE,Europe
-'c4e95835b8',extremes,Storm,#b3b2b1,wmo,tempesta urner oberland,2026-01-28T03:56:00+00:00,Switzerland,0.44150863613391905,1,1,it,WCE,Europe
+'c4e95835b8',extremes,Storm,#b3b2b1,wmo,tempesta urner oberland,2026-01-28T03:56:00+00:00,Switzerland,0.441508636133919,1,1,it,WCE,Europe
+'5c418b222c',extremes,Precipitation,#d60d2b,wmo,piogge torrenziali basilicata,2026-01-28T03:56:00+00:00,Italy,0.4399628517023207,1,1,it,MED,Europe
 'fb7bf220d2',extremes,Precipitation,#d60d2b,wmo,acquazzone calabria,2026-01-17T03:44:00+00:00,Italy,0.4386127392275449,1,1,it,MED,Europe
 'd0368c0f3c',extremes,Storm,#b3b2b1,wmo,tempesta glarona sud sernftal,2026-01-28T03:56:00+00:00,Switzerland,0.4377216186355125,1,1,it,WCE,Europe
 '1938b369dd',extremes,Storm,#b3b2b1,wmo,tempesta rheintal,2026-01-28T03:56:00+00:00,Switzerland,0.4345368100529101,1,1,it,WCE,Europe
