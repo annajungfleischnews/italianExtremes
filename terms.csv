@@ -32,7 +32,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '569a1f5c0e',extremes,Storm,#b3b2b1,wmo,mareggiata friuli venezia giulia,2026-01-18T03:57:00+00:00,Italy,0.5539387559942593,2,2,it,MED,Europe
 '5e29cd96b0',extremes,Precipitation,#d60d2b,wmo,pioggia torrenziale italia,2026-01-21T03:56:00+00:00,Italy,0.552297638954074,1,1,it,MED,Europe
 '9d36efcb9c',extremes,Thunderstorm,#53785a,wmo,maltempo sicilia,2026-02-01T04:41:00+00:00,Italy,0.5514437751679333,1,2,it,MED,Europe
-'21b6e29992',extremes,Precipitation,#d60d2b,wmo,precipitazioni piemonte,2026-01-23T04:03:00+00:00,Italy,0.5501019185353885,1,1,it,MED,Europe
 'cc2c75197d',extremes,Snow&Ice,#d60d2b,wmo,neve piemonte,2026-01-28T03:56:00+00:00,Italy,0.5489281532524937,1,2,it,MED,Europe
 'c9fc484d05',extremes,Storm,#b3b2b1,wmo,mareggiata umbria,2026-02-18T04:34:00+00:00,Italy,0.5473432062270449,2,1,it,MED,Europe
 '6bad2a8cbc',extremes,Earthquake,#870007,usgs,terremoto san agustín de valle fertil,2026-01-15T12:13:00+00:00,Argentina,0.5450428508538988,1,1,it,SES,South-America
@@ -58,6 +57,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a843e58970',extremes,Precipitation,#d60d2b,wmo,precipitazioni cordoba juarez celman.,2026-02-20T04:27:00+00:00,Argentina,0.5167959409366056,1,1,it,SES,South-America
 '93f18e9364',extremes,Heat Wave,#c40202,wmo,ondata di caldo argentina,2026-01-21T03:56:00+00:00,Argentina,0.5164505676216583,1,1,it,SES,South-America
 'f14331b9f6',extremes,Thunderstorm,#53785a,wmo,maltempo calabria,2026-01-17T03:44:00+00:00,Italy,0.5160945220224367,1,2,it,MED,Europe
+'21b6e29992',extremes,Precipitation,#d60d2b,wmo,precipitazioni piemonte,2026-01-23T04:03:00+00:00,Italy,0.5156906719089264,2,1,it,MED,Europe
 '2e5d011ec9',extremes,Heat Wave,#c40202,wmo,ondata di caldo monte caseros y alrededores,2026-01-30T04:21:00+00:00,Argentina,0.5152717551001313,1,1,it,SES,South-America
 '63b8afd7a4',extremes,Storm,#b3b2b1,wmo,tempesta lazio,2026-01-19T04:03:00+00:00,Italy,0.5152629800055395,2,2,it,MED,Europe
 'da505455fb',extremes,Thunderstorm,#53785a,wmo,temporale sicilia,2026-01-18T03:57:00+00:00,Italy,0.5152622864244311,1,1,it,MED,Europe
@@ -195,7 +195,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '008b58f095',extremes,Storm,#b3b2b1,wmo,mareggiata piemonte,2026-02-15T04:35:00+00:00,Italy,0.4596005651645084,1,1,it,MED,Europe
 '46faf1e7f5',extremes,Snow&Ice,#d60d2b,wmo,ghiaccio meseey val d'illiez,2026-02-17T04:31:00+00:00,Switzerland,0.4594233180244881,1,1,it,WCE,Europe
 '207df0d218',extremes,Precipitation,#d60d2b,wmo,piogge torrenziali piemonte,2026-02-02T04:36:00+00:00,Italy,0.4587910054336696,1,1,it,MED,Europe
-'d18c9a3f35',extremes,Earthquake,#870007,usgs,terremoto san antonio de los cobres,2026-02-06T04:27:00+00:00,Argentina,0.45855854666801704,1,1,it,SWS,South-America
+'d18c9a3f35',extremes,Earthquake,#870007,usgs,terremoto san antonio de los cobres,2026-02-06T04:27:00+00:00,Argentina,0.458558546668017,1,1,it,SWS,South-America
 '3db2345e5f',extremes,Snow&Ice,#d60d2b,wmo,muotathal di ghiaccio,2026-02-15T04:35:00+00:00,Switzerland,0.4571959073410887,1,1,it,WCE,Europe
 'bfe8b114a8',extremes,Storm,#b3b2b1,wmo,mareggiata valle d'aosta,2026-02-10T04:43:00+00:00,Italy,0.4569626843425231,1,1,it,MED,Europe
 '0c3d21da24',extremes,Precipitation,#d60d2b,wmo,acquazzone italia,2026-01-18T03:57:00+00:00,Italy,0.4545793207529139,2,1,it,MED,Europe
@@ -251,10 +251,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5c418b222c',extremes,Precipitation,#d60d2b,wmo,piogge torrenziali basilicata,2026-01-28T03:56:00+00:00,Italy,0.4399628517023207,1,1,it,MED,Europe
 '6653d205b8',extremes,Heat Wave,#c40202,wmo,ondata di caldo marcos juarez y alrededores,2026-01-28T03:56:00+00:00,Argentina,0.4399412635091946,2,1,it,SES,South-America
 '84c81d05e3',extremes,Heat Wave,#c40202,wmo,ondata di caldo villa reynolds e dintorni,2026-01-23T04:03:00+00:00,Argentina,0.4399398262284983,2,1,it,SES,South-America
-'89cd0748e9',extremes,Precipitation,#d60d2b,wmo,pioggia friuli venezia giulia,2026-02-03T04:27:00+00:00,Italy,0.43991065668460133,2,1,it,MED,Europe
-'20d3210be7',extremes,Heat Wave,#c40202,wmo,ondata di caldo bernardo de irigoyen y alrededores,2026-01-30T04:21:00+00:00,Argentina,0.43973095020440134,2,1,it,SES,South-America
-'8a442a950f',extremes,Heat Wave,#c40202,wmo,ondata di caldo bahia blanca y alrededores,2026-01-29T04:19:00+00:00,Argentina,0.43956508209539663,2,1,it,SES,South-America
-'1d6da9893b',extremes,Heat Wave,#c40202,wmo,ondata di caldo giugno e dintorni,2026-01-27T03:58:00+00:00,Argentina,0.43916972876793553,2,1,it,SES,South-America
+'89cd0748e9',extremes,Precipitation,#d60d2b,wmo,pioggia friuli venezia giulia,2026-02-03T04:27:00+00:00,Italy,0.4399106566846013,2,1,it,MED,Europe
+'20d3210be7',extremes,Heat Wave,#c40202,wmo,ondata di caldo bernardo de irigoyen y alrededores,2026-01-30T04:21:00+00:00,Argentina,0.4397309502044013,2,1,it,SES,South-America
+'8a442a950f',extremes,Heat Wave,#c40202,wmo,ondata di caldo bahia blanca y alrededores,2026-01-29T04:19:00+00:00,Argentina,0.4395650820953966,2,1,it,SES,South-America
+'1d6da9893b',extremes,Heat Wave,#c40202,wmo,ondata di caldo giugno e dintorni,2026-01-27T03:58:00+00:00,Argentina,0.4391697287679355,2,1,it,SES,South-America
 'fb7bf220d2',extremes,Precipitation,#d60d2b,wmo,acquazzone calabria,2026-01-17T03:44:00+00:00,Italy,0.4386127392275449,1,1,it,MED,Europe
 'fe7674590b',extremes,Storm,#b3b2b1,wmo,tempesta cordoba san justo.,2026-01-29T04:19:00+00:00,Argentina,0.4383724764082941,2,1,it,SES,South-America
 'e93b64a215',extremes,Storm,#b3b2b1,wmo,mareggiata cordoba ischilin totoral.,2026-01-29T04:19:00+00:00,Argentina,0.4381827773272211,2,1,it,SES,South-America
