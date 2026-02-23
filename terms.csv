@@ -1,5 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'dcf82560b0',extremes,Fog,#d60d2b,wmo,nebbia lombardia,2026-02-23T04:37:00+00:00,Italy,0.6591751242970559,0,1,it,MED,Europe
 '8e5338dae6',extremes,Thunderstorm,#53785a,wmo,salve italia,2026-01-18T03:57:00+00:00,Italy,0.6586782541454759,2,2,it,MED,Europe
 'b306b4d99a',extremes,Snow&Ice,#d60d2b,wmo,ghiaccio valle d'aosta,2026-02-18T04:34:00+00:00,Italy,0.6561853853083627,1,2,it,MED,Europe
 '94300b4dad',extremes,Snow&Ice,#d60d2b,wmo,neve italia,2026-01-19T04:03:00+00:00,Italy,0.6541845035036268,2,3,it,MED,Europe
@@ -26,6 +25,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c988798ce9',extremes,Thunderstorm,#53785a,wmo,maltempo puglia,2026-02-04T04:21:00+00:00,Italy,0.5743696820981498,2,3,it,MED,Europe
 'f6374995d1',extremes,Tropical Cyclone,#4f4f4f,cmeter,ciclone tropicale italia,2026-01-28T03:57:00+00:00,Italy,0.5722334960298134,2,1,it,MED,Europe
 '1e5dc0cc78',extremes,Precipitation,#d60d2b,wmo,pioggia calabria,2026-01-18T03:57:00+00:00,Italy,0.5697124316893499,1,2,it,MED,Europe
+'dcf82560b0',extremes,Fog,#d60d2b,wmo,nebbia lombardia,2026-02-23T04:37:00+00:00,Italy,0.5607489006524975,1,1,it,MED,Europe
 'f66afddf57',extremes,Snow&Ice,#d60d2b,wmo,gelo lombardia,2026-01-27T03:58:00+00:00,Italy,0.5602628106590899,1,2,it,MED,Europe
 '0df834d969',extremes,Thunderstorm,#53785a,wmo,maltempo sardegna,2026-01-19T04:03:00+00:00,Italy,0.5600071252565786,1,2,it,MED,Europe
 '569a1f5c0e',extremes,Storm,#b3b2b1,wmo,mareggiata friuli venezia giulia,2026-01-18T03:57:00+00:00,Italy,0.5539387559942593,2,2,it,MED,Europe
