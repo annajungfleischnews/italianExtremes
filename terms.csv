@@ -28,7 +28,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f66afddf57',extremes,Snow&Ice,#d60d2b,wmo,gelo lombardia,2026-01-27T03:58:00+00:00,Italy,0.5602628106590899,1,2,it,MED,Europe
 '0df834d969',extremes,Thunderstorm,#53785a,wmo,maltempo sardegna,2026-01-19T04:03:00+00:00,Italy,0.5600071252565786,1,2,it,MED,Europe
 '569a1f5c0e',extremes,Storm,#b3b2b1,wmo,mareggiata friuli venezia giulia,2026-01-18T03:57:00+00:00,Italy,0.5539387559942593,2,2,it,MED,Europe
-'7b60b91229',extremes,Fog,#d60d2b,wmo,nebbia sardegna,2026-02-23T04:37:00+00:00,Italy,0.5535829868533695,1,1,it,MED,Europe
 '5e29cd96b0',extremes,Precipitation,#d60d2b,wmo,pioggia torrenziale italia,2026-01-21T03:56:00+00:00,Italy,0.552297638954074,1,1,it,MED,Europe
 '9d36efcb9c',extremes,Thunderstorm,#53785a,wmo,maltempo sicilia,2026-02-01T04:41:00+00:00,Italy,0.5514437751679333,1,2,it,MED,Europe
 '618e955f78',extremes,Drought,#edc291,edo,mancanza di pioggia in svizzera,2026-02-07T04:19:00+00:00,Switzerland,0.5510884024331236,0,1,it,WCE,Europe
@@ -64,7 +63,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '508b73fb8c',extremes,Storm,#b3b2b1,wmo,mareggiata molisana,2026-01-19T04:03:00+00:00,Italy,0.514918710257812,1,1,it,MED,Europe
 '0812394012',extremes,Thunderstorm,#53785a,wmo,maltempo lazio,2026-02-12T04:37:00+00:00,Italy,0.5144915530487912,1,1,it,MED,Europe
 '69dc5fcfc4',extremes,Heat Wave,#c40202,wmo,ondata di caldo parana y alrededores,2026-01-23T04:03:00+00:00,Argentina,0.513859658656549,1,1,it,SES,South-America
-'65186f6a29',extremes,Snow&Ice,#d60d2b,wmo,ice flims laax,2026-02-17T04:31:00+00:00,Switzerland,0.5138374706732536,0,1,it,WCE,Europe
 'e9be999d01',extremes,Thunderstorm,#53785a,wmo,grandine calabria,2026-01-19T04:03:00+00:00,Italy,0.5137262165095425,1,1,it,MED,Europe
 '5ad66ae8ea',extremes,Storm,#b3b2b1,wmo,la tempesta svolazza laax,2026-02-03T04:27:00+00:00,Switzerland,0.5135278233975691,0,1,it,WCE,Europe
 '6bc782837c',extremes,Snow&Ice,#d60d2b,wmo,neve sion crans montana,2026-02-16T04:38:00+00:00,Switzerland,0.5131771227376538,0,1,it,WCE,Europe
@@ -164,6 +162,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '40c008a8cc',extremes,Snow&Ice,#d60d2b,wmo,gelido trentino alto adige,2026-02-19T04:32:00+00:00,Italy,0.473785855800672,1,1,it,MED,Europe
 '1a2e308d48',extremes,Thunderstorm,#53785a,wmo,temporale molisano,2026-02-15T04:35:00+00:00,Italy,0.4732545158360463,1,1,it,MED,Europe
 '851e7f751b',extremes,Storm,#b3b2b1,wmo,temporale valle d'aosta,2026-02-12T04:37:00+00:00,Italy,0.4729930831423705,1,1,it,MED,Europe
+'7b60b91229',extremes,Fog,#d60d2b,wmo,nebbia sardegna,2026-02-23T04:37:00+00:00,Italy,0.47129561382536406,2,1,it,MED,Europe
 '731c9c6599',extremes,Storm,#b3b2b1,wmo,tempesta basilicata,2026-01-20T03:56:00+00:00,Italy,0.4712691565623304,2,1,it,MED,Europe
 '3813092140',extremes,Snow&Ice,#d60d2b,wmo,gelata emilia e romagna,2026-02-06T04:27:00+00:00,Italy,0.4707399093262929,1,1,it,MED,Europe
 'b5cb89d511',extremes,Drought,#edc291,edo,siccità svizzera,2026-02-06T04:28:00+00:00,Switzerland,0.4706347776052398,1,1,it,WCE,Europe
@@ -259,6 +258,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3cbaf14869',extremes,Snow&Ice,#d60d2b,wmo,gelo val de travers,2026-01-24T03:48:00+00:00,Switzerland,0.4371258339555336,1,1,it,WCE,Europe
 '689985175c',extremes,Snow&Ice,#d60d2b,wmo,gelo aigle leysin,2026-02-17T04:31:00+00:00,Switzerland,0.4370929002764468,1,1,it,WCE,Europe
 '5241447c2f',extremes,Snow&Ice,#d60d2b,wmo,neve albulatale,2026-02-17T04:31:00+00:00,Switzerland,0.4370696515859204,1,1,it,WCE,Europe
+'65186f6a29',extremes,Snow&Ice,#d60d2b,wmo,ice flims laax,2026-02-17T04:31:00+00:00,Switzerland,0.43676185007226553,1,1,it,WCE,Europe
 '64f2fc2dba',extremes,Storm,#b3b2b1,wmo,mareggiata glarona nord mitte,2026-01-28T03:56:00+00:00,Switzerland,0.4364817009783265,1,1,it,WCE,Europe
 '1938b369dd',extremes,Storm,#b3b2b1,wmo,tempesta rheintal,2026-01-28T03:56:00+00:00,Switzerland,0.4345368100529101,1,1,it,WCE,Europe
 'ea8de7a9b2',extremes,Snow&Ice,#d60d2b,wmo,gelido innertkirchen guttannen,2026-02-17T04:31:00+00:00,Switzerland,0.432793044526188,1,1,it,WCE,Europe
