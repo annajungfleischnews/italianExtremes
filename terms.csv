@@ -26,6 +26,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8a590c18c2',extremes,Precipitation,#d60d2b,wmo,precipitazioni sardegna,2026-01-21T03:56:00+00:00,Italy,0.5908974894712041,1,2,it,MED,Europe
 '13ba8452d9',extremes,Fog,#d60d2b,wmo,nebbia siciliana,2026-02-25T04:32:00+00:00,Italy,0.5900843779796476,1,1,it,MED,Europe
 '52ccb0fc6c',extremes,Fog,#d60d2b,wmo,nebbia marchigiana,2026-02-25T04:32:00+00:00,Italy,0.588208983240143,1,1,it,MED,Europe
+'5a36105e4d',extremes,Snow&Ice,#d60d2b,wmo,la Svizzera gelida,2026-02-11T04:41:00+00:00,Switzerland,0.5858756862789593,0,1,it,WCE,Europe
 '548bcaf393',extremes,Precipitation,#d60d2b,wmo,piogge emilia e romagna,2026-01-24T03:48:00+00:00,Italy,0.5856639885735647,2,2,it,MED,Europe
 '5d8c239887',extremes,Drought,#edc291,edo,mancanza di pioggia libia,2026-02-07T04:19:00+00:00,Libya,0.5829274700705185,0,1,it,SAH,Africa
 '117e9a9455',extremes,Storm,#b3b2b1,wmo,mareggiata calabria,2026-01-21T03:56:00+00:00,Italy,0.5822208477092087,2,3,it,MED,Europe
@@ -38,6 +39,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1e5dc0cc78',extremes,Precipitation,#d60d2b,wmo,pioggia calabria,2026-01-18T03:57:00+00:00,Italy,0.5697124316893499,1,2,it,MED,Europe
 '567bb32772',extremes,Snow&Ice,#d60d2b,wmo,ghiaccio piemonte,2026-02-14T04:21:00+00:00,Italy,0.5693201426675464,0,1,it,MED,Europe
 '731c9c6599',extremes,Storm,#b3b2b1,wmo,tempesta basilicata,2026-02-11T04:41:00+00:00,Italy,0.5614465522000424,0,1,it,MED,Europe
+'b5f3a9d570',extremes,Earthquake,#870007,usgs,terremoto mar del plata,2026-02-20T04:27:00+00:00,Argentina,0.5602947030329938,0,1,it,SES,South-America
 'f66afddf57',extremes,Snow&Ice,#d60d2b,wmo,gelo lombardia,2026-01-27T03:58:00+00:00,Italy,0.5602628106590899,1,2,it,MED,Europe
 '0df834d969',extremes,Thunderstorm,#53785a,wmo,maltempo sardegna,2026-01-19T04:03:00+00:00,Italy,0.5600071252565786,1,2,it,MED,Europe
 'ddc0b2c2fb',extremes,Storm,#b3b2b1,wmo,mareggiata campania,2026-02-09T04:39:00+00:00,Italy,0.5582814905921242,0,1,it,MED,Europe
@@ -45,6 +47,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5e29cd96b0',extremes,Precipitation,#d60d2b,wmo,pioggia torrenziale italia,2026-01-21T03:56:00+00:00,Italy,0.552297638954074,1,1,it,MED,Europe
 '9d36efcb9c',extremes,Thunderstorm,#53785a,wmo,maltempo sicilia,2026-02-01T04:41:00+00:00,Italy,0.5514437751679333,1,2,it,MED,Europe
 '618e955f78',extremes,Drought,#edc291,edo,mancanza di pioggia in svizzera,2026-02-07T04:19:00+00:00,Switzerland,0.5510884024331236,0,1,it,WCE,Europe
+'71aee81e61',extremes,Storm,#b3b2b1,wmo,mareggiata lazio,2026-02-12T04:37:00+00:00,Italy,0.5498093603651737,0,1,it,MED,Europe
 'cc2c75197d',extremes,Snow&Ice,#d60d2b,wmo,neve piemonte,2026-01-28T03:56:00+00:00,Italy,0.5489281532524937,1,2,it,MED,Europe
 'c9fc484d05',extremes,Storm,#b3b2b1,wmo,mareggiata umbria,2026-02-18T04:34:00+00:00,Italy,0.5473432062270449,2,1,it,MED,Europe
 'd4d8b57886',extremes,Storm,#b3b2b1,wmo,mareggiata sicilia,2026-01-26T04:09:00+00:00,Italy,0.5444886712815168,1,1,it,MED,Europe
@@ -119,6 +122,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '97d1415661',extremes,Storm,#b3b2b1,wmo,tempesta einsiedeln wägital,2026-02-03T04:27:00+00:00,Switzerland,0.5005368477132426,0,1,it,WCE,Europe
 '56da66adf9',extremes,Thunderstorm,#53785a,wmo,maltempo basilicata,2026-02-05T04:27:00+00:00,Italy,0.5004563332980956,2,1,it,MED,Europe
 'f9eb244a9a',extremes,Drought,#edc291,edo,mancanza di pioggia italia,2026-02-05T04:28:00+00:00,Italy,0.5000688911891261,1,1,it,MED,Europe
+'4b8452f214',extremes,Storm,#b3b2b1,wmo,tempesta niedersimmental,2026-02-11T04:41:00+00:00,Switzerland,0.49979428166382794,0,1,it,WCE,Europe
 'f9dd24b825',extremes,Storm,#b3b2b1,wmo,tempesta sarnen lungern,2026-02-13T04:34:00+00:00,Switzerland,0.4996881756014081,0,1,it,WCE,Europe
 'c620088f41',extremes,Precipitation,#d60d2b,wmo,piogge torrenziali liguria,2026-01-23T04:03:00+00:00,Italy,0.4990958482371953,1,1,it,MED,Europe
 'c1907effc6',extremes,Precipitation,#d60d2b,wmo,piogge torrenziali puglia,2026-02-20T04:27:00+00:00,Italy,0.4990396642811081,0,1,it,MED,Europe
@@ -130,6 +134,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0c3d21da24',extremes,Precipitation,#d60d2b,wmo,acquazzone italia,2026-02-08T04:43:00+00:00,Italy,0.4977318705192278,1,1,it,MED,Europe
 'f7c3d32eec',extremes,Snow&Ice,#d60d2b,wmo,snow wahlern plaffeien,2026-02-13T04:34:00+00:00,Switzerland,0.4976320206258613,0,1,it,WCE,Europe
 '2cce7328e9',extremes,Storm,#b3b2b1,wmo,tempesta liguria,2026-02-05T04:27:00+00:00,Italy,0.4975838633601098,1,1,it,MED,Europe
+'87ea10f233',extremes,Snow&Ice,#d60d2b,wmo,ghiaccio zernez,2026-02-17T04:31:00+00:00,Switzerland,0.49739020139066203,0,1,it,WCE,Europe
 '30b7b41a32',extremes,Storm,#b3b2b1,wmo,mareggiata marcia,2026-01-27T03:58:00+00:00,Italy,0.4972828526613449,1,1,it,MED,Europe
 '6f77ec93ab',extremes,Snow&Ice,#d60d2b,wmo,ghiaccio lombardia,2026-01-28T03:56:00+00:00,Italy,0.4972325364106069,1,1,it,MED,Europe
 '128c953b1e',extremes,Precipitation,#d60d2b,wmo,precipitazioni sicilia,2026-01-26T04:09:00+00:00,Italy,0.4962753516897185,2,2,it,MED,Europe
