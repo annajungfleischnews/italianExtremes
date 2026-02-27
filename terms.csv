@@ -37,7 +37,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0df834d969',extremes,Thunderstorm,#53785a,wmo,maltempo sardegna,2026-01-19T04:03:00+00:00,Italy,0.5600071252565786,1,2,it,MED,Europe
 'ddc0b2c2fb',extremes,Storm,#b3b2b1,wmo,mareggiata campania,2026-02-09T04:39:00+00:00,Italy,0.5582814905921242,0,1,it,MED,Europe
 '569a1f5c0e',extremes,Storm,#b3b2b1,wmo,mareggiata friuli venezia giulia,2026-01-18T03:57:00+00:00,Italy,0.5539387559942593,2,2,it,MED,Europe
-'2acc964cba',extremes,Storm,#b3b2b1,wmo,mareggiata toscana,2026-02-15T04:35:00+00:00,Italy,0.5528213155094776,0,1,it,MED,Europe
 '5e29cd96b0',extremes,Precipitation,#d60d2b,wmo,pioggia torrenziale italia,2026-01-21T03:56:00+00:00,Italy,0.552297638954074,1,1,it,MED,Europe
 '9d36efcb9c',extremes,Thunderstorm,#53785a,wmo,maltempo sicilia,2026-02-01T04:41:00+00:00,Italy,0.5514437751679333,1,2,it,MED,Europe
 '618e955f78',extremes,Drought,#edc291,edo,mancanza di pioggia in svizzera,2026-02-07T04:19:00+00:00,Switzerland,0.5510884024331236,0,1,it,WCE,Europe
@@ -190,6 +189,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7b60b91229',extremes,Fog,#d60d2b,wmo,nebbia sardegna,2026-02-23T04:37:00+00:00,Italy,0.471295613825364,2,1,it,MED,Europe
 '3813092140',extremes,Snow&Ice,#d60d2b,wmo,gelata emilia e romagna,2026-02-06T04:27:00+00:00,Italy,0.4707399093262929,1,1,it,MED,Europe
 'b5cb89d511',extremes,Drought,#edc291,edo,siccità svizzera,2026-02-06T04:28:00+00:00,Switzerland,0.4706347776052398,1,1,it,WCE,Europe
+'2acc964cba',extremes,Storm,#b3b2b1,wmo,mareggiata toscana,2026-02-15T04:35:00+00:00,Italy,0.4701981481830559,1,1,it,MED,Europe
 'a9dcb49498',extremes,Earthquake,#870007,usgs,terremoto del 28 novembre,2026-02-12T04:36:00+00:00,Argentina,0.4698833059256385,1,1,it,SSA,South-America
 '316c1a7868',extremes,Precipitation,#d60d2b,wmo,acquazzone toscana,2026-02-03T04:27:00+00:00,Italy,0.469807396081907,1,1,it,MED,Europe
 'f47d67ad09',extremes,Precipitation,#d60d2b,wmo,pioggia pugliese,2026-02-03T04:27:00+00:00,Italy,0.4695826864754298,1,1,it,MED,Europe
