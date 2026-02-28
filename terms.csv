@@ -1,5 +1,6 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 '3a8dcca50b',extremes,Snow&Ice,#d60d2b,wmo,l'italia gelida,2026-02-09T04:39:00+00:00,Italy,0.7123176709648741,1,2,it,MED,Europe
+'db4deee12d',extremes,Fog,#d60d2b,wmo,nebbia pugliese,2026-02-28T04:07:00+00:00,Italy,0.6746647965822165,0,1,it,MED,Europe
 '8e5338dae6',extremes,Thunderstorm,#53785a,wmo,salve italia,2026-01-18T03:57:00+00:00,Italy,0.6586782541454759,2,2,it,MED,Europe
 'b306b4d99a',extremes,Snow&Ice,#d60d2b,wmo,ghiaccio valle d'aosta,2026-02-18T04:34:00+00:00,Italy,0.6561853853083627,1,2,it,MED,Europe
 '3550c99ca4',extremes,Fog,#d60d2b,wmo,nebbia emilia e romagna,2026-02-25T04:32:00+00:00,Italy,0.6560173444251146,2,2,it,MED,Europe
@@ -27,12 +28,16 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '117e9a9455',extremes,Storm,#b3b2b1,wmo,mareggiata calabria,2026-01-21T03:56:00+00:00,Italy,0.5822208477092087,2,3,it,MED,Europe
 '8fa1b857b6',extremes,Fog,#d60d2b,wmo,nebbia umbria,2026-02-23T04:37:00+00:00,Italy,0.5811477586324463,2,2,it,MED,Europe
 '3254ebc328',extremes,Snow&Ice,#d60d2b,wmo,neve calabria,2026-01-18T03:57:00+00:00,Italy,0.5798329689274816,1,2,it,MED,Europe
+'97a2529f41',extremes,Snow&Ice,#d60d2b,wmo,ghiaccio svizzero,2026-02-11T04:41:00+00:00,Switzerland,0.5781750775895301,0,1,it,WCE,Europe
 '13ba8452d9',extremes,Fog,#d60d2b,wmo,nebbia siciliana,2026-02-25T04:32:00+00:00,Italy,0.5771717812827004,2,2,it,MED,Europe
 '5bf34f285a',extremes,Earthquake,#870007,usgs,terremoto italia,2026-01-15T10:56:00+00:00,Italy,0.5763394665892356,2,2,it,MED,Europe
 'c988798ce9',extremes,Thunderstorm,#53785a,wmo,maltempo puglia,2026-02-04T04:21:00+00:00,Italy,0.5743696820981498,2,3,it,MED,Europe
+'b1d7a75a38',extremes,Storm,#b3b2b1,wmo,tempesta sicilia,2026-02-09T04:39:00+00:00,Italy,0.5722690900514508,0,1,it,MED,Europe
 'f6374995d1',extremes,Tropical Cyclone,#4f4f4f,cmeter,ciclone tropicale italia,2026-01-28T03:57:00+00:00,Italy,0.5722334960298134,2,1,it,MED,Europe
 '1e5dc0cc78',extremes,Precipitation,#d60d2b,wmo,pioggia calabria,2026-01-18T03:57:00+00:00,Italy,0.5697124316893499,1,2,it,MED,Europe
 '429ae37885',extremes,Fog,#d60d2b,wmo,nebbia piemontese,2026-02-27T04:26:00+00:00,Italy,0.5671699631042186,1,1,it,MED,Europe
+'d3161b1db8',extremes,Snow&Ice,#d60d2b,wmo,gelo piemonte,2026-02-15T04:35:00+00:00,Italy,0.56398802908462,0,1,it,MED,Europe
+'b862f62894',extremes,Storm,#b3b2b1,wmo,mareggiata basilicata,2026-02-14T04:21:00+00:00,Italy,0.5632160760564358,0,1,it,MED,Europe
 'f66afddf57',extremes,Snow&Ice,#d60d2b,wmo,gelo lombardia,2026-01-27T03:58:00+00:00,Italy,0.5602628106590899,1,2,it,MED,Europe
 '0df834d969',extremes,Thunderstorm,#53785a,wmo,maltempo sardegna,2026-01-19T04:03:00+00:00,Italy,0.5600071252565786,1,2,it,MED,Europe
 'ddc0b2c2fb',extremes,Storm,#b3b2b1,wmo,mareggiata campania,2026-02-09T04:39:00+00:00,Italy,0.5582814905921242,0,1,it,MED,Europe
@@ -49,6 +54,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3840c76d04',extremes,Storm,#b3b2b1,wmo,tempesta calabria,2026-01-18T03:57:00+00:00,Italy,0.5391870395914278,1,2,it,MED,Europe
 '642e895343',extremes,Snow&Ice,#d60d2b,wmo,neve valle d'aosta,2026-01-27T03:58:00+00:00,Italy,0.5383695873389786,2,1,it,MED,Europe
 '116616eb5b',extremes,Storm,#b3b2b1,wmo,mareggiata emilia e romagna,2026-01-27T03:58:00+00:00,Italy,0.5378727376213503,2,2,it,MED,Europe
+'241b679149',extremes,Thunderstorm,#53785a,wmo,salve sicilia,2026-02-12T04:37:00+00:00,Italy,0.536776699923461,0,1,it,MED,Europe
 'fdaa0a92ad',extremes,Storm,#b3b2b1,wmo,tempesta campania,2026-02-10T04:43:00+00:00,Italy,0.5358843419839322,1,1,it,MED,Europe
 '997a2e2157',extremes,Earthquake,#870007,usgs,terremoto argentina,2026-02-05T04:27:00+00:00,Argentina,0.5349612401301204,1,1,it,SWS,South-America
 'f7a88fba0a',extremes,Fog,#d60d2b,wmo,nebbia lazio,2026-02-24T04:31:00+00:00,Italy,0.5322357773802079,1,1,it,MED,Europe
@@ -160,7 +166,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '824e4e227a',extremes,Snow&Ice,#d60d2b,wmo,ghiaccio glarona sud sernftal,2026-02-13T04:34:00+00:00,Switzerland,0.4890287389310201,0,1,it,WCE,Europe
 '4bd563dc86',extremes,Precipitation,#d60d2b,wmo,acquazzone على مناطق شرق ليبيا.,2026-01-26T04:09:00+00:00,Libya,0.4884270896118284,2,1,it,SAH,Africa
 'ddaab30fbb',extremes,Storm,#b3b2b1,wmo,tempesta gersau engelbergertal,2026-02-13T04:34:00+00:00,Switzerland,0.4875606815876948,0,1,it,WCE,Europe
+'476889e481',extremes,Storm,#b3b2b1,wmo,tempesta muotathal,2026-02-13T04:34:00+00:00,Switzerland,0.4866036505989622,0,1,it,WCE,Europe
 'e7571d972b',extremes,Earthquake,#870007,usgs,terremoto londra,2026-02-11T04:41:00+00:00,Argentina,0.4861283814818837,1,1,it,SES,South-America
+'72f03986c3',extremes,Snow&Ice,#d60d2b,wmo,ghiaccio glarona nord mitte,2026-02-11T04:41:00+00:00,Switzerland,0.4857990439629952,0,1,it,WCE,Europe
 'f371b76a09',extremes,Precipitation,#d60d2b,wmo,pioggia sardegna,2026-02-01T04:41:00+00:00,Italy,0.4852766397007202,1,2,it,MED,Europe
 'cb97282513',extremes,Heat Wave,#c40202,wmo,ondata di caldo nueve de julio y alrededores,2026-01-28T03:56:00+00:00,Argentina,0.484399099800429,1,1,it,SES,South-America
 'b9fc0f05f0',extremes,Precipitation,#d60d2b,wmo,precipitazioni basilicata,2026-02-04T04:21:00+00:00,Italy,0.4843228417046251,1,1,it,MED,Europe
@@ -226,7 +234,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '973af89b5a',extremes,Thunderstorm,#53785a,wmo,temporale calabria,2026-02-11T04:41:00+00:00,Italy,0.4536713123647629,2,1,it,MED,Europe
 '2a0fdfe0dd',extremes,Precipitation,#d60d2b,wmo,piogge torrenziali lombardia,2026-02-03T04:27:00+00:00,Italy,0.4532608561861138,1,1,it,MED,Europe
 '4808cee9bc',extremes,Snow&Ice,#d60d2b,wmo,gelido sudiches simplongebiet,2026-02-17T04:31:00+00:00,Switzerland,0.451894366025649,1,1,it,WCE,Europe
-'21736e0113',extremes,Earthquake,#870007,usgs,terremoto licinella torre di paestum,2026-02-22T04:30:00+00:00,Italy,0.45165014863633995,1,1,it,MED,Europe
+'21736e0113',extremes,Earthquake,#870007,usgs,terremoto licinella torre di paestum,2026-02-22T04:30:00+00:00,Italy,0.4516501486363399,1,1,it,MED,Europe
 '4089b2ad7c',extremes,Snow&Ice,#d60d2b,wmo,neve adelboden kandersteg,2026-02-17T04:31:00+00:00,Switzerland,0.451328913700555,1,1,it,WCE,Europe
 'e0feeec7d9',extremes,Storm,#b3b2b1,wmo,mareggiata goldau ägeri,2026-02-03T04:27:00+00:00,Switzerland,0.4507900786760323,1,1,it,WCE,Europe
 '65daebfdc6',extremes,Snow&Ice,#d60d2b,wmo,neve luganese,2026-01-24T03:48:00+00:00,Switzerland,0.4502169020072658,1,1,it,WCE,Europe
