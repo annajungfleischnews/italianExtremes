@@ -148,14 +148,22 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '35cc35a19d',extremes,Storm,#b3b2b1,wmo,tempesta wahlern plaffeien,2026-02-13T04:34:00+00:00,Switzerland,0.493121903516355,0,1,it,WCE,Europe
 '66752335f2',extremes,Snow&Ice,#d60d2b,wmo,neve bex villars,2026-02-11T04:41:00+00:00,Switzerland,0.4928522345385501,0,1,it,WCE,Europe
 '6f5cc4014d',extremes,Storm,#b3b2b1,wmo,tempesta st. stephan lenk,2026-02-13T04:34:00+00:00,Switzerland,0.4928176458790469,0,1,it,WCE,Europe
+'9f48ec0192',extremes,Snow&Ice,#d60d2b,wmo,gelo alta valmaggia,2026-02-12T04:37:00+00:00,Switzerland,0.4927585121722763,0,1,it,WCE,Europe
+'906eca8937',extremes,Storm,#b3b2b1,wmo,tempesta erstfeld engelberg,2026-02-17T04:31:00+00:00,Switzerland,0.4924898647270796,0,1,it,WCE,Europe
+'f6b979e2d2',extremes,Storm,#b3b2b1,wmo,mareggiata obersimmental,2026-02-11T04:41:00+00:00,Switzerland,0.49217546466838996,0,1,it,WCE,Europe
 '5535eb6776',extremes,Precipitation,#d60d2b,wmo,piogge torrenziali calabria,2026-02-04T04:21:00+00:00,Italy,0.4917060151874238,1,1,it,MED,Europe
 'b9a82bfdaa',extremes,Storm,#b3b2b1,wmo,tempesta veneta,2026-01-28T03:56:00+00:00,Italy,0.4916563607809098,1,1,it,MED,Europe
+'cc80ba2108',extremes,Storm,#b3b2b1,wmo,tempesta riein safiental,2026-02-17T04:31:00+00:00,Switzerland,0.4916374435990391,0,1,it,WCE,Europe
+'429e0c80e7',extremes,Snow&Ice,#d60d2b,wmo,gelo davos,2026-02-17T04:31:00+00:00,Switzerland,0.49105312665847656,0,1,it,WCE,Europe
+'5e27394d94',extremes,Snow&Ice,#d60d2b,wmo,muotathal gelido,2026-02-13T04:34:00+00:00,Switzerland,0.4906364761110857,0,1,it,WCE,Europe
 '241b679149',extremes,Thunderstorm,#53785a,wmo,salve sicilia,2026-01-20T03:56:00+00:00,Italy,0.4906241923159886,1,1,it,MED,Europe
 'b1d7a75a38',extremes,Storm,#b3b2b1,wmo,tempesta sicilia,2026-01-17T03:44:00+00:00,Italy,0.4905060717838668,2,2,it,MED,Europe
 '065a434526',extremes,Storm,#b3b2b1,wmo,tempesta Abruzzo,2026-02-15T04:35:00+00:00,Italy,0.4902342770422054,1,1,it,MED,Europe
 '99e70937bb',extremes,Heat Wave,#c40202,wmo,ondata di caldo punta indio y alrededores,2026-01-27T03:58:00+00:00,Argentina,0.4898025135502228,1,1,it,SES,South-America
 'c67e1b756d',extremes,Snow&Ice,#d60d2b,wmo,ghiaccio liguria,2026-01-26T04:09:00+00:00,Italy,0.4895729130699549,1,1,it,MED,Europe
+'824e4e227a',extremes,Snow&Ice,#d60d2b,wmo,ghiaccio glarona sud sernftal,2026-02-13T04:34:00+00:00,Switzerland,0.4890287389310201,0,1,it,WCE,Europe
 '4bd563dc86',extremes,Precipitation,#d60d2b,wmo,acquazzone على مناطق شرق ليبيا.,2026-01-26T04:09:00+00:00,Libya,0.4884270896118284,2,1,it,SAH,Africa
+'ddaab30fbb',extremes,Storm,#b3b2b1,wmo,tempesta gersau engelbergertal,2026-02-13T04:34:00+00:00,Switzerland,0.48756068158769483,0,1,it,WCE,Europe
 'e7571d972b',extremes,Earthquake,#870007,usgs,terremoto londra,2026-02-11T04:41:00+00:00,Argentina,0.4861283814818837,1,1,it,SES,South-America
 'f371b76a09',extremes,Precipitation,#d60d2b,wmo,pioggia sardegna,2026-02-01T04:41:00+00:00,Italy,0.4852766397007202,1,2,it,MED,Europe
 'cb97282513',extremes,Heat Wave,#c40202,wmo,ondata di caldo nueve de julio y alrededores,2026-01-28T03:56:00+00:00,Argentina,0.484399099800429,1,1,it,SES,South-America
@@ -216,7 +224,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '207df0d218',extremes,Precipitation,#d60d2b,wmo,piogge torrenziali piemonte,2026-02-02T04:36:00+00:00,Italy,0.4587910054336696,1,1,it,MED,Europe
 'd18c9a3f35',extremes,Earthquake,#870007,usgs,terremoto san antonio de los cobres,2026-02-06T04:27:00+00:00,Argentina,0.458558546668017,1,1,it,SWS,South-America
 '3db2345e5f',extremes,Snow&Ice,#d60d2b,wmo,muotathal di ghiaccio,2026-02-15T04:35:00+00:00,Switzerland,0.4571959073410887,1,1,it,WCE,Europe
-'e0e81271b7',extremes,Drought,#edc291,edo,periodo di siccità libia,2026-02-22T04:31:00+00:00,Libya,0.45706403970586434,1,1,it,SAH,Africa
+'e0e81271b7',extremes,Drought,#edc291,edo,periodo di siccità libia,2026-02-22T04:31:00+00:00,Libya,0.4570640397058643,1,1,it,SAH,Africa
 'bfe8b114a8',extremes,Storm,#b3b2b1,wmo,mareggiata valle d'aosta,2026-02-10T04:43:00+00:00,Italy,0.4569626843425231,1,1,it,MED,Europe
 'eced88a9b2',extremes,Precipitation,#d60d2b,wmo,acquazzone liguria,2026-01-26T04:09:00+00:00,Italy,0.4545348116940121,1,1,it,MED,Europe
 '0301a561b6',extremes,Thunderstorm,#53785a,wmo,grandine puglia,2026-02-10T04:43:00+00:00,Italy,0.4540979476991577,1,1,it,MED,Europe
