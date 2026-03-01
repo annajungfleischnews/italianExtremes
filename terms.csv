@@ -61,7 +61,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f6ff301646',extremes,Drought,#edc291,edo,siccità Somalia,2026-02-07T04:19:00+00:00,Somalia,0.5232323068467916,1,1,it,NEAF,Africa
 '3a23ad42fe',extremes,Precipitation,#d60d2b,wmo,pioggia torrenziale argentina,2026-02-05T04:27:00+00:00,Argentina,0.5229639262611524,1,1,it,SES,South-America
 'b08a276ec2',extremes,Fog,#d60d2b,wmo,nebbia italia,2026-02-22T04:30:00+00:00,Italy,0.5226446975128479,2,2,it,MED,Europe
-'b863d00f22',extremes,Drought,#edc291,edo,siccità italia,2026-02-07T04:19:00+00:00,Italy,0.5210118454582006,0,1,it,MED,Europe
 'dcef080672',extremes,Thunderstorm,#53785a,wmo,temporale toscana,2026-01-25T04:06:00+00:00,Italy,0.5204656919216881,1,1,it,MED,Europe
 'a89147746d',extremes,Thunderstorm,#53785a,wmo,maltempo campania,2026-02-15T04:35:00+00:00,Italy,0.520383089523146,1,2,it,MED,Europe
 '51c2ca3328',extremes,Fog,#d60d2b,wmo,nebbia toscana,2026-02-23T04:37:00+00:00,Italy,0.5203492210707459,2,1,it,MED,Europe
@@ -219,6 +218,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8ac1f2e2c9',extremes,Precipitation,#d60d2b,wmo,piogge torrenziali campania,2026-01-25T04:06:00+00:00,Italy,0.4632288157381896,1,1,it,MED,Europe
 '63d6f07f07',extremes,Tropical Cyclone,#4f4f4f,cmeter,ciclone tropicale cosenza,2026-02-15T04:35:00+00:00,Italy,0.463174810576675,1,1,it,MED,Europe
 '5c854a933c',extremes,Precipitation,#d60d2b,wmo,pioggia liguria,2026-01-27T03:58:00+00:00,Italy,0.4630454296671867,2,1,it,MED,Europe
+'b863d00f22',extremes,Drought,#edc291,edo,siccità italia,2026-02-07T04:19:00+00:00,Italy,0.4628101886394705,1,1,it,MED,Europe
 '6c3aaa0f15',extremes,Precipitation,#d60d2b,wmo,pioggia lombardia,2026-02-04T04:21:00+00:00,Italy,0.4626663917418667,2,1,it,MED,Europe
 'da7d718400',extremes,Thunderstorm,#53785a,wmo,temporale pugliese,2026-02-12T04:37:00+00:00,Italy,0.4607689012096559,1,1,it,MED,Europe
 'bd8c8650ea',extremes,Earthquake,#870007,usgs,terremoto el aguilar,2026-02-14T04:21:00+00:00,Argentina,0.4607410650054815,1,1,it,SES,South-America
