@@ -1,6 +1,6 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'6e13d761cc',extremes,Fog,#d60d2b,wmo,nebbia abruzzese,2026-03-02T04:27:00+00:00,Italy,0.7142108198025054,1,2,it,MED,Europe
 '3a8dcca50b',extremes,Snow&Ice,#d60d2b,wmo,l'italia gelida,2026-02-09T04:39:00+00:00,Italy,0.7123176709648741,1,2,it,MED,Europe
-'6e13d761cc',extremes,Fog,#d60d2b,wmo,nebbia abruzzese,2026-03-02T04:27:00+00:00,Italy,0.6634244585911828,0,1,it,MED,Europe
 '2064be337a',extremes,Fog,#d60d2b,wmo,nebbia friuli venezia giulia,2026-03-02T04:27:00+00:00,Italy,0.6616058081344597,0,1,it,MED,Europe
 '8e5338dae6',extremes,Thunderstorm,#53785a,wmo,salve italia,2026-01-18T03:57:00+00:00,Italy,0.6586782541454759,2,2,it,MED,Europe
 'b306b4d99a',extremes,Snow&Ice,#d60d2b,wmo,ghiaccio valle d'aosta,2026-02-18T04:34:00+00:00,Italy,0.6561853853083627,1,2,it,MED,Europe
@@ -161,7 +161,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '87cc3e4899',extremes,Storm,#b3b2b1,wmo,tempesta Obertoggenburg,2026-02-12T04:37:00+00:00,Switzerland,0.4829306731796106,0,1,it,WCE,Europe
 '0081c4b064',extremes,Storm,#b3b2b1,wmo,tempesta bex villars,2026-02-13T04:34:00+00:00,Switzerland,0.482861488525711,0,1,it,WCE,Europe
 '89c5c380c9',extremes,Precipitation,#d60d2b,wmo,pioggia campanese,2026-02-13T04:34:00+00:00,Italy,0.4827733615291991,0,1,it,MED,Europe
-'715d602abe',extremes,Drought,#edc291,edo,secchezza italia,2026-02-16T04:38:00+00:00,Italy,0.48236399660960394,0,1,it,MED,Europe
+'715d602abe',extremes,Drought,#edc291,edo,secchezza italia,2026-02-16T04:38:00+00:00,Italy,0.4823639966096039,0,1,it,MED,Europe
 '429ae37885',extremes,Fog,#d60d2b,wmo,nebbia piemontese,2026-02-27T04:26:00+00:00,Italy,0.4820944686385858,2,1,it,MED,Europe
 '5c2063d4e1',extremes,Storm,#b3b2b1,wmo,mareggiata Obertoggenburg,2026-02-13T04:34:00+00:00,Switzerland,0.4819290783446424,0,1,it,WCE,Europe
 'e3d8d13b1d',extremes,Storm,#b3b2b1,wmo,tempesta Sarganserland,2026-02-11T04:41:00+00:00,Switzerland,0.4812217738694099,0,1,it,WCE,Europe
