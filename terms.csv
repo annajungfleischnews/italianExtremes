@@ -34,7 +34,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f66afddf57',extremes,Snow&Ice,#d60d2b,wmo,gelo lombardia,2026-01-27T03:58:00+00:00,Italy,0.5602628106590899,1,2,it,MED,Europe
 '0df834d969',extremes,Thunderstorm,#53785a,wmo,maltempo sardegna,2026-01-19T04:03:00+00:00,Italy,0.5600071252565786,1,2,it,MED,Europe
 '9d36efcb9c',extremes,Thunderstorm,#53785a,wmo,maltempo sicilia,2026-02-01T04:41:00+00:00,Italy,0.5514437751679333,1,2,it,MED,Europe
-'82b8913676',extremes,Storm,#b3b2b1,wmo,mareggiata sardegna,2026-02-12T04:37:00+00:00,Italy,0.54920162595736,0,1,it,MED,Europe
 'cc2c75197d',extremes,Snow&Ice,#d60d2b,wmo,neve piemonte,2026-01-28T03:56:00+00:00,Italy,0.5489281532524937,1,2,it,MED,Europe
 '63b8afd7a4',extremes,Storm,#b3b2b1,wmo,tempesta lazio,2026-02-18T04:34:00+00:00,Italy,0.5488498334515116,0,1,it,MED,Europe
 'c9fc484d05',extremes,Storm,#b3b2b1,wmo,mareggiata umbria,2026-02-18T04:34:00+00:00,Italy,0.5473432062270449,2,1,it,MED,Europe
@@ -188,10 +187,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1a2e308d48',extremes,Thunderstorm,#53785a,wmo,temporale molisano,2026-02-15T04:35:00+00:00,Italy,0.4732545158360463,1,1,it,MED,Europe
 '851e7f751b',extremes,Storm,#b3b2b1,wmo,temporale valle d'aosta,2026-02-12T04:37:00+00:00,Italy,0.4729930831423705,1,1,it,MED,Europe
 'b5133aaa57',extremes,Snow&Ice,#d60d2b,wmo,gelo domleschg,2026-02-18T04:34:00+00:00,Switzerland,0.4727844593893404,0,1,it,WCE,Europe
-'232f5987a6',extremes,Snow&Ice,#d60d2b,wmo,snow sarnen lungern,2026-02-18T04:34:00+00:00,Switzerland,0.47278420378968317,0,1,it,WCE,Europe
-'e3c8c73b39',extremes,Snow&Ice,#d60d2b,wmo,neve val de ruz colombier,2026-02-18T04:34:00+00:00,Switzerland,0.47219355286694437,0,1,it,WCE,Europe
+'232f5987a6',extremes,Snow&Ice,#d60d2b,wmo,snow sarnen lungern,2026-02-18T04:34:00+00:00,Switzerland,0.4727842037896831,0,1,it,WCE,Europe
+'e3c8c73b39',extremes,Snow&Ice,#d60d2b,wmo,neve val de ruz colombier,2026-02-18T04:34:00+00:00,Switzerland,0.4721935528669443,0,1,it,WCE,Europe
 '426ae6362d',extremes,Snow&Ice,#d60d2b,wmo,gelo oron – haute broye,2026-02-18T04:34:00+00:00,Switzerland,0.4720337961909978,0,1,it,WCE,Europe
-'2af2f814ef',extremes,Snow&Ice,#d60d2b,wmo,gelo laufental,2026-02-18T04:34:00+00:00,Switzerland,0.47190140169317685,0,1,it,WCE,Europe
+'2af2f814ef',extremes,Snow&Ice,#d60d2b,wmo,gelo laufental,2026-02-18T04:34:00+00:00,Switzerland,0.4719014016931768,0,1,it,WCE,Europe
 '7b60b91229',extremes,Fog,#d60d2b,wmo,nebbia sardegna,2026-02-23T04:37:00+00:00,Italy,0.471295613825364,2,1,it,MED,Europe
 '3813092140',extremes,Snow&Ice,#d60d2b,wmo,gelata emilia e romagna,2026-02-06T04:27:00+00:00,Italy,0.4707399093262929,1,1,it,MED,Europe
 'b5cb89d511',extremes,Drought,#edc291,edo,siccità svizzera,2026-02-06T04:28:00+00:00,Switzerland,0.4706347776052398,1,1,it,WCE,Europe
@@ -206,6 +205,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '71aee81e61',extremes,Storm,#b3b2b1,wmo,mareggiata lazio,2026-02-12T04:37:00+00:00,Italy,0.4679380163103976,1,1,it,MED,Europe
 '13d52d0826',extremes,Thunderstorm,#53785a,wmo,grandine lazio,2026-02-10T04:43:00+00:00,Italy,0.4676231020807548,1,1,it,MED,Europe
 '16ac580ff2',extremes,Snow&Ice,#d60d2b,wmo,gelo schiers,2026-02-17T04:31:00+00:00,Switzerland,0.4675900160598608,1,1,it,WCE,Europe
+'82b8913676',extremes,Storm,#b3b2b1,wmo,mareggiata sardegna,2026-02-12T04:37:00+00:00,Italy,0.467571457063756,1,1,it,MED,Europe
 'd3d85ecd18',extremes,Snow&Ice,#d60d2b,wmo,gelata val medel sumvitg,2026-02-17T04:31:00+00:00,Switzerland,0.467537224880427,1,1,it,WCE,Europe
 '8e9ceec15a',extremes,Snow&Ice,#d60d2b,wmo,gelo Obertoggenburg,2026-02-15T04:35:00+00:00,Switzerland,0.4663029525628949,1,1,it,WCE,Europe
 '0587e67588',extremes,Precipitation,#d60d2b,wmo,piogge torrenziali lazio,2026-02-02T04:36:00+00:00,Italy,0.4661274898327251,1,1,it,MED,Europe
