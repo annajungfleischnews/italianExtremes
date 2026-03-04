@@ -120,7 +120,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '065a434526',extremes,Storm,#b3b2b1,wmo,tempesta Abruzzo,2026-02-15T04:35:00+00:00,Italy,0.4902342770422054,1,1,it,MED,Europe
 '99e70937bb',extremes,Heat Wave,#c40202,wmo,ondata di caldo punta indio y alrededores,2026-01-27T03:58:00+00:00,Argentina,0.4898025135502228,1,1,it,SES,South-America
 'c67e1b756d',extremes,Snow&Ice,#d60d2b,wmo,ghiaccio liguria,2026-01-26T04:09:00+00:00,Italy,0.4895729130699549,1,1,it,MED,Europe
-'7880ffef77',extremes,Snow&Ice,#d60d2b,wmo,gelo veneto,2026-02-18T04:34:00+00:00,Italy,0.48907573437286783,1,1,it,MED,Europe
+'7880ffef77',extremes,Snow&Ice,#d60d2b,wmo,gelo veneto,2026-02-18T04:34:00+00:00,Italy,0.4890757343728678,1,1,it,MED,Europe
 '824e4e227a',extremes,Snow&Ice,#d60d2b,wmo,ghiaccio glarona sud sernftal,2026-02-13T04:34:00+00:00,Switzerland,0.4890287389310201,0,1,it,WCE,Europe
 'ddaab30fbb',extremes,Storm,#b3b2b1,wmo,tempesta gersau engelbergertal,2026-02-13T04:34:00+00:00,Switzerland,0.4875606815876948,0,1,it,WCE,Europe
 'db4deee12d',extremes,Fog,#d60d2b,wmo,nebbia pugliese,2026-02-28T04:07:00+00:00,Italy,0.4874453155306513,2,1,it,MED,Europe
@@ -190,9 +190,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '426ae6362d',extremes,Snow&Ice,#d60d2b,wmo,gelo oron – haute broye,2026-02-18T04:34:00+00:00,Switzerland,0.4720337961909978,0,1,it,WCE,Europe
 '2af2f814ef',extremes,Snow&Ice,#d60d2b,wmo,gelo laufental,2026-02-18T04:34:00+00:00,Switzerland,0.4719014016931768,0,1,it,WCE,Europe
 '7b60b91229',extremes,Fog,#d60d2b,wmo,nebbia sardegna,2026-02-23T04:37:00+00:00,Italy,0.471295613825364,2,1,it,MED,Europe
+'05b234b018',extremes,Snow&Ice,#d60d2b,wmo,gelo supersimmentale,2026-02-18T04:34:00+00:00,Switzerland,0.47112586621607994,0,1,it,WCE,Europe
+'a9eab0b801',extremes,Snow&Ice,#d60d2b,wmo,neve gersau engelbergertal,2026-02-12T04:37:00+00:00,Switzerland,0.4710185033604598,0,1,it,WCE,Europe
 '3813092140',extremes,Snow&Ice,#d60d2b,wmo,gelata emilia e romagna,2026-02-06T04:27:00+00:00,Italy,0.4707399093262929,1,1,it,MED,Europe
 'b5cb89d511',extremes,Drought,#edc291,edo,siccità svizzera,2026-02-06T04:28:00+00:00,Switzerland,0.4706347776052398,1,1,it,WCE,Europe
 '0e11501646',extremes,Storm,#b3b2b1,wmo,tempesta emilia e romagna,2026-02-18T04:34:00+00:00,Italy,0.4704513753869455,1,1,it,MED,Europe
+'e5b1342785',extremes,Snow&Ice,#d60d2b,wmo,ghiaccio amriswil,2026-02-18T04:34:00+00:00,Switzerland,0.4703535686604346,0,1,it,WCE,Europe
+'3457a20fa4',extremes,Storm,#b3b2b1,wmo,tempesta val medel sumvitg,2026-02-12T04:37:00+00:00,Switzerland,0.4702548671779101,0,1,it,WCE,Europe
 '2acc964cba',extremes,Storm,#b3b2b1,wmo,mareggiata toscana,2026-02-15T04:35:00+00:00,Italy,0.4701981481830559,1,1,it,MED,Europe
 'a9dcb49498',extremes,Earthquake,#870007,usgs,terremoto del 28 novembre,2026-02-12T04:36:00+00:00,Argentina,0.4698833059256385,1,1,it,SSA,South-America
 '316c1a7868',extremes,Precipitation,#d60d2b,wmo,acquazzone toscana,2026-02-03T04:27:00+00:00,Italy,0.469807396081907,1,1,it,MED,Europe
@@ -225,7 +229,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3db2345e5f',extremes,Snow&Ice,#d60d2b,wmo,muotathal di ghiaccio,2026-02-15T04:35:00+00:00,Switzerland,0.4571959073410887,1,1,it,WCE,Europe
 'e0e81271b7',extremes,Drought,#edc291,edo,periodo di siccità libia,2026-02-22T04:31:00+00:00,Libya,0.4570640397058643,1,1,it,SAH,Africa
 'bfe8b114a8',extremes,Storm,#b3b2b1,wmo,mareggiata valle d'aosta,2026-02-10T04:43:00+00:00,Italy,0.4569626843425231,1,1,it,MED,Europe
-'fdaa0a92ad',extremes,Storm,#b3b2b1,wmo,tempesta campania,2026-02-10T04:43:00+00:00,Italy,0.45640178068634235,2,1,it,MED,Europe
+'fdaa0a92ad',extremes,Storm,#b3b2b1,wmo,tempesta campania,2026-02-10T04:43:00+00:00,Italy,0.4564017806863423,2,1,it,MED,Europe
 'da505455fb',extremes,Thunderstorm,#53785a,wmo,temporale sicilia,2026-02-09T04:39:00+00:00,Italy,0.4563350238173992,1,2,it,MED,Europe
 '241b679149',extremes,Thunderstorm,#53785a,wmo,salve sicilia,2026-02-12T04:37:00+00:00,Italy,0.4562601949349418,1,1,it,MED,Europe
 'eced88a9b2',extremes,Precipitation,#d60d2b,wmo,acquazzone liguria,2026-01-26T04:09:00+00:00,Italy,0.4545348116940121,1,1,it,MED,Europe
