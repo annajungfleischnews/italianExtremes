@@ -53,8 +53,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '33f847dd45',extremes,Precipitation,#d60d2b,wmo,acquazzone formosa formosa laishi pirane.,2026-01-29T04:19:00+00:00,Argentina,0.4978832175841576,1,1,it,SES,South-America
 '0c3d21da24',extremes,Precipitation,#d60d2b,wmo,acquazzone italia,2026-02-08T04:43:00+00:00,Italy,0.4977318705192278,1,1,it,MED,Europe
 '2cce7328e9',extremes,Storm,#b3b2b1,wmo,tempesta liguria,2026-02-05T04:27:00+00:00,Italy,0.4975838633601098,1,1,it,MED,Europe
+'fd6079b0ba',extremes,Earthquake,#870007,usgs,terremoto caucete,2026-03-08T04:24:00+00:00,Argentina,0.4968053531014965,0,1,it,SES,South-America
 '128c953b1e',extremes,Precipitation,#d60d2b,wmo,precipitazioni sicilia,2026-01-26T04:09:00+00:00,Italy,0.4962753516897185,2,2,it,MED,Europe
 '5d8c239887',extremes,Drought,#edc291,edo,mancanza di pioggia libia,2026-02-07T04:19:00+00:00,Libya,0.4954883495599407,1,1,it,SAH,Africa
+'c4fbfbd8fa',extremes,Earthquake,#870007,usgs,terremoto letojanni,2026-03-08T04:24:00+00:00,Italy,0.4944681836278771,0,1,it,MED,Europe
 '9e93dbaea9',extremes,Fog,#d60d2b,wmo,nebbia campana,2026-02-23T04:37:00+00:00,Italy,0.4940516968586342,2,1,it,MED,Europe
 '92ff957955',extremes,Snow&Ice,#d60d2b,wmo,neve svizzera,2026-01-23T04:03:00+00:00,Switzerland,0.494036210251531,1,2,it,WCE,Europe
 '97a2529f41',extremes,Snow&Ice,#d60d2b,wmo,ghiaccio svizzero,2026-02-11T04:41:00+00:00,Switzerland,0.4930989809511005,1,1,it,WCE,Europe
@@ -155,7 +157,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '46faf1e7f5',extremes,Snow&Ice,#d60d2b,wmo,ghiaccio meseey val d'illiez,2026-02-17T04:31:00+00:00,Switzerland,0.4594233180244881,1,1,it,WCE,Europe
 '12060a7df7',extremes,Storm,#b3b2b1,wmo,mareggiata italia,2026-03-04T04:20:00+00:00,Italy,0.4589976282934541,2,1,it,MED,Europe
 '207df0d218',extremes,Precipitation,#d60d2b,wmo,piogge torrenziali piemonte,2026-02-02T04:36:00+00:00,Italy,0.4587910054336696,1,1,it,MED,Europe
+'c8eedc828c',extremes,Snow&Ice,#d60d2b,wmo,gelo schangnau sigriswil,2026-02-18T04:34:00+00:00,Switzerland,0.4586701175342816,0,1,it,WCE,Europe
 'd18c9a3f35',extremes,Earthquake,#870007,usgs,terremoto san antonio de los cobres,2026-02-06T04:27:00+00:00,Argentina,0.458558546668017,1,1,it,SWS,South-America
+'442ae17476',extremes,Precipitation,#d60d2b,wmo,precipitazioni lazio,2026-02-19T04:32:00+00:00,Italy,0.45833563635773905,0,1,it,MED,Europe
 '3db2345e5f',extremes,Snow&Ice,#d60d2b,wmo,muotathal di ghiaccio,2026-02-15T04:35:00+00:00,Switzerland,0.4571959073410887,1,1,it,WCE,Europe
 'e0e81271b7',extremes,Drought,#edc291,edo,periodo di siccità libia,2026-02-22T04:31:00+00:00,Libya,0.4570640397058643,1,1,it,SAH,Africa
 'bfe8b114a8',extremes,Storm,#b3b2b1,wmo,mareggiata valle d'aosta,2026-02-10T04:43:00+00:00,Italy,0.4569626843425231,1,1,it,MED,Europe
@@ -260,7 +264,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd1d1457c61',extremes,Storm,#b3b2b1,wmo,tempesta thal,2026-02-11T04:41:00+00:00,Switzerland,0.4126759306494674,1,1,it,WCE,Europe
 '89e79328eb',extremes,Snow&Ice,#d60d2b,wmo,valle del ghiaccio del trient,2026-02-11T04:41:00+00:00,Switzerland,0.4117514989025903,1,1,it,WCE,Europe
 'e5b46f3978',extremes,Drought,#edc291,edo,periodo di siccità argentina,2026-03-02T04:27:00+00:00,Argentina,0.4114432899140957,1,1,it,SES,South-America
-'5e29cd96b0',extremes,Precipitation,#d60d2b,wmo,pioggia torrenziale italia,2026-02-10T04:43:00+00:00,Italy,0.41121285708653416,2,1,it,MED,Europe
+'5e29cd96b0',extremes,Precipitation,#d60d2b,wmo,pioggia torrenziale italia,2026-02-10T04:43:00+00:00,Italy,0.4112128570865341,2,1,it,MED,Europe
 '53c3ed5ff2',extremes,Snow&Ice,#d60d2b,wmo,neve val d'anniviers,2026-02-13T04:34:00+00:00,Switzerland,0.4107683087756454,1,1,it,WCE,Europe
 '87cc3e4899',extremes,Storm,#b3b2b1,wmo,tempesta Obertoggenburg,2026-02-12T04:37:00+00:00,Switzerland,0.410491072202669,1,1,it,WCE,Europe
 '0081c4b064',extremes,Storm,#b3b2b1,wmo,tempesta bex villars,2026-02-13T04:34:00+00:00,Switzerland,0.4104322652468543,1,1,it,WCE,Europe
