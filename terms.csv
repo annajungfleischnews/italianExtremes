@@ -77,7 +77,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'cb207f7e4e',extremes,Drought,#edc291,edo,mancanza di pioggia argentina,2026-02-08T04:43:00+00:00,Argentina,0.4762775434868302,1,1,it,SES,South-America
 'b5f3a9d570',extremes,Earthquake,#870007,usgs,terremoto mar del plata,2026-02-20T04:27:00+00:00,Argentina,0.4762504975780447,1,1,it,SES,South-America
 '5c38722100',extremes,Snow&Ice,#d60d2b,wmo,valle del ghiaccio,2026-02-13T04:34:00+00:00,Switzerland,0.4762358203656229,0,1,it,WCE,Europe
-'4ea5491fcc',extremes,Precipitation,#d60d2b,wmo,pioggia basilicata,2026-02-15T04:35:00+00:00,Italy,0.4756154547838117,0,1,it,MED,Europe
 'c19cef35d3',extremes,Fog,#d60d2b,wmo,nebbia calabria,2026-03-01T04:35:00+00:00,Italy,0.4752477681741113,2,1,it,MED,Europe
 '6483746a8d',extremes,Precipitation,#d60d2b,wmo,pioggia umbria,2026-02-03T04:27:00+00:00,Italy,0.4752054120507462,1,1,it,MED,Europe
 'b77d2e68e3',extremes,Storm,#b3b2b1,wmo,tempesta molisana,2026-02-16T04:38:00+00:00,Italy,0.4748859903126102,1,1,it,MED,Europe
@@ -154,6 +153,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '241b679149',extremes,Thunderstorm,#53785a,wmo,salve sicilia,2026-02-12T04:37:00+00:00,Italy,0.4562601949349418,1,1,it,MED,Europe
 '642e895343',extremes,Snow&Ice,#d60d2b,wmo,neve valle d'aosta,2026-02-16T04:38:00+00:00,Italy,0.4559781436004567,2,1,it,MED,Europe
 'a7b8ca3c8a',extremes,Snow&Ice,#d60d2b,wmo,ghiaccio nidau ins,2026-02-18T04:34:00+00:00,Switzerland,0.4552551221083818,0,1,it,WCE,Europe
+'4ea5491fcc',extremes,Precipitation,#d60d2b,wmo,pioggia basilicata,2026-02-15T04:35:00+00:00,Italy,0.45517322656623993,1,1,it,MED,Europe
 '997a2e2157',extremes,Earthquake,#870007,usgs,terremoto argentina,2026-02-05T04:27:00+00:00,Argentina,0.4548670691106023,2,1,it,SWS,South-America
 '0301a561b6',extremes,Thunderstorm,#53785a,wmo,grandine puglia,2026-02-10T04:43:00+00:00,Italy,0.4540979476991577,1,1,it,MED,Europe
 'e083c2b821',extremes,Snow&Ice,#d60d2b,wmo,neve santa cergue,2026-02-18T04:34:00+00:00,Switzerland,0.4540713103014686,0,1,it,WCE,Europe
