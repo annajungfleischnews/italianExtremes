@@ -1,18 +1,24 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'6c6666b2af',extremes,Precipitation,#d60d2b,wmo,precipitazioni argentina,2026-02-27T04:26:00+00:00,Argentina,0.6144052875748061,0,1,it,SES,South-America
+'e529bb6ac5',extremes,Precipitation,#d60d2b,wmo,pioggia argentina,2026-02-26T04:29:00+00:00,Argentina,0.6142070457195372,0,1,it,SES,South-America
 '198349cae8',extremes,Snow&Ice,#d60d2b,wmo,neve friuli venezia giulia,2026-01-27T03:58:00+00:00,Italy,0.6061185479540699,1,2,it,MED,Europe
 '3a8dcca50b',extremes,Snow&Ice,#d60d2b,wmo,l'italia gelida,2026-02-09T04:39:00+00:00,Italy,0.605470020320143,2,1,it,MED,Europe
 '075cc3fe36',extremes,Thunderstorm,#53785a,wmo,maltempo italia,2026-03-11T04:22:00+00:00,Italy,0.6045585535395218,1,1,it,MED,Europe
 '6076c8543a',extremes,Storm,#b3b2b1,wmo,mareggiata liguria,2026-02-13T04:34:00+00:00,Italy,0.5910855697351246,3,1,it,MED,Europe
+'f14331b9f6',extremes,Thunderstorm,#53785a,wmo,maltempo calabria,2026-03-12T04:26:00+00:00,Italy,0.5907285641351308,0,1,it,MED,Europe
+'d90bfca4a4',extremes,Storm,#b3b2b1,wmo,tempesta sardegna,2026-03-01T04:35:00+00:00,Italy,0.5885078388439186,0,1,it,MED,Europe
 '8fa1b857b6',extremes,Fog,#d60d2b,wmo,nebbia umbria,2026-02-23T04:37:00+00:00,Italy,0.5811477586324463,2,2,it,MED,Europe
 'f6374995d1',extremes,Tropical Cyclone,#4f4f4f,cmeter,ciclone tropicale italia,2026-02-18T04:34:00+00:00,Italy,0.5773835673715627,1,2,it,MED,Europe
 '13ba8452d9',extremes,Fog,#d60d2b,wmo,nebbia siciliana,2026-02-25T04:32:00+00:00,Italy,0.5771717812827004,2,2,it,MED,Europe
 'c988798ce9',extremes,Thunderstorm,#53785a,wmo,maltempo puglia,2026-02-04T04:21:00+00:00,Italy,0.5743696820981498,2,3,it,MED,Europe
 '2cce7328e9',extremes,Storm,#b3b2b1,wmo,tempesta liguria,2026-02-05T04:27:00+00:00,Italy,0.5730962988560933,2,2,it,MED,Europe
+'e1705f0f96',extremes,Thunderstorm,#53785a,wmo,temporale Basilicata,2026-03-12T04:26:00+00:00,Italy,0.5708066293342461,0,1,it,MED,Europe
 '42f1336000',extremes,Drought,#edc291,edo,siccità Somalia,2026-02-12T04:37:00+00:00,Somalia,0.5671578070123113,1,2,it,NEAF,Africa
 '6e13d761cc',extremes,Fog,#d60d2b,wmo,nebbia abruzzese,2026-03-02T04:27:00+00:00,Italy,0.5667223878073102,3,2,it,MED,Europe
 'f66afddf57',extremes,Snow&Ice,#d60d2b,wmo,gelo lombardia,2026-01-27T03:58:00+00:00,Italy,0.5602628106590899,1,2,it,MED,Europe
 'd92d2dbe23',extremes,Snow&Ice,#d60d2b,wmo,ghiaccio italia,2026-03-10T04:22:00+00:00,Italy,0.5586887182550849,1,2,it,MED,Europe
 '6636b82ba3',extremes,Thunderstorm,#53785a,wmo,temporale libia,2026-03-11T04:22:00+00:00,Libya,0.5582875008070969,1,1,it,SAH,Africa
+'5014e36632',extremes,Earthquake,#870007,usgs,terremoto anacapri,2026-03-12T04:25:00+00:00,Italy,0.5582477739686238,0,1,it,MED,Europe
 'b306b4d99a',extremes,Snow&Ice,#d60d2b,wmo,ghiaccio valle d'aosta,2026-02-18T04:34:00+00:00,Italy,0.5577576375121083,2,1,it,MED,Europe
 '55cd52a013',extremes,Fog,#d60d2b,wmo,nebbia valle d'aosta,2026-03-12T04:26:00+00:00,Italy,0.5563793573757063,1,1,it,MED,Europe
 '9d36efcb9c',extremes,Thunderstorm,#53785a,wmo,maltempo sicilia,2026-02-01T04:41:00+00:00,Italy,0.5514437751679333,1,2,it,MED,Europe
@@ -263,7 +269,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a5f7d9bde6',extremes,Storm,#b3b2b1,wmo,mareggiata Sarganserland,2026-02-17T04:31:00+00:00,Switzerland,0.4088049110857285,1,1,it,WCE,Europe
 '6c1ceb4cc7',extremes,Storm,#b3b2b1,wmo,mareggiata laufental,2026-02-11T04:41:00+00:00,Switzerland,0.40875163893592,1,1,it,WCE,Europe
 '4fb36a20f0',extremes,Snow&Ice,#d60d2b,wmo,gelo vallée du trient,2026-02-20T04:27:00+00:00,Switzerland,0.4062335427264129,1,1,it,WCE,Europe
-'1387c32bb1',extremes,Storm,#b3b2b1,wmo,tempesta urserntal,2026-02-12T04:37:00+00:00,Switzerland,0.40595046894303205,1,1,it,WCE,Europe
+'1387c32bb1',extremes,Storm,#b3b2b1,wmo,tempesta urserntal,2026-02-12T04:37:00+00:00,Switzerland,0.405950468943032,1,1,it,WCE,Europe
 '5ff8628039',extremes,Snow&Ice,#d60d2b,wmo,brigantino gelido nördliches simplongebiet,2026-02-17T04:31:00+00:00,Switzerland,0.4056758365921813,1,1,it,WCE,Europe
 '13c43ed6fe',extremes,Snow&Ice,#d60d2b,wmo,gelo saanen gsteig,2026-02-13T04:34:00+00:00,Switzerland,0.405157970816988,1,1,it,WCE,Europe
 '29c7bd8fdc',extremes,Snow&Ice,#d60d2b,wmo,neve steckborn müllheim,2026-02-18T04:34:00+00:00,Switzerland,0.4047552925362537,1,1,it,WCE,Europe
