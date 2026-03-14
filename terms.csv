@@ -2,9 +2,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3a8dcca50b',extremes,Snow&Ice,#d60d2b,wmo,l'italia gelida,2026-02-09T04:39:00+00:00,Italy,0.605470020320143,2,1,it,MED,Europe
 '075cc3fe36',extremes,Thunderstorm,#53785a,wmo,maltempo italia,2026-03-11T04:22:00+00:00,Italy,0.6045585535395218,1,1,it,MED,Europe
 '94300b4dad',extremes,Snow&Ice,#d60d2b,wmo,neve italia,2026-03-13T04:25:00+00:00,Italy,0.6040762654318289,1,2,it,MED,Europe
-'4a49035fe3',extremes,Snow&Ice,#d60d2b,wmo,villani degli stambecchi ghiacciati,2026-03-13T04:25:00+00:00,Switzerland,0.6021672103138636,0,1,it,WCE,Europe
-'cc3baf13f5',extremes,Snow&Ice,#d60d2b,wmo,neve muotathal,2026-03-13T04:25:00+00:00,Switzerland,0.6014206043197298,0,1,it,WCE,Europe
-'34d97e479b',extremes,Snow&Ice,#d60d2b,wmo,ghiaccio st.gallen rorschach,2026-03-13T04:25:00+00:00,Switzerland,0.6007437026968142,0,1,it,WCE,Europe
 '6076c8543a',extremes,Storm,#b3b2b1,wmo,mareggiata liguria,2026-02-13T04:34:00+00:00,Italy,0.5910855697351246,3,1,it,MED,Europe
 '8fa1b857b6',extremes,Fog,#d60d2b,wmo,nebbia umbria,2026-02-23T04:37:00+00:00,Italy,0.5811477586324463,2,2,it,MED,Europe
 'f14331b9f6',extremes,Thunderstorm,#53785a,wmo,maltempo calabria,2026-03-12T04:26:00+00:00,Italy,0.5797984422421338,1,3,it,MED,Europe
@@ -15,9 +12,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '42f1336000',extremes,Drought,#edc291,edo,siccità Somalia,2026-02-12T04:37:00+00:00,Somalia,0.5671578070123113,1,2,it,NEAF,Africa
 '6e13d761cc',extremes,Fog,#d60d2b,wmo,nebbia abruzzese,2026-03-02T04:27:00+00:00,Italy,0.5667223878073102,3,2,it,MED,Europe
 'd92d2dbe23',extremes,Snow&Ice,#d60d2b,wmo,ghiaccio italia,2026-03-10T04:22:00+00:00,Italy,0.5586887182550849,1,2,it,MED,Europe
-'6636b82ba3',extremes,Thunderstorm,#53785a,wmo,temporale libia,2026-03-11T04:22:00+00:00,Libya,0.5582875008070969,1,1,it,SAH,Africa
 'b306b4d99a',extremes,Snow&Ice,#d60d2b,wmo,ghiaccio valle d'aosta,2026-02-18T04:34:00+00:00,Italy,0.5577576375121083,2,1,it,MED,Europe
-'55cd52a013',extremes,Fog,#d60d2b,wmo,nebbia valle d'aosta,2026-03-12T04:26:00+00:00,Italy,0.5563793573757063,1,1,it,MED,Europe
 '9d36efcb9c',extremes,Thunderstorm,#53785a,wmo,maltempo sicilia,2026-02-01T04:41:00+00:00,Italy,0.5514437751679333,1,2,it,MED,Europe
 'cc2c75197d',extremes,Snow&Ice,#d60d2b,wmo,neve piemonte,2026-01-28T03:56:00+00:00,Italy,0.5489281532524937,1,2,it,MED,Europe
 'c9fc484d05',extremes,Storm,#b3b2b1,wmo,mareggiata umbria,2026-02-18T04:34:00+00:00,Italy,0.5473432062270449,2,1,it,MED,Europe
@@ -27,7 +22,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5bf34f285a',extremes,Earthquake,#870007,usgs,terremoto italia,2026-02-21T04:17:00+00:00,Italy,0.539233367689454,2,2,it,MED,Europe
 '0df834d969',extremes,Thunderstorm,#53785a,wmo,maltempo sardegna,2026-02-19T04:32:00+00:00,Italy,0.534907677485193,1,3,it,MED,Europe
 '507412aefc',extremes,Storm,#b3b2b1,wmo,tempesta italia,2026-02-06T04:27:00+00:00,Italy,0.5273307961611663,2,1,it,MED,Europe
-'b96cc738bc',extremes,Precipitation,#d60d2b,wmo,pioggia piemonte,2026-03-11T04:22:00+00:00,Italy,0.5256027933310521,1,1,it,MED,Europe
 'e1705f0f96',extremes,Thunderstorm,#53785a,wmo,temporale Basilicata,2026-03-12T04:26:00+00:00,Italy,0.5238857549341092,1,1,it,MED,Europe
 'f6ff301646',extremes,Drought,#edc291,edo,siccità Somalia,2026-02-07T04:19:00+00:00,Somalia,0.5232323068467916,1,1,it,NEAF,Africa
 '3a23ad42fe',extremes,Precipitation,#d60d2b,wmo,pioggia torrenziale argentina,2026-02-05T04:27:00+00:00,Argentina,0.5229639262611524,1,1,it,SES,South-America
@@ -45,8 +39,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'cd3d048b5a',extremes,Precipitation,#d60d2b,wmo,pioggia italia,2026-03-04T04:20:00+00:00,Italy,0.5124309899154632,1,2,it,MED,Europe
 '081c41fb1c',extremes,Snow&Ice,#d60d2b,wmo,gelo yverdon bevaix,2026-03-13T04:25:00+00:00,Switzerland,0.5124202989560632,1,1,it,WCE,Europe
 '5b9238695e',extremes,Snow&Ice,#d60d2b,wmo,neve werdenberg,2026-03-13T04:25:00+00:00,Switzerland,0.5121037221298779,1,1,it,WCE,Europe
+'4a49035fe3',extremes,Snow&Ice,#d60d2b,wmo,villani degli stambecchi ghiacciati,2026-03-13T04:25:00+00:00,Switzerland,0.511842128766784,1,1,it,WCE,Europe
 'c8438d80e0',extremes,Snow&Ice,#d60d2b,wmo,neve effretikon,2026-03-13T04:25:00+00:00,Switzerland,0.5118081363576836,1,1,it,WCE,Europe
 'a4f740835f',extremes,Storm,#b3b2b1,wmo,tempesta piemontese,2026-02-10T04:43:00+00:00,Italy,0.5114668197633208,2,1,it,MED,Europe
+'cc3baf13f5',extremes,Snow&Ice,#d60d2b,wmo,neve muotathal,2026-03-13T04:25:00+00:00,Switzerland,0.5112075136717703,1,1,it,WCE,Europe
+'34d97e479b',extremes,Snow&Ice,#d60d2b,wmo,ghiaccio st.gallen rorschach,2026-03-13T04:25:00+00:00,Switzerland,0.5106321472922921,1,1,it,WCE,Europe
 '8e5b367351',extremes,Precipitation,#d60d2b,wmo,precipitazioni italia,2026-03-06T04:21:00+00:00,Italy,0.503671676278144,1,1,it,MED,Europe
 'f82cdd7aef',extremes,Fog,#d60d2b,wmo,nebbia basilicata,2026-02-24T04:31:00+00:00,Italy,0.5035698747622719,2,1,it,MED,Europe
 'd90bfca4a4',extremes,Storm,#b3b2b1,wmo,tempesta sardegna,2026-03-01T04:35:00+00:00,Italy,0.5014317830173308,1,1,it,MED,Europe
@@ -54,6 +51,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f9eb244a9a',extremes,Drought,#edc291,edo,mancanza di pioggia italia,2026-02-05T04:28:00+00:00,Italy,0.5000688911891261,1,1,it,MED,Europe
 '52ccb0fc6c',extremes,Fog,#d60d2b,wmo,nebbia marchigiana,2026-02-25T04:32:00+00:00,Italy,0.4999776357541216,2,1,it,MED,Europe
 '9e93dbaea9',extremes,Fog,#d60d2b,wmo,nebbia campana,2026-02-23T04:37:00+00:00,Italy,0.4940516968586342,2,1,it,MED,Europe
+'b96cc738bc',extremes,Precipitation,#d60d2b,wmo,pioggia piemonte,2026-03-11T04:22:00+00:00,Italy,0.4906696221885371,2,1,it,MED,Europe
 '065a434526',extremes,Storm,#b3b2b1,wmo,tempesta Abruzzo,2026-02-15T04:35:00+00:00,Italy,0.4902342770422054,1,1,it,MED,Europe
 '7880ffef77',extremes,Snow&Ice,#d60d2b,wmo,gelo veneto,2026-02-18T04:34:00+00:00,Italy,0.4890757343728678,1,1,it,MED,Europe
 'db4deee12d',extremes,Fog,#d60d2b,wmo,nebbia pugliese,2026-02-28T04:07:00+00:00,Italy,0.4874453155306513,2,1,it,MED,Europe
@@ -82,12 +80,14 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b77d2e68e3',extremes,Storm,#b3b2b1,wmo,tempesta molisana,2026-02-16T04:38:00+00:00,Italy,0.4748859903126102,1,1,it,MED,Europe
 'ddc0b2c2fb',extremes,Storm,#b3b2b1,wmo,mareggiata campania,2026-02-09T04:39:00+00:00,Italy,0.4748392970033055,1,1,it,MED,Europe
 'ee371032d3',extremes,Thunderstorm,#53785a,wmo,temporale campania,2026-02-11T04:41:00+00:00,Italy,0.4745859654944748,2,1,it,MED,Europe
+'6636b82ba3',extremes,Thunderstorm,#53785a,wmo,temporale libia,2026-03-11T04:22:00+00:00,Libya,0.47454437568603236,2,1,it,SAH,Africa
 '5014e36632',extremes,Earthquake,#870007,usgs,terremoto anacapri,2026-03-12T04:25:00+00:00,Italy,0.4745106078733302,1,1,it,MED,Europe
 'a559add9e4',extremes,Precipitation,#d60d2b,wmo,pioggia lazio,2026-02-18T04:34:00+00:00,Italy,0.474362080481795,1,2,it,MED,Europe
 '3550c99ca4',extremes,Fog,#d60d2b,wmo,nebbia emilia e romagna,2026-02-25T04:32:00+00:00,Italy,0.4739725313471452,4,1,it,MED,Europe
 '40c008a8cc',extremes,Snow&Ice,#d60d2b,wmo,gelido trentino alto adige,2026-02-19T04:32:00+00:00,Italy,0.473785855800672,1,1,it,MED,Europe
 '1a2e308d48',extremes,Thunderstorm,#53785a,wmo,temporale molisano,2026-02-15T04:35:00+00:00,Italy,0.4732545158360463,1,1,it,MED,Europe
 '851e7f751b',extremes,Storm,#b3b2b1,wmo,temporale valle d'aosta,2026-02-12T04:37:00+00:00,Italy,0.4729930831423705,1,1,it,MED,Europe
+'55cd52a013',extremes,Fog,#d60d2b,wmo,nebbia valle d'aosta,2026-03-12T04:26:00+00:00,Italy,0.4729224537693504,2,1,it,MED,Europe
 'b5133aaa57',extremes,Snow&Ice,#d60d2b,wmo,gelo domleschg,2026-02-18T04:34:00+00:00,Switzerland,0.4727844593893404,0,1,it,WCE,Europe
 '232f5987a6',extremes,Snow&Ice,#d60d2b,wmo,snow sarnen lungern,2026-02-18T04:34:00+00:00,Switzerland,0.4727842037896831,0,1,it,WCE,Europe
 '426ae6362d',extremes,Snow&Ice,#d60d2b,wmo,gelo oron – haute broye,2026-02-18T04:34:00+00:00,Switzerland,0.4720337961909978,0,1,it,WCE,Europe
