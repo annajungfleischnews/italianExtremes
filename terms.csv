@@ -51,7 +51,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f9eb244a9a',extremes,Drought,#edc291,edo,mancanza di pioggia italia,2026-02-05T04:28:00+00:00,Italy,0.5000688911891261,1,1,it,MED,Europe
 '52ccb0fc6c',extremes,Fog,#d60d2b,wmo,nebbia marchigiana,2026-02-25T04:32:00+00:00,Italy,0.4999776357541216,2,1,it,MED,Europe
 '9e93dbaea9',extremes,Fog,#d60d2b,wmo,nebbia campana,2026-02-23T04:37:00+00:00,Italy,0.4940516968586342,2,1,it,MED,Europe
-'5535eb6776',extremes,Precipitation,#d60d2b,wmo,piogge torrenziali calabria,2026-02-04T04:21:00+00:00,Italy,0.4917060151874238,1,1,it,MED,Europe
 '065a434526',extremes,Storm,#b3b2b1,wmo,tempesta Abruzzo,2026-02-15T04:35:00+00:00,Italy,0.4902342770422054,1,1,it,MED,Europe
 '7880ffef77',extremes,Snow&Ice,#d60d2b,wmo,gelo veneto,2026-02-18T04:34:00+00:00,Italy,0.4890757343728678,1,1,it,MED,Europe
 'db4deee12d',extremes,Fog,#d60d2b,wmo,nebbia pugliese,2026-02-28T04:07:00+00:00,Italy,0.4874453155306513,2,1,it,MED,Europe
