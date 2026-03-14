@@ -1,6 +1,11 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'94300b4dad',extremes,Snow&Ice,#d60d2b,wmo,neve italia,2026-03-13T04:25:00+00:00,Italy,0.6834630497058949,0,1,it,MED,Europe
 '3a8dcca50b',extremes,Snow&Ice,#d60d2b,wmo,l'italia gelida,2026-02-09T04:39:00+00:00,Italy,0.605470020320143,2,1,it,MED,Europe
 '075cc3fe36',extremes,Thunderstorm,#53785a,wmo,maltempo italia,2026-03-11T04:22:00+00:00,Italy,0.6045585535395218,1,1,it,MED,Europe
+'081c41fb1c',extremes,Snow&Ice,#d60d2b,wmo,gelo yverdon bevaix,2026-03-13T04:25:00+00:00,Switzerland,0.602847410536545,0,1,it,WCE,Europe
+'4a49035fe3',extremes,Snow&Ice,#d60d2b,wmo,villani degli stambecchi ghiacciati,2026-03-13T04:25:00+00:00,Switzerland,0.6021672103138636,0,1,it,WCE,Europe
+'cc3baf13f5',extremes,Snow&Ice,#d60d2b,wmo,neve muotathal,2026-03-13T04:25:00+00:00,Switzerland,0.6014206043197298,0,1,it,WCE,Europe
+'34d97e479b',extremes,Snow&Ice,#d60d2b,wmo,ghiaccio st.gallen rorschach,2026-03-13T04:25:00+00:00,Switzerland,0.6007437026968142,0,1,it,WCE,Europe
 '6076c8543a',extremes,Storm,#b3b2b1,wmo,mareggiata liguria,2026-02-13T04:34:00+00:00,Italy,0.5910855697351246,3,1,it,MED,Europe
 '8fa1b857b6',extremes,Fog,#d60d2b,wmo,nebbia umbria,2026-02-23T04:37:00+00:00,Italy,0.5811477586324463,2,2,it,MED,Europe
 'f14331b9f6',extremes,Thunderstorm,#53785a,wmo,maltempo calabria,2026-03-12T04:26:00+00:00,Italy,0.5797984422421338,1,3,it,MED,Europe
