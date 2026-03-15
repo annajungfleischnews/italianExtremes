@@ -64,15 +64,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b862f62894',extremes,Storm,#b3b2b1,wmo,mareggiata basilicata,2026-02-14T04:21:00+00:00,Italy,0.4790336946479704,1,1,it,MED,Europe
 '2064be337a',extremes,Fog,#d60d2b,wmo,nebbia friuli venezia giulia,2026-03-02T04:27:00+00:00,Italy,0.4780101963771471,2,1,it,MED,Europe
 '731c9c6599',extremes,Storm,#b3b2b1,wmo,tempesta basilicata,2026-02-11T04:41:00+00:00,Italy,0.477829629370036,1,1,it,MED,Europe
-'4a6b9d2482',extremes,Snow&Ice,#d60d2b,wmo,gelo luzern alpnach,2026-02-15T04:35:00+00:00,Switzerland,0.4774461040445754,0,1,it,WCE,Europe
 'dcf82560b0',extremes,Fog,#d60d2b,wmo,nebbia lombardia,2026-02-23T04:37:00+00:00,Italy,0.4770866105546228,2,1,it,MED,Europe
 '818e7ed020',extremes,Snow&Ice,#d60d2b,wmo,neve lombardia,2026-02-15T04:35:00+00:00,Italy,0.4770482505979616,1,1,it,MED,Europe
-'eea3384e89',extremes,Storm,#b3b2b1,wmo,"tempesta, vouvry",2026-02-12T04:37:00+00:00,Switzerland,0.4768702277126554,0,1,it,WCE,Europe
-'dafc50fd29',extremes,Storm,#b3b2b1,wmo,tempesta schangnau sigriswil,2026-02-11T04:41:00+00:00,Switzerland,0.4768072271487816,0,1,it,WCE,Europe
-'fc9ab070b4',extremes,Snow&Ice,#d60d2b,wmo,gelo sion crans montana,2026-02-13T04:34:00+00:00,Switzerland,0.4766056992270447,0,1,it,WCE,Europe
 'cb207f7e4e',extremes,Drought,#edc291,edo,mancanza di pioggia argentina,2026-02-08T04:43:00+00:00,Argentina,0.4762775434868302,1,1,it,SES,South-America
 'b5f3a9d570',extremes,Earthquake,#870007,usgs,terremoto mar del plata,2026-02-20T04:27:00+00:00,Argentina,0.4762504975780447,1,1,it,SES,South-America
-'5c38722100',extremes,Snow&Ice,#d60d2b,wmo,valle del ghiaccio,2026-02-13T04:34:00+00:00,Switzerland,0.4762358203656229,0,1,it,WCE,Europe
 'c19cef35d3',extremes,Fog,#d60d2b,wmo,nebbia calabria,2026-03-01T04:35:00+00:00,Italy,0.4752477681741113,2,1,it,MED,Europe
 'b77d2e68e3',extremes,Storm,#b3b2b1,wmo,tempesta molisana,2026-02-16T04:38:00+00:00,Italy,0.4748859903126102,1,1,it,MED,Europe
 'ddc0b2c2fb',extremes,Storm,#b3b2b1,wmo,mareggiata campania,2026-02-09T04:39:00+00:00,Italy,0.4748392970033055,1,1,it,MED,Europe
@@ -257,10 +252,15 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e3d8d13b1d',extremes,Storm,#b3b2b1,wmo,tempesta Sarganserland,2026-02-11T04:41:00+00:00,Switzerland,0.4090385077889984,1,1,it,WCE,Europe
 'a5f7d9bde6',extremes,Storm,#b3b2b1,wmo,mareggiata Sarganserland,2026-02-17T04:31:00+00:00,Switzerland,0.4088049110857285,1,1,it,WCE,Europe
 '6c1ceb4cc7',extremes,Storm,#b3b2b1,wmo,mareggiata laufental,2026-02-11T04:41:00+00:00,Switzerland,0.40875163893592,1,1,it,WCE,Europe
+'5c38722100',extremes,Snow&Ice,#d60d2b,wmo,valle del ghiaccio,2026-02-13T04:34:00+00:00,Switzerland,0.40660062731077945,1,1,it,WCE,Europe
 '4fb36a20f0',extremes,Snow&Ice,#d60d2b,wmo,gelo vallée du trient,2026-02-20T04:27:00+00:00,Switzerland,0.4062335427264129,1,1,it,WCE,Europe
 '1387c32bb1',extremes,Storm,#b3b2b1,wmo,tempesta urserntal,2026-02-12T04:37:00+00:00,Switzerland,0.405950468943032,1,1,it,WCE,Europe
+'4a6b9d2482',extremes,Snow&Ice,#d60d2b,wmo,gelo luzern alpnach,2026-02-15T04:35:00+00:00,Switzerland,0.40582918843788907,1,1,it,WCE,Europe
 '5ff8628039',extremes,Snow&Ice,#d60d2b,wmo,brigantino gelido nördliches simplongebiet,2026-02-17T04:31:00+00:00,Switzerland,0.4056758365921813,1,1,it,WCE,Europe
+'eea3384e89',extremes,Storm,#b3b2b1,wmo,"tempesta, vouvry",2026-02-12T04:37:00+00:00,Switzerland,0.4053396935557571,1,1,it,WCE,Europe
+'dafc50fd29',extremes,Storm,#b3b2b1,wmo,tempesta schangnau sigriswil,2026-02-11T04:41:00+00:00,Switzerland,0.4052861430764643,1,1,it,WCE,Europe
 '13c43ed6fe',extremes,Snow&Ice,#d60d2b,wmo,gelo saanen gsteig,2026-02-13T04:34:00+00:00,Switzerland,0.405157970816988,1,1,it,WCE,Europe
+'fc9ab070b4',extremes,Snow&Ice,#d60d2b,wmo,gelo sion crans montana,2026-02-13T04:34:00+00:00,Switzerland,0.405114844342988,1,1,it,WCE,Europe
 '29c7bd8fdc',extremes,Snow&Ice,#d60d2b,wmo,neve steckborn müllheim,2026-02-18T04:34:00+00:00,Switzerland,0.4047552925362537,1,1,it,WCE,Europe
 '61aa0713cb',extremes,Snow&Ice,#d60d2b,wmo,ghiaccio frutigen kental,2026-02-18T04:34:00+00:00,Switzerland,0.4043238925246541,1,1,it,WCE,Europe
 '0ebfc06b8b',extremes,Snow&Ice,#d60d2b,wmo,gelido Kerenzerberg Seeztal,2026-02-18T04:34:00+00:00,Switzerland,0.4030379522671762,1,1,it,WCE,Europe
