@@ -1,7 +1,12 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'93f796a1ae',extremes,Thunderstorm,#53785a,wmo,grandine umbria,2026-03-13T04:25:00+00:00,Italy,0.6092744008427813,0,1,it,MED,Europe
 '3a8dcca50b',extremes,Snow&Ice,#d60d2b,wmo,l'italia gelida,2026-02-09T04:39:00+00:00,Italy,0.605470020320143,2,1,it,MED,Europe
 '075cc3fe36',extremes,Thunderstorm,#53785a,wmo,maltempo italia,2026-03-11T04:22:00+00:00,Italy,0.6045585535395218,1,1,it,MED,Europe
 '94300b4dad',extremes,Snow&Ice,#d60d2b,wmo,neve italia,2026-03-13T04:25:00+00:00,Italy,0.6040762654318289,1,2,it,MED,Europe
+'4751591f8a',extremes,Snow&Ice,#d60d2b,wmo,neve friburgo,2026-03-13T04:25:00+00:00,Switzerland,0.6027878725844394,0,1,it,WCE,Europe
+'8a7356fe46',extremes,Snow&Ice,#d60d2b,wmo,valle di neve,2026-03-13T04:25:00+00:00,Switzerland,0.5993291988388191,0,1,it,WCE,Europe
+'04ec48ad4c',extremes,Snow&Ice,#d60d2b,wmo,ice luzern alpnach,2026-03-13T04:25:00+00:00,Switzerland,0.5989182990886087,0,1,it,WCE,Europe
+'1d08b60cd4',extremes,Snow&Ice,#d60d2b,wmo,ghiaccio rothrist soletta,2026-03-13T04:25:00+00:00,Switzerland,0.5983224167852853,0,1,it,WCE,Europe
 '6076c8543a',extremes,Storm,#b3b2b1,wmo,mareggiata liguria,2026-02-13T04:34:00+00:00,Italy,0.5910855697351246,3,1,it,MED,Europe
 '8fa1b857b6',extremes,Fog,#d60d2b,wmo,nebbia umbria,2026-02-23T04:37:00+00:00,Italy,0.5811477586324463,2,2,it,MED,Europe
 'f14331b9f6',extremes,Thunderstorm,#53785a,wmo,maltempo calabria,2026-03-12T04:26:00+00:00,Italy,0.5797984422421338,1,3,it,MED,Europe
@@ -252,10 +257,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e3d8d13b1d',extremes,Storm,#b3b2b1,wmo,tempesta Sarganserland,2026-02-11T04:41:00+00:00,Switzerland,0.4090385077889984,1,1,it,WCE,Europe
 'a5f7d9bde6',extremes,Storm,#b3b2b1,wmo,mareggiata Sarganserland,2026-02-17T04:31:00+00:00,Switzerland,0.4088049110857285,1,1,it,WCE,Europe
 '6c1ceb4cc7',extremes,Storm,#b3b2b1,wmo,mareggiata laufental,2026-02-11T04:41:00+00:00,Switzerland,0.40875163893592,1,1,it,WCE,Europe
-'5c38722100',extremes,Snow&Ice,#d60d2b,wmo,valle del ghiaccio,2026-02-13T04:34:00+00:00,Switzerland,0.40660062731077945,1,1,it,WCE,Europe
+'5c38722100',extremes,Snow&Ice,#d60d2b,wmo,valle del ghiaccio,2026-02-13T04:34:00+00:00,Switzerland,0.4066006273107794,1,1,it,WCE,Europe
 '4fb36a20f0',extremes,Snow&Ice,#d60d2b,wmo,gelo vallée du trient,2026-02-20T04:27:00+00:00,Switzerland,0.4062335427264129,1,1,it,WCE,Europe
 '1387c32bb1',extremes,Storm,#b3b2b1,wmo,tempesta urserntal,2026-02-12T04:37:00+00:00,Switzerland,0.405950468943032,1,1,it,WCE,Europe
-'4a6b9d2482',extremes,Snow&Ice,#d60d2b,wmo,gelo luzern alpnach,2026-02-15T04:35:00+00:00,Switzerland,0.40582918843788907,1,1,it,WCE,Europe
+'4a6b9d2482',extremes,Snow&Ice,#d60d2b,wmo,gelo luzern alpnach,2026-02-15T04:35:00+00:00,Switzerland,0.405829188437889,1,1,it,WCE,Europe
 '5ff8628039',extremes,Snow&Ice,#d60d2b,wmo,brigantino gelido nördliches simplongebiet,2026-02-17T04:31:00+00:00,Switzerland,0.4056758365921813,1,1,it,WCE,Europe
 'eea3384e89',extremes,Storm,#b3b2b1,wmo,"tempesta, vouvry",2026-02-12T04:37:00+00:00,Switzerland,0.4053396935557571,1,1,it,WCE,Europe
 'dafc50fd29',extremes,Storm,#b3b2b1,wmo,tempesta schangnau sigriswil,2026-02-11T04:41:00+00:00,Switzerland,0.4052861430764643,1,1,it,WCE,Europe
