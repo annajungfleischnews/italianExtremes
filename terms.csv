@@ -3,7 +3,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '075cc3fe36',extremes,Thunderstorm,#53785a,wmo,maltempo italia,2026-03-11T04:22:00+00:00,Italy,0.6045585535395218,1,1,it,MED,Europe
 '94300b4dad',extremes,Snow&Ice,#d60d2b,wmo,neve italia,2026-03-13T04:25:00+00:00,Italy,0.6040762654318289,1,2,it,MED,Europe
 '507412aefc',extremes,Storm,#b3b2b1,wmo,tempesta italia,2026-03-12T04:26:00+00:00,Italy,0.6002241940676697,0,1,it,MED,Europe
-'0c3d21da24',extremes,Precipitation,#d60d2b,wmo,acquazzone italia,2026-03-09T04:31:00+00:00,Italy,0.599651122455331,0,1,it,MED,Europe
 '04ec48ad4c',extremes,Snow&Ice,#d60d2b,wmo,ice luzern alpnach,2026-03-13T04:25:00+00:00,Switzerland,0.5989182990886087,0,1,it,WCE,Europe
 '1d08b60cd4',extremes,Snow&Ice,#d60d2b,wmo,ghiaccio rothrist soletta,2026-03-13T04:25:00+00:00,Switzerland,0.5983224167852853,0,1,it,WCE,Europe
 '6076c8543a',extremes,Storm,#b3b2b1,wmo,mareggiata liguria,2026-02-13T04:34:00+00:00,Italy,0.5910855697351246,3,1,it,MED,Europe
@@ -46,6 +45,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f1141d6aa4',extremes,Snow&Ice,#d60d2b,wmo,ice sarnen lungern,2026-03-13T04:25:00+00:00,Switzerland,0.5109759736152412,1,1,it,WCE,Europe
 '34d97e479b',extremes,Snow&Ice,#d60d2b,wmo,ghiaccio st.gallen rorschach,2026-03-13T04:25:00+00:00,Switzerland,0.5106321472922921,1,1,it,WCE,Europe
 '647b6366f3',extremes,Snow&Ice,#d60d2b,wmo,ghiaccio emmen hochdorf,2026-03-13T04:25:00+00:00,Switzerland,0.5105099843713651,1,1,it,WCE,Europe
+'0c3d21da24',extremes,Precipitation,#d60d2b,wmo,acquazzone italia,2026-03-09T04:31:00+00:00,Italy,0.5100034840870313,1,1,it,MED,Europe
 '8e5b367351',extremes,Precipitation,#d60d2b,wmo,precipitazioni italia,2026-03-06T04:21:00+00:00,Italy,0.503671676278144,1,1,it,MED,Europe
 'f82cdd7aef',extremes,Fog,#d60d2b,wmo,nebbia basilicata,2026-02-24T04:31:00+00:00,Italy,0.5035698747622719,2,1,it,MED,Europe
 'd90bfca4a4',extremes,Storm,#b3b2b1,wmo,tempesta sardegna,2026-03-01T04:35:00+00:00,Italy,0.5014317830173308,1,1,it,MED,Europe
