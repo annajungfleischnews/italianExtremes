@@ -1,5 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'c0e18437c9',extremes,Snow&Ice,#d60d2b,wmo,gelo italia,2026-03-14T04:22:00+00:00,Italy,0.6305775016519557,0,1,it,MED,Europe
 '3a8dcca50b',extremes,Snow&Ice,#d60d2b,wmo,l'italia gelida,2026-02-09T04:39:00+00:00,Italy,0.605470020320143,2,1,it,MED,Europe
 '075cc3fe36',extremes,Thunderstorm,#53785a,wmo,maltempo italia,2026-03-11T04:22:00+00:00,Italy,0.6045585535395218,1,1,it,MED,Europe
 '94300b4dad',extremes,Snow&Ice,#d60d2b,wmo,neve italia,2026-03-13T04:25:00+00:00,Italy,0.6040762654318289,1,2,it,MED,Europe
@@ -16,6 +15,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '2cce7328e9',extremes,Storm,#b3b2b1,wmo,tempesta liguria,2026-02-05T04:27:00+00:00,Italy,0.5730962988560933,2,2,it,MED,Europe
 '42f1336000',extremes,Drought,#edc291,edo,siccità Somalia,2026-02-12T04:37:00+00:00,Somalia,0.5671578070123113,1,2,it,NEAF,Africa
 '6e13d761cc',extremes,Fog,#d60d2b,wmo,nebbia abruzzese,2026-03-02T04:27:00+00:00,Italy,0.5667223878073102,3,2,it,MED,Europe
+'c0e18437c9',extremes,Snow&Ice,#d60d2b,wmo,gelo italia,2026-03-14T04:22:00+00:00,Italy,0.5636911464041623,1,1,it,MED,Europe
 'd92d2dbe23',extremes,Snow&Ice,#d60d2b,wmo,ghiaccio italia,2026-03-10T04:22:00+00:00,Italy,0.5586887182550849,1,2,it,MED,Europe
 'b306b4d99a',extremes,Snow&Ice,#d60d2b,wmo,ghiaccio valle d'aosta,2026-02-18T04:34:00+00:00,Italy,0.5577576375121083,2,1,it,MED,Europe
 '9d36efcb9c',extremes,Thunderstorm,#53785a,wmo,maltempo sicilia,2026-02-01T04:41:00+00:00,Italy,0.5514437751679333,1,2,it,MED,Europe
