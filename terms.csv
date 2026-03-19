@@ -1,9 +1,8 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 '3a8dcca50b',extremes,Snow&Ice,#d60d2b,wmo,l'italia gelida,2026-03-13T04:25:00+00:00,Italy,0.6869316008456312,1,2,it,MED,Europe
-'f6ff301646',extremes,Drought,#edc291,edo,siccità Somalia,2026-02-28T04:07:00+00:00,Somalia,0.6153780600973121,0,1,it,NEAF,Africa
+'f6ff301646',extremes,Drought,#edc291,edo,siccità Somalia,2026-02-28T04:07:00+00:00,Somalia,0.6235213960827153,1,2,it,NEAF,Africa
 '075cc3fe36',extremes,Thunderstorm,#53785a,wmo,maltempo italia,2026-03-11T04:22:00+00:00,Italy,0.6045585535395218,1,1,it,MED,Europe
 '6076c8543a',extremes,Storm,#b3b2b1,wmo,mareggiata liguria,2026-02-13T04:34:00+00:00,Italy,0.5910855697351246,3,1,it,MED,Europe
-'8b9614db79',extremes,Snow&Ice,#d60d2b,wmo,gelo thalwil wetzikon,2026-03-13T04:25:00+00:00,Switzerland,0.5895078445200811,0,1,it,WCE,Europe
 '112f6dd3d9',extremes,Snow&Ice,#d60d2b,wmo,neve lötschental naters,2026-03-13T04:25:00+00:00,Switzerland,0.589266326632647,0,1,it,WCE,Europe
 'e540afa0aa',extremes,Snow&Ice,#d60d2b,wmo,gelida laufental,2026-03-13T04:25:00+00:00,Switzerland,0.5884983231484374,0,1,it,WCE,Europe
 'c17dba4c33',extremes,Snow&Ice,#d60d2b,wmo,neve zofingen triengen,2026-03-13T04:25:00+00:00,Switzerland,0.5881657608107769,0,1,it,WCE,Europe
@@ -52,6 +51,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7d43005c4f',extremes,Snow&Ice,#d60d2b,wmo,gelo mensile val d'illiez,2026-03-13T04:25:00+00:00,Switzerland,0.5022368063224539,1,1,it,WCE,Europe
 '12cf0fe02f',extremes,Snow&Ice,#d60d2b,wmo,gelido steckborn müllheim,2026-03-13T04:25:00+00:00,Switzerland,0.5014336515169833,1,1,it,WCE,Europe
 'd90bfca4a4',extremes,Storm,#b3b2b1,wmo,tempesta sardegna,2026-03-01T04:35:00+00:00,Italy,0.5014317830173308,1,1,it,MED,Europe
+'8b9614db79',extremes,Snow&Ice,#d60d2b,wmo,gelo thalwil wetzikon,2026-03-13T04:25:00+00:00,Switzerland,0.5010816678420689,1,1,it,WCE,Europe
 '1318594aed',extremes,Snow&Ice,#d60d2b,wmo,gelida sion crans montana,2026-03-13T04:25:00+00:00,Switzerland,0.5008236600559116,1,1,it,WCE,Europe
 'b1d7a75a38',extremes,Storm,#b3b2b1,wmo,tempesta sicilia,2026-02-09T04:39:00+00:00,Italy,0.5007289065437331,1,1,it,MED,Europe
 '62547e7566',extremes,Snow&Ice,#d60d2b,wmo,gelido wohlen albis,2026-03-13T04:25:00+00:00,Switzerland,0.5002638938105406,1,1,it,WCE,Europe
