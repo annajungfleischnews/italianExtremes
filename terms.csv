@@ -6,6 +6,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '112f6dd3d9',extremes,Snow&Ice,#d60d2b,wmo,neve lötschental naters,2026-03-13T04:25:00+00:00,Switzerland,0.589266326632647,0,1,it,WCE,Europe
 'e540afa0aa',extremes,Snow&Ice,#d60d2b,wmo,gelida laufental,2026-03-13T04:25:00+00:00,Switzerland,0.5884983231484374,0,1,it,WCE,Europe
 'c17dba4c33',extremes,Snow&Ice,#d60d2b,wmo,neve zofingen triengen,2026-03-13T04:25:00+00:00,Switzerland,0.5881657608107769,0,1,it,WCE,Europe
+'a935f88023',extremes,Snow&Ice,#d60d2b,wmo,ghiaccio val d'hérens,2026-03-13T04:25:00+00:00,Switzerland,0.5878755010436766,0,1,it,WCE,Europe
+'0080cba8b6',extremes,Snow&Ice,#d60d2b,wmo,entlebuch gelido,2026-03-13T04:25:00+00:00,Switzerland,0.5873673379690393,0,1,it,WCE,Europe
+'b6b89911aa',extremes,Snow&Ice,#d60d2b,wmo,ghiaccio liechtenstein,2026-03-13T04:25:00+00:00,Switzerland,0.5873331604255237,0,1,it,WCE,Europe
+'aeb8fffadb',extremes,Snow&Ice,#d60d2b,wmo,gelido Oberes Baselbiet,2026-03-13T04:25:00+00:00,Switzerland,0.5866430929369889,0,1,it,WCE,Europe
+'acd71006ee',extremes,Snow&Ice,#d60d2b,wmo,neve schangnau sigriswil,2026-03-13T04:25:00+00:00,Switzerland,0.5858558912454138,0,1,it,WCE,Europe
 '8fa1b857b6',extremes,Fog,#d60d2b,wmo,nebbia umbria,2026-02-23T04:37:00+00:00,Italy,0.5811477586324463,2,2,it,MED,Europe
 'f14331b9f6',extremes,Thunderstorm,#53785a,wmo,maltempo calabria,2026-03-12T04:26:00+00:00,Italy,0.5797984422421338,1,3,it,MED,Europe
 'f6374995d1',extremes,Tropical Cyclone,#4f4f4f,cmeter,ciclone tropicale italia,2026-02-18T04:34:00+00:00,Italy,0.5773835673715627,1,2,it,MED,Europe
