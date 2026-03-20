@@ -1,5 +1,7 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'6076c8543a',extremes,Storm,#b3b2b1,wmo,mareggiata liguria,2026-03-06T04:21:00+00:00,Italy,0.6323349207761984,0,1,it,MED,Europe
 'f6ff301646',extremes,Drought,#edc291,edo,siccità Somalia,2026-02-28T04:07:00+00:00,Somalia,0.6235213960827153,1,2,it,NEAF,Africa
+'13d52d0826',extremes,Thunderstorm,#53785a,wmo,grandine lazio,2026-03-13T04:25:00+00:00,Italy,0.6155595387745617,0,1,it,MED,Europe
 '075cc3fe36',extremes,Thunderstorm,#53785a,wmo,maltempo italia,2026-03-11T04:22:00+00:00,Italy,0.6045585535395218,1,1,it,MED,Europe
 '3a8dcca50b',extremes,Snow&Ice,#d60d2b,wmo,l'italia gelida,2026-03-13T04:25:00+00:00,Italy,0.5838918907187866,2,1,it,MED,Europe
 '8fa1b857b6',extremes,Fog,#d60d2b,wmo,nebbia umbria,2026-02-23T04:37:00+00:00,Italy,0.5811477586324463,2,2,it,MED,Europe
@@ -8,6 +10,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '13ba8452d9',extremes,Fog,#d60d2b,wmo,nebbia siciliana,2026-02-25T04:32:00+00:00,Italy,0.5771717812827004,2,2,it,MED,Europe
 'c988798ce9',extremes,Thunderstorm,#53785a,wmo,maltempo puglia,2026-02-04T04:21:00+00:00,Italy,0.5743696820981498,2,3,it,MED,Europe
 '2cce7328e9',extremes,Storm,#b3b2b1,wmo,tempesta liguria,2026-02-05T04:27:00+00:00,Italy,0.5730962988560933,2,2,it,MED,Europe
+'6f77ec93ab',extremes,Snow&Ice,#d60d2b,wmo,ghiaccio lombardia,2026-03-15T04:45:00+00:00,Italy,0.5711683492927485,0,1,it,MED,Europe
+'c4153f5ebc',extremes,Earthquake,#870007,usgs,terremoto sant'angelo,2026-03-19T04:35:00+00:00,Italy,0.5686605282423289,0,1,it,MED,Europe
 '42f1336000',extremes,Drought,#edc291,edo,siccità Somalia,2026-02-12T04:37:00+00:00,Somalia,0.5671578070123113,1,2,it,NEAF,Africa
 '6e13d761cc',extremes,Fog,#d60d2b,wmo,nebbia abruzzese,2026-03-02T04:27:00+00:00,Italy,0.5667223878073102,3,2,it,MED,Europe
 'd92d2dbe23',extremes,Snow&Ice,#d60d2b,wmo,ghiaccio italia,2026-03-10T04:22:00+00:00,Italy,0.5586887182550849,1,2,it,MED,Europe
@@ -259,12 +263,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6f09817c2b',extremes,Snow&Ice,#d60d2b,wmo,gelo einsiedeln wägital,2026-02-18T04:34:00+00:00,Switzerland,0.3985107451566081,1,1,it,WCE,Europe
 '48482a5127',extremes,Snow&Ice,#d60d2b,wmo,gelido thun belp,2026-02-18T04:34:00+00:00,Switzerland,0.3980981915482094,1,1,it,WCE,Europe
 '6bdfd7d2ad',extremes,Snow&Ice,#d60d2b,wmo,gelo gersau engelbergertal,2026-02-13T04:34:00+00:00,Switzerland,0.3977052163189813,1,1,it,WCE,Europe
-'16ac580ff2',extremes,Snow&Ice,#d60d2b,wmo,gelo schiers,2026-02-17T04:31:00+00:00,Switzerland,0.39745151365088166,2,1,it,WCE,Europe
+'16ac580ff2',extremes,Snow&Ice,#d60d2b,wmo,gelo schiers,2026-02-17T04:31:00+00:00,Switzerland,0.3974515136508816,2,1,it,WCE,Europe
 'd3d85ecd18',extremes,Snow&Ice,#d60d2b,wmo,gelata val medel sumvitg,2026-02-17T04:31:00+00:00,Switzerland,0.3974066411483629,2,1,it,WCE,Europe
 '528ed09d54',extremes,Snow&Ice,#d60d2b,wmo,ghiaccio oberes baselbiet,2026-02-18T04:34:00+00:00,Switzerland,0.3971525655579426,1,1,it,WCE,Europe
-'ad1d094d2b',extremes,Thunderstorm,#53785a,wmo,grandine sardegna,2026-02-20T04:27:00+00:00,Italy,0.39485971950523147,1,1,it,MED,Europe
+'ad1d094d2b',extremes,Thunderstorm,#53785a,wmo,grandine sardegna,2026-02-20T04:27:00+00:00,Italy,0.3948597195052314,1,1,it,MED,Europe
 '7b858cb37c',extremes,Snow&Ice,#d60d2b,wmo,gelo wohlen albis,2026-02-18T04:34:00+00:00,Switzerland,0.3947873263251332,1,1,it,WCE,Europe
-'7d1d0c8440',extremes,Snow&Ice,#d60d2b,wmo,neve thalwil wetzikon,2026-02-18T04:34:00+00:00,Switzerland,0.39475477234326006,1,1,it,WCE,Europe
+'7d1d0c8440',extremes,Snow&Ice,#d60d2b,wmo,neve thalwil wetzikon,2026-02-18T04:34:00+00:00,Switzerland,0.39475477234326,1,1,it,WCE,Europe
 '5e13e239ca',extremes,Snow&Ice,#d60d2b,wmo,pianura di ghiaccio dell'orbe,2026-02-18T04:34:00+00:00,Switzerland,0.3942855284563012,1,1,it,WCE,Europe
 '6db196ebc9',extremes,Snow&Ice,#d60d2b,wmo,ice wahlern plaffeien,2026-02-18T04:34:00+00:00,Switzerland,0.3914369535272246,1,1,it,WCE,Europe
 'c8eedc828c',extremes,Snow&Ice,#d60d2b,wmo,gelo schangnau sigriswil,2026-02-18T04:34:00+00:00,Switzerland,0.3898695999041393,1,1,it,WCE,Europe
