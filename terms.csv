@@ -9,8 +9,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c988798ce9',extremes,Thunderstorm,#53785a,wmo,maltempo puglia,2026-02-04T04:21:00+00:00,Italy,0.5743696820981498,2,3,it,MED,Europe
 '42f1336000',extremes,Drought,#edc291,edo,siccità Somalia,2026-02-12T04:37:00+00:00,Somalia,0.5671578070123113,1,2,it,NEAF,Africa
 '6e13d761cc',extremes,Fog,#d60d2b,wmo,nebbia abruzzese,2026-03-02T04:27:00+00:00,Italy,0.5667223878073102,3,2,it,MED,Europe
+'5022ceabea',extremes,Storm,#b3b2b1,wmo,mareggiata abruzzo,2026-03-18T04:36:00+00:00,Italy,0.5653852262624423,0,1,it,MED,Europe
+'640b0c1fe5',extremes,Storm,#b3b2b1,wmo,tempesta umbria,2026-03-18T04:36:00+00:00,Italy,0.563265760744857,0,1,it,MED,Europe
+'b1d7a75a38',extremes,Storm,#b3b2b1,wmo,tempesta sicilia,2026-03-12T04:26:00+00:00,Italy,0.5597778753647905,0,1,it,MED,Europe
 'd92d2dbe23',extremes,Snow&Ice,#d60d2b,wmo,ghiaccio italia,2026-03-10T04:22:00+00:00,Italy,0.5586887182550849,1,2,it,MED,Europe
 'b306b4d99a',extremes,Snow&Ice,#d60d2b,wmo,ghiaccio valle d'aosta,2026-02-18T04:34:00+00:00,Italy,0.5577576375121083,2,1,it,MED,Europe
+'0301a561b6',extremes,Thunderstorm,#53785a,wmo,grandine puglia,2026-03-16T05:05:00+00:00,Italy,0.5577529155608522,0,1,it,MED,Europe
 '507412aefc',extremes,Storm,#b3b2b1,wmo,tempesta italia,2026-03-12T04:26:00+00:00,Italy,0.5531298588464081,1,2,it,MED,Europe
 'c9fc484d05',extremes,Storm,#b3b2b1,wmo,mareggiata umbria,2026-02-18T04:34:00+00:00,Italy,0.5473432062270449,2,1,it,MED,Europe
 '5d8c239887',extremes,Drought,#edc291,edo,mancanza di pioggia libia,2026-03-04T04:21:00+00:00,Libya,0.5433793783091304,1,1,it,SAH,Africa
