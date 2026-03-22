@@ -1,6 +1,5 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 '075cc3fe36',extremes,Thunderstorm,#53785a,wmo,maltempo italia,2026-03-11T04:22:00+00:00,Italy,0.6045585535395218,1,1,it,MED,Europe
-'731c9c6599',extremes,Storm,#b3b2b1,wmo,tempesta basilicata,2026-03-11T04:22:00+00:00,Italy,0.6020711108202232,0,1,it,MED,Europe
 '065a434526',extremes,Storm,#b3b2b1,wmo,tempesta Abruzzo,2026-03-11T04:22:00+00:00,Italy,0.5842266288432404,0,1,it,MED,Europe
 '3a8dcca50b',extremes,Snow&Ice,#d60d2b,wmo,l'italia gelida,2026-03-13T04:25:00+00:00,Italy,0.5838918907187866,2,1,it,MED,Europe
 '9745b37167',extremes,Storm,#b3b2b1,wmo,marcia della tempesta,2026-03-17T04:30:00+00:00,Italy,0.5835131779116582,0,1,it,MED,Europe
@@ -34,6 +33,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0812394012',extremes,Thunderstorm,#53785a,wmo,maltempo lazio,2026-02-12T04:37:00+00:00,Italy,0.5144915530487912,1,1,it,MED,Europe
 'b1d7a75a38',extremes,Storm,#b3b2b1,wmo,tempesta sicilia,2026-03-12T04:26:00+00:00,Italy,0.513911254060072,1,1,it,MED,Europe
 'cd3d048b5a',extremes,Precipitation,#d60d2b,wmo,pioggia italia,2026-03-04T04:20:00+00:00,Italy,0.5124309899154632,1,2,it,MED,Europe
+'731c9c6599',extremes,Storm,#b3b2b1,wmo,tempesta basilicata,2026-03-11T04:22:00+00:00,Italy,0.5119104591971897,1,1,it,MED,Europe
 'dcef080672',extremes,Thunderstorm,#53785a,wmo,temporale toscana,2026-03-11T04:22:00+00:00,Italy,0.5066485462971814,1,1,it,MED,Europe
 '8e5b367351',extremes,Precipitation,#d60d2b,wmo,precipitazioni italia,2026-03-06T04:21:00+00:00,Italy,0.503671676278144,1,1,it,MED,Europe
 'f82cdd7aef',extremes,Fog,#d60d2b,wmo,nebbia basilicata,2026-02-24T04:31:00+00:00,Italy,0.5035698747622719,2,1,it,MED,Europe
