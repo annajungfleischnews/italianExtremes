@@ -8,8 +8,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c988798ce9',extremes,Thunderstorm,#53785a,wmo,maltempo puglia,2026-02-04T04:21:00+00:00,Italy,0.5743696820981498,2,3,it,MED,Europe
 '42f1336000',extremes,Drought,#edc291,edo,siccità Somalia,2026-02-12T04:37:00+00:00,Somalia,0.5671578070123113,1,2,it,NEAF,Africa
 '6e13d761cc',extremes,Fog,#d60d2b,wmo,nebbia abruzzese,2026-03-02T04:27:00+00:00,Italy,0.5667223878073102,3,2,it,MED,Europe
+'30b7b41a32',extremes,Storm,#b3b2b1,wmo,mareggiata marcia,2026-03-18T04:36:00+00:00,Italy,0.5615677006321741,0,1,it,MED,Europe
 'd92d2dbe23',extremes,Snow&Ice,#d60d2b,wmo,ghiaccio italia,2026-03-10T04:22:00+00:00,Italy,0.5586887182550849,1,2,it,MED,Europe
+'508b73fb8c',extremes,Storm,#b3b2b1,wmo,mareggiata molisana,2026-03-18T04:36:00+00:00,Italy,0.5582687529401488,0,1,it,MED,Europe
 'b306b4d99a',extremes,Snow&Ice,#d60d2b,wmo,ghiaccio valle d'aosta,2026-02-18T04:34:00+00:00,Italy,0.5577576375121083,2,1,it,MED,Europe
+'d18c9a3f35',extremes,Earthquake,#870007,usgs,terremoto san antonio de los cobres,2026-03-23T04:41:00+00:00,Argentina,0.5572105178333887,0,1,it,SES,South-America
 'b863d00f22',extremes,Drought,#edc291,edo,siccità italia,2026-03-04T04:21:00+00:00,Italy,0.554112776699265,0,1,it,MED,Europe
 '507412aefc',extremes,Storm,#b3b2b1,wmo,tempesta italia,2026-03-12T04:26:00+00:00,Italy,0.5531298588464081,1,2,it,MED,Europe
 'c9fc484d05',extremes,Storm,#b3b2b1,wmo,mareggiata umbria,2026-02-18T04:34:00+00:00,Italy,0.5473432062270449,2,1,it,MED,Europe
@@ -72,7 +75,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '40c008a8cc',extremes,Snow&Ice,#d60d2b,wmo,gelido trentino alto adige,2026-02-19T04:32:00+00:00,Italy,0.473785855800672,1,1,it,MED,Europe
 '1a2e308d48',extremes,Thunderstorm,#53785a,wmo,temporale molisano,2026-02-15T04:35:00+00:00,Italy,0.4732545158360463,1,1,it,MED,Europe
 '55cd52a013',extremes,Fog,#d60d2b,wmo,nebbia valle d'aosta,2026-03-12T04:26:00+00:00,Italy,0.4729224537693504,2,1,it,MED,Europe
-'ee371032d3',extremes,Thunderstorm,#53785a,wmo,temporale campania,2026-03-16T05:05:00+00:00,Italy,0.47280773043202434,1,1,it,MED,Europe
+'ee371032d3',extremes,Thunderstorm,#53785a,wmo,temporale campania,2026-03-16T05:05:00+00:00,Italy,0.4728077304320243,1,1,it,MED,Europe
 '7bb629c752',extremes,Snow&Ice,#d60d2b,wmo,gelide marche,2026-03-18T04:36:00+00:00,Italy,0.4719132194151641,1,1,it,MED,Europe
 '7b60b91229',extremes,Fog,#d60d2b,wmo,nebbia sardegna,2026-02-23T04:37:00+00:00,Italy,0.471295613825364,2,1,it,MED,Europe
 '2acc964cba',extremes,Storm,#b3b2b1,wmo,mareggiata toscana,2026-02-15T04:35:00+00:00,Italy,0.4701981481830559,1,1,it,MED,Europe
