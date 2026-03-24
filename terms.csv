@@ -8,7 +8,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c988798ce9',extremes,Thunderstorm,#53785a,wmo,maltempo puglia,2026-02-04T04:21:00+00:00,Italy,0.5743696820981498,2,3,it,MED,Europe
 '42f1336000',extremes,Drought,#edc291,edo,siccità Somalia,2026-02-12T04:37:00+00:00,Somalia,0.5671578070123113,1,2,it,NEAF,Africa
 '6e13d761cc',extremes,Fog,#d60d2b,wmo,nebbia abruzzese,2026-03-02T04:27:00+00:00,Italy,0.5667223878073102,3,2,it,MED,Europe
-'81117b23b2',extremes,Snow&Ice,#d60d2b,wmo,ghiaccio veneto,2026-03-24T04:31:00+00:00,Italy,0.5638559339905218,0,1,it,MED,Europe
 'd92d2dbe23',extremes,Snow&Ice,#d60d2b,wmo,ghiaccio italia,2026-03-10T04:22:00+00:00,Italy,0.5586887182550849,1,2,it,MED,Europe
 'b306b4d99a',extremes,Snow&Ice,#d60d2b,wmo,ghiaccio valle d'aosta,2026-02-18T04:34:00+00:00,Italy,0.5577576375121083,2,1,it,MED,Europe
 '507412aefc',extremes,Storm,#b3b2b1,wmo,tempesta italia,2026-03-12T04:26:00+00:00,Italy,0.5531298588464081,1,2,it,MED,Europe
@@ -31,6 +30,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'dcef080672',extremes,Thunderstorm,#53785a,wmo,temporale toscana,2026-03-11T04:22:00+00:00,Italy,0.5066485462971814,1,1,it,MED,Europe
 '8e5b367351',extremes,Precipitation,#d60d2b,wmo,precipitazioni italia,2026-03-06T04:21:00+00:00,Italy,0.503671676278144,1,1,it,MED,Europe
 'f82cdd7aef',extremes,Fog,#d60d2b,wmo,nebbia basilicata,2026-02-24T04:31:00+00:00,Italy,0.5035698747622719,2,1,it,MED,Europe
+'81117b23b2',extremes,Snow&Ice,#d60d2b,wmo,ghiaccio veneto,2026-03-24T04:31:00+00:00,Italy,0.5017562203205149,1,1,it,MED,Europe
 'd90bfca4a4',extremes,Storm,#b3b2b1,wmo,tempesta sardegna,2026-03-01T04:35:00+00:00,Italy,0.5014317830173308,1,1,it,MED,Europe
 '52ccb0fc6c',extremes,Fog,#d60d2b,wmo,nebbia marchigiana,2026-02-25T04:32:00+00:00,Italy,0.4999776357541216,2,1,it,MED,Europe
 'acd71006ee',extremes,Snow&Ice,#d60d2b,wmo,neve schangnau sigriswil,2026-03-13T04:25:00+00:00,Switzerland,0.4979775075586017,1,1,it,WCE,Europe
@@ -51,7 +51,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd4d8b57886',extremes,Storm,#b3b2b1,wmo,mareggiata sicilia,2026-03-15T04:45:00+00:00,Italy,0.4857666934814879,1,1,it,MED,Europe
 'c4153f5ebc',extremes,Earthquake,#870007,usgs,terremoto sant'angelo,2026-03-19T04:35:00+00:00,Italy,0.4833614490059796,1,1,it,MED,Europe
 '930b9adc51',extremes,Drought,#edc291,edo,siccità argentina,2026-02-22T04:31:00+00:00,Argentina,0.4832063085900571,2,2,it,SES,South-America
-'851e7f751b',extremes,Storm,#b3b2b1,wmo,temporale valle d'aosta,2026-03-24T04:31:00+00:00,Italy,0.48282506639755435,1,1,it,MED,Europe
+'851e7f751b',extremes,Storm,#b3b2b1,wmo,temporale valle d'aosta,2026-03-24T04:31:00+00:00,Italy,0.4828250663975543,1,1,it,MED,Europe
 '2cce7328e9',extremes,Storm,#b3b2b1,wmo,tempesta liguria,2026-03-13T04:25:00+00:00,Italy,0.4822412989214827,1,1,it,MED,Europe
 '5eae3aed3f',extremes,Thunderstorm,#53785a,wmo,grandine basilicata,2026-03-15T04:45:00+00:00,Italy,0.4822144089959558,1,1,it,MED,Europe
 '429ae37885',extremes,Fog,#d60d2b,wmo,nebbia piemontese,2026-02-27T04:26:00+00:00,Italy,0.4820944686385858,2,1,it,MED,Europe
