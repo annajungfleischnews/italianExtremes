@@ -1,7 +1,11 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'a8ca9eb019',extremes,Precipitation,#d60d2b,wmo,pioggia Libia,2026-03-25T04:33:00+00:00,Libya,0.6727870257902934,0,1,it,SAH,Africa
 '45278c4de3',extremes,Drought,#edc291,edo,periodo di siccità in Somalia,2026-03-07T04:13:00+00:00,Somalia,0.640789340044282,1,2,it,NEAF,Africa
 '75e56eac2a',extremes,Thunderstorm,#53785a,wmo,temporale umbria,2026-03-11T04:22:00+00:00,Italy,0.6237669486364188,0,1,it,MED,Europe
+'165e1b5216',extremes,Drought,#edc291,edo,siccità libia,2026-03-24T04:32:00+00:00,Libya,0.5943650673828006,0,1,it,SAH,Africa
+'9e16e98704',extremes,Snow&Ice,#d60d2b,wmo,gelo abruzzese,2026-03-25T04:33:00+00:00,Italy,0.5910548885826007,0,1,it,MED,Europe
 '63d64ec2b3',extremes,Snow&Ice,#d60d2b,wmo,puglia gelata,2026-03-25T04:33:00+00:00,Italy,0.5892271017479835,0,1,it,MED,Europe
+'e9a8279e1e',extremes,Storm,#b3b2b1,wmo,tempesta toscana,2026-03-14T04:22:00+00:00,Italy,0.5881389221253335,0,1,it,MED,Europe
 '3a8dcca50b',extremes,Snow&Ice,#d60d2b,wmo,l'italia gelida,2026-03-13T04:25:00+00:00,Italy,0.5838918907187866,2,1,it,MED,Europe
 '0e11501646',extremes,Storm,#b3b2b1,wmo,tempesta emilia e romagna,2026-03-17T04:30:00+00:00,Italy,0.5825174899300342,0,1,it,MED,Europe
 '8fa1b857b6',extremes,Fog,#d60d2b,wmo,nebbia umbria,2026-02-23T04:37:00+00:00,Italy,0.5811477586324463,2,2,it,MED,Europe
