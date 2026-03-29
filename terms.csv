@@ -4,6 +4,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '80d6b52deb',extremes,Precipitation,#d60d2b,wmo,pioggia torrenziale على بعض مناطق غرب ليبيا.,2026-03-27T04:57:00+00:00,Libya,0.6685264140148209,0,1,it,SAH,Africa
 '45278c4de3',extremes,Drought,#edc291,edo,periodo di siccità in Somalia,2026-03-07T04:13:00+00:00,Somalia,0.640789340044282,1,2,it,NEAF,Africa
 '75e56eac2a',extremes,Thunderstorm,#53785a,wmo,temporale umbria,2026-03-11T04:22:00+00:00,Italy,0.6237669486364188,0,1,it,MED,Europe
+'395db40dcf',extremes,Heat Wave,#c40202,wmo,ondata di caldo corrientes y alrededores,2026-03-29T05:00:00+00:00,Argentina,0.6121497801920623,0,1,it,SES,South-America
 'd73c88d78a',extremes,Storm,#b3b2b1,wmo,mareggiata veneto,2026-03-24T04:31:00+00:00,Italy,0.6097359914390599,0,1,it,MED,Europe
 '4454107121',extremes,Snow&Ice,#d60d2b,wmo,ghiaccio basilicata,2026-03-26T04:56:00+00:00,Italy,0.5988584386333887,0,1,it,MED,Europe
 'b5b5655204',extremes,Snow&Ice,#d60d2b,wmo,l'Abruzzo gelido,2026-03-17T04:30:00+00:00,Italy,0.5974118014289703,0,1,it,MED,Europe
@@ -65,7 +66,14 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c2d8265895',extremes,Snow&Ice,#d60d2b,wmo,marcia sulla neve,2026-03-28T04:33:00+00:00,Italy,0.5434394120542666,0,1,it,MED,Europe
 '5d8c239887',extremes,Drought,#edc291,edo,mancanza di pioggia libia,2026-03-04T04:21:00+00:00,Libya,0.5433793783091304,1,1,it,SAH,Africa
 'ebfa477aa2',extremes,Fog,#d60d2b,wmo,nebbia veneta,2026-02-24T04:31:00+00:00,Italy,0.5430217804017535,3,1,it,MED,Europe
+'ff422211b0',extremes,Snow&Ice,#d60d2b,wmo,neve goldau ägeri,2026-03-15T04:45:00+00:00,Switzerland,0.5424048020825762,0,1,it,WCE,Europe
 '075cc3fe36',extremes,Thunderstorm,#53785a,wmo,maltempo italia,2026-03-11T04:22:00+00:00,Italy,0.5416251455085935,2,2,it,MED,Europe
+'6c1dcbcc31',extremes,Snow&Ice,#d60d2b,wmo,gelida lauterbrunnen wilderswil,2026-03-15T04:45:00+00:00,Switzerland,0.5409410678265304,0,1,it,WCE,Europe
+'cb207f7e4e',extremes,Drought,#edc291,edo,mancanza di pioggia argentina,2026-03-10T04:22:00+00:00,Argentina,0.5396137878346547,0,1,it,SES,South-America
+'fdaa0a92ad',extremes,Storm,#b3b2b1,wmo,tempesta campania,2026-03-19T04:35:00+00:00,Italy,0.5392000765613858,0,1,it,MED,Europe
+'869d995548',extremes,Snow&Ice,#d60d2b,wmo,riviera della neve,2026-03-15T04:45:00+00:00,Switzerland,0.5383561265103727,0,1,it,WCE,Europe
+'7d6981ffe8',extremes,Snow&Ice,#d60d2b,wmo,il gelido Sarganserland,2026-03-15T04:45:00+00:00,Switzerland,0.5369882657283974,0,1,it,WCE,Europe
+'a03bfb69ba',extremes,Drought,#edc291,edo,periodo di siccità in svizzera,2026-03-27T04:57:00+00:00,Switzerland,0.5365557705313589,0,1,it,WCE,Europe
 '8a7356fe46',extremes,Snow&Ice,#d60d2b,wmo,valle di neve,2026-03-13T04:25:00+00:00,Switzerland,0.5336363826231679,2,2,it,WCE,Europe
 '94300b4dad',extremes,Snow&Ice,#d60d2b,wmo,neve italia,2026-03-13T04:25:00+00:00,Italy,0.5320519842534182,2,2,it,MED,Europe
 '92ff957955',extremes,Snow&Ice,#d60d2b,wmo,neve svizzera,2026-03-13T04:25:00+00:00,Switzerland,0.5318849607061858,1,1,it,WCE,Europe
