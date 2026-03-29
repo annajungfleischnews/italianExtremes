@@ -54,7 +54,15 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '507412aefc',extremes,Storm,#b3b2b1,wmo,tempesta italia,2026-03-12T04:26:00+00:00,Italy,0.5531298588464081,1,2,it,MED,Europe
 '3840c76d04',extremes,Storm,#b3b2b1,wmo,tempesta calabria,2026-03-16T05:05:00+00:00,Italy,0.5529484542655712,0,1,it,MED,Europe
 'ce6e6561d3',extremes,Snow&Ice,#d60d2b,wmo,neve liguria,2026-03-14T04:22:00+00:00,Italy,0.5517813314308773,0,1,it,MED,Europe
+'96612d3385',extremes,Snow&Ice,#d60d2b,wmo,la gelida sardegna,2026-03-26T04:56:00+00:00,Italy,0.5507856851998352,0,1,it,MED,Europe
 'c9fc484d05',extremes,Storm,#b3b2b1,wmo,mareggiata umbria,2026-02-18T04:34:00+00:00,Italy,0.5473432062270449,2,1,it,MED,Europe
+'177303c95b',extremes,Snow&Ice,#d60d2b,wmo,neve abruzzo,2026-03-27T04:57:00+00:00,Italy,0.5471548855200182,0,1,it,MED,Europe
+'117e9a9455',extremes,Storm,#b3b2b1,wmo,mareggiata calabria,2026-03-16T05:05:00+00:00,Italy,0.5469933809582097,0,1,it,MED,Europe
+'71aee81e61',extremes,Storm,#b3b2b1,wmo,mareggiata lazio,2026-03-14T04:22:00+00:00,Italy,0.546298553039414,0,1,it,MED,Europe
+'151a84a4dd',extremes,Snow&Ice,#d60d2b,wmo,entlebuch di neve,2026-03-15T04:45:00+00:00,Switzerland,0.5456409930095455,0,1,it,WCE,Europe
+'5c38722100',extremes,Snow&Ice,#d60d2b,wmo,valle del ghiaccio,2026-03-15T04:45:00+00:00,Switzerland,0.5448079912626217,0,1,it,WCE,Europe
+'892f6f9b1d',extremes,Snow&Ice,#d60d2b,wmo,congelamento einsiedeln wägital,2026-03-26T04:56:00+00:00,Switzerland,0.5443751542328706,0,1,it,WCE,Europe
+'c2d8265895',extremes,Snow&Ice,#d60d2b,wmo,marcia sulla neve,2026-03-28T04:33:00+00:00,Italy,0.5434394120542666,0,1,it,MED,Europe
 '5d8c239887',extremes,Drought,#edc291,edo,mancanza di pioggia libia,2026-03-04T04:21:00+00:00,Libya,0.5433793783091304,1,1,it,SAH,Africa
 'ebfa477aa2',extremes,Fog,#d60d2b,wmo,nebbia veneta,2026-02-24T04:31:00+00:00,Italy,0.5430217804017535,3,1,it,MED,Europe
 '075cc3fe36',extremes,Thunderstorm,#53785a,wmo,maltempo italia,2026-03-11T04:22:00+00:00,Italy,0.5416251455085935,2,2,it,MED,Europe
