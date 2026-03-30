@@ -74,9 +74,17 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '869d995548',extremes,Snow&Ice,#d60d2b,wmo,riviera della neve,2026-03-15T04:45:00+00:00,Switzerland,0.5383561265103727,0,1,it,WCE,Europe
 '7d6981ffe8',extremes,Snow&Ice,#d60d2b,wmo,il gelido Sarganserland,2026-03-15T04:45:00+00:00,Switzerland,0.5369882657283974,0,1,it,WCE,Europe
 'a03bfb69ba',extremes,Drought,#edc291,edo,periodo di siccità in svizzera,2026-03-27T04:57:00+00:00,Switzerland,0.5365557705313589,0,1,it,WCE,Europe
+'1a931eb2e9',extremes,Snow&Ice,#d60d2b,wmo,ghiaccio schangnau sigriswil,2026-03-15T04:45:00+00:00,Switzerland,0.5349770688947998,0,1,it,WCE,Europe
+'1b51011837',extremes,Snow&Ice,#d60d2b,wmo,gelo blenio,2026-03-15T04:45:00+00:00,Switzerland,0.5339235844139343,0,1,it,WCE,Europe
 '8a7356fe46',extremes,Snow&Ice,#d60d2b,wmo,valle di neve,2026-03-13T04:25:00+00:00,Switzerland,0.5336363826231679,2,2,it,WCE,Europe
+'1d7586fe8f',extremes,Precipitation,#d60d2b,wmo,pioggia valle d'aosta,2026-03-12T04:26:00+00:00,Italy,0.5335583048047463,0,1,it,MED,Europe
+'f07f3016d6',extremes,Precipitation,#d60d2b,wmo,acquazzone piemonte,2026-03-13T04:25:00+00:00,Italy,0.5325776417857031,0,1,it,MED,Europe
 '94300b4dad',extremes,Snow&Ice,#d60d2b,wmo,neve italia,2026-03-13T04:25:00+00:00,Italy,0.5320519842534182,2,2,it,MED,Europe
 '92ff957955',extremes,Snow&Ice,#d60d2b,wmo,neve svizzera,2026-03-13T04:25:00+00:00,Switzerland,0.5318849607061858,1,1,it,WCE,Europe
+'432fe36c68',extremes,Snow&Ice,#d60d2b,wmo,gelido basso moesano,2026-03-15T04:45:00+00:00,Switzerland,0.5314698854261473,0,1,it,WCE,Europe
+'207df0d218',extremes,Precipitation,#d60d2b,wmo,piogge torrenziali piemonte,2026-03-14T04:22:00+00:00,Italy,0.530952558581857,0,1,it,MED,Europe
+'d04fa8427e',extremes,Snow&Ice,#d60d2b,wmo,il gelido Urner Oberland,2026-03-26T04:56:00+00:00,Switzerland,0.5306887349984888,0,1,it,WCE,Europe
+'58a3873c9a',extremes,Precipitation,#d60d2b,wmo,precipitazioni emilia e romagna,2026-03-12T04:26:00+00:00,Italy,0.5302679909426128,0,1,it,MED,Europe
 'f6ff301646',extremes,Drought,#edc291,edo,siccità Somalia,2026-02-28T04:07:00+00:00,Somalia,0.529993216670308,2,1,it,NEAF,Africa
 'b08a276ec2',extremes,Fog,#d60d2b,wmo,nebbia italia,2026-02-22T04:30:00+00:00,Italy,0.5226446975128479,2,2,it,MED,Europe
 '30f7444e18',extremes,Storm,#b3b2b1,wmo,tempesta puglia,2026-03-16T05:05:00+00:00,Italy,0.5220852294052584,1,1,it,MED,Europe
