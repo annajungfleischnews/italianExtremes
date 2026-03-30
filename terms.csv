@@ -65,13 +65,17 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '892f6f9b1d',extremes,Snow&Ice,#d60d2b,wmo,congelamento einsiedeln wägital,2026-03-26T04:56:00+00:00,Switzerland,0.5443751542328706,0,1,it,WCE,Europe
 'c2d8265895',extremes,Snow&Ice,#d60d2b,wmo,marcia sulla neve,2026-03-28T04:33:00+00:00,Italy,0.5434394120542666,0,1,it,MED,Europe
 '5d8c239887',extremes,Drought,#edc291,edo,mancanza di pioggia libia,2026-03-04T04:21:00+00:00,Libya,0.5433793783091304,1,1,it,SAH,Africa
+'7b5b3b8ad8',extremes,Storm,#b3b2b1,wmo,temporale trentino alto adige,2026-03-27T04:57:00+00:00,Italy,0.5431835118310834,0,1,it,MED,Europe
 'ebfa477aa2',extremes,Fog,#d60d2b,wmo,nebbia veneta,2026-02-24T04:31:00+00:00,Italy,0.5430217804017535,3,1,it,MED,Europe
 'ff422211b0',extremes,Snow&Ice,#d60d2b,wmo,neve goldau ägeri,2026-03-15T04:45:00+00:00,Switzerland,0.5424048020825762,0,1,it,WCE,Europe
+'008b58f095',extremes,Storm,#b3b2b1,wmo,mareggiata piemonte,2026-03-30T05:12:00+00:00,Italy,0.5421312385814379,0,1,it,MED,Europe
 '075cc3fe36',extremes,Thunderstorm,#53785a,wmo,maltempo italia,2026-03-11T04:22:00+00:00,Italy,0.5416251455085935,2,2,it,MED,Europe
+'3813092140',extremes,Snow&Ice,#d60d2b,wmo,gelata emilia e romagna,2026-03-30T05:12:00+00:00,Italy,0.5413846007071415,0,1,it,MED,Europe
 '6c1dcbcc31',extremes,Snow&Ice,#d60d2b,wmo,gelida lauterbrunnen wilderswil,2026-03-15T04:45:00+00:00,Switzerland,0.5409410678265304,0,1,it,WCE,Europe
 'cb207f7e4e',extremes,Drought,#edc291,edo,mancanza di pioggia argentina,2026-03-10T04:22:00+00:00,Argentina,0.5396137878346547,0,1,it,SES,South-America
 'fdaa0a92ad',extremes,Storm,#b3b2b1,wmo,tempesta campania,2026-03-19T04:35:00+00:00,Italy,0.5392000765613858,0,1,it,MED,Europe
 '869d995548',extremes,Snow&Ice,#d60d2b,wmo,riviera della neve,2026-03-15T04:45:00+00:00,Switzerland,0.5383561265103727,0,1,it,WCE,Europe
+'3d4ffbc119',extremes,Storm,#b3b2b1,wmo,tempesta friuli venezia giulia,2026-03-30T05:12:00+00:00,Italy,0.5370850849889376,0,1,it,MED,Europe
 '7d6981ffe8',extremes,Snow&Ice,#d60d2b,wmo,il gelido Sarganserland,2026-03-15T04:45:00+00:00,Switzerland,0.5369882657283974,0,1,it,WCE,Europe
 'a03bfb69ba',extremes,Drought,#edc291,edo,periodo di siccità in svizzera,2026-03-27T04:57:00+00:00,Switzerland,0.5365557705313589,0,1,it,WCE,Europe
 '1a931eb2e9',extremes,Snow&Ice,#d60d2b,wmo,ghiaccio schangnau sigriswil,2026-03-15T04:45:00+00:00,Switzerland,0.5349770688947998,0,1,it,WCE,Europe
@@ -83,9 +87,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '92ff957955',extremes,Snow&Ice,#d60d2b,wmo,neve svizzera,2026-03-13T04:25:00+00:00,Switzerland,0.5318849607061858,1,1,it,WCE,Europe
 '432fe36c68',extremes,Snow&Ice,#d60d2b,wmo,gelido basso moesano,2026-03-15T04:45:00+00:00,Switzerland,0.5314698854261473,0,1,it,WCE,Europe
 '207df0d218',extremes,Precipitation,#d60d2b,wmo,piogge torrenziali piemonte,2026-03-14T04:22:00+00:00,Italy,0.530952558581857,0,1,it,MED,Europe
+'fec2a0069d',extremes,Storm,#b3b2b1,wmo,mareggiata lombardia,2026-03-29T05:00:00+00:00,Italy,0.530864247710523,0,1,it,MED,Europe
 'd04fa8427e',extremes,Snow&Ice,#d60d2b,wmo,il gelido Urner Oberland,2026-03-26T04:56:00+00:00,Switzerland,0.5306887349984888,0,1,it,WCE,Europe
 '58a3873c9a',extremes,Precipitation,#d60d2b,wmo,precipitazioni emilia e romagna,2026-03-12T04:26:00+00:00,Italy,0.5302679909426128,0,1,it,MED,Europe
 'f6ff301646',extremes,Drought,#edc291,edo,siccità Somalia,2026-02-28T04:07:00+00:00,Somalia,0.529993216670308,2,1,it,NEAF,Africa
+'128c953b1e',extremes,Precipitation,#d60d2b,wmo,precipitazioni sicilia,2026-03-14T04:22:00+00:00,Italy,0.5283374219261358,0,1,it,MED,Europe
+'7a14a7e304',extremes,Snow&Ice,#d60d2b,wmo,gelo rheinwald,2026-03-15T04:45:00+00:00,Switzerland,0.5280748025812838,0,1,it,WCE,Europe
+'fc6edf62e7',extremes,Snow&Ice,#d60d2b,wmo,gelo brienz interlaken,2026-03-25T04:33:00+00:00,Switzerland,0.527757548008949,0,1,it,WCE,Europe
 'b08a276ec2',extremes,Fog,#d60d2b,wmo,nebbia italia,2026-02-22T04:30:00+00:00,Italy,0.5226446975128479,2,2,it,MED,Europe
 '30f7444e18',extremes,Storm,#b3b2b1,wmo,tempesta puglia,2026-03-16T05:05:00+00:00,Italy,0.5220852294052584,1,1,it,MED,Europe
 'c0e18437c9',extremes,Snow&Ice,#d60d2b,wmo,gelo italia,2026-03-14T04:22:00+00:00,Italy,0.5213876994435379,2,1,it,MED,Europe
