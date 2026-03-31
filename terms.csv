@@ -94,8 +94,16 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '128c953b1e',extremes,Precipitation,#d60d2b,wmo,precipitazioni sicilia,2026-03-14T04:22:00+00:00,Italy,0.5283374219261358,0,1,it,MED,Europe
 '7a14a7e304',extremes,Snow&Ice,#d60d2b,wmo,gelo rheinwald,2026-03-15T04:45:00+00:00,Switzerland,0.5280748025812838,0,1,it,WCE,Europe
 'fc6edf62e7',extremes,Snow&Ice,#d60d2b,wmo,gelo brienz interlaken,2026-03-25T04:33:00+00:00,Switzerland,0.527757548008949,0,1,it,WCE,Europe
+'48fa8ae390',extremes,Snow&Ice,#d60d2b,wmo,aletschgebiet gelido,2026-03-15T04:45:00+00:00,Switzerland,0.52691453322752,0,1,it,WCE,Europe
+'047db2bfce',extremes,Snow&Ice,#d60d2b,wmo,gelo molisano,2026-03-27T04:57:00+00:00,Italy,0.5263018182998389,0,1,it,MED,Europe
+'70aeae94f5',extremes,Snow&Ice,#d60d2b,wmo,gelo st. stephan lenk,2026-03-27T04:57:00+00:00,Switzerland,0.5243292322338013,0,1,it,WCE,Europe
+'1f4020ebca',extremes,Precipitation,#d60d2b,wmo,precipitazioni liguria,2026-03-14T04:22:00+00:00,Italy,0.5240388141287037,0,1,it,MED,Europe
+'4c403cc983',extremes,Precipitation,#d60d2b,wmo,piogge torrenziali friuli venezia giulia,2026-03-25T04:33:00+00:00,Italy,0.5233217445580287,0,1,it,MED,Europe
+'e1c484787a',extremes,Snow&Ice,#d60d2b,wmo,gelo albulatale,2026-03-15T04:45:00+00:00,Switzerland,0.5231388413396907,0,1,it,WCE,Europe
 'b08a276ec2',extremes,Fog,#d60d2b,wmo,nebbia italia,2026-02-22T04:30:00+00:00,Italy,0.5226446975128479,2,2,it,MED,Europe
 '30f7444e18',extremes,Storm,#b3b2b1,wmo,tempesta puglia,2026-03-16T05:05:00+00:00,Italy,0.5220852294052584,1,1,it,MED,Europe
+'16ac580ff2',extremes,Snow&Ice,#d60d2b,wmo,gelo schiers,2026-03-27T04:57:00+00:00,Switzerland,0.5220287737444957,0,1,it,WCE,Europe
+'8de397ffa0',extremes,Snow&Ice,#d60d2b,wmo,arrolla di gelo,2026-03-15T04:45:00+00:00,Switzerland,0.5216566227367747,0,1,it,WCE,Europe
 'c0e18437c9',extremes,Snow&Ice,#d60d2b,wmo,gelo italia,2026-03-14T04:22:00+00:00,Italy,0.5213876994435379,2,1,it,MED,Europe
 '3a23ad42fe',extremes,Precipitation,#d60d2b,wmo,pioggia torrenziale argentina,2026-02-26T04:29:00+00:00,Argentina,0.5208456301539076,1,1,it,SES,South-America
 'a89147746d',extremes,Thunderstorm,#53785a,wmo,maltempo campania,2026-02-15T04:35:00+00:00,Italy,0.520383089523146,1,2,it,MED,Europe
