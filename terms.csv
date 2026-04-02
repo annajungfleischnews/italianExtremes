@@ -136,9 +136,17 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a0c8686ce3',extremes,Snow&Ice,#d60d2b,wmo,gelo sudiches simplongebiet,2026-03-15T04:45:00+00:00,Switzerland,0.5063530186624277,0,1,it,WCE,Europe
 '52228edbac',extremes,Storm,#b3b2b1,wmo,l'ondata di tempesta svolazza laax,2026-03-27T04:57:00+00:00,Switzerland,0.5060015980056486,0,1,it,WCE,Europe
 '6e3b71fd63',extremes,Snow&Ice,#d60d2b,wmo,gelo sarganserland,2026-03-14T04:22:00+00:00,Switzerland,0.5054221146202529,0,1,it,WCE,Europe
+'30a41be09e',extremes,Snow&Ice,#d60d2b,wmo,neve meseey val d'illiez,2026-03-21T04:17:00+00:00,Switzerland,0.50457976884075,0,1,it,WCE,Europe
+'416515d6df',extremes,Snow&Ice,#d60d2b,wmo,neve glarona nord mitte,2026-03-14T04:22:00+00:00,Switzerland,0.5040324256238388,0,1,it,WCE,Europe
 '8e5b367351',extremes,Precipitation,#d60d2b,wmo,precipitazioni italia,2026-03-06T04:21:00+00:00,Italy,0.503671676278144,1,1,it,MED,Europe
 'f82cdd7aef',extremes,Fog,#d60d2b,wmo,nebbia basilicata,2026-02-24T04:31:00+00:00,Italy,0.5035698747622719,2,1,it,MED,Europe
+'241721e6ad',extremes,Storm,#b3b2b1,wmo,mareggiata savognin,2026-03-26T04:56:00+00:00,Switzerland,0.503143006751734,0,1,it,WCE,Europe
+'ac0e36fd65',extremes,Snow&Ice,#d60d2b,wmo,gelido frutigen kental,2026-03-15T04:45:00+00:00,Switzerland,0.5031036994281377,0,1,it,WCE,Europe
+'d3d8dac284',extremes,Snow&Ice,#d60d2b,wmo,gelo riein safiental,2026-03-27T04:57:00+00:00,Switzerland,0.5030989044281652,0,1,it,WCE,Europe
+'0a32c6a309',extremes,Snow&Ice,#d60d2b,wmo,ghiaccio erstfeld engelberg,2026-03-14T04:22:00+00:00,Switzerland,0.5029018262383657,0,1,it,WCE,Europe
+'1ed58f28b2',extremes,Snow&Ice,#d60d2b,wmo,gelo vispertal nanztal,2026-03-15T04:45:00+00:00,Switzerland,0.5020991791827871,0,1,it,WCE,Europe
 '81117b23b2',extremes,Snow&Ice,#d60d2b,wmo,ghiaccio veneto,2026-03-24T04:31:00+00:00,Italy,0.5017562203205149,1,1,it,MED,Europe
+'195fa2265f',extremes,Snow&Ice,#d60d2b,wmo,gelo werdenberg,2026-03-15T04:45:00+00:00,Switzerland,0.5017360570438624,0,1,it,WCE,Europe
 'd90bfca4a4',extremes,Storm,#b3b2b1,wmo,tempesta sardegna,2026-03-01T04:35:00+00:00,Italy,0.5014317830173308,1,1,it,MED,Europe
 '52ccb0fc6c',extremes,Fog,#d60d2b,wmo,nebbia marchigiana,2026-02-25T04:32:00+00:00,Italy,0.4999776357541216,2,1,it,MED,Europe
 'acd71006ee',extremes,Snow&Ice,#d60d2b,wmo,neve schangnau sigriswil,2026-03-13T04:25:00+00:00,Switzerland,0.4979775075586017,1,1,it,WCE,Europe
