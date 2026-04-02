@@ -64,6 +64,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '117e9a9455',extremes,Storm,#b3b2b1,wmo,mareggiata calabria,2026-03-16T05:05:00+00:00,Italy,0.5469933809582097,0,1,it,MED,Europe
 '71aee81e61',extremes,Storm,#b3b2b1,wmo,mareggiata lazio,2026-03-14T04:22:00+00:00,Italy,0.546298553039414,0,1,it,MED,Europe
 '151a84a4dd',extremes,Snow&Ice,#d60d2b,wmo,entlebuch di neve,2026-03-15T04:45:00+00:00,Switzerland,0.5456409930095455,0,1,it,WCE,Europe
+'0d99295f2f',extremes,Drought,#edc291,edo,mancanza di pioggia somalia,2026-03-19T04:35:00+00:00,Somalia,0.545123712834035,0,1,it,NEAF,Africa
 '5c38722100',extremes,Snow&Ice,#d60d2b,wmo,valle del ghiaccio,2026-03-15T04:45:00+00:00,Switzerland,0.5448079912626217,0,1,it,WCE,Europe
 '892f6f9b1d',extremes,Snow&Ice,#d60d2b,wmo,congelamento einsiedeln wägital,2026-03-26T04:56:00+00:00,Switzerland,0.5443751542328706,0,1,it,WCE,Europe
 'c2d8265895',extremes,Snow&Ice,#d60d2b,wmo,marcia sulla neve,2026-03-28T04:33:00+00:00,Italy,0.5434394120542666,0,1,it,MED,Europe
@@ -148,8 +149,15 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '81117b23b2',extremes,Snow&Ice,#d60d2b,wmo,ghiaccio veneto,2026-03-24T04:31:00+00:00,Italy,0.5017562203205149,1,1,it,MED,Europe
 '195fa2265f',extremes,Snow&Ice,#d60d2b,wmo,gelo werdenberg,2026-03-15T04:45:00+00:00,Switzerland,0.5017360570438624,0,1,it,WCE,Europe
 'd90bfca4a4',extremes,Storm,#b3b2b1,wmo,tempesta sardegna,2026-03-01T04:35:00+00:00,Italy,0.5014317830173308,1,1,it,MED,Europe
+'75dbe8c27e',extremes,Snow&Ice,#d60d2b,wmo,neve aigle leysin,2026-03-15T04:45:00+00:00,Switzerland,0.5007173470937519,0,1,it,WCE,Europe
+'7ebbae0c9c',extremes,Snow&Ice,#d60d2b,wmo,la gelida brienz interlaken,2026-03-15T04:45:00+00:00,Switzerland,0.5005111176824552,0,1,it,WCE,Europe
 '52ccb0fc6c',extremes,Fog,#d60d2b,wmo,nebbia marchigiana,2026-02-25T04:32:00+00:00,Italy,0.4999776357541216,2,1,it,MED,Europe
+'934cac63fe',extremes,Snow&Ice,#d60d2b,wmo,gelo effretikon,2026-03-19T04:35:00+00:00,Switzerland,0.4994446694693683,0,1,it,WCE,Europe
+'d9edc58a09',extremes,Snow&Ice,#d60d2b,wmo,appenzello innevato,2026-03-15T04:45:00+00:00,Switzerland,0.4983382455116818,0,1,it,WCE,Europe
+'85ae56220e',extremes,Snow&Ice,#d60d2b,wmo,gelo liechtenstein,2026-03-23T04:42:00+00:00,Switzerland,0.49820980332562775,0,1,it,WCE,Europe
 'acd71006ee',extremes,Snow&Ice,#d60d2b,wmo,neve schangnau sigriswil,2026-03-13T04:25:00+00:00,Switzerland,0.4979775075586017,1,1,it,WCE,Europe
+'e93774feb6',extremes,Snow&Ice,#d60d2b,wmo,gelo meiringen gadmertal,2026-03-27T04:57:00+00:00,Switzerland,0.4976572702128781,0,1,it,WCE,Europe
+'5a812cfc1c',extremes,Snow&Ice,#d60d2b,wmo,bivio neve avers,2026-03-26T04:56:00+00:00,Switzerland,0.49689907705192354,0,1,it,WCE,Europe
 '065a434526',extremes,Storm,#b3b2b1,wmo,tempesta Abruzzo,2026-03-11T04:22:00+00:00,Italy,0.4965926345167543,1,1,it,MED,Europe
 '9745b37167',extremes,Storm,#b3b2b1,wmo,marcia della tempesta,2026-03-17T04:30:00+00:00,Italy,0.4961362162249095,1,1,it,MED,Europe
 'b863d00f22',extremes,Drought,#edc291,edo,siccità italia,2026-03-04T04:21:00+00:00,Italy,0.4960229782712982,1,1,it,MED,Europe
