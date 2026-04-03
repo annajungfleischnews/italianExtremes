@@ -154,16 +154,24 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '52ccb0fc6c',extremes,Fog,#d60d2b,wmo,nebbia marchigiana,2026-02-25T04:32:00+00:00,Italy,0.4999776357541216,2,1,it,MED,Europe
 '934cac63fe',extremes,Snow&Ice,#d60d2b,wmo,gelo effretikon,2026-03-19T04:35:00+00:00,Switzerland,0.4994446694693683,0,1,it,WCE,Europe
 'd9edc58a09',extremes,Snow&Ice,#d60d2b,wmo,appenzello innevato,2026-03-15T04:45:00+00:00,Switzerland,0.4983382455116818,0,1,it,WCE,Europe
-'85ae56220e',extremes,Snow&Ice,#d60d2b,wmo,gelo liechtenstein,2026-03-23T04:42:00+00:00,Switzerland,0.49820980332562775,0,1,it,WCE,Europe
+'85ae56220e',extremes,Snow&Ice,#d60d2b,wmo,gelo liechtenstein,2026-03-23T04:42:00+00:00,Switzerland,0.4982098033256277,0,1,it,WCE,Europe
 'acd71006ee',extremes,Snow&Ice,#d60d2b,wmo,neve schangnau sigriswil,2026-03-13T04:25:00+00:00,Switzerland,0.4979775075586017,1,1,it,WCE,Europe
 'e93774feb6',extremes,Snow&Ice,#d60d2b,wmo,gelo meiringen gadmertal,2026-03-27T04:57:00+00:00,Switzerland,0.4976572702128781,0,1,it,WCE,Europe
-'5a812cfc1c',extremes,Snow&Ice,#d60d2b,wmo,bivio neve avers,2026-03-26T04:56:00+00:00,Switzerland,0.49689907705192354,0,1,it,WCE,Europe
+'5a812cfc1c',extremes,Snow&Ice,#d60d2b,wmo,bivio neve avers,2026-03-26T04:56:00+00:00,Switzerland,0.4968990770519235,0,1,it,WCE,Europe
 '065a434526',extremes,Storm,#b3b2b1,wmo,tempesta Abruzzo,2026-03-11T04:22:00+00:00,Italy,0.4965926345167543,1,1,it,MED,Europe
+'9c678b4258',extremes,Snow&Ice,#d60d2b,wmo,gelo lugnez valsertal,2026-03-27T04:57:00+00:00,Switzerland,0.496291985091609,0,1,it,WCE,Europe
+'098b217d44',extremes,Snow&Ice,#d60d2b,wmo,gelo entlebuch,2026-03-17T04:30:00+00:00,Switzerland,0.49614873755927996,0,1,it,WCE,Europe
 '9745b37167',extremes,Storm,#b3b2b1,wmo,marcia della tempesta,2026-03-17T04:30:00+00:00,Italy,0.4961362162249095,1,1,it,MED,Europe
 'b863d00f22',extremes,Drought,#edc291,edo,siccità italia,2026-03-04T04:21:00+00:00,Italy,0.4960229782712982,1,1,it,MED,Europe
 '94a7ded57b',extremes,Snow&Ice,#d60d2b,wmo,neve turtmanntal,2026-03-13T04:25:00+00:00,Switzerland,0.496020200575811,1,1,it,WCE,Europe
+'2d81a0f692',extremes,Snow&Ice,#d60d2b,wmo,gelo langnau eggiwil,2026-03-15T04:45:00+00:00,Switzerland,0.4955798644771794,0,1,it,WCE,Europe
 '567bb32772',extremes,Snow&Ice,#d60d2b,wmo,ghiaccio piemonte,2026-03-13T04:25:00+00:00,Italy,0.4953608006276858,1,1,it,MED,Europe
 '9e93dbaea9',extremes,Fog,#d60d2b,wmo,nebbia campana,2026-02-23T04:37:00+00:00,Italy,0.4940516968586342,2,1,it,MED,Europe
+'488ed9a83a',extremes,Snow&Ice,#d60d2b,wmo,gelo bex villars,2026-03-18T04:36:00+00:00,Switzerland,0.49397621723588764,0,1,it,WCE,Europe
+'a21fb8df43',extremes,Precipitation,#d60d2b,wmo,precipitazioni veneto,2026-03-15T04:45:00+00:00,Italy,0.4935827191561049,0,1,it,MED,Europe
+'73aa45cf69',extremes,Snow&Ice,#d60d2b,wmo,gelo maderanertal,2026-03-25T04:33:00+00:00,Switzerland,0.4929134219825166,0,1,it,WCE,Europe
+'cf5c339ba7',extremes,Snow&Ice,#d60d2b,wmo,neve yverdon bevaix,2026-03-20T04:26:00+00:00,Switzerland,0.49265031134971654,0,1,it,WCE,Europe
+'7bce9b9392',extremes,Snow&Ice,#d60d2b,wmo,gelido Schangnau sigriswil,2026-03-19T04:35:00+00:00,Switzerland,0.49221267290534143,0,1,it,WCE,Europe
 'b96cc738bc',extremes,Precipitation,#d60d2b,wmo,pioggia piemonte,2026-03-11T04:22:00+00:00,Italy,0.4906696221885371,2,1,it,MED,Europe
 '9d36efcb9c',extremes,Thunderstorm,#53785a,wmo,maltempo sicilia,2026-03-20T04:26:00+00:00,Italy,0.4892138827213205,1,2,it,MED,Europe
 'd3161b1db8',extremes,Snow&Ice,#d60d2b,wmo,gelo piemonte,2026-03-14T04:22:00+00:00,Italy,0.4892135439788797,1,1,it,MED,Europe
