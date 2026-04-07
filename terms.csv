@@ -241,19 +241,27 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9c06a93453',extremes,Snow&Ice,#d60d2b,wmo,neve morges cossonay,2026-03-19T04:35:00+00:00,Switzerland,0.4787563065436028,0,1,it,WCE,Europe
 '539cf874cf',extremes,Snow&Ice,#d60d2b,wmo,ghiaccio lauterbrunnen wilderswil,2026-03-26T04:56:00+00:00,Switzerland,0.4787012814043616,0,1,it,WCE,Europe
 '983b7cfa35',extremes,Snow&Ice,#d60d2b,wmo,gelo bienne neuchâtel,2026-03-20T04:26:00+00:00,Switzerland,0.4785200513749658,0,1,it,WCE,Europe
-'390332f107',extremes,Storm,#b3b2b1,wmo,tempesta küblis klosters,2026-03-25T04:33:00+00:00,Switzerland,0.47820400116138156,0,1,it,WCE,Europe
+'390332f107',extremes,Storm,#b3b2b1,wmo,tempesta küblis klosters,2026-03-25T04:33:00+00:00,Switzerland,0.4782040011613815,0,1,it,WCE,Europe
 '73eb93e4ee',extremes,Precipitation,#d60d2b,wmo,pioggia torrenziale libia,2026-03-16T05:05:00+00:00,Libya,0.4780398838349218,2,1,it,SAH,Africa
 '2064be337a',extremes,Fog,#d60d2b,wmo,nebbia friuli venezia giulia,2026-03-02T04:27:00+00:00,Italy,0.4780101963771471,2,1,it,MED,Europe
-'757a24f6e9',extremes,Thunderstorm,#53785a,wmo,ave emilia e romagna,2026-03-29T05:00:00+00:00,Italy,0.47750098629128773,0,1,it,MED,Europe
+'757a24f6e9',extremes,Thunderstorm,#53785a,wmo,ave emilia e romagna,2026-03-29T05:00:00+00:00,Italy,0.4775009862912877,0,1,it,MED,Europe
 '30b7b41a32',extremes,Storm,#b3b2b1,wmo,mareggiata marcia,2026-03-18T04:36:00+00:00,Italy,0.4773325455373479,1,1,it,MED,Europe
 'dcf82560b0',extremes,Fog,#d60d2b,wmo,nebbia lombardia,2026-02-23T04:37:00+00:00,Italy,0.4770866105546228,2,1,it,MED,Europe
 '0db6995ddb',extremes,Snow&Ice,#d60d2b,wmo,riviera del gelo,2026-03-21T04:17:00+00:00,Switzerland,0.4768816338171329,0,1,it,WCE,Europe
 'cb0d5807c2',extremes,Snow&Ice,#d60d2b,wmo,ghiaccio Grindelwald,2026-03-26T04:56:00+00:00,Switzerland,0.4767089715739006,0,1,it,WCE,Europe
 'a6ea704320',extremes,Precipitation,#d60d2b,wmo,acquazzone marchigiano,2026-03-28T04:33:00+00:00,Italy,0.4765460032618931,0,1,it,MED,Europe
-'3babd4d17f',extremes,Snow&Ice,#d60d2b,wmo,limmattale gelido,2026-03-21T04:17:00+00:00,Switzerland,0.47632354673655214,0,1,it,WCE,Europe
+'3babd4d17f',extremes,Snow&Ice,#d60d2b,wmo,limmattale gelido,2026-03-21T04:17:00+00:00,Switzerland,0.4763235467365521,0,1,it,WCE,Europe
+'f5d163185f',extremes,Snow&Ice,#d60d2b,wmo,gelo luganese,2026-03-19T04:35:00+00:00,Switzerland,0.4762715826772878,0,1,it,WCE,Europe
 'b5f3a9d570',extremes,Earthquake,#870007,usgs,terremoto mar del plata,2026-02-20T04:27:00+00:00,Argentina,0.4762504975780447,1,1,it,SES,South-America
+'3a0023bfa6',extremes,Snow&Ice,#d60d2b,wmo,snow vallée du trient,2026-03-19T04:35:00+00:00,Switzerland,0.4759923008251579,0,1,it,WCE,Europe
+'0fb1f02b51',extremes,Snow&Ice,#d60d2b,wmo,ghiaccio supersimmentale,2026-03-26T04:56:00+00:00,Switzerland,0.47583048122011107,0,1,it,WCE,Europe
+'057b282faa',extremes,Snow&Ice,#d60d2b,wmo,ghiaccio brienz interlaken,2026-03-23T04:42:00+00:00,Switzerland,0.47571953454518856,0,1,it,WCE,Europe
+'c049f17373',extremes,Storm,#b3b2b1,wmo,mareggiata nördliches tavetsch,2026-03-27T04:57:00+00:00,Switzerland,0.4755998598854284,0,1,it,WCE,Europe
+'8b573af55a',extremes,Snow&Ice,#d60d2b,wmo,gelida glarona nord mitte,2026-03-20T04:26:00+00:00,Switzerland,0.47541771481352757,0,1,it,WCE,Europe
 'c19cef35d3',extremes,Fog,#d60d2b,wmo,nebbia calabria,2026-03-01T04:35:00+00:00,Italy,0.4752477681741113,2,1,it,MED,Europe
+'5be4c0a95c',extremes,Storm,#b3b2b1,wmo,la tempesta paga d'enhaut,2026-03-26T04:56:00+00:00,Switzerland,0.4752110410926144,0,1,it,WCE,Europe
 '241b679149',extremes,Thunderstorm,#53785a,wmo,salve sicilia,2026-03-17T04:30:00+00:00,Italy,0.4751202151760019,1,1,it,MED,Europe
+'9a5d0cfa2e',extremes,Snow&Ice,#d60d2b,wmo,scam di ghiaccio,2026-03-27T04:57:00+00:00,Switzerland,0.4749768537876797,0,1,it,WCE,Europe
 '82b8913676',extremes,Storm,#b3b2b1,wmo,mareggiata sardegna,2026-03-06T04:21:00+00:00,Italy,0.4748382091438835,1,1,it,MED,Europe
 '6636b82ba3',extremes,Thunderstorm,#53785a,wmo,temporale libia,2026-03-11T04:22:00+00:00,Libya,0.4745443756860323,2,1,it,SAH,Africa
 '508b73fb8c',extremes,Storm,#b3b2b1,wmo,mareggiata molisana,2026-03-18T04:36:00+00:00,Italy,0.4745284399991264,1,1,it,MED,Europe
