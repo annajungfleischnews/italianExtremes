@@ -315,15 +315,23 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '66f12ee688',extremes,Storm,#b3b2b1,wmo,tempesta adelboden kandersteg,2026-03-26T04:56:00+00:00,Switzerland,0.4665786377856437,0,1,it,WCE,Europe
 '7ace1d3806',extremes,Storm,#b3b2b1,wmo,mareggiata glarus süd grosstal,2026-03-27T04:57:00+00:00,Switzerland,0.4660655249996082,0,1,it,WCE,Europe
 '8f986a86a6',extremes,Storm,#b3b2b1,wmo,mareggiata landquart coira,2026-03-27T04:57:00+00:00,Switzerland,0.4659248076426343,0,1,it,WCE,Europe
-'3ccdecb7b4',extremes,Storm,#b3b2b1,wmo,tempesta lötschental naters,2026-03-27T04:57:00+00:00,Switzerland,0.46590099464171375,0,1,it,WCE,Europe
+'3ccdecb7b4',extremes,Storm,#b3b2b1,wmo,tempesta lötschental naters,2026-03-27T04:57:00+00:00,Switzerland,0.4659009946417137,0,1,it,WCE,Europe
 '0120f3b275',extremes,Snow&Ice,#d60d2b,wmo,ghiaccio effretikon,2026-03-22T04:33:00+00:00,Switzerland,0.4658377168447245,0,1,it,WCE,Europe
 '7da8aaef75',extremes,Storm,#b3b2b1,wmo,tempesta vallée du trient,2026-03-26T04:56:00+00:00,Switzerland,0.4657070071126384,0,1,it,WCE,Europe
 '7865b352bd',extremes,Snow&Ice,#d60d2b,wmo,gelo murten kerzers,2026-03-24T04:31:00+00:00,Switzerland,0.4649814801432136,0,1,it,WCE,Europe
-'f91267f64f',extremes,Snow&Ice,#d60d2b,wmo,neve vallon de saint imier,2026-03-23T04:42:00+00:00,Switzerland,0.46489875100705286,0,1,it,WCE,Europe
+'f91267f64f',extremes,Snow&Ice,#d60d2b,wmo,neve vallon de saint imier,2026-03-23T04:42:00+00:00,Switzerland,0.4648987510070528,0,1,it,WCE,Europe
 'be3f704fd5',extremes,Storm,#b3b2b1,wmo,tempesta sudliches simplongebiet,2026-03-25T04:33:00+00:00,Switzerland,0.464822655144867,0,1,it,WCE,Europe
 '7104ad3c83',extremes,Thunderstorm,#53785a,wmo,temporale italia,2026-03-10T04:22:00+00:00,Italy,0.4647964601887732,2,3,it,MED,Europe
-'904816bf57',extremes,Snow&Ice,#d60d2b,wmo,neve oberes baselbiet,2026-03-21T04:17:00+00:00,Switzerland,0.46472940004195196,0,1,it,WCE,Europe
+'904816bf57',extremes,Snow&Ice,#d60d2b,wmo,neve oberes baselbiet,2026-03-21T04:17:00+00:00,Switzerland,0.4647294000419519,0,1,it,WCE,Europe
 'b5e0c7bec8',extremes,Storm,#b3b2b1,wmo,mareggiata lauterbrunnen wilderswil,2026-03-27T04:57:00+00:00,Switzerland,0.4645985777718773,0,1,it,WCE,Europe
+'a8a0a1043d',extremes,Storm,#b3b2b1,wmo,tempesta Werdenberg,2026-03-31T04:59:00+00:00,Switzerland,0.4644781299379742,0,1,it,WCE,Europe
+'67ade24252',extremes,Snow&Ice,#d60d2b,wmo,Basilea neve,2026-03-22T04:33:00+00:00,Switzerland,0.4642148672504443,0,1,it,WCE,Europe
+'72ee28d79d',extremes,Storm,#b3b2b1,wmo,mareggiata st. stephan lenk,2026-03-26T04:56:00+00:00,Switzerland,0.46393758981501704,0,1,it,WCE,Europe
+'43d0d5c7c4',extremes,Snow&Ice,#d60d2b,wmo,ice val medel sumvitg,2026-03-25T04:33:00+00:00,Switzerland,0.46393331480235334,0,1,it,WCE,Europe
+'5535eb6776',extremes,Precipitation,#d60d2b,wmo,piogge torrenziali calabria,2026-04-01T05:12:00+00:00,Italy,0.4635715656239931,0,1,it,MED,Europe
+'04b23a3e2d',extremes,Storm,#b3b2b1,wmo,mareggiata rheinwald,2026-03-25T04:33:00+00:00,Switzerland,0.4632652771468053,0,1,it,WCE,Europe
+'5b134deb64',extremes,Snow&Ice,#d60d2b,wmo,gelo haut val de bagnes,2026-03-26T04:56:00+00:00,Switzerland,0.463106961009735,0,1,it,WCE,Europe
+'6f692f700a',extremes,Snow&Ice,#d60d2b,wmo,ghiaccio steckborn müllheim,2026-03-23T04:42:00+00:00,Switzerland,0.46304081275961634,0,1,it,WCE,Europe
 'b4b4ecd0b6',extremes,Snow&Ice,#d60d2b,wmo,truffe del gelo,2026-02-16T04:38:00+00:00,Switzerland,0.4606266296189246,0,1,it,WCE,Europe
 '3a9476672d',extremes,Snow&Ice,#d60d2b,wmo,gelido emmen hochdorf,2026-02-18T04:34:00+00:00,Switzerland,0.4595453910671344,0,1,it,WCE,Europe
 '46faf1e7f5',extremes,Snow&Ice,#d60d2b,wmo,ghiaccio meseey val d'illiez,2026-02-17T04:31:00+00:00,Switzerland,0.4594233180244881,1,1,it,WCE,Europe
