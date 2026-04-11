@@ -332,15 +332,23 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '04b23a3e2d',extremes,Storm,#b3b2b1,wmo,mareggiata rheinwald,2026-03-25T04:33:00+00:00,Switzerland,0.4632652771468053,0,1,it,WCE,Europe
 '5b134deb64',extremes,Snow&Ice,#d60d2b,wmo,gelo haut val de bagnes,2026-03-26T04:56:00+00:00,Switzerland,0.463106961009735,0,1,it,WCE,Europe
 '6f692f700a',extremes,Snow&Ice,#d60d2b,wmo,ghiaccio steckborn müllheim,2026-03-23T04:42:00+00:00,Switzerland,0.4630408127596163,0,1,it,WCE,Europe
-'afba7d7465',extremes,Snow&Ice,#d60d2b,wmo,ghiaccio gersau engelbergertal,2026-03-25T04:33:00+00:00,Switzerland,0.46281337157722924,0,1,it,WCE,Europe
+'afba7d7465',extremes,Snow&Ice,#d60d2b,wmo,ghiaccio gersau engelbergertal,2026-03-25T04:33:00+00:00,Switzerland,0.4628133715772292,0,1,it,WCE,Europe
 '8a8a288c5e',extremes,Storm,#b3b2b1,wmo,mareggiata innertkirchen guttannen,2026-03-26T04:56:00+00:00,Switzerland,0.4620417885654561,0,1,it,WCE,Europe
 '7a2c2738c5',extremes,Storm,#b3b2b1,wmo,mareggiata grindelwald,2026-03-26T04:56:00+00:00,Switzerland,0.461895870700922,0,1,it,WCE,Europe
 '2ad05851f9',extremes,Snow&Ice,#d60d2b,wmo,neve lugnez valsertal,2026-03-25T04:33:00+00:00,Switzerland,0.4616346550424707,0,1,it,WCE,Europe
 '9ebbf9923f',extremes,Storm,#b3b2b1,wmo,tempesta arolla,2026-03-25T04:33:00+00:00,Switzerland,0.4615889273614591,0,1,it,WCE,Europe
-'6f5cc4014d',extremes,Storm,#b3b2b1,wmo,tempesta st. stephan lenk,2026-03-27T04:57:00+00:00,Switzerland,0.46145494797150133,0,1,it,WCE,Europe
+'6f5cc4014d',extremes,Storm,#b3b2b1,wmo,tempesta st. stephan lenk,2026-03-27T04:57:00+00:00,Switzerland,0.4614549479715013,0,1,it,WCE,Europe
 'cc02050628',extremes,Storm,#b3b2b1,wmo,tempesta bellinzonese,2026-03-26T04:56:00+00:00,Switzerland,0.461126346221249,0,1,it,WCE,Europe
 '40c061615e',extremes,Storm,#b3b2b1,wmo,imbrogli di tempesta,2026-03-26T04:56:00+00:00,Switzerland,0.4610858710101828,0,1,it,WCE,Europe
+'f7c3d32eec',extremes,Snow&Ice,#d60d2b,wmo,snow wahlern plaffeien,2026-03-25T04:33:00+00:00,Switzerland,0.46067395799669747,0,1,it,WCE,Europe
 'b4b4ecd0b6',extremes,Snow&Ice,#d60d2b,wmo,truffe del gelo,2026-02-16T04:38:00+00:00,Switzerland,0.4606266296189246,0,1,it,WCE,Europe
+'6e23cb3b6f',extremes,Storm,#b3b2b1,wmo,mareggiata vallée de joux,2026-03-26T04:56:00+00:00,Switzerland,0.460543184207432,0,1,it,WCE,Europe
+'760bc08eb4',extremes,Storm,#b3b2b1,wmo,tempesta saanen gsteig,2026-03-26T04:56:00+00:00,Switzerland,0.46049829550131255,0,1,it,WCE,Europe
+'24ca87aeaf',extremes,Snow&Ice,#d60d2b,wmo,savognino del ghiaccio,2026-03-26T04:56:00+00:00,Switzerland,0.4604501013385568,0,1,it,WCE,Europe
+'77c6450961',extremes,Snow&Ice,#d60d2b,wmo,neve san gallo rorschach,2026-03-25T04:33:00+00:00,Switzerland,0.46043226883411037,0,1,it,WCE,Europe
+'911e98ccfe',extremes,Storm,#b3b2b1,wmo,tempesta maderanertal,2026-03-26T04:56:00+00:00,Switzerland,0.46039173104859965,0,1,it,WCE,Europe
+'585a774243',extremes,Snow&Ice,#d60d2b,wmo,schiere gelide,2026-03-31T04:59:00+00:00,Switzerland,0.46037599173623744,0,1,it,WCE,Europe
+'88670cbd24',extremes,Storm,#b3b2b1,wmo,la tempesta obergoms,2026-03-27T04:57:00+00:00,Switzerland,0.4603517068867157,0,1,it,WCE,Europe
 '3a9476672d',extremes,Snow&Ice,#d60d2b,wmo,gelido emmen hochdorf,2026-02-18T04:34:00+00:00,Switzerland,0.4595453910671344,0,1,it,WCE,Europe
 '46faf1e7f5',extremes,Snow&Ice,#d60d2b,wmo,ghiaccio meseey val d'illiez,2026-02-17T04:31:00+00:00,Switzerland,0.4594233180244881,1,1,it,WCE,Europe
 '12060a7df7',extremes,Storm,#b3b2b1,wmo,mareggiata italia,2026-03-04T04:20:00+00:00,Italy,0.4589976282934541,2,1,it,MED,Europe
