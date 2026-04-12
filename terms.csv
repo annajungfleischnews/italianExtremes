@@ -357,11 +357,19 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f6b979e2d2',extremes,Storm,#b3b2b1,wmo,mareggiata obersimmental,2026-03-26T04:56:00+00:00,Switzerland,0.4601846748267019,0,1,it,WCE,Europe
 '639bf65527',extremes,Snow&Ice,#d60d2b,wmo,schanfigg gelido,2026-03-25T04:33:00+00:00,Switzerland,0.4599478387521514,0,1,it,WCE,Europe
 '3a9476672d',extremes,Snow&Ice,#d60d2b,wmo,gelido emmen hochdorf,2026-02-18T04:34:00+00:00,Switzerland,0.4595453910671344,0,1,it,WCE,Europe
-'e9c031f5a8',extremes,Storm,#b3b2b1,wmo,tempesta meiringen gadmertal,2026-03-27T04:57:00+00:00,Switzerland,0.45944996949154243,0,1,it,WCE,Europe
+'e9c031f5a8',extremes,Storm,#b3b2b1,wmo,tempesta meiringen gadmertal,2026-03-27T04:57:00+00:00,Switzerland,0.4594499694915424,0,1,it,WCE,Europe
 '46faf1e7f5',extremes,Snow&Ice,#d60d2b,wmo,ghiaccio meseey val d'illiez,2026-02-17T04:31:00+00:00,Switzerland,0.4594233180244881,1,1,it,WCE,Europe
+'8742149670',extremes,Thunderstorm,#53785a,wmo,temporale lazio,2026-03-30T05:12:00+00:00,Italy,0.45937169419343005,0,1,it,MED,Europe
+'31ac7af311',extremes,Storm,#b3b2b1,wmo,tempesta binntal,2026-03-26T04:56:00+00:00,Switzerland,0.4592550979071916,0,1,it,WCE,Europe
 '12060a7df7',extremes,Storm,#b3b2b1,wmo,mareggiata italia,2026-03-04T04:20:00+00:00,Italy,0.4589976282934541,2,1,it,MED,Europe
+'e6daaf3c7a',extremes,Snow&Ice,#d60d2b,wmo,gelo turbenthal sirnach,2026-03-24T04:31:00+00:00,Switzerland,0.45843213887791245,0,1,it,WCE,Europe
 '5bf34f285a',extremes,Earthquake,#870007,usgs,terremoto italia,2026-02-21T04:17:00+00:00,Italy,0.4583488425360358,3,1,it,MED,Europe
+'4ebf462432',extremes,Storm,#b3b2b1,wmo,mareggiata bivio avers,2026-03-25T04:33:00+00:00,Switzerland,0.4582665812644586,0,1,it,WCE,Europe
+'926fcc4fff',extremes,Storm,#b3b2b1,wmo,mareggiata kerenzerberg seeztal,2026-03-25T04:33:00+00:00,Switzerland,0.4582408663724804,0,1,it,WCE,Europe
+'c2c1b857c8',extremes,Storm,#b3b2b1,wmo,tempesta glarona nord mitte,2026-03-25T04:33:00+00:00,Switzerland,0.4581048725085376,0,1,it,WCE,Europe
+'142a809dc5',extremes,Snow&Ice,#d60d2b,wmo,gelo st.gallen rorschach,2026-03-24T04:31:00+00:00,Switzerland,0.4578572036048459,0,1,it,WCE,Europe
 '6a2ed997ca',extremes,Snow&Ice,#d60d2b,wmo,gaster gelido di linthebene,2026-02-18T04:34:00+00:00,Switzerland,0.4578462539486931,0,1,it,WCE,Europe
+'9f275b7a89',extremes,Snow&Ice,#d60d2b,wmo,riviera gelida,2026-03-23T04:42:00+00:00,Switzerland,0.4577440482441837,0,1,it,WCE,Europe
 '75bf75dc59',extremes,Snow&Ice,#d60d2b,wmo,gelo rheinfelden,2026-02-18T04:34:00+00:00,Switzerland,0.4571197728186536,0,1,it,WCE,Europe
 '6076c8543a',extremes,Storm,#b3b2b1,wmo,mareggiata liguria,2026-03-06T04:21:00+00:00,Italy,0.4568619802608032,2,1,it,MED,Europe
 'a7b8ca3c8a',extremes,Snow&Ice,#d60d2b,wmo,ghiaccio nidau ins,2026-02-18T04:34:00+00:00,Switzerland,0.4552551221083818,0,1,it,WCE,Europe
