@@ -94,10 +94,10 @@ Apennines,Apennines,NORP,,,en,1.6
 the Italian Cup,the Italian Cup,EVENT,,,en,1.6
 the last few days,the last few days,DATE,,,en,1.6
 the year,the year,DATE,,,en,1.6
-2,2,CARDINAL,,,en,1.6
+500,500,CARDINAL,,,en,1.6
 quarter,quarter,DATE,,,en,1.6
 iOS 26.2,iOS 26.2,PRODUCT,,,en,1.6
-500,500,CARDINAL,,,en,1.6
+2,2,CARDINAL,,,en,1.6
 Christmas week,Christmas week,DATE,,,en,1.6
 26.2,26.2,PRODUCT,,,en,1.6
 15 years,15 years,DATE,,,en,1.6
@@ -114,10 +114,10 @@ Siri,Siri,PRODUCT,,,en,1.3
 Padova,Padova,NORP,,,en,1.3
 Christmas 2025,Christmas 2025,DATE,,,en,1.3
 month,month,DATE,,,en,1.3
-the Summer Olympics,the Summer Olympics,EVENT,,,en,1.3
-New Year's Eve,New Year's Eve,EVENT,,,en,1.3
 "over 15,000 hectares","over 15,000 hectares",QUANTITY,,,en,1.3
+New Year's Eve,New Year's Eve,EVENT,,,en,1.3
 iLMeteo.it,iLMeteo.it,FAC,,,en,1.3
+the Summer Olympics,the Summer Olympics,EVENT,,,en,1.3
 14,14,CARDINAL,,,en,1.3
 English,English,LANGUAGE,,,en,1.3
 Brazilian,Brazilian,NORP,,,en,1.3
