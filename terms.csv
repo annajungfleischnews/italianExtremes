@@ -372,14 +372,22 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '142a809dc5',extremes,Snow&Ice,#d60d2b,wmo,gelo st.gallen rorschach,2026-03-24T04:31:00+00:00,Switzerland,0.4578572036048459,0,1,it,WCE,Europe
 '6a2ed997ca',extremes,Snow&Ice,#d60d2b,wmo,gaster gelido di linthebene,2026-02-18T04:34:00+00:00,Switzerland,0.4578462539486931,0,1,it,WCE,Europe
 '9f275b7a89',extremes,Snow&Ice,#d60d2b,wmo,riviera gelida,2026-03-23T04:42:00+00:00,Switzerland,0.4577440482441837,0,1,it,WCE,Europe
-'976e399cdc',extremes,Storm,#b3b2b1,wmo,tempesta Monthey val d'illiez,2026-03-26T04:56:00+00:00,Switzerland,0.45747643107148783,0,1,it,WCE,Europe
+'976e399cdc',extremes,Storm,#b3b2b1,wmo,tempesta Monthey val d'illiez,2026-03-26T04:56:00+00:00,Switzerland,0.4574764310714878,0,1,it,WCE,Europe
 'e43c116e31',extremes,Storm,#b3b2b1,wmo,tempesta nördliches tavetsch,2026-03-26T04:56:00+00:00,Switzerland,0.4574741908489763,0,1,it,WCE,Europe
 '0fe21077f2',extremes,Snow&Ice,#d60d2b,wmo,ghiaccio yverdon bevaix,2026-03-26T04:56:00+00:00,Switzerland,0.4573779395810336,0,1,it,WCE,Europe
 'da3f45eeca',extremes,Snow&Ice,#d60d2b,wmo,gelata bienne neuchâtel,2026-03-26T04:56:00+00:00,Switzerland,0.4572960344990088,0,1,it,WCE,Europe
 '75bf75dc59',extremes,Snow&Ice,#d60d2b,wmo,gelo rheinfelden,2026-02-18T04:34:00+00:00,Switzerland,0.4571197728186536,0,1,it,WCE,Europe
-'d0101547db',extremes,Storm,#b3b2b1,wmo,la mareggiata la contiene pienamente,2026-03-27T04:57:00+00:00,Switzerland,0.45710301585598906,0,1,it,WCE,Europe
+'d0101547db',extremes,Storm,#b3b2b1,wmo,la mareggiata la contiene pienamente,2026-03-27T04:57:00+00:00,Switzerland,0.457103015855989,0,1,it,WCE,Europe
 '6076c8543a',extremes,Storm,#b3b2b1,wmo,mareggiata liguria,2026-03-06T04:21:00+00:00,Italy,0.4568619802608032,2,1,it,MED,Europe
 'd5618ac57f',extremes,Storm,#b3b2b1,wmo,tempesta haut val de bagnes,2026-03-26T04:56:00+00:00,Switzerland,0.4568163356530097,0,1,it,WCE,Europe
+'e47d97ce14',extremes,Storm,#b3b2b1,wmo,tempesta albulatale,2026-03-25T04:33:00+00:00,Switzerland,0.45631195483544235,0,1,it,WCE,Europe
+'61f973630d',extremes,Snow&Ice,#d60d2b,wmo,neve wohlen albis,2026-03-24T04:31:00+00:00,Switzerland,0.45622136778393724,0,1,it,WCE,Europe
+'e6ab89cf9c',extremes,Precipitation,#d60d2b,wmo,precipitazioni abruzzo,2026-03-27T04:57:00+00:00,Italy,0.45611350360223896,0,1,it,MED,Europe
+'b78e2d72dc',extremes,Snow&Ice,#d60d2b,wmo,neve frutigen kental,2026-03-26T04:56:00+00:00,Switzerland,0.4556249729901651,0,1,it,WCE,Europe
+'34a63efbb2',extremes,Snow&Ice,#d60d2b,wmo,gelo marthalen stammheim,2026-03-25T04:33:00+00:00,Switzerland,0.4555166437809557,0,1,it,WCE,Europe
+'74791b49af',extremes,Storm,#b3b2b1,wmo,mareggiata aletschgebiet,2026-03-26T04:56:00+00:00,Switzerland,0.45550007397290326,0,1,it,WCE,Europe
+'42c50fe825',extremes,Storm,#b3b2b1,wmo,tempesta oberes materia,2026-03-25T04:33:00+00:00,Switzerland,0.4554755680477641,0,1,it,WCE,Europe
+'03e8940f51',extremes,Snow&Ice,#d60d2b,wmo,ghiaccio sumiswald worb,2026-03-24T04:31:00+00:00,Switzerland,0.4554256270094976,0,1,it,WCE,Europe
 'a7b8ca3c8a',extremes,Snow&Ice,#d60d2b,wmo,ghiaccio nidau ins,2026-02-18T04:34:00+00:00,Switzerland,0.4552551221083818,0,1,it,WCE,Europe
 '63b8afd7a4',extremes,Storm,#b3b2b1,wmo,tempesta lazio,2026-02-18T04:34:00+00:00,Italy,0.4538152853472885,2,1,it,MED,Europe
 'f7a88fba0a',extremes,Fog,#d60d2b,wmo,nebbia lazio,2026-02-24T04:31:00+00:00,Italy,0.4528504557731767,2,1,it,MED,Europe
