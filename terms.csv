@@ -1,7 +1,6 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 '2840754e5c',extremes,Storm,#b3b2b1,wmo,tempesta libia,2026-04-01T05:12:00+00:00,Libya,0.7283447388136733,1,2,it,SAH,Africa
 '75e56eac2a',extremes,Thunderstorm,#53785a,wmo,temporale umbria,2026-03-11T04:22:00+00:00,Italy,0.656101996340956,1,2,it,MED,Europe
-'8e5338dae6',extremes,Thunderstorm,#53785a,wmo,salve italia,2026-03-31T04:59:00+00:00,Italy,0.6528554525813689,0,1,it,MED,Europe
 '45278c4de3',extremes,Drought,#edc291,edo,periodo di siccità in Somalia,2026-03-07T04:13:00+00:00,Somalia,0.640789340044282,1,2,it,NEAF,Africa
 'a8ca9eb019',extremes,Precipitation,#d60d2b,wmo,pioggia Libia,2026-03-25T04:33:00+00:00,Libya,0.6223190169217494,1,1,it,SAH,Africa
 '395db40dcf',extremes,Heat Wave,#c40202,wmo,ondata di caldo corrientes y alrededores,2026-03-29T05:00:00+00:00,Argentina,0.6121497801920623,0,1,it,SES,South-America
@@ -58,6 +57,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8dbdda11a1',extremes,Thunderstorm,#53785a,wmo,maltempo piemonte,2026-04-13T05:28:00+00:00,Italy,0.5571653898309378,1,2,it,MED,Europe
 'ddc0b2c2fb',extremes,Storm,#b3b2b1,wmo,mareggiata campania,2026-03-13T04:25:00+00:00,Italy,0.5568580533891777,0,1,it,MED,Europe
 'b77d2e68e3',extremes,Storm,#b3b2b1,wmo,tempesta molisana,2026-03-19T04:35:00+00:00,Italy,0.5565833204100004,0,1,it,MED,Europe
+'8e5338dae6',extremes,Thunderstorm,#53785a,wmo,salve italia,2026-03-31T04:59:00+00:00,Italy,0.5565772996941636,1,1,it,MED,Europe
 '7880ffef77',extremes,Snow&Ice,#d60d2b,wmo,gelo veneto,2026-03-26T04:56:00+00:00,Italy,0.5565215236147004,0,1,it,MED,Europe
 'e0e81271b7',extremes,Drought,#edc291,edo,periodo di siccità libia,2026-04-05T05:01:00+00:00,Libya,0.5556489819248575,0,1,it,SAH,Africa
 '68498d1bd0',extremes,Snow&Ice,#d60d2b,wmo,neve puglia,2026-03-27T04:57:00+00:00,Italy,0.5554847755415048,0,1,it,MED,Europe
