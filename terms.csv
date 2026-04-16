@@ -305,7 +305,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8c3b188224',extremes,Snow&Ice,#d60d2b,wmo,neve molisana,2026-03-17T04:30:00+00:00,Italy,0.4708065882335712,1,1,it,MED,Europe
 '99eebf6b14',extremes,Snow&Ice,#d60d2b,wmo,neve verzasca,2026-03-21T04:17:00+00:00,Switzerland,0.4704972756998382,0,1,it,WCE,Europe
 'd605639753',extremes,Precipitation,#d60d2b,wmo,piovose molisane,2026-03-28T04:33:00+00:00,Italy,0.4704530887964156,0,1,it,MED,Europe
+'0e8f392ce9',extremes,Drought,#edc291,edo,siccità libia,2026-03-28T04:33:00+00:00,Libya,0.4699492213897957,0,1,it,SAH,Africa
 'c4e95835b8',extremes,Storm,#b3b2b1,wmo,tempesta urner oberland,2026-03-26T04:56:00+00:00,Switzerland,0.4697873363750496,0,1,it,WCE,Europe
+'687e972301',extremes,Precipitation,#d60d2b,wmo,precipitazioni calabria,2026-04-14T05:11:00+00:00,Italy,0.46975093697553644,0,1,it,MED,Europe
 '52d7a12550',extremes,Earthquake,#870007,usgs,terremoto candelaria,2026-03-11T04:22:00+00:00,Argentina,0.4696779927238904,1,1,it,SES,South-America
 'b3f95478f2',extremes,Snow&Ice,#d60d2b,wmo,neve lauterbrunnen wilderswil,2026-03-25T04:33:00+00:00,Switzerland,0.4696710693630089,0,1,it,WCE,Europe
 '980fb462e0',extremes,Snow&Ice,#d60d2b,wmo,neve lucerna alpnach,2026-03-25T04:33:00+00:00,Switzerland,0.4692032071408019,0,1,it,WCE,Europe
@@ -315,13 +317,16 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f1af90f26f',extremes,Snow&Ice,#d60d2b,wmo,senso del gelo,2026-03-23T04:42:00+00:00,Switzerland,0.4680126243353216,0,1,it,WCE,Europe
 '92cb3f72a3',extremes,Storm,#b3b2b1,wmo,mareggiata val medel sumvitg,2026-03-27T04:57:00+00:00,Switzerland,0.4678084168052431,0,1,it,WCE,Europe
 'fcd90ae262',extremes,Snow&Ice,#d60d2b,wmo,la neve li contiene completamente,2026-03-25T04:33:00+00:00,Switzerland,0.4674004743314139,0,1,it,WCE,Europe
+'5d8c239887',extremes,Drought,#edc291,edo,mancanza di pioggia libia,2026-03-30T05:12:00+00:00,Libya,0.4673964410777755,0,1,it,SAH,Africa
 '21347a721a',extremes,Precipitation,#d60d2b,wmo,acquazzone lazio,2026-04-13T05:28:00+00:00,Italy,0.4672118264338709,0,1,it,MED,Europe
 '892c27092b',extremes,Storm,#b3b2b1,wmo,tempesta sion crans montana,2026-03-27T04:57:00+00:00,Switzerland,0.4671464376912972,0,1,it,WCE,Europe
 'b75d040f61',extremes,Snow&Ice,#d60d2b,wmo,ghiaccio broye,2026-03-20T04:26:00+00:00,Switzerland,0.4671276444265494,0,1,it,WCE,Europe
 'f43705f5a0',extremes,Snow&Ice,#d60d2b,wmo,terra di neve,2026-03-20T04:26:00+00:00,Switzerland,0.4670960257668193,0,1,it,WCE,Europe
 'f826a35d99',extremes,Storm,#b3b2b1,wmo,mareggiata domleschg,2026-03-27T04:57:00+00:00,Switzerland,0.4670108768849483,0,1,it,WCE,Europe
 '66f12ee688',extremes,Storm,#b3b2b1,wmo,tempesta adelboden kandersteg,2026-03-26T04:56:00+00:00,Switzerland,0.4665786377856437,0,1,it,WCE,Europe
+'0df834d969',extremes,Thunderstorm,#53785a,wmo,maltempo sardegna,2026-04-12T05:12:00+00:00,Italy,0.4663374142354259,0,1,it,MED,Europe
 '7ace1d3806',extremes,Storm,#b3b2b1,wmo,mareggiata glarus süd grosstal,2026-03-27T04:57:00+00:00,Switzerland,0.4660655249996082,0,1,it,WCE,Europe
+'442ae17476',extremes,Precipitation,#d60d2b,wmo,precipitazioni lazio,2026-04-01T05:12:00+00:00,Italy,0.4660219387075489,0,1,it,MED,Europe
 '8f986a86a6',extremes,Storm,#b3b2b1,wmo,mareggiata landquart coira,2026-03-27T04:57:00+00:00,Switzerland,0.4659248076426343,0,1,it,WCE,Europe
 '3ccdecb7b4',extremes,Storm,#b3b2b1,wmo,tempesta lötschental naters,2026-03-27T04:57:00+00:00,Switzerland,0.4659009946417137,0,1,it,WCE,Europe
 '0120f3b275',extremes,Snow&Ice,#d60d2b,wmo,ghiaccio effretikon,2026-03-22T04:33:00+00:00,Switzerland,0.4658377168447245,0,1,it,WCE,Europe
@@ -336,6 +341,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '67ade24252',extremes,Snow&Ice,#d60d2b,wmo,Basilea neve,2026-03-22T04:33:00+00:00,Switzerland,0.4642148672504443,0,1,it,WCE,Europe
 '72ee28d79d',extremes,Storm,#b3b2b1,wmo,mareggiata st. stephan lenk,2026-03-26T04:56:00+00:00,Switzerland,0.463937589815017,0,1,it,WCE,Europe
 '43d0d5c7c4',extremes,Snow&Ice,#d60d2b,wmo,ice val medel sumvitg,2026-03-25T04:33:00+00:00,Switzerland,0.4639333148023533,0,1,it,WCE,Europe
+'a89147746d',extremes,Thunderstorm,#53785a,wmo,maltempo campania,2026-03-31T04:59:00+00:00,Italy,0.46365270476972514,0,1,it,MED,Europe
 '5535eb6776',extremes,Precipitation,#d60d2b,wmo,piogge torrenziali calabria,2026-04-01T05:12:00+00:00,Italy,0.4635715656239931,0,1,it,MED,Europe
 '04b23a3e2d',extremes,Storm,#b3b2b1,wmo,mareggiata rheinwald,2026-03-25T04:33:00+00:00,Switzerland,0.4632652771468053,0,1,it,WCE,Europe
 '5b134deb64',extremes,Snow&Ice,#d60d2b,wmo,gelo haut val de bagnes,2026-03-26T04:56:00+00:00,Switzerland,0.463106961009735,0,1,it,WCE,Europe
@@ -346,6 +352,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '2ad05851f9',extremes,Snow&Ice,#d60d2b,wmo,neve lugnez valsertal,2026-03-25T04:33:00+00:00,Switzerland,0.4616346550424707,0,1,it,WCE,Europe
 '9ebbf9923f',extremes,Storm,#b3b2b1,wmo,tempesta arolla,2026-03-25T04:33:00+00:00,Switzerland,0.4615889273614591,0,1,it,WCE,Europe
 '6f5cc4014d',extremes,Storm,#b3b2b1,wmo,tempesta st. stephan lenk,2026-03-27T04:57:00+00:00,Switzerland,0.4614549479715013,0,1,it,WCE,Europe
+'7d1efa3f00',extremes,Precipitation,#d60d2b,wmo,piogge torrenziali molisane,2026-04-14T05:11:00+00:00,Italy,0.4613743056467511,0,1,it,MED,Europe
 'cc02050628',extremes,Storm,#b3b2b1,wmo,tempesta bellinzonese,2026-03-26T04:56:00+00:00,Switzerland,0.461126346221249,0,1,it,WCE,Europe
 '40c061615e',extremes,Storm,#b3b2b1,wmo,imbrogli di tempesta,2026-03-26T04:56:00+00:00,Switzerland,0.4610858710101828,0,1,it,WCE,Europe
 'f7c3d32eec',extremes,Snow&Ice,#d60d2b,wmo,snow wahlern plaffeien,2026-03-25T04:33:00+00:00,Switzerland,0.4606739579966974,0,1,it,WCE,Europe
@@ -371,6 +378,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '976e399cdc',extremes,Storm,#b3b2b1,wmo,tempesta Monthey val d'illiez,2026-03-26T04:56:00+00:00,Switzerland,0.4574764310714878,0,1,it,WCE,Europe
 'e43c116e31',extremes,Storm,#b3b2b1,wmo,tempesta nördliches tavetsch,2026-03-26T04:56:00+00:00,Switzerland,0.4574741908489763,0,1,it,WCE,Europe
 '0fe21077f2',extremes,Snow&Ice,#d60d2b,wmo,ghiaccio yverdon bevaix,2026-03-26T04:56:00+00:00,Switzerland,0.4573779395810336,0,1,it,WCE,Europe
+'4495d1fc35',extremes,Thunderstorm,#53785a,wmo,maltempo friuli venezia giulia,2026-04-14T05:11:00+00:00,Italy,0.4573053493774569,0,1,it,MED,Europe
 'da3f45eeca',extremes,Snow&Ice,#d60d2b,wmo,gelata bienne neuchâtel,2026-03-26T04:56:00+00:00,Switzerland,0.4572960344990088,0,1,it,WCE,Europe
 'd0101547db',extremes,Storm,#b3b2b1,wmo,la mareggiata la contiene pienamente,2026-03-27T04:57:00+00:00,Switzerland,0.457103015855989,0,1,it,WCE,Europe
 'd5618ac57f',extremes,Storm,#b3b2b1,wmo,tempesta haut val de bagnes,2026-03-26T04:56:00+00:00,Switzerland,0.4568163356530097,0,1,it,WCE,Europe
