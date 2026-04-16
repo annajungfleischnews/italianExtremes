@@ -6,7 +6,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '395db40dcf',extremes,Heat Wave,#c40202,wmo,ondata di caldo corrientes y alrededores,2026-03-29T05:00:00+00:00,Argentina,0.6121497801920623,0,1,it,SES,South-America
 '589d0558b8',extremes,Snow&Ice,#d60d2b,wmo,neve argentina,2026-04-11T04:34:00+00:00,Argentina,0.5923716762134507,1,2,it,SES,South-America
 '3a8dcca50b',extremes,Snow&Ice,#d60d2b,wmo,l'italia gelida,2026-03-13T04:25:00+00:00,Italy,0.5838918907187866,2,1,it,MED,Europe
-'1a2e308d48',extremes,Thunderstorm,#53785a,wmo,temporale molisano,2026-03-11T04:22:00+00:00,Italy,0.5802272618399279,0,1,it,MED,Europe
 'e9be999d01',extremes,Thunderstorm,#53785a,wmo,grandine calabria,2026-03-17T04:30:00+00:00,Italy,0.5802070721257931,0,1,it,MED,Europe
 'f14331b9f6',extremes,Thunderstorm,#53785a,wmo,maltempo calabria,2026-03-12T04:26:00+00:00,Italy,0.5797984422421338,1,3,it,MED,Europe
 'eee27f7ca4',extremes,Precipitation,#d60d2b,wmo,acquazzone campania,2026-04-15T05:12:00+00:00,Italy,0.5754396798895374,0,1,it,MED,Europe
@@ -176,7 +175,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'acd71006ee',extremes,Snow&Ice,#d60d2b,wmo,neve schangnau sigriswil,2026-03-13T04:25:00+00:00,Switzerland,0.4979775075586017,1,1,it,WCE,Europe
 'e93774feb6',extremes,Snow&Ice,#d60d2b,wmo,gelo meiringen gadmertal,2026-03-27T04:57:00+00:00,Switzerland,0.4976572702128781,0,1,it,WCE,Europe
 '8ac1f2e2c9',extremes,Precipitation,#d60d2b,wmo,piogge torrenziali campania,2026-03-28T04:33:00+00:00,Italy,0.4969998510378305,0,1,it,MED,Europe
-'184887ce2b',extremes,Snow&Ice,#d60d2b,wmo,gelo marchigiano,2026-03-25T04:33:00+00:00,Italy,0.49699181620258115,1,1,it,MED,Europe
+'184887ce2b',extremes,Snow&Ice,#d60d2b,wmo,gelo marchigiano,2026-03-25T04:33:00+00:00,Italy,0.4969918162025811,1,1,it,MED,Europe
 'e5eb9755f3',extremes,Precipitation,#d60d2b,wmo,diluvio veneto,2026-04-12T05:12:00+00:00,Italy,0.4969523119387289,0,1,it,MED,Europe
 '5a812cfc1c',extremes,Snow&Ice,#d60d2b,wmo,bivio neve avers,2026-03-26T04:56:00+00:00,Switzerland,0.4968990770519235,0,1,it,WCE,Europe
 '065a434526',extremes,Storm,#b3b2b1,wmo,tempesta Abruzzo,2026-03-11T04:22:00+00:00,Italy,0.4965926345167543,1,1,it,MED,Europe
@@ -187,12 +186,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '2d81a0f692',extremes,Snow&Ice,#d60d2b,wmo,gelo langnau eggiwil,2026-03-15T04:45:00+00:00,Switzerland,0.4955798644771794,0,1,it,WCE,Europe
 '887af33c5b',extremes,Snow&Ice,#d60d2b,wmo,gelo svizzera,2026-04-02T04:42:00+00:00,Switzerland,0.4953758130391314,0,1,it,WCE,Europe
 '567bb32772',extremes,Snow&Ice,#d60d2b,wmo,ghiaccio piemonte,2026-03-13T04:25:00+00:00,Italy,0.4953608006276858,1,1,it,MED,Europe
-'0e11501646',extremes,Storm,#b3b2b1,wmo,tempesta emilia e romagna,2026-03-17T04:30:00+00:00,Italy,0.49528988144052905,1,1,it,MED,Europe
+'0e11501646',extremes,Storm,#b3b2b1,wmo,tempesta emilia e romagna,2026-03-17T04:30:00+00:00,Italy,0.495289881440529,1,1,it,MED,Europe
 '86288c9aa3',extremes,Precipitation,#d60d2b,wmo,piogge torrenziali umbria,2026-04-13T05:28:00+00:00,Italy,0.4952772021894008,0,1,it,MED,Europe
 '97a2529f41',extremes,Snow&Ice,#d60d2b,wmo,ghiaccio svizzero,2026-04-02T04:42:00+00:00,Switzerland,0.4948643009091943,0,1,it,WCE,Europe
 '488ed9a83a',extremes,Snow&Ice,#d60d2b,wmo,gelo bex villars,2026-03-18T04:36:00+00:00,Switzerland,0.4939762172358876,0,1,it,WCE,Europe
 'b885c97e01',extremes,Precipitation,#d60d2b,wmo,pioggia veneto,2026-04-13T05:28:00+00:00,Italy,0.4936358795229302,0,1,it,MED,Europe
 'a21fb8df43',extremes,Precipitation,#d60d2b,wmo,precipitazioni veneto,2026-03-15T04:45:00+00:00,Italy,0.4935827191561049,0,1,it,MED,Europe
+'1a2e308d48',extremes,Thunderstorm,#53785a,wmo,temporale molisano,2026-03-11T04:22:00+00:00,Italy,0.4933431875639387,1,1,it,MED,Europe
 '73aa45cf69',extremes,Snow&Ice,#d60d2b,wmo,gelo maderanertal,2026-03-25T04:33:00+00:00,Switzerland,0.4929134219825166,0,1,it,WCE,Europe
 'cf5c339ba7',extremes,Snow&Ice,#d60d2b,wmo,neve yverdon bevaix,2026-03-20T04:26:00+00:00,Switzerland,0.4926503113497165,0,1,it,WCE,Europe
 '7bce9b9392',extremes,Snow&Ice,#d60d2b,wmo,gelido Schangnau sigriswil,2026-03-19T04:35:00+00:00,Switzerland,0.4922126729053414,0,1,it,WCE,Europe
