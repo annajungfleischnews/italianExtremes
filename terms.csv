@@ -111,6 +111,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c0e18437c9',extremes,Snow&Ice,#d60d2b,wmo,gelo italia,2026-03-14T04:22:00+00:00,Italy,0.5213876994435379,2,1,it,MED,Europe
 'c88b43e0ba',extremes,Snow&Ice,#d60d2b,wmo,gelo argentino,2026-04-11T04:34:00+00:00,Argentina,0.5213842719843118,1,1,it,SES,South-America
 '49f364b3e2',extremes,Precipitation,#d60d2b,wmo,acquazzone formosa patino pirane.,2026-04-13T05:28:00+00:00,Argentina,0.5208129552246383,1,1,it,SES,South-America
+'5a36105e4d',extremes,Snow&Ice,#d60d2b,wmo,la Svizzera gelida,2026-04-02T04:42:00+00:00,Switzerland,0.5204990349619946,0,1,it,WCE,Europe
 '69dc5fcfc4',extremes,Heat Wave,#c40202,wmo,ondata di caldo parana y alrededores,2026-04-03T04:43:00+00:00,Argentina,0.5203227385497283,1,1,it,SES,South-America
 'd73c88d78a',extremes,Storm,#b3b2b1,wmo,mareggiata veneto,2026-03-24T04:31:00+00:00,Italy,0.5182755927232009,1,1,it,MED,Europe
 'dd289f890d',extremes,Snow&Ice,#d60d2b,wmo,gelido saanen gsteig,2026-03-15T04:45:00+00:00,Switzerland,0.5180751484308794,0,1,it,WCE,Europe
@@ -161,6 +162,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '195fa2265f',extremes,Snow&Ice,#d60d2b,wmo,gelo werdenberg,2026-03-15T04:45:00+00:00,Switzerland,0.5017360570438624,0,1,it,WCE,Europe
 '63d64ec2b3',extremes,Snow&Ice,#d60d2b,wmo,puglia gelata,2026-03-25T04:33:00+00:00,Italy,0.500843036485786,1,1,it,MED,Europe
 'e9a8279e1e',extremes,Storm,#b3b2b1,wmo,tempesta toscana,2026-03-14T04:22:00+00:00,Italy,0.5008181738065335,1,1,it,MED,Europe
+'fe2ee0ae5b',extremes,Snow&Ice,#d60d2b,wmo,gelida marthalen stammheim,2026-04-02T04:42:00+00:00,Switzerland,0.5008078105768612,0,1,it,WCE,Europe
 '8802fc89c1',extremes,Precipitation,#d60d2b,wmo,precipitazioni valle d'aosta,2026-04-13T05:28:00+00:00,Italy,0.50074568547776,0,1,it,MED,Europe
 '75dbe8c27e',extremes,Snow&Ice,#d60d2b,wmo,neve aigle leysin,2026-03-15T04:45:00+00:00,Switzerland,0.5007173470937519,0,1,it,WCE,Europe
 '5e29cd96b0',extremes,Precipitation,#d60d2b,wmo,pioggia torrenziale italia,2026-03-26T04:56:00+00:00,Italy,0.5007029587969338,1,1,it,MED,Europe
@@ -188,6 +190,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '488ed9a83a',extremes,Snow&Ice,#d60d2b,wmo,gelo bex villars,2026-03-18T04:36:00+00:00,Switzerland,0.4939762172358876,0,1,it,WCE,Europe
 'b885c97e01',extremes,Precipitation,#d60d2b,wmo,pioggia veneto,2026-04-13T05:28:00+00:00,Italy,0.4936358795229302,0,1,it,MED,Europe
 'a21fb8df43',extremes,Precipitation,#d60d2b,wmo,precipitazioni veneto,2026-03-15T04:45:00+00:00,Italy,0.4935827191561049,0,1,it,MED,Europe
+'be37d6f7a5',extremes,Snow&Ice,#d60d2b,wmo,effretikon gelido,2026-04-17T05:16:00+00:00,Switzerland,0.4934941957474642,0,1,it,WCE,Europe
 '1a2e308d48',extremes,Thunderstorm,#53785a,wmo,temporale molisano,2026-03-11T04:22:00+00:00,Italy,0.4933431875639387,1,1,it,MED,Europe
 '73aa45cf69',extremes,Snow&Ice,#d60d2b,wmo,gelo maderanertal,2026-03-25T04:33:00+00:00,Switzerland,0.4929134219825166,0,1,it,WCE,Europe
 'cf5c339ba7',extremes,Snow&Ice,#d60d2b,wmo,neve yverdon bevaix,2026-03-20T04:26:00+00:00,Switzerland,0.4926503113497165,0,1,it,WCE,Europe
