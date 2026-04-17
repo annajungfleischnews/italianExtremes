@@ -392,9 +392,17 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '03e8940f51',extremes,Snow&Ice,#d60d2b,wmo,ghiaccio sumiswald worb,2026-03-24T04:31:00+00:00,Switzerland,0.4554256270094976,0,1,it,WCE,Europe
 'cf20582851',extremes,Storm,#b3b2b1,wmo,tempesta schanfigg,2026-03-25T04:33:00+00:00,Switzerland,0.4548389967862955,0,1,it,WCE,Europe
 '2a39ef8004',extremes,Storm,#b3b2b1,wmo,tempesta einsiedeln wägital,2026-03-25T04:33:00+00:00,Switzerland,0.4543621229277708,0,1,it,WCE,Europe
+'6483746a8d',extremes,Precipitation,#d60d2b,wmo,pioggia umbria,2026-04-14T05:11:00+00:00,Italy,0.4543447636445432,0,1,it,MED,Europe
 '0c9332fa4c',extremes,Snow&Ice,#d60d2b,wmo,neve blenio,2026-03-26T04:56:00+00:00,Switzerland,0.4540468841089253,0,1,it,WCE,Europe
 'c366f29c1c',extremes,Snow&Ice,#d60d2b,wmo,gelido nidau ins,2026-04-07T04:59:00+00:00,Switzerland,0.4539702165440133,0,1,it,WCE,Europe
 '47d8c38057',extremes,Snow&Ice,#d60d2b,wmo,gelata dell'alta val de bagnes,2026-03-25T04:33:00+00:00,Switzerland,0.4533859367967492,0,1,it,WCE,Europe
+'906eca8937',extremes,Storm,#b3b2b1,wmo,tempesta erstfeld engelberg,2026-03-31T04:59:00+00:00,Switzerland,0.4510198201950968,0,1,it,WCE,Europe
+'fe41e616f4',extremes,Snow&Ice,#d60d2b,wmo,gelo amriswil,2026-04-03T04:43:00+00:00,Switzerland,0.4501020368620137,0,1,it,WCE,Europe
+'43a8549d1b',extremes,Storm,#b3b2b1,wmo,mareggiata sarnen lungern,2026-03-31T04:59:00+00:00,Switzerland,0.44963831725597997,0,1,it,WCE,Europe
+'b24f5fee7b',extremes,Snow&Ice,#d60d2b,wmo,neve thun belp,2026-04-09T04:58:00+00:00,Switzerland,0.44962230707861867,0,1,it,WCE,Europe
+'bd1bfea9ad',extremes,Storm,#b3b2b1,wmo,mareggiata davos,2026-03-31T04:59:00+00:00,Switzerland,0.4494051801550971,0,1,it,WCE,Europe
+'4da7eb8ec6',extremes,Snow&Ice,#d60d2b,wmo,valle della neve,2026-03-31T04:59:00+00:00,Switzerland,0.4492751261266244,0,1,it,WCE,Europe
+'541b9930a2',extremes,Storm,#b3b2b1,wmo,mareggiata liechtenstein,2026-03-31T04:59:00+00:00,Switzerland,0.4489071539734394,0,1,it,WCE,Europe
 '13d52d0826',extremes,Thunderstorm,#53785a,wmo,grandine lazio,2026-03-13T04:25:00+00:00,Italy,0.4447417667646208,2,1,it,MED,Europe
 '3af9fd3196',extremes,Precipitation,#d60d2b,wmo,precipitazioni mendoza gral alvear san rafael.,2026-03-13T04:25:00+00:00,Argentina,0.4408432457175388,2,1,it,SES,South-America
 '93f796a1ae',extremes,Thunderstorm,#53785a,wmo,grandine umbria,2026-03-13T04:25:00+00:00,Italy,0.4402007546089094,2,1,it,MED,Europe
