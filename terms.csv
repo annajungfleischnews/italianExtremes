@@ -25,7 +25,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8e5338dae6',extremes,Thunderstorm,#53785a,wmo,salve italia,2026-03-31T04:59:00+00:00,Italy,0.5565772996941636,1,1,it,MED,Europe
 '0c3d21da24',extremes,Precipitation,#d60d2b,wmo,acquazzone italia,2026-03-30T05:12:00+00:00,Italy,0.5552966453863053,0,1,it,MED,Europe
 '507412aefc',extremes,Storm,#b3b2b1,wmo,tempesta italia,2026-03-12T04:26:00+00:00,Italy,0.5531298588464081,1,2,it,MED,Europe
-'96612d3385',extremes,Snow&Ice,#d60d2b,wmo,la gelida sardegna,2026-03-26T04:56:00+00:00,Italy,0.5507856851998352,0,1,it,MED,Europe
 '63b8afd7a4',extremes,Storm,#b3b2b1,wmo,tempesta lazio,2026-04-01T05:12:00+00:00,Italy,0.5494981788293261,0,1,it,MED,Europe
 '177303c95b',extremes,Snow&Ice,#d60d2b,wmo,neve abruzzo,2026-03-27T04:57:00+00:00,Italy,0.5471548855200182,0,1,it,MED,Europe
 '117e9a9455',extremes,Storm,#b3b2b1,wmo,mareggiata calabria,2026-03-16T05:05:00+00:00,Italy,0.5469933809582097,0,1,it,MED,Europe
@@ -329,6 +328,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'cf8b3e39f9',extremes,Snow&Ice,#d60d2b,wmo,savognin gelido,2026-03-27T04:57:00+00:00,Switzerland,0.4689783533622154,0,1,it,WCE,Europe
 '4910cc6a53',extremes,Snow&Ice,#d60d2b,wmo,ice geneve,2026-03-20T04:26:00+00:00,Switzerland,0.4688682822981696,0,1,it,WCE,Europe
 'f5d01b4168',extremes,Snow&Ice,#d60d2b,wmo,ghiaccio val de ruz colombier,2026-03-21T04:17:00+00:00,Switzerland,0.4687215733698217,0,1,it,WCE,Europe
+'96612d3385',extremes,Snow&Ice,#d60d2b,wmo,la gelida sardegna,2026-03-26T04:56:00+00:00,Italy,0.4686178774198599,1,1,it,MED,Europe
 'f1af90f26f',extremes,Snow&Ice,#d60d2b,wmo,senso del gelo,2026-03-23T04:42:00+00:00,Switzerland,0.4680126243353216,0,1,it,WCE,Europe
 '92cb3f72a3',extremes,Storm,#b3b2b1,wmo,mareggiata val medel sumvitg,2026-03-27T04:57:00+00:00,Switzerland,0.4678084168052431,0,1,it,WCE,Europe
 'fcd90ae262',extremes,Snow&Ice,#d60d2b,wmo,la neve li contiene completamente,2026-03-25T04:33:00+00:00,Switzerland,0.4674004743314139,0,1,it,WCE,Europe
