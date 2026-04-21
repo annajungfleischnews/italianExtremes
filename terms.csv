@@ -39,11 +39,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '92ff957955',extremes,Snow&Ice,#d60d2b,wmo,neve svizzera,2026-03-13T04:25:00+00:00,Switzerland,0.5318849607061858,1,1,it,WCE,Europe
 '68498d1bd0',extremes,Snow&Ice,#d60d2b,wmo,neve puglia,2026-03-27T04:57:00+00:00,Italy,0.5317680197658345,1,2,it,MED,Europe
 '58a3873c9a',extremes,Precipitation,#d60d2b,wmo,precipitazioni emilia e romagna,2026-03-12T04:26:00+00:00,Italy,0.5302679909426128,0,1,it,MED,Europe
-'7a14a7e304',extremes,Snow&Ice,#d60d2b,wmo,gelo rheinwald,2026-03-15T04:45:00+00:00,Switzerland,0.5280748025812838,0,1,it,WCE,Europe
 'fc6edf62e7',extremes,Snow&Ice,#d60d2b,wmo,gelo brienz interlaken,2026-03-25T04:33:00+00:00,Switzerland,0.527757548008949,0,1,it,WCE,Europe
-'48fa8ae390',extremes,Snow&Ice,#d60d2b,wmo,aletschgebiet gelido,2026-03-15T04:45:00+00:00,Switzerland,0.52691453322752,0,1,it,WCE,Europe
-'b9a82bfdaa',extremes,Storm,#b3b2b1,wmo,tempesta veneta,2026-04-14T05:11:00+00:00,Italy,0.5269078511324583,0,1,it,MED,Europe
-'99a9404d72',extremes,Drought,#edc291,edo,periodo di siccità italia,2026-04-09T04:58:00+00:00,Italy,0.5266326936640358,0,1,it,MED,Europe
 '047db2bfce',extremes,Snow&Ice,#d60d2b,wmo,gelo molisano,2026-03-27T04:57:00+00:00,Italy,0.5263018182998389,0,1,it,MED,Europe
 '70aeae94f5',extremes,Snow&Ice,#d60d2b,wmo,gelo st. stephan lenk,2026-03-27T04:57:00+00:00,Switzerland,0.5243292322338013,0,1,it,WCE,Europe
 '1f4020ebca',extremes,Precipitation,#d60d2b,wmo,precipitazioni liguria,2026-03-14T04:22:00+00:00,Italy,0.5240388141287037,0,1,it,MED,Europe
@@ -405,14 +401,18 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '47d8c38057',extremes,Snow&Ice,#d60d2b,wmo,gelata dell'alta val de bagnes,2026-03-25T04:33:00+00:00,Switzerland,0.4533859367967492,0,1,it,WCE,Europe
 'cd8395100f',extremes,Storm,#b3b2b1,wmo,mareggiata puglia,2026-03-29T05:00:00+00:00,Italy,0.4523148849307241,1,1,it,MED,Europe
 '432fe36c68',extremes,Snow&Ice,#d60d2b,wmo,gelido basso moesano,2026-03-15T04:45:00+00:00,Switzerland,0.4517494026122252,1,1,it,WCE,Europe
-'fec2a0069d',extremes,Storm,#b3b2b1,wmo,mareggiata lombardia,2026-03-29T05:00:00+00:00,Italy,0.45123461055394454,1,1,it,MED,Europe
-'d04fa8427e',extremes,Snow&Ice,#d60d2b,wmo,il gelido Urner Oberland,2026-03-26T04:56:00+00:00,Switzerland,0.45108542474871544,1,1,it,WCE,Europe
+'fec2a0069d',extremes,Storm,#b3b2b1,wmo,mareggiata lombardia,2026-03-29T05:00:00+00:00,Italy,0.4512346105539445,1,1,it,MED,Europe
+'d04fa8427e',extremes,Snow&Ice,#d60d2b,wmo,il gelido Urner Oberland,2026-03-26T04:56:00+00:00,Switzerland,0.4510854247487154,1,1,it,WCE,Europe
 '906eca8937',extremes,Storm,#b3b2b1,wmo,tempesta erstfeld engelberg,2026-03-31T04:59:00+00:00,Switzerland,0.4510198201950968,0,1,it,WCE,Europe
-'c9fc484d05',extremes,Storm,#b3b2b1,wmo,mareggiata umbria,2026-04-12T05:12:00+00:00,Italy,0.45057107715544026,1,1,it,MED,Europe
+'c9fc484d05',extremes,Storm,#b3b2b1,wmo,mareggiata umbria,2026-04-12T05:12:00+00:00,Italy,0.4505710771554402,1,1,it,MED,Europe
 'fe41e616f4',extremes,Snow&Ice,#d60d2b,wmo,gelo amriswil,2026-04-03T04:43:00+00:00,Switzerland,0.4501020368620137,0,1,it,WCE,Europe
 '43a8549d1b',extremes,Storm,#b3b2b1,wmo,mareggiata sarnen lungern,2026-03-31T04:59:00+00:00,Switzerland,0.4496383172559799,0,1,it,WCE,Europe
 'b24f5fee7b',extremes,Snow&Ice,#d60d2b,wmo,neve thun belp,2026-04-09T04:58:00+00:00,Switzerland,0.4496223070786186,0,1,it,WCE,Europe
 'bd1bfea9ad',extremes,Storm,#b3b2b1,wmo,mareggiata davos,2026-03-31T04:59:00+00:00,Switzerland,0.4494051801550971,0,1,it,WCE,Europe
 '4da7eb8ec6',extremes,Snow&Ice,#d60d2b,wmo,valle della neve,2026-03-31T04:59:00+00:00,Switzerland,0.4492751261266244,0,1,it,WCE,Europe
 '541b9930a2',extremes,Storm,#b3b2b1,wmo,mareggiata liechtenstein,2026-03-31T04:59:00+00:00,Switzerland,0.4489071539734394,0,1,it,WCE,Europe
+'7a14a7e304',extremes,Snow&Ice,#d60d2b,wmo,gelo rheinwald,2026-03-15T04:45:00+00:00,Switzerland,0.4488635821940912,1,1,it,WCE,Europe
+'99a9404d72',extremes,Drought,#edc291,edo,periodo di siccità italia,2026-04-09T04:58:00+00:00,Italy,0.4482378496144304,1,1,it,MED,Europe
+'48fa8ae390',extremes,Snow&Ice,#d60d2b,wmo,aletschgebiet gelido,2026-03-15T04:45:00+00:00,Switzerland,0.447877353243392,1,1,it,WCE,Europe
+'b9a82bfdaa',extremes,Storm,#b3b2b1,wmo,tempesta veneta,2026-04-14T05:11:00+00:00,Italy,0.44787167346258955,1,1,it,MED,Europe
 '973af89b5a',extremes,Thunderstorm,#53785a,wmo,temporale calabria,2026-03-19T04:35:00+00:00,Italy,0.423339336765649,2,1,it,MED,Europe
