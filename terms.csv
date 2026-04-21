@@ -29,10 +29,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '507412aefc',extremes,Storm,#b3b2b1,wmo,tempesta italia,2026-03-12T04:26:00+00:00,Italy,0.5531298588464081,1,2,it,MED,Europe
 '63b8afd7a4',extremes,Storm,#b3b2b1,wmo,tempesta lazio,2026-04-01T05:12:00+00:00,Italy,0.5494981788293261,0,1,it,MED,Europe
 '177303c95b',extremes,Snow&Ice,#d60d2b,wmo,neve abruzzo,2026-03-27T04:57:00+00:00,Italy,0.5471548855200182,0,1,it,MED,Europe
-'6076c8543a',extremes,Storm,#b3b2b1,wmo,mareggiata liguria,2026-03-29T05:00:00+00:00,Italy,0.5445194264121808,0,1,it,MED,Europe
-'892f6f9b1d',extremes,Snow&Ice,#d60d2b,wmo,congelamento einsiedeln wägital,2026-03-26T04:56:00+00:00,Switzerland,0.5443751542328706,0,1,it,WCE,Europe
 'c2d8265895',extremes,Snow&Ice,#d60d2b,wmo,marcia sulla neve,2026-03-28T04:33:00+00:00,Italy,0.5434394120542666,0,1,it,MED,Europe
-'7b5b3b8ad8',extremes,Storm,#b3b2b1,wmo,temporale trentino alto adige,2026-03-27T04:57:00+00:00,Italy,0.5431835118310834,0,1,it,MED,Europe
 'ff422211b0',extremes,Snow&Ice,#d60d2b,wmo,neve goldau ägeri,2026-03-15T04:45:00+00:00,Switzerland,0.5424048020825762,0,1,it,WCE,Europe
 '008b58f095',extremes,Storm,#b3b2b1,wmo,mareggiata piemonte,2026-03-30T05:12:00+00:00,Italy,0.5421312385814379,0,1,it,MED,Europe
 '075cc3fe36',extremes,Thunderstorm,#53785a,wmo,maltempo italia,2026-03-11T04:22:00+00:00,Italy,0.5416251455085935,2,2,it,MED,Europe
@@ -365,7 +362,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '04b23a3e2d',extremes,Storm,#b3b2b1,wmo,mareggiata rheinwald,2026-03-25T04:33:00+00:00,Switzerland,0.4632652771468053,0,1,it,WCE,Europe
 '5b134deb64',extremes,Snow&Ice,#d60d2b,wmo,gelo haut val de bagnes,2026-03-26T04:56:00+00:00,Switzerland,0.463106961009735,0,1,it,WCE,Europe
 '6f692f700a',extremes,Snow&Ice,#d60d2b,wmo,ghiaccio steckborn müllheim,2026-03-23T04:42:00+00:00,Switzerland,0.4630408127596163,0,1,it,WCE,Europe
+'6076c8543a',extremes,Storm,#b3b2b1,wmo,mareggiata liguria,2026-03-29T05:00:00+00:00,Italy,0.46284151245035365,1,1,it,MED,Europe
 'afba7d7465',extremes,Snow&Ice,#d60d2b,wmo,ghiaccio gersau engelbergertal,2026-03-25T04:33:00+00:00,Switzerland,0.4628133715772292,0,1,it,WCE,Europe
+'892f6f9b1d',extremes,Snow&Ice,#d60d2b,wmo,congelamento einsiedeln wägital,2026-03-26T04:56:00+00:00,Switzerland,0.46271888109794,1,1,it,WCE,Europe
+'7b5b3b8ad8',extremes,Storm,#b3b2b1,wmo,temporale trentino alto adige,2026-03-27T04:57:00+00:00,Italy,0.46215603005642086,1,1,it,MED,Europe
 '8a8a288c5e',extremes,Storm,#b3b2b1,wmo,mareggiata innertkirchen guttannen,2026-03-26T04:56:00+00:00,Switzerland,0.4620417885654561,0,1,it,WCE,Europe
 '7a2c2738c5',extremes,Storm,#b3b2b1,wmo,mareggiata grindelwald,2026-03-26T04:56:00+00:00,Switzerland,0.461895870700922,0,1,it,WCE,Europe
 '2ad05851f9',extremes,Snow&Ice,#d60d2b,wmo,neve lugnez valsertal,2026-03-25T04:33:00+00:00,Switzerland,0.4616346550424707,0,1,it,WCE,Europe
