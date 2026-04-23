@@ -11,7 +11,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'cd3d048b5a',extremes,Precipitation,#d60d2b,wmo,pioggia italia,2026-04-15T05:12:00+00:00,Italy,0.6087946033747307,0,1,it,MED,Europe
 '589d0558b8',extremes,Snow&Ice,#d60d2b,wmo,neve argentina,2026-04-11T04:34:00+00:00,Argentina,0.5923716762134507,1,2,it,SES,South-America
 'd90bfca4a4',extremes,Storm,#b3b2b1,wmo,tempesta sardegna,2026-03-31T04:59:00+00:00,Italy,0.5894670758542748,1,2,it,MED,Europe
-'bd8c8650ea',extremes,Earthquake,#870007,usgs,terremoto el aguilar,2026-04-06T05:11:00+00:00,Argentina,0.5824175203390402,0,1,it,SES,South-America
+'9d51f7a7ec',extremes,Thunderstorm,#53785a,wmo,temporale piemontese,2026-04-21T05:15:00+00:00,Italy,0.5798424432916742,1,2,it,MED,Europe
 'f14331b9f6',extremes,Thunderstorm,#53785a,wmo,maltempo calabria,2026-03-12T04:26:00+00:00,Italy,0.5797984422421338,1,3,it,MED,Europe
 'e190a41be9',extremes,Precipitation,#d60d2b,wmo,pioggia على بعض مناطق غرب ليبيا.,2026-03-31T04:59:00+00:00,Libya,0.573208351627493,1,1,it,SAH,Africa
 'a999041fe7',extremes,Precipitation,#d60d2b,wmo,acquazzone libia,2026-03-28T04:33:00+00:00,Libya,0.572801957340153,1,1,it,SAH,Africa
@@ -69,9 +69,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd73ae6eac6',extremes,Snow&Ice,#d60d2b,wmo,gelida glarona sud grosstal,2026-03-15T04:45:00+00:00,Switzerland,0.5073519712154121,0,1,it,WCE,Europe
 '1339ca75ae',extremes,Thunderstorm,#53785a,wmo,grandine marcia,2026-04-13T05:28:00+00:00,Italy,0.5072783442984237,1,1,it,MED,Europe
 'bd83f0d1a3',extremes,Snow&Ice,#d60d2b,wmo,gelo innertkirchen guttannen,2026-03-15T04:45:00+00:00,Switzerland,0.5065251379320406,0,1,it,WCE,Europe
-'a0c8686ce3',extremes,Snow&Ice,#d60d2b,wmo,gelo sudiches simplongebiet,2026-03-15T04:45:00+00:00,Switzerland,0.5063530186624277,0,1,it,WCE,Europe
-'52228edbac',extremes,Storm,#b3b2b1,wmo,l'ondata di tempesta svolazza laax,2026-03-27T04:57:00+00:00,Switzerland,0.5060015980056486,0,1,it,WCE,Europe
-'9d51f7a7ec',extremes,Thunderstorm,#53785a,wmo,temporale piemontese,2026-04-21T05:15:00+00:00,Italy,0.505520503872558,0,1,it,MED,Europe
 '6e3b71fd63',extremes,Snow&Ice,#d60d2b,wmo,gelo sarganserland,2026-03-14T04:22:00+00:00,Switzerland,0.5054221146202529,0,1,it,WCE,Europe
 '165e1b5216',extremes,Drought,#edc291,edo,siccità libia,2026-03-24T04:32:00+00:00,Libya,0.5052103072753805,1,1,it,SAH,Africa
 '30a41be09e',extremes,Snow&Ice,#d60d2b,wmo,neve meseey val d'illiez,2026-03-21T04:17:00+00:00,Switzerland,0.50457976884075,0,1,it,WCE,Europe
@@ -118,6 +115,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0e11501646',extremes,Storm,#b3b2b1,wmo,tempesta emilia e romagna,2026-03-17T04:30:00+00:00,Italy,0.495289881440529,1,1,it,MED,Europe
 '86288c9aa3',extremes,Precipitation,#d60d2b,wmo,piogge torrenziali umbria,2026-04-13T05:28:00+00:00,Italy,0.4952772021894008,0,1,it,MED,Europe
 'b5d4a62412',extremes,Snow&Ice,#d60d2b,wmo,valle gelata,2026-04-21T05:15:00+00:00,Switzerland,0.4950854737571277,0,1,it,WCE,Europe
+'bd8c8650ea',extremes,Earthquake,#870007,usgs,terremoto el aguilar,2026-04-06T05:11:00+00:00,Argentina,0.4950548922881841,1,1,it,SES,South-America
 '97a2529f41',extremes,Snow&Ice,#d60d2b,wmo,ghiaccio svizzero,2026-04-02T04:42:00+00:00,Switzerland,0.4948643009091943,0,1,it,WCE,Europe
 'a43a9111fd',extremes,Snow&Ice,#d60d2b,wmo,ghiaccio kerenzerberg seeztal,2026-04-17T05:16:00+00:00,Switzerland,0.4944138582546885,0,1,it,WCE,Europe
 '488ed9a83a',extremes,Snow&Ice,#d60d2b,wmo,gelo bex villars,2026-03-18T04:36:00+00:00,Switzerland,0.4939762172358876,0,1,it,WCE,Europe
@@ -402,3 +400,4 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '60252718e4',extremes,Precipitation,#d60d2b,wmo,acquazzone emilia e romagna,2026-03-25T04:33:00+00:00,Italy,0.4367147861945576,1,1,it,MED,Europe
 'a68fadbbf5',extremes,Drought,#edc291,edo,siccità svizzera,2026-03-18T04:36:00+00:00,Switzerland,0.4347229686765186,1,1,it,WCE,Europe
 '5e35e9b9cc',extremes,Earthquake,#870007,usgs,terremoto yacuiba,2026-04-07T04:59:00+00:00,Argentina,0.4332546667117401,1,1,it,SES,South-America
+'52228edbac',extremes,Storm,#b3b2b1,wmo,l'ondata di tempesta svolazza laax,2026-03-27T04:57:00+00:00,Switzerland,0.4301013583048013,1,1,it,WCE,Europe
