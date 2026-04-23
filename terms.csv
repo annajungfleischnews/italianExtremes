@@ -69,12 +69,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd73ae6eac6',extremes,Snow&Ice,#d60d2b,wmo,gelida glarona sud grosstal,2026-03-15T04:45:00+00:00,Switzerland,0.5073519712154121,0,1,it,WCE,Europe
 '1339ca75ae',extremes,Thunderstorm,#53785a,wmo,grandine marcia,2026-04-13T05:28:00+00:00,Italy,0.5072783442984237,1,1,it,MED,Europe
 'bd83f0d1a3',extremes,Snow&Ice,#d60d2b,wmo,gelo innertkirchen guttannen,2026-03-15T04:45:00+00:00,Switzerland,0.5065251379320406,0,1,it,WCE,Europe
-'6e3b71fd63',extremes,Snow&Ice,#d60d2b,wmo,gelo sarganserland,2026-03-14T04:22:00+00:00,Switzerland,0.5054221146202529,0,1,it,WCE,Europe
 '165e1b5216',extremes,Drought,#edc291,edo,siccità libia,2026-03-24T04:32:00+00:00,Libya,0.5052103072753805,1,1,it,SAH,Africa
-'30a41be09e',extremes,Snow&Ice,#d60d2b,wmo,neve meseey val d'illiez,2026-03-21T04:17:00+00:00,Switzerland,0.50457976884075,0,1,it,WCE,Europe
 'c1d7808b8f',extremes,Snow&Ice,#d60d2b,wmo,marca del ghiaccio,2026-03-26T04:56:00+00:00,Italy,0.504044781244248,1,1,it,MED,Europe
-'416515d6df',extremes,Snow&Ice,#d60d2b,wmo,neve glarona nord mitte,2026-03-14T04:22:00+00:00,Switzerland,0.5040324256238388,0,1,it,WCE,Europe
-'c9fee294c5',extremes,Thunderstorm,#53785a,wmo,grandine abruzzo,2026-04-19T05:16:00+00:00,Italy,0.5036415503605601,0,1,it,MED,Europe
 '241721e6ad',extremes,Storm,#b3b2b1,wmo,mareggiata savognin,2026-03-26T04:56:00+00:00,Switzerland,0.503143006751734,0,1,it,WCE,Europe
 'ac0e36fd65',extremes,Snow&Ice,#d60d2b,wmo,gelido frutigen kental,2026-03-15T04:45:00+00:00,Switzerland,0.5031036994281377,0,1,it,WCE,Europe
 'd3d8dac284',extremes,Snow&Ice,#d60d2b,wmo,gelo riein safiental,2026-03-27T04:57:00+00:00,Switzerland,0.5030989044281652,0,1,it,WCE,Europe
@@ -401,3 +397,5 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a68fadbbf5',extremes,Drought,#edc291,edo,siccità svizzera,2026-03-18T04:36:00+00:00,Switzerland,0.4347229686765186,1,1,it,WCE,Europe
 '5e35e9b9cc',extremes,Earthquake,#870007,usgs,terremoto yacuiba,2026-04-07T04:59:00+00:00,Argentina,0.4332546667117401,1,1,it,SES,South-America
 '52228edbac',extremes,Storm,#b3b2b1,wmo,l'ondata di tempesta svolazza laax,2026-03-27T04:57:00+00:00,Switzerland,0.4301013583048013,1,1,it,WCE,Europe
+'30a41be09e',extremes,Snow&Ice,#d60d2b,wmo,neve meseey val d'illiez,2026-03-21T04:17:00+00:00,Switzerland,0.42889280351463743,1,1,it,WCE,Europe
+'c9fee294c5',extremes,Thunderstorm,#53785a,wmo,grandine abruzzo,2026-04-19T05:16:00+00:00,Italy,0.4285453628064761,1,1,it,MED,Europe
