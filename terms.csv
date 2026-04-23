@@ -11,6 +11,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'cd3d048b5a',extremes,Precipitation,#d60d2b,wmo,pioggia italia,2026-04-15T05:12:00+00:00,Italy,0.6087946033747307,0,1,it,MED,Europe
 '589d0558b8',extremes,Snow&Ice,#d60d2b,wmo,neve argentina,2026-04-11T04:34:00+00:00,Argentina,0.5923716762134507,1,2,it,SES,South-America
 'd90bfca4a4',extremes,Storm,#b3b2b1,wmo,tempesta sardegna,2026-03-31T04:59:00+00:00,Italy,0.5894670758542748,1,2,it,MED,Europe
+'bd8c8650ea',extremes,Earthquake,#870007,usgs,terremoto el aguilar,2026-04-06T05:11:00+00:00,Argentina,0.5824175203390402,0,1,it,SES,South-America
 'f14331b9f6',extremes,Thunderstorm,#53785a,wmo,maltempo calabria,2026-03-12T04:26:00+00:00,Italy,0.5797984422421338,1,3,it,MED,Europe
 'e190a41be9',extremes,Precipitation,#d60d2b,wmo,pioggia على بعض مناطق غرب ليبيا.,2026-03-31T04:59:00+00:00,Libya,0.573208351627493,1,1,it,SAH,Africa
 'a999041fe7',extremes,Precipitation,#d60d2b,wmo,acquazzone libia,2026-03-28T04:33:00+00:00,Libya,0.572801957340153,1,1,it,SAH,Africa
@@ -19,6 +20,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'de2e85c236',extremes,Snow&Ice,#d60d2b,wmo,gelo toscana,2026-03-26T04:56:00+00:00,Italy,0.5678674742611728,0,1,it,MED,Europe
 'da505455fb',extremes,Thunderstorm,#53785a,wmo,temporale sicilia,2026-03-23T04:42:00+00:00,Italy,0.5665849233682231,1,2,it,MED,Europe
 '8e5b367351',extremes,Precipitation,#d60d2b,wmo,precipitazioni italia,2026-03-26T04:56:00+00:00,Italy,0.5643548384470102,0,1,it,MED,Europe
+'075cc3fe36',extremes,Thunderstorm,#53785a,wmo,maltempo italia,2026-04-21T05:15:00+00:00,Italy,0.5630270008492362,0,1,it,MED,Europe
 'd92d2dbe23',extremes,Snow&Ice,#d60d2b,wmo,ghiaccio italia,2026-03-10T04:22:00+00:00,Italy,0.5586887182550849,1,2,it,MED,Europe
 '0587e67588',extremes,Precipitation,#d60d2b,wmo,piogge torrenziali lazio,2026-04-15T05:12:00+00:00,Italy,0.5574227551744431,0,1,it,MED,Europe
 '8dbdda11a1',extremes,Thunderstorm,#53785a,wmo,maltempo piemonte,2026-04-13T05:28:00+00:00,Italy,0.5571653898309378,1,2,it,MED,Europe
@@ -130,6 +132,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '10b0bb1389',extremes,Snow&Ice,#d60d2b,wmo,ghiaccio pfungen hettlingen,2026-04-22T05:13:00+00:00,Switzerland,0.4923373690007305,0,1,it,WCE,Europe
 '4080bf3418',extremes,Snow&Ice,#d60d2b,wmo,gelide franches montagnes,2026-04-21T05:15:00+00:00,Switzerland,0.4923029725955051,0,1,it,WCE,Europe
 '7bce9b9392',extremes,Snow&Ice,#d60d2b,wmo,gelido Schangnau sigriswil,2026-03-19T04:35:00+00:00,Switzerland,0.4922126729053414,0,1,it,WCE,Europe
+'29becdb14d',extremes,Snow&Ice,#d60d2b,wmo,ghiaccio lötschental naters,2026-04-22T05:13:00+00:00,Switzerland,0.4917480788774477,0,1,it,WCE,Europe
 '1232dbe7d5',extremes,Snow&Ice,#d60d2b,wmo,valle di ghiaccio,2026-04-17T05:16:00+00:00,Switzerland,0.4916029864595155,0,1,it,WCE,Europe
 'b1d7a75a38',extremes,Storm,#b3b2b1,wmo,tempesta sicilia,2026-04-14T05:11:00+00:00,Italy,0.4914175931058545,1,1,it,MED,Europe
 'cefc77a4b3',extremes,Storm,#b3b2b1,wmo,tempesta svizzera,2026-03-25T04:33:00+00:00,Switzerland,0.4913271170890907,0,1,it,WCE,Europe
@@ -283,7 +286,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '96612d3385',extremes,Snow&Ice,#d60d2b,wmo,la gelida sardegna,2026-03-26T04:56:00+00:00,Italy,0.4686178774198599,1,1,it,MED,Europe
 'f1af90f26f',extremes,Snow&Ice,#d60d2b,wmo,senso del gelo,2026-03-23T04:42:00+00:00,Switzerland,0.4680126243353216,0,1,it,WCE,Europe
 '92cb3f72a3',extremes,Storm,#b3b2b1,wmo,mareggiata val medel sumvitg,2026-03-27T04:57:00+00:00,Switzerland,0.4678084168052431,0,1,it,WCE,Europe
-'52d7a12550',extremes,Earthquake,#870007,usgs,terremoto candelaria,2026-04-19T05:16:00+00:00,Argentina,0.46773537050548625,1,1,it,SES,South-America
+'52d7a12550',extremes,Earthquake,#870007,usgs,terremoto candelaria,2026-04-19T05:16:00+00:00,Argentina,0.4677353705054862,1,1,it,SES,South-America
 'fcd90ae262',extremes,Snow&Ice,#d60d2b,wmo,la neve li contiene completamente,2026-03-25T04:33:00+00:00,Switzerland,0.4674004743314139,0,1,it,WCE,Europe
 '5d8c239887',extremes,Drought,#edc291,edo,mancanza di pioggia libia,2026-03-30T05:12:00+00:00,Libya,0.4673964410777755,0,1,it,SAH,Africa
 '21347a721a',extremes,Precipitation,#d60d2b,wmo,acquazzone lazio,2026-04-13T05:28:00+00:00,Italy,0.4672118264338709,0,1,it,MED,Europe
