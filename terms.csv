@@ -27,7 +27,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8e5338dae6',extremes,Thunderstorm,#53785a,wmo,salve italia,2026-03-31T04:59:00+00:00,Italy,0.5565772996941636,1,1,it,MED,Europe
 '0c3d21da24',extremes,Precipitation,#d60d2b,wmo,acquazzone italia,2026-03-30T05:12:00+00:00,Italy,0.5552966453863053,0,1,it,MED,Europe
 '507412aefc',extremes,Storm,#b3b2b1,wmo,tempesta italia,2026-03-12T04:26:00+00:00,Italy,0.5531298588464081,1,2,it,MED,Europe
-'52d7a12550',extremes,Earthquake,#870007,usgs,terremoto candelaria,2026-04-19T05:16:00+00:00,Argentina,0.5502769064770426,0,1,it,SES,South-America
 '63b8afd7a4',extremes,Storm,#b3b2b1,wmo,tempesta lazio,2026-04-01T05:12:00+00:00,Italy,0.5494981788293261,0,1,it,MED,Europe
 'e9a8279e1e',extremes,Storm,#b3b2b1,wmo,tempesta toscana,2026-04-14T05:11:00+00:00,Italy,0.5472814088049478,0,1,it,MED,Europe
 '177303c95b',extremes,Snow&Ice,#d60d2b,wmo,neve abruzzo,2026-03-27T04:57:00+00:00,Italy,0.5471548855200182,0,1,it,MED,Europe
@@ -61,13 +60,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd1d9cf4e58',extremes,Snow&Ice,#d60d2b,wmo,gelida argentina,2026-04-11T04:34:00+00:00,Argentina,0.5167673945480724,1,1,it,SES,South-America
 '12060a7df7',extremes,Storm,#b3b2b1,wmo,mareggiata italia,2026-04-13T05:28:00+00:00,Italy,0.5167046213394517,1,1,it,MED,Europe
 '5e27394d94',extremes,Snow&Ice,#d60d2b,wmo,muotathal gelido,2026-03-26T04:56:00+00:00,Switzerland,0.5130093284254119,0,1,it,WCE,Europe
-'8319407c99',extremes,Snow&Ice,#d60d2b,wmo,fürstenland gelido,2026-03-15T04:45:00+00:00,Switzerland,0.5111405005014091,0,1,it,WCE,Europe
-'5e35e9b9cc',extremes,Earthquake,#870007,usgs,terremoto yacuiba,2026-04-07T04:59:00+00:00,Argentina,0.5097113726020472,0,1,it,SES,South-America
-'d45e817d04',extremes,Snow&Ice,#d60d2b,wmo,contenitore per il ghiaccio oberland,2026-03-14T04:22:00+00:00,Switzerland,0.5096213177887096,0,1,it,WCE,Europe
 '4454107121',extremes,Snow&Ice,#d60d2b,wmo,ghiaccio basilicata,2026-03-26T04:56:00+00:00,Italy,0.5090296728383804,1,1,it,MED,Europe
 '3773d1b4cd',extremes,Snow&Ice,#d60d2b,wmo,sarnen lungern gelido,2026-03-21T04:17:00+00:00,Switzerland,0.5089324762361896,0,1,it,WCE,Europe
 '320fe67d5a',extremes,Snow&Ice,#d60d2b,wmo,calabria gelida,2026-03-25T04:33:00+00:00,Italy,0.5088273503480762,1,1,it,MED,Europe
-'b9fc0f05f0',extremes,Precipitation,#d60d2b,wmo,precipitazioni basilicata,2026-03-16T05:05:00+00:00,Italy,0.508304482932517,0,1,it,MED,Europe
 'b5b5655204',extremes,Snow&Ice,#d60d2b,wmo,l'Abruzzo gelido,2026-03-17T04:30:00+00:00,Italy,0.5078000312146248,1,1,it,MED,Europe
 'd73ae6eac6',extremes,Snow&Ice,#d60d2b,wmo,gelida glarona sud grosstal,2026-03-15T04:45:00+00:00,Switzerland,0.5073519712154121,0,1,it,WCE,Europe
 '1339ca75ae',extremes,Thunderstorm,#53785a,wmo,grandine marcia,2026-04-13T05:28:00+00:00,Italy,0.5072783442984237,1,1,it,MED,Europe
@@ -288,6 +283,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '96612d3385',extremes,Snow&Ice,#d60d2b,wmo,la gelida sardegna,2026-03-26T04:56:00+00:00,Italy,0.4686178774198599,1,1,it,MED,Europe
 'f1af90f26f',extremes,Snow&Ice,#d60d2b,wmo,senso del gelo,2026-03-23T04:42:00+00:00,Switzerland,0.4680126243353216,0,1,it,WCE,Europe
 '92cb3f72a3',extremes,Storm,#b3b2b1,wmo,mareggiata val medel sumvitg,2026-03-27T04:57:00+00:00,Switzerland,0.4678084168052431,0,1,it,WCE,Europe
+'52d7a12550',extremes,Earthquake,#870007,usgs,terremoto candelaria,2026-04-19T05:16:00+00:00,Argentina,0.46773537050548625,1,1,it,SES,South-America
 'fcd90ae262',extremes,Snow&Ice,#d60d2b,wmo,la neve li contiene completamente,2026-03-25T04:33:00+00:00,Switzerland,0.4674004743314139,0,1,it,WCE,Europe
 '5d8c239887',extremes,Drought,#edc291,edo,mancanza di pioggia libia,2026-03-30T05:12:00+00:00,Libya,0.4673964410777755,0,1,it,SAH,Africa
 '21347a721a',extremes,Precipitation,#d60d2b,wmo,acquazzone lazio,2026-04-13T05:28:00+00:00,Italy,0.4672118264338709,0,1,it,MED,Europe
@@ -402,3 +398,4 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e876b3ff36',extremes,Earthquake,#870007,usgs,terremoto abra pampa,2026-04-03T04:42:00+00:00,Argentina,0.4367739422155341,1,1,it,SES,South-America
 '60252718e4',extremes,Precipitation,#d60d2b,wmo,acquazzone emilia e romagna,2026-03-25T04:33:00+00:00,Italy,0.4367147861945576,1,1,it,MED,Europe
 'a68fadbbf5',extremes,Drought,#edc291,edo,siccità svizzera,2026-03-18T04:36:00+00:00,Switzerland,0.4347229686765186,1,1,it,WCE,Europe
+'5e35e9b9cc',extremes,Earthquake,#870007,usgs,terremoto yacuiba,2026-04-07T04:59:00+00:00,Argentina,0.4332546667117401,1,1,it,SES,South-America
