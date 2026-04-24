@@ -71,20 +71,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'bd83f0d1a3',extremes,Snow&Ice,#d60d2b,wmo,gelo innertkirchen guttannen,2026-03-15T04:45:00+00:00,Switzerland,0.5065251379320406,0,1,it,WCE,Europe
 '165e1b5216',extremes,Drought,#edc291,edo,siccità libia,2026-03-24T04:32:00+00:00,Libya,0.5052103072753805,1,1,it,SAH,Africa
 'c1d7808b8f',extremes,Snow&Ice,#d60d2b,wmo,marca del ghiaccio,2026-03-26T04:56:00+00:00,Italy,0.504044781244248,1,1,it,MED,Europe
-'241721e6ad',extremes,Storm,#b3b2b1,wmo,mareggiata savognin,2026-03-26T04:56:00+00:00,Switzerland,0.503143006751734,0,1,it,WCE,Europe
-'ac0e36fd65',extremes,Snow&Ice,#d60d2b,wmo,gelido frutigen kental,2026-03-15T04:45:00+00:00,Switzerland,0.5031036994281377,0,1,it,WCE,Europe
-'d3d8dac284',extremes,Snow&Ice,#d60d2b,wmo,gelo riein safiental,2026-03-27T04:57:00+00:00,Switzerland,0.5030989044281652,0,1,it,WCE,Europe
 'c620088f41',extremes,Precipitation,#d60d2b,wmo,piogge torrenziali liguria,2026-04-13T05:28:00+00:00,Italy,0.5029450589521557,0,1,it,MED,Europe
-'0a32c6a309',extremes,Snow&Ice,#d60d2b,wmo,ghiaccio erstfeld engelberg,2026-03-14T04:22:00+00:00,Switzerland,0.5029018262383657,0,1,it,WCE,Europe
 '9e16e98704',extremes,Snow&Ice,#d60d2b,wmo,gelo abruzzese,2026-03-25T04:33:00+00:00,Italy,0.5023966552952106,1,1,it,MED,Europe
 '997a2e2157',extremes,Earthquake,#870007,usgs,terremoto argentina,2026-04-06T05:11:00+00:00,Argentina,0.5022633595172946,1,1,it,SES,South-America
-'1ed58f28b2',extremes,Snow&Ice,#d60d2b,wmo,gelo vispertal nanztal,2026-03-15T04:45:00+00:00,Switzerland,0.5020991791827871,0,1,it,WCE,Europe
 '81117b23b2',extremes,Snow&Ice,#d60d2b,wmo,ghiaccio veneto,2026-03-24T04:31:00+00:00,Italy,0.5017562203205149,1,1,it,MED,Europe
-'195fa2265f',extremes,Snow&Ice,#d60d2b,wmo,gelo werdenberg,2026-03-15T04:45:00+00:00,Switzerland,0.5017360570438624,0,1,it,WCE,Europe
 '2cce7328e9',extremes,Storm,#b3b2b1,wmo,tempesta liguria,2026-04-12T05:12:00+00:00,Italy,0.5013620087515356,1,1,it,MED,Europe
 '63d64ec2b3',extremes,Snow&Ice,#d60d2b,wmo,puglia gelata,2026-03-25T04:33:00+00:00,Italy,0.500843036485786,1,1,it,MED,Europe
-'fe2ee0ae5b',extremes,Snow&Ice,#d60d2b,wmo,gelida marthalen stammheim,2026-04-02T04:42:00+00:00,Switzerland,0.5008078105768612,0,1,it,WCE,Europe
-'8802fc89c1',extremes,Precipitation,#d60d2b,wmo,precipitazioni valle d'aosta,2026-04-13T05:28:00+00:00,Italy,0.50074568547776,0,1,it,MED,Europe
 '75dbe8c27e',extremes,Snow&Ice,#d60d2b,wmo,neve aigle leysin,2026-03-15T04:45:00+00:00,Switzerland,0.5007173470937519,0,1,it,WCE,Europe
 '5e29cd96b0',extremes,Precipitation,#d60d2b,wmo,pioggia torrenziale italia,2026-03-26T04:56:00+00:00,Italy,0.5007029587969338,1,1,it,MED,Europe
 '2403cd4801',extremes,Snow&Ice,#d60d2b,wmo,friburgo gelata,2026-04-17T05:16:00+00:00,Switzerland,0.5005494282631341,0,1,it,WCE,Europe
@@ -397,5 +389,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a68fadbbf5',extremes,Drought,#edc291,edo,siccità svizzera,2026-03-18T04:36:00+00:00,Switzerland,0.4347229686765186,1,1,it,WCE,Europe
 '5e35e9b9cc',extremes,Earthquake,#870007,usgs,terremoto yacuiba,2026-04-07T04:59:00+00:00,Argentina,0.4332546667117401,1,1,it,SES,South-America
 '52228edbac',extremes,Storm,#b3b2b1,wmo,l'ondata di tempesta svolazza laax,2026-03-27T04:57:00+00:00,Switzerland,0.4301013583048013,1,1,it,WCE,Europe
-'30a41be09e',extremes,Snow&Ice,#d60d2b,wmo,neve meseey val d'illiez,2026-03-21T04:17:00+00:00,Switzerland,0.42889280351463743,1,1,it,WCE,Europe
+'30a41be09e',extremes,Snow&Ice,#d60d2b,wmo,neve meseey val d'illiez,2026-03-21T04:17:00+00:00,Switzerland,0.4288928035146374,1,1,it,WCE,Europe
 'c9fee294c5',extremes,Thunderstorm,#53785a,wmo,grandine abruzzo,2026-04-19T05:16:00+00:00,Italy,0.4285453628064761,1,1,it,MED,Europe
+'241721e6ad',extremes,Storm,#b3b2b1,wmo,mareggiata savognin,2026-03-26T04:56:00+00:00,Switzerland,0.42767155573897386,1,1,it,WCE,Europe
+'d3d8dac284',extremes,Snow&Ice,#d60d2b,wmo,gelo riein safiental,2026-03-27T04:57:00+00:00,Switzerland,0.4276340687639404,1,1,it,WCE,Europe
+'8802fc89c1',extremes,Precipitation,#d60d2b,wmo,precipitazioni valle d'aosta,2026-04-13T05:28:00+00:00,Italy,0.425783847656096,1,1,it,MED,Europe
+'fe2ee0ae5b',extremes,Snow&Ice,#d60d2b,wmo,gelida marthalen stammheim,2026-04-02T04:42:00+00:00,Switzerland,0.425686638990332,1,1,it,WCE,Europe
