@@ -76,7 +76,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '2cce7328e9',extremes,Storm,#b3b2b1,wmo,tempesta liguria,2026-04-12T05:12:00+00:00,Italy,0.5013620087515356,1,1,it,MED,Europe
 '63d64ec2b3',extremes,Snow&Ice,#d60d2b,wmo,puglia gelata,2026-03-25T04:33:00+00:00,Italy,0.500843036485786,1,1,it,MED,Europe
 '5e29cd96b0',extremes,Precipitation,#d60d2b,wmo,pioggia torrenziale italia,2026-03-26T04:56:00+00:00,Italy,0.5007029587969338,1,1,it,MED,Europe
-'51f6808ed3',extremes,Thunderstorm,#53785a,wmo,temporale liguria,2026-04-21T05:15:00+00:00,Italy,0.4996356379834515,0,1,it,MED,Europe
 '934cac63fe',extremes,Snow&Ice,#d60d2b,wmo,gelo effretikon,2026-03-19T04:35:00+00:00,Switzerland,0.4994446694693683,0,1,it,WCE,Europe
 '1318594aed',extremes,Snow&Ice,#d60d2b,wmo,gelida sion crans montana,2026-04-09T04:58:00+00:00,Switzerland,0.4989061881722739,0,1,it,WCE,Europe
 'd9edc58a09',extremes,Snow&Ice,#d60d2b,wmo,appenzello innevato,2026-03-15T04:45:00+00:00,Switzerland,0.4983382455116818,0,1,it,WCE,Europe
@@ -374,6 +373,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b9a82bfdaa',extremes,Storm,#b3b2b1,wmo,tempesta veneta,2026-04-14T05:11:00+00:00,Italy,0.4478716734625895,1,1,it,MED,Europe
 '047db2bfce',extremes,Snow&Ice,#d60d2b,wmo,gelo molisano,2026-03-27T04:57:00+00:00,Italy,0.447356545554863,1,1,it,MED,Europe
 '71aee81e61',extremes,Storm,#b3b2b1,wmo,mareggiata lazio,2026-04-12T05:12:00+00:00,Italy,0.4472924670840131,1,1,it,MED,Europe
+'51f6808ed3',extremes,Thunderstorm,#53785a,wmo,temporale liguria,2026-04-21T05:15:00+00:00,Italy,0.4471689687145052,1,1,it,MED,Europe
 '70aeae94f5',extremes,Snow&Ice,#d60d2b,wmo,gelo st. stephan lenk,2026-03-27T04:57:00+00:00,Switzerland,0.4456798473987311,1,1,it,WCE,Europe
 '4c403cc983',extremes,Precipitation,#d60d2b,wmo,piogge torrenziali friuli venezia giulia,2026-03-25T04:33:00+00:00,Italy,0.4448234828743244,1,1,it,MED,Europe
 '16ac580ff2',extremes,Snow&Ice,#d60d2b,wmo,gelo schiers,2026-03-27T04:57:00+00:00,Switzerland,0.4437244576828213,1,1,it,WCE,Europe
@@ -391,5 +391,5 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd3d8dac284',extremes,Snow&Ice,#d60d2b,wmo,gelo riein safiental,2026-03-27T04:57:00+00:00,Switzerland,0.4276340687639404,1,1,it,WCE,Europe
 '8802fc89c1',extremes,Precipitation,#d60d2b,wmo,precipitazioni valle d'aosta,2026-04-13T05:28:00+00:00,Italy,0.425783847656096,1,1,it,MED,Europe
 'fe2ee0ae5b',extremes,Snow&Ice,#d60d2b,wmo,gelida marthalen stammheim,2026-04-02T04:42:00+00:00,Switzerland,0.425686638990332,1,1,it,WCE,Europe
-'85f34dedd7',extremes,Thunderstorm,#53785a,wmo,temporale veneto,2026-04-19T05:16:00+00:00,Italy,0.42554219320876585,1,1,it,MED,Europe
-'2403cd4801',extremes,Snow&Ice,#d60d2b,wmo,friburgo gelata,2026-04-17T05:16:00+00:00,Switzerland,0.42546701402366394,1,1,it,WCE,Europe
+'85f34dedd7',extremes,Thunderstorm,#53785a,wmo,temporale veneto,2026-04-19T05:16:00+00:00,Italy,0.4255421932087658,1,1,it,MED,Europe
+'2403cd4801',extremes,Snow&Ice,#d60d2b,wmo,friburgo gelata,2026-04-17T05:16:00+00:00,Switzerland,0.4254670140236639,1,1,it,WCE,Europe
