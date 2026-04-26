@@ -78,12 +78,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'bd8c8650ea',extremes,Earthquake,#870007,usgs,terremoto el aguilar,2026-04-06T05:11:00+00:00,Argentina,0.4950548922881841,1,1,it,SES,South-America
 '488ed9a83a',extremes,Snow&Ice,#d60d2b,wmo,gelo bex villars,2026-03-18T04:36:00+00:00,Switzerland,0.4939762172358876,0,1,it,WCE,Europe
 'b1d7a75a38',extremes,Storm,#b3b2b1,wmo,tempesta sicilia,2026-04-14T05:11:00+00:00,Italy,0.4914175931058545,1,1,it,MED,Europe
-'354a9b0a00',extremes,Snow&Ice,#d60d2b,wmo,gelido Landquart Coira,2026-03-19T04:35:00+00:00,Switzerland,0.4908005981313347,0,1,it,WCE,Europe
-'0080cba8b6',extremes,Snow&Ice,#d60d2b,wmo,entlebuch gelido,2026-04-09T04:58:00+00:00,Switzerland,0.4906357070458979,0,1,it,WCE,Europe
-'186530961d',extremes,Storm,#b3b2b1,wmo,tempesta obergoms,2026-03-26T04:56:00+00:00,Switzerland,0.490560708581112,0,1,it,WCE,Europe
-'27e62f9140',extremes,Snow&Ice,#d60d2b,wmo,gelo val de ruz colombier,2026-04-17T05:16:00+00:00,Switzerland,0.4905300300806697,0,1,it,WCE,Europe
 'd979ae46a4',extremes,Snow&Ice,#d60d2b,wmo,neve erstfeld engelberg,2026-04-17T05:16:00+00:00,Switzerland,0.4902230169841739,0,1,it,WCE,Europe
-'bbe0fece74',extremes,Snow&Ice,#d60d2b,wmo,valle del ghiaccio,2026-03-17T04:30:00+00:00,Switzerland,0.4899210702607721,0,1,it,WCE,Europe
 'ce12e0a649',extremes,Snow&Ice,#d60d2b,wmo,ghiaccio thalwil wetzikon,2026-03-19T04:35:00+00:00,Switzerland,0.4898733653974004,0,1,it,WCE,Europe
 '279cf9a7bb',extremes,Snow&Ice,#d60d2b,wmo,rheinfelden gelata,2026-03-19T04:35:00+00:00,Switzerland,0.4894309828703977,0,1,it,WCE,Europe
 '5cc1e8d1ca',extremes,Snow&Ice,#d60d2b,wmo,snow küblis klosters,2026-03-27T04:57:00+00:00,Switzerland,0.4892550168819085,0,1,it,WCE,Europe
@@ -379,4 +374,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '29becdb14d',extremes,Snow&Ice,#d60d2b,wmo,ghiaccio lötschental naters,2026-04-22T05:13:00+00:00,Switzerland,0.4179858670458305,1,1,it,WCE,Europe
 '7ebbae0c9c',extremes,Snow&Ice,#d60d2b,wmo,la gelida brienz interlaken,2026-04-17T05:16:00+00:00,Switzerland,0.4179259625449205,1,1,it,WCE,Europe
 'cefc77a4b3',extremes,Storm,#b3b2b1,wmo,tempesta svizzera,2026-03-25T04:33:00+00:00,Switzerland,0.4176280495257271,1,1,it,WCE,Europe
-'6977e2be13',extremes,Snow&Ice,#d60d2b,wmo,gelo limmattal,2026-04-17T05:16:00+00:00,Switzerland,0.41745673629793756,1,1,it,WCE,Europe
+'6977e2be13',extremes,Snow&Ice,#d60d2b,wmo,gelo limmattal,2026-04-17T05:16:00+00:00,Switzerland,0.4174567362979375,1,1,it,WCE,Europe
+'0080cba8b6',extremes,Snow&Ice,#d60d2b,wmo,entlebuch gelido,2026-04-09T04:58:00+00:00,Switzerland,0.4170403509890132,1,1,it,WCE,Europe
+'186530961d',extremes,Storm,#b3b2b1,wmo,tempesta obergoms,2026-03-26T04:56:00+00:00,Switzerland,0.4169766022939452,1,1,it,WCE,Europe
+'27e62f9140',extremes,Snow&Ice,#d60d2b,wmo,gelo val de ruz colombier,2026-04-17T05:16:00+00:00,Switzerland,0.4169505255685692,1,1,it,WCE,Europe
