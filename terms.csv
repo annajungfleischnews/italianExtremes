@@ -40,7 +40,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '008b58f095',extremes,Storm,#b3b2b1,wmo,mareggiata piemonte,2026-03-30T05:12:00+00:00,Italy,0.5421312385814379,0,1,it,MED,Europe
 '255e7908d3',extremes,Snow&Ice,#d60d2b,wmo,neve trentino alto adige,2026-03-26T04:56:00+00:00,Italy,0.5358851804846356,1,1,it,MED,Europe
 '041683dc11',extremes,Snow&Ice,#d60d2b,wmo,neve emilia e romagna,2026-03-26T04:56:00+00:00,Italy,0.5347071759805933,1,1,it,MED,Europe
-'b6b1d80b84',extremes,Precipitation,#d60d2b,wmo,precipitazioni lombardia,2026-04-27T05:40:00+00:00,Italy,0.5345731035945038,0,1,it,MED,Europe
 '68498d1bd0',extremes,Snow&Ice,#d60d2b,wmo,neve puglia,2026-03-27T04:57:00+00:00,Italy,0.5317680197658345,1,2,it,MED,Europe
 'beccd0333c',extremes,Earthquake,#870007,usgs,terremoto colonia dorata,2026-04-25T05:00:00+00:00,Argentina,0.5297750419180861,0,1,it,SES,South-America
 'fc6edf62e7',extremes,Snow&Ice,#d60d2b,wmo,gelo brienz interlaken,2026-03-25T04:33:00+00:00,Switzerland,0.527757548008949,0,1,it,WCE,Europe
@@ -293,6 +292,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e6ab89cf9c',extremes,Precipitation,#d60d2b,wmo,precipitazioni abruzzo,2026-03-27T04:57:00+00:00,Italy,0.4561135036022389,0,1,it,MED,Europe
 'a03bfb69ba',extremes,Drought,#edc291,edo,periodo di siccità in svizzera,2026-03-27T04:57:00+00:00,Switzerland,0.4560724049516551,1,1,it,WCE,Europe
 'b78e2d72dc',extremes,Snow&Ice,#d60d2b,wmo,neve frutigen kental,2026-03-26T04:56:00+00:00,Switzerland,0.4556249729901651,0,1,it,WCE,Europe
+'b6b1d80b84',extremes,Precipitation,#d60d2b,wmo,precipitazioni lombardia,2026-04-27T05:40:00+00:00,Italy,0.4555872580553283,1,1,it,MED,Europe
 '34a63efbb2',extremes,Snow&Ice,#d60d2b,wmo,gelo marthalen stammheim,2026-03-25T04:33:00+00:00,Switzerland,0.4555166437809557,0,1,it,WCE,Europe
 '74791b49af',extremes,Storm,#b3b2b1,wmo,mareggiata aletschgebiet,2026-03-26T04:56:00+00:00,Switzerland,0.4555000739729032,0,1,it,WCE,Europe
 '42c50fe825',extremes,Storm,#b3b2b1,wmo,tempesta oberes materia,2026-03-25T04:33:00+00:00,Switzerland,0.4554755680477641,0,1,it,WCE,Europe
