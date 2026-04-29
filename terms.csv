@@ -135,17 +135,25 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '94a7ded57b',extremes,Snow&Ice,#d60d2b,wmo,neve turtmanntal,2026-04-22T05:13:00+00:00,Switzerland,0.478387995384308,0,1,it,WCE,Europe
 '6d88e97282',extremes,Snow&Ice,#d60d2b,wmo,ghiaccio linthebene gaster,2026-04-17T05:16:00+00:00,Switzerland,0.4783709568270126,0,1,it,WCE,Europe
 '390332f107',extremes,Storm,#b3b2b1,wmo,tempesta küblis klosters,2026-03-25T04:33:00+00:00,Switzerland,0.4782040011613815,0,1,it,WCE,Europe
+'131cc84711',extremes,Snow&Ice,#d60d2b,wmo,gelo lyss grenchen,2026-04-21T05:15:00+00:00,Switzerland,0.4780645524952777,0,1,it,WCE,Europe
+'20cc17d899',extremes,Snow&Ice,#d60d2b,wmo,neve emmen hochdorf,2026-04-25T05:00:00+00:00,Switzerland,0.47805901024551856,0,1,it,WCE,Europe
+'d05836ff1e',extremes,Snow&Ice,#d60d2b,wmo,neve kerenzerberg seeztal,2026-04-22T05:13:00+00:00,Switzerland,0.47803074397889883,0,1,it,WCE,Europe
 '324fbe7609',extremes,Snow&Ice,#d60d2b,wmo,l'Umbria gelida,2026-03-25T04:33:00+00:00,Italy,0.4779660194811779,1,1,it,MED,Europe
+'ff422211b0',extremes,Snow&Ice,#d60d2b,wmo,neve goldau ägeri,2026-04-09T04:58:00+00:00,Switzerland,0.47792706709631444,0,1,it,WCE,Europe
 'ae2a354c81',extremes,Precipitation,#d60d2b,wmo,pioggia toscana,2026-04-14T05:11:00+00:00,Italy,0.4778202269246727,0,1,it,MED,Europe
 '757a24f6e9',extremes,Thunderstorm,#53785a,wmo,ave emilia e romagna,2026-03-29T05:00:00+00:00,Italy,0.4775009862912877,0,1,it,MED,Europe
 '0db6995ddb',extremes,Snow&Ice,#d60d2b,wmo,riviera del gelo,2026-03-21T04:17:00+00:00,Switzerland,0.4768816338171329,0,1,it,WCE,Europe
 'cb0d5807c2',extremes,Snow&Ice,#d60d2b,wmo,ghiaccio Grindelwald,2026-03-26T04:56:00+00:00,Switzerland,0.4767089715739006,0,1,it,WCE,Europe
 'a6ea704320',extremes,Precipitation,#d60d2b,wmo,acquazzone marchigiano,2026-03-28T04:33:00+00:00,Italy,0.4765460032618931,0,1,it,MED,Europe
+'632f1c7503',extremes,Snow&Ice,#d60d2b,wmo,gelo muotathal,2026-04-17T05:16:00+00:00,Switzerland,0.47651136135474065,0,1,it,WCE,Europe
+'ce12e0a649',extremes,Snow&Ice,#d60d2b,wmo,ghiaccio thalwil wetzikon,2026-04-21T05:15:00+00:00,Switzerland,0.4764679159751984,0,1,it,WCE,Europe
 '3babd4d17f',extremes,Snow&Ice,#d60d2b,wmo,limmattale gelido,2026-03-21T04:17:00+00:00,Switzerland,0.4763235467365521,0,1,it,WCE,Europe
 'f5d163185f',extremes,Snow&Ice,#d60d2b,wmo,gelo luganese,2026-03-19T04:35:00+00:00,Switzerland,0.4762715826772878,0,1,it,WCE,Europe
+'48482a5127',extremes,Snow&Ice,#d60d2b,wmo,gelido thun belp,2026-04-21T05:15:00+00:00,Switzerland,0.4762123537569384,0,1,it,WCE,Europe
 '0c9ce7bbc6',extremes,Earthquake,#870007,usgs,terremoto calingasta,2026-04-20T05:26:00+00:00,Argentina,0.4761683325343038,1,1,it,SWS,South-America
 '3a0023bfa6',extremes,Snow&Ice,#d60d2b,wmo,snow vallée du trient,2026-03-19T04:35:00+00:00,Switzerland,0.4759923008251579,0,1,it,WCE,Europe
 '0fb1f02b51',extremes,Snow&Ice,#d60d2b,wmo,ghiaccio supersimmentale,2026-03-26T04:56:00+00:00,Switzerland,0.475830481220111,0,1,it,WCE,Europe
+'f610159fb4',extremes,Snow&Ice,#d60d2b,wmo,gelo huttwil willisau,2026-04-26T05:25:00+00:00,Switzerland,0.4758228717851717,0,1,it,WCE,Europe
 '057b282faa',extremes,Snow&Ice,#d60d2b,wmo,ghiaccio brienz interlaken,2026-03-23T04:42:00+00:00,Switzerland,0.4757195345451885,0,1,it,WCE,Europe
 'c049f17373',extremes,Storm,#b3b2b1,wmo,mareggiata nördliches tavetsch,2026-03-27T04:57:00+00:00,Switzerland,0.4755998598854284,0,1,it,WCE,Europe
 '8b573af55a',extremes,Snow&Ice,#d60d2b,wmo,gelida glarona nord mitte,2026-03-20T04:26:00+00:00,Switzerland,0.4754177148135275,0,1,it,WCE,Europe
@@ -387,5 +395,5 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0a2976013b',extremes,Storm,#b3b2b1,wmo,mareggiata urner oberland,2026-03-25T04:33:00+00:00,Switzerland,0.4098315956534941,1,1,it,WCE,Europe
 '1f5ac63b71',extremes,Snow&Ice,#d60d2b,wmo,neve sumiswald worb,2026-04-21T05:15:00+00:00,Switzerland,0.4098199889292355,1,1,it,WCE,Europe
 '8b7ddca807',extremes,Snow&Ice,#d60d2b,wmo,ice oron – haute broye,2026-04-21T05:15:00+00:00,Switzerland,0.4097700096370148,1,1,it,WCE,Europe
-'3087bd26a7',extremes,Snow&Ice,#d60d2b,wmo,langenthal della neve,2026-04-07T04:59:00+00:00,Switzerland,0.40968447709891465,1,1,it,WCE,Europe
+'3087bd26a7',extremes,Snow&Ice,#d60d2b,wmo,langenthal della neve,2026-04-07T04:59:00+00:00,Switzerland,0.4096844770989146,1,1,it,WCE,Europe
 '4fb36a20f0',extremes,Snow&Ice,#d60d2b,wmo,gelo vallée du trient,2026-04-21T05:15:00+00:00,Switzerland,0.4093482355677561,1,1,it,WCE,Europe
