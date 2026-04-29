@@ -8,7 +8,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '507412aefc',extremes,Storm,#b3b2b1,wmo,tempesta italia,2026-04-22T05:13:00+00:00,Italy,0.614112979370209,0,1,it,MED,Europe
 'e9be999d01',extremes,Thunderstorm,#53785a,wmo,grandine calabria,2026-03-17T04:30:00+00:00,Italy,0.6139260863069241,1,2,it,MED,Europe
 'cd3d048b5a',extremes,Precipitation,#d60d2b,wmo,pioggia italia,2026-04-15T05:12:00+00:00,Italy,0.6087946033747307,0,1,it,MED,Europe
-'572704ba2e',extremes,Thunderstorm,#53785a,wmo,temporale lombardia,2026-04-29T05:40:00+00:00,Italy,0.6002325621426613,0,1,it,MED,Europe
 '589d0558b8',extremes,Snow&Ice,#d60d2b,wmo,neve argentina,2026-04-11T04:34:00+00:00,Argentina,0.5923716762134507,1,2,it,SES,South-America
 'd90bfca4a4',extremes,Storm,#b3b2b1,wmo,tempesta sardegna,2026-03-31T04:59:00+00:00,Italy,0.5894670758542748,1,2,it,MED,Europe
 '0e11501646',extremes,Storm,#b3b2b1,wmo,tempesta emilia e romagna,2026-04-13T05:28:00+00:00,Italy,0.5862070966974657,0,1,it,MED,Europe
@@ -62,6 +61,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '12060a7df7',extremes,Storm,#b3b2b1,wmo,mareggiata italia,2026-04-13T05:28:00+00:00,Italy,0.5167046213394517,1,1,it,MED,Europe
 '0d38e5dc47',extremes,Precipitation,#d60d2b,wmo,precipitazioni friuli venezia giulia,2026-04-13T05:28:00+00:00,Italy,0.5148303750773473,1,2,it,MED,Europe
 '5e27394d94',extremes,Snow&Ice,#d60d2b,wmo,muotathal gelido,2026-03-26T04:56:00+00:00,Switzerland,0.5130093284254119,0,1,it,WCE,Europe
+'572704ba2e',extremes,Thunderstorm,#53785a,wmo,temporale lombardia,2026-04-29T05:40:00+00:00,Italy,0.5112477828212622,1,1,it,MED,Europe
 '4454107121',extremes,Snow&Ice,#d60d2b,wmo,ghiaccio basilicata,2026-03-26T04:56:00+00:00,Italy,0.5090296728383804,1,1,it,MED,Europe
 '3773d1b4cd',extremes,Snow&Ice,#d60d2b,wmo,sarnen lungern gelido,2026-03-21T04:17:00+00:00,Switzerland,0.5089324762361896,0,1,it,WCE,Europe
 '320fe67d5a',extremes,Snow&Ice,#d60d2b,wmo,calabria gelida,2026-03-25T04:33:00+00:00,Italy,0.5088273503480762,1,1,it,MED,Europe
