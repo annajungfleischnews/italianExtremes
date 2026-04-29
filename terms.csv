@@ -99,11 +99,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '569a1f5c0e',extremes,Storm,#b3b2b1,wmo,mareggiata friuli venezia giulia,2026-04-19T05:16:00+00:00,Italy,0.4829010809855698,1,1,it,MED,Europe
 '851e7f751b',extremes,Storm,#b3b2b1,wmo,temporale valle d'aosta,2026-03-24T04:31:00+00:00,Italy,0.4828250663975543,1,1,it,MED,Europe
 '72f03986c3',extremes,Snow&Ice,#d60d2b,wmo,ghiaccio glarona nord mitte,2026-04-17T05:16:00+00:00,Switzerland,0.4822926198577408,0,1,it,WCE,Europe
-'8b7ddca807',extremes,Snow&Ice,#d60d2b,wmo,ice oron – haute broye,2026-04-21T05:15:00+00:00,Switzerland,0.482082364278841,0,1,it,WCE,Europe
-'3087bd26a7',extremes,Snow&Ice,#d60d2b,wmo,langenthal della neve,2026-04-07T04:59:00+00:00,Switzerland,0.481981737763429,0,1,it,WCE,Europe
 '508b73fb8c',extremes,Storm,#b3b2b1,wmo,mareggiata molisana,2026-04-15T05:12:00+00:00,Italy,0.4819072386019529,1,1,it,MED,Europe
-'4fb36a20f0',extremes,Snow&Ice,#d60d2b,wmo,gelo vallée du trient,2026-04-21T05:15:00+00:00,Switzerland,0.4815861594914778,0,1,it,WCE,Europe
-'54ed87804d',extremes,Snow&Ice,#d60d2b,wmo,gusto del ghiaccio,2026-04-21T05:15:00+00:00,Switzerland,0.4815201670926508,0,1,it,WCE,Europe
 '2787b82550',extremes,Snow&Ice,#d60d2b,wmo,gelo delémont bellelay,2026-04-21T05:15:00+00:00,Switzerland,0.4813899870519184,0,1,it,WCE,Europe
 'a5dfbbb3bf',extremes,Snow&Ice,#d60d2b,wmo,ghiaccio burgdorf limpachtal,2026-04-17T05:16:00+00:00,Switzerland,0.4813755880381668,0,1,it,WCE,Europe
 'd783a4e16c',extremes,Snow&Ice,#d60d2b,wmo,gelido broye,2026-03-19T04:35:00+00:00,Switzerland,0.4813462575023609,0,1,it,WCE,Europe
@@ -299,6 +295,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '541b9930a2',extremes,Storm,#b3b2b1,wmo,mareggiata liechtenstein,2026-03-31T04:59:00+00:00,Switzerland,0.4489071539734394,0,1,it,WCE,Europe
 '99a9404d72',extremes,Drought,#edc291,edo,periodo di siccità italia,2026-04-09T04:58:00+00:00,Italy,0.4482378496144304,1,1,it,MED,Europe
 'b9a82bfdaa',extremes,Storm,#b3b2b1,wmo,tempesta veneta,2026-04-14T05:11:00+00:00,Italy,0.4478716734625895,1,1,it,MED,Europe
+'54ed87804d',extremes,Snow&Ice,#d60d2b,wmo,gusto del ghiaccio,2026-04-21T05:15:00+00:00,Switzerland,0.4473922020287531,1,1,it,WCE,Europe
 '047db2bfce',extremes,Snow&Ice,#d60d2b,wmo,gelo molisano,2026-03-27T04:57:00+00:00,Italy,0.447356545554863,1,1,it,MED,Europe
 '71aee81e61',extremes,Storm,#b3b2b1,wmo,mareggiata lazio,2026-04-12T05:12:00+00:00,Italy,0.4472924670840131,1,1,it,MED,Europe
 '51f6808ed3',extremes,Thunderstorm,#53785a,wmo,temporale liguria,2026-04-21T05:15:00+00:00,Italy,0.4471689687145052,1,1,it,MED,Europe
@@ -388,4 +385,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e25443a8be',extremes,Snow&Ice,#d60d2b,wmo,congelamento zofingen triengen,2026-04-21T05:15:00+00:00,Switzerland,0.4101843856185836,1,1,it,WCE,Europe
 'cf8bea3213',extremes,Snow&Ice,#d60d2b,wmo,neve broye,2026-04-17T05:16:00+00:00,Switzerland,0.4099602649155636,1,1,it,WCE,Europe
 '0a2976013b',extremes,Storm,#b3b2b1,wmo,mareggiata urner oberland,2026-03-25T04:33:00+00:00,Switzerland,0.4098315956534941,1,1,it,WCE,Europe
-'1f5ac63b71',extremes,Snow&Ice,#d60d2b,wmo,neve sumiswald worb,2026-04-21T05:15:00+00:00,Switzerland,0.40981998892923555,1,1,it,WCE,Europe
+'1f5ac63b71',extremes,Snow&Ice,#d60d2b,wmo,neve sumiswald worb,2026-04-21T05:15:00+00:00,Switzerland,0.4098199889292355,1,1,it,WCE,Europe
+'8b7ddca807',extremes,Snow&Ice,#d60d2b,wmo,ice oron – haute broye,2026-04-21T05:15:00+00:00,Switzerland,0.4097700096370148,1,1,it,WCE,Europe
+'3087bd26a7',extremes,Snow&Ice,#d60d2b,wmo,langenthal della neve,2026-04-07T04:59:00+00:00,Switzerland,0.40968447709891465,1,1,it,WCE,Europe
+'4fb36a20f0',extremes,Snow&Ice,#d60d2b,wmo,gelo vallée du trient,2026-04-21T05:15:00+00:00,Switzerland,0.4093482355677561,1,1,it,WCE,Europe
