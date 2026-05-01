@@ -121,11 +121,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7880ffef77',extremes,Snow&Ice,#d60d2b,wmo,gelo veneto,2026-03-26T04:56:00+00:00,Italy,0.4730432950724953,1,1,it,MED,Europe
 'e0e81271b7',extremes,Drought,#edc291,edo,periodo di siccità libia,2026-04-05T05:01:00+00:00,Libya,0.4723016346361288,1,1,it,SAH,Africa
 'dec54bf379',extremes,Storm,#b3b2b1,wmo,mareggiata schiers,2026-03-26T04:56:00+00:00,Switzerland,0.4721267484400253,0,1,it,WCE,Europe
-'a3a6a90ae2',extremes,Snow&Ice,#d60d2b,wmo,gelo steckborn müllheim,2026-04-22T05:13:00+00:00,Switzerland,0.4718231533252296,0,1,it,WCE,Europe
 '5022ceabea',extremes,Storm,#b3b2b1,wmo,mareggiata abruzzo,2026-04-13T05:28:00+00:00,Italy,0.4717760476049873,1,1,it,MED,Europe
 '3457a20fa4',extremes,Storm,#b3b2b1,wmo,tempesta val medel sumvitg,2026-03-26T04:56:00+00:00,Switzerland,0.4717441383435475,0,1,it,WCE,Europe
-'4244b1f8be',extremes,Snow&Ice,#d60d2b,wmo,gelido Rothrist di Soletta,2026-04-22T05:13:00+00:00,Switzerland,0.471744085824761,0,1,it,WCE,Europe
-'21b6e29992',extremes,Precipitation,#d60d2b,wmo,precipitazioni piemonte,2026-04-14T05:11:00+00:00,Italy,0.4713437894160456,0,1,it,MED,Europe
 '752048e101',extremes,Storm,#b3b2b1,wmo,mareggiata oberes saastal,2026-03-27T04:57:00+00:00,Switzerland,0.4710768081275812,0,1,it,WCE,Europe
 'f6ff301646',extremes,Drought,#edc291,edo,siccità in Somalia,2026-04-11T04:34:00+00:00,Somalia,0.4710107498662371,1,1,it,NEAF,Africa
 '7a93ca259e',extremes,Snow&Ice,#d60d2b,wmo,gelido wädenswil rüti,2026-04-24T05:22:00+00:00,Switzerland,0.4709632116420792,0,1,it,WCE,Europe
@@ -281,7 +278,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e5b1342785',extremes,Snow&Ice,#d60d2b,wmo,ghiaccio amriswil,2026-04-17T05:16:00+00:00,Switzerland,0.4233053006143389,1,1,it,WCE,Europe
 'e93774feb6',extremes,Snow&Ice,#d60d2b,wmo,gelo meiringen gadmertal,2026-03-27T04:57:00+00:00,Switzerland,0.4230086796809463,1,1,it,WCE,Europe
 '8ac1f2e2c9',extremes,Precipitation,#d60d2b,wmo,piogge torrenziali campania,2026-03-28T04:33:00+00:00,Italy,0.4224498733821559,1,1,it,MED,Europe
-'ee371032d3',extremes,Thunderstorm,#53785a,wmo,temporale campania,2026-04-17T05:16:00+00:00,Italy,0.42242345128425385,1,1,it,MED,Europe
+'ee371032d3',extremes,Thunderstorm,#53785a,wmo,temporale campania,2026-04-17T05:16:00+00:00,Italy,0.4224234512842538,1,1,it,MED,Europe
 'e5eb9755f3',extremes,Precipitation,#d60d2b,wmo,diluvio veneto,2026-04-12T05:12:00+00:00,Italy,0.4224094651479195,1,1,it,MED,Europe
 '5a812cfc1c',extremes,Snow&Ice,#d60d2b,wmo,bivio neve avers,2026-03-26T04:56:00+00:00,Switzerland,0.4223642154941349,1,1,it,WCE,Europe
 '6c21bed8ae',extremes,Snow&Ice,#d60d2b,wmo,gelido hulftegg untertoggenburg,2026-04-17T05:16:00+00:00,Switzerland,0.4219647943243789,1,1,it,WCE,Europe
@@ -385,10 +382,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1a2f8b4a52',extremes,Snow&Ice,#d60d2b,wmo,neve lyss grenchen,2026-04-22T05:13:00+00:00,Switzerland,0.4031357722774211,1,1,it,WCE,Europe
 '8319407c99',extremes,Snow&Ice,#d60d2b,wmo,fürstenland gelido,2026-04-21T05:15:00+00:00,Switzerland,0.4029845665537317,1,1,it,WCE,Europe
 '081c41fb1c',extremes,Snow&Ice,#d60d2b,wmo,gelo yverdon bevaix,2026-04-21T05:15:00+00:00,Switzerland,0.4029140675921442,1,1,it,WCE,Europe
-'7d1d0c8440',extremes,Snow&Ice,#d60d2b,wmo,neve thalwil wetzikon,2026-04-22T05:13:00+00:00,Switzerland,0.40290157110281943,1,1,it,WCE,Europe
-'13c43ed6fe',extremes,Snow&Ice,#d60d2b,wmo,gelo saanen gsteig,2026-03-27T04:57:00+00:00,Switzerland,0.40288119031910286,1,1,it,WCE,Europe
-'f088ad0444',extremes,Snow&Ice,#d60d2b,wmo,gelido estavayer cudrefin,2026-04-24T05:22:00+00:00,Switzerland,0.40240375719187665,1,1,it,WCE,Europe
+'7d1d0c8440',extremes,Snow&Ice,#d60d2b,wmo,neve thalwil wetzikon,2026-04-22T05:13:00+00:00,Switzerland,0.4029015711028194,1,1,it,WCE,Europe
+'13c43ed6fe',extremes,Snow&Ice,#d60d2b,wmo,gelo saanen gsteig,2026-03-27T04:57:00+00:00,Switzerland,0.4028811903191028,1,1,it,WCE,Europe
+'f088ad0444',extremes,Snow&Ice,#d60d2b,wmo,gelido estavayer cudrefin,2026-04-24T05:22:00+00:00,Switzerland,0.4024037571918766,1,1,it,WCE,Europe
 '150b192379',extremes,Storm,#b3b2b1,wmo,"tempesta, vouvry",2026-03-27T04:57:00+00:00,Switzerland,0.4023163153468701,1,1,it,WCE,Europe
-'4591926c69',extremes,Snow&Ice,#d60d2b,wmo,ghiaccio limmattale,2026-04-26T05:25:00+00:00,Switzerland,0.40208903922132044,1,1,it,WCE,Europe
+'4591926c69',extremes,Snow&Ice,#d60d2b,wmo,ghiaccio limmattale,2026-04-26T05:25:00+00:00,Switzerland,0.4020890392213204,1,1,it,WCE,Europe
 '5d77614f42',extremes,Snow&Ice,#d60d2b,wmo,neve obergoms,2026-03-26T04:56:00+00:00,Switzerland,0.4020193830881578,1,1,it,WCE,Europe
-'04b582e729',extremes,Snow&Ice,#d60d2b,wmo,ghiaccio franches montagnes,2026-04-17T05:16:00+00:00,Switzerland,0.40169120216675736,1,1,it,WCE,Europe
+'04b582e729',extremes,Snow&Ice,#d60d2b,wmo,ghiaccio franches montagnes,2026-04-17T05:16:00+00:00,Switzerland,0.4016912021667573,1,1,it,WCE,Europe
+'21b6e29992',extremes,Precipitation,#d60d2b,wmo,precipitazioni piemonte,2026-04-14T05:11:00+00:00,Italy,0.4015423110036388,1,1,it,MED,Europe
+'a3a6a90ae2',extremes,Snow&Ice,#d60d2b,wmo,gelo steckborn müllheim,2026-04-22T05:13:00+00:00,Switzerland,0.40104968032644517,1,1,it,WCE,Europe
+'4244b1f8be',extremes,Snow&Ice,#d60d2b,wmo,gelido Rothrist di Soletta,2026-04-22T05:13:00+00:00,Switzerland,0.40098247295104683,1,1,it,WCE,Europe
