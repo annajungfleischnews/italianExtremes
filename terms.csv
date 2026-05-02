@@ -35,7 +35,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '82b8913676',extremes,Storm,#b3b2b1,wmo,mareggiata sardegna,2026-04-22T05:13:00+00:00,Italy,0.5436946136346641,1,1,it,MED,Europe
 'c2d8265895',extremes,Snow&Ice,#d60d2b,wmo,marcia sulla neve,2026-03-28T04:33:00+00:00,Italy,0.5434394120542666,0,1,it,MED,Europe
 '008b58f095',extremes,Storm,#b3b2b1,wmo,mareggiata piemonte,2026-03-30T05:12:00+00:00,Italy,0.5421312385814379,0,1,it,MED,Europe
-'930b9adc51',extremes,Drought,#edc291,edo,siccità argentina,2026-04-21T05:15:00+00:00,Argentina,0.5399424445978314,0,1,it,SES,South-America
 '255e7908d3',extremes,Snow&Ice,#d60d2b,wmo,neve trentino alto adige,2026-03-26T04:56:00+00:00,Italy,0.5358851804846356,1,1,it,MED,Europe
 '041683dc11',extremes,Snow&Ice,#d60d2b,wmo,neve emilia e romagna,2026-03-26T04:56:00+00:00,Italy,0.5347071759805933,1,1,it,MED,Europe
 '116616eb5b',extremes,Storm,#b3b2b1,wmo,mareggiata emilia e romagna,2026-04-13T05:28:00+00:00,Italy,0.5336166746982584,1,1,it,MED,Europe
@@ -185,6 +184,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e9c031f5a8',extremes,Storm,#b3b2b1,wmo,tempesta meiringen gadmertal,2026-03-27T04:57:00+00:00,Switzerland,0.4594499694915424,0,1,it,WCE,Europe
 '8742149670',extremes,Thunderstorm,#53785a,wmo,temporale lazio,2026-03-30T05:12:00+00:00,Italy,0.45937169419343,0,1,it,MED,Europe
 '31ac7af311',extremes,Storm,#b3b2b1,wmo,tempesta binntal,2026-03-26T04:56:00+00:00,Switzerland,0.4592550979071916,0,1,it,WCE,Europe
+'930b9adc51',extremes,Drought,#edc291,edo,siccità argentina,2026-04-21T05:15:00+00:00,Argentina,0.45925110790815665,1,1,it,SES,South-America
 'e6daaf3c7a',extremes,Snow&Ice,#d60d2b,wmo,gelo turbenthal sirnach,2026-03-24T04:31:00+00:00,Switzerland,0.4584321388779124,0,1,it,WCE,Europe
 '4ebf462432',extremes,Storm,#b3b2b1,wmo,mareggiata bivio avers,2026-03-25T04:33:00+00:00,Switzerland,0.4582665812644586,0,1,it,WCE,Europe
 '926fcc4fff',extremes,Storm,#b3b2b1,wmo,mareggiata kerenzerberg seeztal,2026-03-25T04:33:00+00:00,Switzerland,0.4582408663724804,0,1,it,WCE,Europe
