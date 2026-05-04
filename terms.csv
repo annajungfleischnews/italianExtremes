@@ -97,7 +97,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '21347a721a',extremes,Precipitation,#d60d2b,wmo,acquazzone lazio,2026-04-13T05:28:00+00:00,Italy,0.4672118264338709,0,1,it,MED,Europe
 '892c27092b',extremes,Storm,#b3b2b1,wmo,tempesta sion crans montana,2026-03-27T04:57:00+00:00,Switzerland,0.4671464376912972,0,1,it,WCE,Europe
 '7ace1d3806',extremes,Storm,#b3b2b1,wmo,mareggiata glarus süd grosstal,2026-03-27T04:57:00+00:00,Switzerland,0.4660655249996082,0,1,it,WCE,Europe
-'442ae17476',extremes,Precipitation,#d60d2b,wmo,precipitazioni lazio,2026-04-01T05:12:00+00:00,Italy,0.4660219387075489,0,1,it,MED,Europe
 'caa7552365',extremes,Snow&Ice,#d60d2b,wmo,gelo hulftegg untertoggenburg,2026-05-01T05:54:00+00:00,Switzerland,0.4659836719366099,0,1,it,WCE,Europe
 '347dca16c6',extremes,Snow&Ice,#d60d2b,wmo,neve delémont bellelay,2026-04-24T05:22:00+00:00,Switzerland,0.4659680450931436,0,1,it,WCE,Europe
 'a0ba7c50dd',extremes,Snow&Ice,#d60d2b,wmo,gelo landquart coira,2026-04-24T05:22:00+00:00,Switzerland,0.4659669626943721,0,1,it,WCE,Europe
@@ -249,9 +248,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '01da57e73e',extremes,Snow&Ice,#d60d2b,wmo,ghiaccio goldau ägeri,2026-04-21T05:15:00+00:00,Switzerland,0.4144403139180924,1,1,it,WCE,Europe
 '902e65f81a',extremes,Thunderstorm,#53785a,wmo,temporale abruzzo,2026-04-20T05:27:00+00:00,Italy,0.4144169707425159,1,1,it,MED,Europe
 'dc8fc164ae',extremes,Precipitation,#d60d2b,wmo,piogge torrenziali sicilia,2026-04-01T05:12:00+00:00,Italy,0.414389188334148,1,1,it,MED,Europe
-'9725916767',extremes,Snow&Ice,#d60d2b,wmo,ghiaccio thal,2026-04-17T05:16:00+00:00,Switzerland,0.41429744720980166,1,1,it,WCE,Europe
+'9725916767',extremes,Snow&Ice,#d60d2b,wmo,ghiaccio thal,2026-04-17T05:16:00+00:00,Switzerland,0.4142974472098016,1,1,it,WCE,Europe
 'ac5f846cfc',extremes,Snow&Ice,#d60d2b,wmo,gelo sciaffusa,2026-04-21T05:15:00+00:00,Switzerland,0.4142312753038926,1,1,it,WCE,Europe
-'3659a6cf2c',extremes,Snow&Ice,#d60d2b,wmo,ice vallon de saint imier,2026-04-17T05:16:00+00:00,Switzerland,0.41411605064069135,1,1,it,WCE,Europe
+'442ae17476',extremes,Precipitation,#d60d2b,wmo,precipitazioni lazio,2026-04-01T05:12:00+00:00,Italy,0.41413544956808324,1,1,it,MED,Europe
+'3659a6cf2c',extremes,Snow&Ice,#d60d2b,wmo,ice vallon de saint imier,2026-04-17T05:16:00+00:00,Switzerland,0.4141160506406913,1,1,it,WCE,Europe
 'f32c45a3c4',extremes,Snow&Ice,#d60d2b,wmo,snow flüelen unterschächen,2026-04-17T05:16:00+00:00,Switzerland,0.4138347043771002,1,1,it,WCE,Europe
 '67cbbf213c',extremes,Snow&Ice,#d60d2b,wmo,gelo la chaux de fonds le locle,2026-04-21T05:15:00+00:00,Switzerland,0.4123453743015093,1,1,it,WCE,Europe
 'e540afa0aa',extremes,Snow&Ice,#d60d2b,wmo,gelida laufental,2026-04-17T05:16:00+00:00,Switzerland,0.4123210279522687,1,1,it,WCE,Europe
@@ -312,9 +312,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '309b00cfaf',extremes,Snow&Ice,#d60d2b,wmo,gelido erstfeld engelberg,2026-04-22T05:13:00+00:00,Switzerland,0.4043855550778655,1,1,it,WCE,Europe
 '4a96f4e4a3',extremes,Snow&Ice,#d60d2b,wmo,gelo broye,2026-04-22T05:13:00+00:00,Switzerland,0.404314784652099,1,1,it,WCE,Europe
 'fbf3e26835',extremes,Snow&Ice,#d60d2b,wmo,gelo olten gösgen,2026-04-22T05:13:00+00:00,Switzerland,0.4041123308896735,1,1,it,WCE,Europe
-'c5c6cf44f3',extremes,Precipitation,#d60d2b,wmo,precipitazioni puglia,2026-04-02T04:42:00+00:00,Italy,0.40348534017842164,1,1,it,MED,Europe
+'c5c6cf44f3',extremes,Precipitation,#d60d2b,wmo,precipitazioni puglia,2026-04-02T04:42:00+00:00,Italy,0.4034853401784216,1,1,it,MED,Europe
 '4ef708e6ed',extremes,Precipitation,#d60d2b,wmo,piogge torrenziali toscana,2026-04-13T05:28:00+00:00,Italy,0.4034329879138355,1,1,it,MED,Europe
-'178870205c',extremes,Snow&Ice,#d60d2b,wmo,neve franches montagnes,2026-04-24T05:22:00+00:00,Switzerland,0.40333406254680687,1,1,it,WCE,Europe
+'178870205c',extremes,Snow&Ice,#d60d2b,wmo,neve franches montagnes,2026-04-24T05:22:00+00:00,Switzerland,0.4033340625468068,1,1,it,WCE,Europe
 '1a2f8b4a52',extremes,Snow&Ice,#d60d2b,wmo,neve lyss grenchen,2026-04-22T05:13:00+00:00,Switzerland,0.4031357722774211,1,1,it,WCE,Europe
 '8319407c99',extremes,Snow&Ice,#d60d2b,wmo,fürstenland gelido,2026-04-21T05:15:00+00:00,Switzerland,0.4029845665537317,1,1,it,WCE,Europe
 '081c41fb1c',extremes,Snow&Ice,#d60d2b,wmo,gelo yverdon bevaix,2026-04-21T05:15:00+00:00,Switzerland,0.4029140675921442,1,1,it,WCE,Europe
