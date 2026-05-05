@@ -1,8 +1,8 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'2840754e5c',extremes,Storm,#b3b2b1,wmo,tempesta libia,2026-04-01T05:12:00+00:00,Libya,0.7283447388136733,1,2,it,SAH,Africa
 'c988798ce9',extremes,Thunderstorm,#53785a,wmo,maltempo puglia,2026-03-29T05:00:00+00:00,Italy,0.6409508926999485,1,3,it,MED,Europe
 '065a434526',extremes,Storm,#b3b2b1,wmo,tempesta Abruzzo,2026-04-12T05:12:00+00:00,Italy,0.6315837312205856,1,2,it,MED,Europe
 '2519ddcfef',extremes,Snow&Ice,#d60d2b,wmo,ghiaccio trentino alto adige,2026-03-22T04:33:00+00:00,Italy,0.620918462068118,1,2,it,MED,Europe
+'2840754e5c',extremes,Storm,#b3b2b1,wmo,tempesta libia,2026-04-01T05:12:00+00:00,Libya,0.6193930579916224,2,2,it,SAH,Africa
 '507412aefc',extremes,Storm,#b3b2b1,wmo,tempesta italia,2026-04-22T05:13:00+00:00,Italy,0.614112979370209,0,1,it,MED,Europe
 'cd3d048b5a',extremes,Precipitation,#d60d2b,wmo,pioggia italia,2026-04-15T05:12:00+00:00,Italy,0.6087946033747307,0,1,it,MED,Europe
 '589d0558b8',extremes,Snow&Ice,#d60d2b,wmo,neve argentina,2026-04-11T04:34:00+00:00,Argentina,0.5923716762134507,1,2,it,SES,South-America
@@ -89,7 +89,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '21347a721a',extremes,Precipitation,#d60d2b,wmo,acquazzone lazio,2026-04-13T05:28:00+00:00,Italy,0.4672118264338709,0,1,it,MED,Europe
 '892c27092b',extremes,Storm,#b3b2b1,wmo,tempesta sion crans montana,2026-03-27T04:57:00+00:00,Switzerland,0.4671464376912972,0,1,it,WCE,Europe
 '7ace1d3806',extremes,Storm,#b3b2b1,wmo,mareggiata glarus süd grosstal,2026-03-27T04:57:00+00:00,Switzerland,0.4660655249996082,0,1,it,WCE,Europe
-'a0ba7c50dd',extremes,Snow&Ice,#d60d2b,wmo,gelo landquart coira,2026-04-24T05:22:00+00:00,Switzerland,0.4659669626943721,0,1,it,WCE,Europe
 '8f986a86a6',extremes,Storm,#b3b2b1,wmo,mareggiata landquart coira,2026-03-27T04:57:00+00:00,Switzerland,0.4659248076426343,0,1,it,WCE,Europe
 '3ccdecb7b4',extremes,Storm,#b3b2b1,wmo,tempesta lötschental naters,2026-03-27T04:57:00+00:00,Switzerland,0.4659009946417137,0,1,it,WCE,Europe
 '75dbe8c27e',extremes,Snow&Ice,#d60d2b,wmo,neve aigle leysin,2026-04-24T05:22:00+00:00,Switzerland,0.4658062649125873,0,1,it,WCE,Europe
@@ -320,4 +319,5 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'cc3baf13f5',extremes,Snow&Ice,#d60d2b,wmo,neve muotathal,2026-04-23T05:16:00+00:00,Switzerland,0.3964436211540702,1,1,it,WCE,Europe
 'f16046c1e3',extremes,Snow&Ice,#d60d2b,wmo,gelo flüelen unterschächen,2026-04-24T05:22:00+00:00,Switzerland,0.3962279033224659,1,1,it,WCE,Europe
 'caa7552365',extremes,Snow&Ice,#d60d2b,wmo,gelo hulftegg untertoggenburg,2026-05-01T05:54:00+00:00,Switzerland,0.3960861211461184,1,1,it,WCE,Europe
-'347dca16c6',extremes,Snow&Ice,#d60d2b,wmo,neve delémont bellelay,2026-04-24T05:22:00+00:00,Switzerland,0.39607283832917206,1,1,it,WCE,Europe
+'347dca16c6',extremes,Snow&Ice,#d60d2b,wmo,neve delémont bellelay,2026-04-24T05:22:00+00:00,Switzerland,0.396072838329172,1,1,it,WCE,Europe
+'a0ba7c50dd',extremes,Snow&Ice,#d60d2b,wmo,gelo landquart coira,2026-04-24T05:22:00+00:00,Switzerland,0.39607191829021626,1,1,it,WCE,Europe
