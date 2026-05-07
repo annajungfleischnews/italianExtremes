@@ -16,7 +16,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'de2e85c236',extremes,Snow&Ice,#d60d2b,wmo,gelo toscana,2026-03-26T04:56:00+00:00,Italy,0.5579873831219968,1,2,it,MED,Europe
 '8dbdda11a1',extremes,Thunderstorm,#53785a,wmo,maltempo piemonte,2026-04-13T05:28:00+00:00,Italy,0.5571653898309378,1,2,it,MED,Europe
 '8e5338dae6',extremes,Thunderstorm,#53785a,wmo,salve italia,2026-03-31T04:59:00+00:00,Italy,0.5565772996941636,1,1,it,MED,Europe
-'f9eb244a9a',extremes,Drought,#edc291,edo,mancanza di pioggia italia,2026-04-21T05:15:00+00:00,Italy,0.5556900327571135,0,1,it,MED,Europe
 '63b8afd7a4',extremes,Storm,#b3b2b1,wmo,tempesta lazio,2026-04-01T05:12:00+00:00,Italy,0.5494981788293261,0,1,it,MED,Europe
 '5d8c239887',extremes,Drought,#edc291,edo,mancanza di pioggia libia,2026-04-22T05:13:00+00:00,Libya,0.5492016698268556,1,1,it,SAH,Africa
 '30f7444e18',extremes,Storm,#b3b2b1,wmo,tempesta puglia,2026-04-13T05:28:00+00:00,Italy,0.5478582436286766,1,1,it,MED,Europe
@@ -62,7 +61,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0e8f392ce9',extremes,Drought,#edc291,edo,siccità libia,2026-04-28T05:45:00+00:00,Libya,0.5010307216981985,1,1,it,SAH,Africa
 '0e11501646',extremes,Storm,#b3b2b1,wmo,tempesta emilia e romagna,2026-04-13T05:28:00+00:00,Italy,0.4985760621928459,1,1,it,MED,Europe
 'b77d2e68e3',extremes,Storm,#b3b2b1,wmo,tempesta molisana,2026-04-22T05:13:00+00:00,Italy,0.4980862821374714,1,1,it,MED,Europe
-'f901ec377a',extremes,Precipitation,#d60d2b,wmo,precipitazioni toscana,2026-05-06T05:43:00+00:00,Italy,0.49802883836171224,1,1,it,MED,Europe
+'f901ec377a',extremes,Precipitation,#d60d2b,wmo,precipitazioni toscana,2026-05-06T05:43:00+00:00,Italy,0.4980288383617122,1,1,it,MED,Europe
 'ddc0b2c2fb',extremes,Storm,#b3b2b1,wmo,mareggiata campania,2026-04-12T05:12:00+00:00,Italy,0.4978994396011179,1,1,it,MED,Europe
 '7685a9c1a1',extremes,Storm,#b3b2b1,wmo,mareggiata trentino alto adige,2026-05-03T05:44:00+00:00,Italy,0.4955213496419232,1,1,it,MED,Europe
 'bd8c8650ea',extremes,Earthquake,#870007,usgs,terremoto el aguilar,2026-04-06T05:11:00+00:00,Argentina,0.4950548922881841,1,1,it,SES,South-America
@@ -88,6 +87,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f2f37cb268',extremes,Precipitation,#d60d2b,wmo,acquazzone sardegna,2026-04-15T05:12:00+00:00,Italy,0.4740725386902331,1,1,it,MED,Europe
 '7ee26e9d4f',extremes,Storm,#b3b2b1,wmo,tempesta lombardia,2026-04-28T05:45:00+00:00,Italy,0.4739065474649649,1,1,it,MED,Europe
 '0587e67588',extremes,Precipitation,#d60d2b,wmo,piogge torrenziali lazio,2026-04-15T05:12:00+00:00,Italy,0.4738093418982766,1,1,it,MED,Europe
+'f9eb244a9a',extremes,Drought,#edc291,edo,mancanza di pioggia italia,2026-04-21T05:15:00+00:00,Italy,0.47248654284354646,1,1,it,MED,Europe
 'e0e81271b7',extremes,Drought,#edc291,edo,periodo di siccità libia,2026-04-05T05:01:00+00:00,Libya,0.4723016346361288,1,1,it,SAH,Africa
 '5022ceabea',extremes,Storm,#b3b2b1,wmo,mareggiata abruzzo,2026-04-13T05:28:00+00:00,Italy,0.4717760476049873,1,1,it,MED,Europe
 '117e9a9455',extremes,Storm,#b3b2b1,wmo,mareggiata calabria,2026-05-01T05:54:00+00:00,Italy,0.4713111265678477,1,1,it,MED,Europe
