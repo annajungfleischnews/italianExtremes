@@ -19,7 +19,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '851e7f751b',extremes,Storm,#b3b2b1,wmo,temporale valle d'aosta,2026-05-06T05:43:00+00:00,Italy,0.5393198652015561,2,1,it,MED,Europe
 '0c3d21da24',extremes,Precipitation,#d60d2b,wmo,acquazzone italia,2026-04-20T05:27:00+00:00,Italy,0.5338162206572815,1,1,it,MED,Europe
 '116616eb5b',extremes,Storm,#b3b2b1,wmo,mareggiata emilia e romagna,2026-04-13T05:28:00+00:00,Italy,0.5336166746982584,1,1,it,MED,Europe
-'548bcaf393',extremes,Precipitation,#d60d2b,wmo,piogge emilia e romagna,2026-05-06T05:43:00+00:00,Italy,0.5322327087065605,0,1,it,MED,Europe
 'eced88a9b2',extremes,Precipitation,#d60d2b,wmo,acquazzone liguria,2026-05-03T05:44:00+00:00,Italy,0.5321224631131257,1,2,it,MED,Europe
 '68498d1bd0',extremes,Snow&Ice,#d60d2b,wmo,neve puglia,2026-03-27T04:57:00+00:00,Italy,0.5317680197658345,1,2,it,MED,Europe
 'cd3d048b5a',extremes,Precipitation,#d60d2b,wmo,pioggia italia,2026-04-15T05:12:00+00:00,Italy,0.5315169819594302,1,2,it,MED,Europe
@@ -123,6 +122,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b6b1d80b84',extremes,Precipitation,#d60d2b,wmo,precipitazioni lombardia,2026-04-27T05:40:00+00:00,Italy,0.4555872580553283,1,1,it,MED,Europe
 '6483746a8d',extremes,Precipitation,#d60d2b,wmo,pioggia umbria,2026-04-14T05:11:00+00:00,Italy,0.4543447636445432,0,1,it,MED,Europe
 'c366f29c1c',extremes,Snow&Ice,#d60d2b,wmo,gelido nidau ins,2026-04-07T04:59:00+00:00,Switzerland,0.4539702165440133,0,1,it,WCE,Europe
+'548bcaf393',extremes,Precipitation,#d60d2b,wmo,piogge emilia e romagna,2026-05-06T05:43:00+00:00,Italy,0.4531478774005764,1,1,it,MED,Europe
 'cb207f7e4e',extremes,Drought,#edc291,edo,mancanza di pioggia argentina,2026-04-05T05:01:00+00:00,Argentina,0.4525183773393509,1,1,it,SES,South-America
 '906eca8937',extremes,Storm,#b3b2b1,wmo,tempesta erstfeld engelberg,2026-03-31T04:59:00+00:00,Switzerland,0.4510198201950968,0,1,it,WCE,Europe
 'c9fc484d05',extremes,Storm,#b3b2b1,wmo,mareggiata umbria,2026-04-12T05:12:00+00:00,Italy,0.4505710771554402,1,1,it,MED,Europe
