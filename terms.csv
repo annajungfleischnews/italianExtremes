@@ -42,7 +42,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0d38e5dc47',extremes,Precipitation,#d60d2b,wmo,precipitazioni friuli venezia giulia,2026-04-13T05:28:00+00:00,Italy,0.5148303750773473,1,2,it,MED,Europe
 '5c854a933c',extremes,Precipitation,#d60d2b,wmo,pioggia liguria,2026-05-04T05:50:00+00:00,Italy,0.5142460517469748,1,1,it,MED,Europe
 '572704ba2e',extremes,Thunderstorm,#53785a,wmo,temporale lombardia,2026-04-29T05:40:00+00:00,Italy,0.5112477828212622,1,1,it,MED,Europe
-'89cd0748e9',extremes,Precipitation,#d60d2b,wmo,pioggia friuli venezia giulia,2026-05-10T05:51:00+00:00,Italy,0.5100387744284915,0,1,it,MED,Europe
 '21cbdf87d9',extremes,Thunderstorm,#53785a,wmo,forte tempo toscana,2026-05-05T05:29:00+00:00,Italy,0.5095391229436259,0,1,it,MED,Europe
 '1339ca75ae',extremes,Thunderstorm,#53785a,wmo,grandine marcia,2026-04-13T05:28:00+00:00,Italy,0.5072783442984237,1,1,it,MED,Europe
 '075cc3fe36',extremes,Thunderstorm,#53785a,wmo,maltempo italia,2026-04-21T05:15:00+00:00,Italy,0.5062507934491235,1,2,it,MED,Europe
@@ -75,7 +74,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4108149eb6',extremes,Precipitation,#d60d2b,wmo,piogge torrenziali marchigiane,2026-04-21T05:15:00+00:00,Italy,0.4845261363664355,1,1,it,MED,Europe
 '73eb93e4ee',extremes,Precipitation,#d60d2b,wmo,pioggia torrenziale libia,2026-04-24T05:22:00+00:00,Libya,0.4845129862319765,2,1,it,SAH,Africa
 '569a1f5c0e',extremes,Storm,#b3b2b1,wmo,mareggiata friuli venezia giulia,2026-04-19T05:16:00+00:00,Italy,0.4829010809855698,1,1,it,MED,Europe
-'da3f45eeca',extremes,Snow&Ice,#d60d2b,wmo,gelata bienne neuchâtel,2026-04-22T05:13:00+00:00,Switzerland,0.48263973865710313,0,1,it,WCE,Europe
+'da3f45eeca',extremes,Snow&Ice,#d60d2b,wmo,gelata bienne neuchâtel,2026-04-22T05:13:00+00:00,Switzerland,0.4826397386571031,0,1,it,WCE,Europe
 '508b73fb8c',extremes,Storm,#b3b2b1,wmo,mareggiata molisana,2026-04-15T05:12:00+00:00,Italy,0.4819072386019529,1,1,it,MED,Europe
 'd4d8b57886',extremes,Storm,#b3b2b1,wmo,mareggiata sicilia,2026-04-13T05:28:00+00:00,Italy,0.4799432415219063,1,1,it,MED,Europe
 '5b33aeff18',extremes,Precipitation,#d60d2b,wmo,piogge torrenziali abruzzo,2026-04-14T05:11:00+00:00,Italy,0.4796823603427436,0,1,it,MED,Europe
@@ -150,6 +149,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '640b0c1fe5',extremes,Storm,#b3b2b1,wmo,tempesta umbria,2026-04-13T05:28:00+00:00,Italy,0.441272163223759,1,1,it,MED,Europe
 '41c5b86aec',extremes,Earthquake,#870007,usgs,terremoto andalgalá,2026-04-25T05:00:00+00:00,Argentina,0.437442652394115,1,1,it,SES,South-America
 'ae2a354c81',extremes,Precipitation,#d60d2b,wmo,pioggia toscana,2026-04-14T05:11:00+00:00,Italy,0.4367202501586991,1,2,it,MED,Europe
+'89cd0748e9',extremes,Precipitation,#d60d2b,wmo,pioggia friuli venezia giulia,2026-05-10T05:51:00+00:00,Italy,0.4339830032642178,1,1,it,MED,Europe
 '25e89c2734',extremes,Thunderstorm,#53785a,wmo,salve toscana,2026-05-06T05:43:00+00:00,Italy,0.4333685887764529,1,1,it,MED,Europe
 '5e35e9b9cc',extremes,Earthquake,#870007,usgs,terremoto yacuiba,2026-04-07T04:59:00+00:00,Argentina,0.4332546667117401,1,1,it,SES,South-America
 'e4b924f369',extremes,Earthquake,#870007,usgs,terremoto chimico,2026-05-02T05:23:00+00:00,Argentina,0.4300085580204077,1,1,it,SES,South-America
