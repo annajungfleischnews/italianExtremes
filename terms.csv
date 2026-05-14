@@ -15,6 +15,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '715d602abe',extremes,Drought,#edc291,edo,secchezza italia,2026-04-26T05:25:00+00:00,Italy,0.5228820655037327,1,1,it,MED,Europe
 'ae340540d6',extremes,Precipitation,#d60d2b,wmo,acquazzone argentina,2026-04-09T04:58:00+00:00,Argentina,0.5228397503104529,1,1,it,SES,South-America
 'e529bb6ac5',extremes,Precipitation,#d60d2b,wmo,pioggia argentina,2026-04-07T04:59:00+00:00,Argentina,0.5226881064089128,1,1,it,SES,South-America
+'a89147746d',extremes,Thunderstorm,#53785a,wmo,maltempo campania,2026-05-13T06:03:00+00:00,Italy,0.5225178629326792,1,2,it,MED,Europe
 '0ef55bcfe1',extremes,Storm,#b3b2b1,wmo,tempesta formosa patino pirane.,2026-04-14T05:11:00+00:00,Argentina,0.5216306193266593,1,1,it,SES,South-America
 '3d4ffbc119',extremes,Storm,#b3b2b1,wmo,tempesta friuli venezia giulia,2026-04-28T05:45:00+00:00,Italy,0.5216235050130127,1,1,it,MED,Europe
 '6c6666b2af',extremes,Precipitation,#d60d2b,wmo,precipitazioni argentina,2026-04-08T05:01:00+00:00,Argentina,0.5188726312667382,2,2,it,SES,South-America
@@ -29,7 +30,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '075cc3fe36',extremes,Thunderstorm,#53785a,wmo,maltempo italia,2026-04-21T05:15:00+00:00,Italy,0.5062507934491235,1,2,it,MED,Europe
 '589d0558b8',extremes,Snow&Ice,#d60d2b,wmo,neve argentina,2026-04-11T04:34:00+00:00,Argentina,0.503515984781433,2,1,it,SES,South-America
 'c4e95835b8',extremes,Storm,#b3b2b1,wmo,tempesta urner oberland,2026-05-04T05:50:00+00:00,Switzerland,0.503389390553085,0,1,it,WCE,Europe
-'a89147746d',extremes,Thunderstorm,#53785a,wmo,maltempo campania,2026-05-13T06:03:00+00:00,Italy,0.5030208740384461,0,1,it,MED,Europe
 '80fa381938',extremes,Thunderstorm,#53785a,wmo,temporale friuli venezia giulia,2026-05-07T05:46:00+00:00,Italy,0.502838957538822,1,1,it,MED,Europe
 '997a2e2157',extremes,Earthquake,#870007,usgs,terremoto argentina,2026-04-06T05:11:00+00:00,Argentina,0.5022633595172946,1,1,it,SES,South-America
 '504a6f9634',extremes,Storm,#b3b2b1,wmo,tempesta erstfeld engelberg,2026-05-04T05:50:00+00:00,Switzerland,0.5020839426393013,0,1,it,WCE,Europe
@@ -149,8 +149,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '640b0c1fe5',extremes,Storm,#b3b2b1,wmo,tempesta umbria,2026-04-13T05:28:00+00:00,Italy,0.441272163223759,1,1,it,MED,Europe
 '316c1a7868',extremes,Precipitation,#d60d2b,wmo,acquazzone toscana,2026-05-05T05:29:00+00:00,Italy,0.4412381763158706,2,1,it,MED,Europe
 'edae5a8a2b',extremes,Snow&Ice,#d60d2b,wmo,ghiaccio argentino,2026-04-12T05:12:00+00:00,Argentina,0.4396594343231252,2,1,it,SES,South-America
-'12060a7df7',extremes,Storm,#b3b2b1,wmo,mareggiata italia,2026-04-13T05:28:00+00:00,Italy,0.43934894313853395,2,1,it,MED,Europe
-'d1d9cf4e58',extremes,Snow&Ice,#d60d2b,wmo,gelida argentina,2026-04-11T04:34:00+00:00,Argentina,0.43925228536586153,2,1,it,SES,South-America
+'12060a7df7',extremes,Storm,#b3b2b1,wmo,mareggiata italia,2026-04-13T05:28:00+00:00,Italy,0.4393489431385339,2,1,it,MED,Europe
+'d1d9cf4e58',extremes,Snow&Ice,#d60d2b,wmo,gelida argentina,2026-04-11T04:34:00+00:00,Argentina,0.4392522853658615,2,1,it,SES,South-America
 '21cbdf87d9',extremes,Thunderstorm,#53785a,wmo,forte tempo toscana,2026-05-05T05:29:00+00:00,Italy,0.438060369502082,1,2,it,MED,Europe
 '41c5b86aec',extremes,Earthquake,#870007,usgs,terremoto andalgalá,2026-04-25T05:00:00+00:00,Argentina,0.437442652394115,1,1,it,SES,South-America
 'ae2a354c81',extremes,Precipitation,#d60d2b,wmo,pioggia toscana,2026-04-14T05:11:00+00:00,Italy,0.4367202501586991,1,2,it,MED,Europe
