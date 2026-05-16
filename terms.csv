@@ -40,7 +40,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '30b7b41a32',extremes,Storm,#b3b2b1,wmo,mareggiata marcia,2026-04-14T05:11:00+00:00,Italy,0.4909629746794101,1,1,it,MED,Europe
 '3840c76d04',extremes,Storm,#b3b2b1,wmo,tempesta calabria,2026-04-11T04:34:00+00:00,Italy,0.4892744960131812,1,1,it,MED,Europe
 'fdaa0a92ad',extremes,Storm,#b3b2b1,wmo,tempesta campania,2026-04-30T05:46:00+00:00,Italy,0.4892182163302312,1,1,it,MED,Europe
-'efceb7a36e',extremes,Snow&Ice,#d60d2b,wmo,"neve, gioia",2026-05-13T06:03:00+00:00,Switzerland,0.4891444597610681,0,1,it,WCE,Europe
 'eee27f7ca4',extremes,Precipitation,#d60d2b,wmo,acquazzone campania,2026-04-15T05:12:00+00:00,Italy,0.4891237279061067,1,1,it,MED,Europe
 '1fea4f642d',extremes,Storm,#b3b2b1,wmo,tempesta svizzera,2026-05-04T05:50:00+00:00,Switzerland,0.4877968912706275,2,1,it,WCE,Europe
 'd73c88d78a',extremes,Storm,#b3b2b1,wmo,mareggiata veneto,2026-04-29T05:40:00+00:00,Italy,0.4875330534158044,1,1,it,MED,Europe
@@ -194,7 +193,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e9c031f5a8',extremes,Storm,#b3b2b1,wmo,tempesta meiringen gadmertal,2026-05-04T05:50:00+00:00,Switzerland,0.4193770994275708,1,1,it,WCE,Europe
 'ea9dd39a43',extremes,Snow&Ice,#d60d2b,wmo,neve martigny verbier,2026-04-22T05:13:00+00:00,Switzerland,0.4193016776451324,1,1,it,WCE,Europe
 'ad6ee89bce',extremes,Snow&Ice,#d60d2b,wmo,ghiaccio zurzach bülach,2026-04-21T05:15:00+00:00,Switzerland,0.4190723785680195,1,1,it,WCE,Europe
-'11b4895a01',extremes,Snow&Ice,#d60d2b,wmo,ghiaccio santo cergue,2026-05-14T06:02:00+00:00,Switzerland,0.41850510118380374,1,1,it,WCE,Europe
+'11b4895a01',extremes,Snow&Ice,#d60d2b,wmo,ghiaccio santo cergue,2026-05-14T06:02:00+00:00,Switzerland,0.4185051011838037,1,1,it,WCE,Europe
 '10b0bb1389',extremes,Snow&Ice,#d60d2b,wmo,ghiaccio pfungen hettlingen,2026-04-22T05:13:00+00:00,Switzerland,0.4184867636506209,1,1,it,WCE,Europe
 '4080bf3418',extremes,Snow&Ice,#d60d2b,wmo,gelide franches montagnes,2026-04-21T05:15:00+00:00,Switzerland,0.4184575267061793,1,1,it,WCE,Europe
 '29becdb14d',extremes,Snow&Ice,#d60d2b,wmo,ghiaccio lötschental naters,2026-04-22T05:13:00+00:00,Switzerland,0.4179858670458305,1,1,it,WCE,Europe
@@ -205,6 +204,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0080cba8b6',extremes,Snow&Ice,#d60d2b,wmo,entlebuch gelido,2026-04-09T04:58:00+00:00,Switzerland,0.4170403509890132,1,1,it,WCE,Europe
 '27e62f9140',extremes,Snow&Ice,#d60d2b,wmo,gelo val de ruz colombier,2026-04-17T05:16:00+00:00,Switzerland,0.4169505255685692,1,1,it,WCE,Europe
 'd979ae46a4',extremes,Snow&Ice,#d60d2b,wmo,neve erstfeld engelberg,2026-04-17T05:16:00+00:00,Switzerland,0.4166895644365478,1,1,it,WCE,Europe
+'efceb7a36e',extremes,Snow&Ice,#d60d2b,wmo,"neve, gioia",2026-05-13T06:03:00+00:00,Switzerland,0.4165228657969079,1,1,it,WCE,Europe
 '5e27394d94',extremes,Snow&Ice,#d60d2b,wmo,muotathal gelido,2026-04-21T05:15:00+00:00,Switzerland,0.4165007981524294,1,1,it,WCE,Europe
 '12cf0fe02f',extremes,Snow&Ice,#d60d2b,wmo,gelido steckborn müllheim,2026-05-13T06:03:00+00:00,Switzerland,0.4158498108647737,1,1,it,WCE,Europe
 'cc4797e4e0',extremes,Snow&Ice,#d60d2b,wmo,neve limmattale,2026-04-21T05:15:00+00:00,Switzerland,0.4156859916119334,1,1,it,WCE,Europe
