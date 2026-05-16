@@ -6,7 +6,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f733595ffd',extremes,Thunderstorm,#53785a,wmo,marche di maltempo,2026-04-19T05:16:00+00:00,Italy,0.570691607569175,1,2,it,MED,Europe
 '02711610b5',extremes,Storm,#b3b2b1,wmo,tempesta argentina,2026-04-26T05:25:00+00:00,Argentina,0.5679063678108011,2,2,it,SES,South-America
 '851e7f751b',extremes,Storm,#b3b2b1,wmo,temporale valle d'aosta,2026-05-06T05:43:00+00:00,Italy,0.5393198652015561,2,1,it,MED,Europe
-'0c3d21da24',extremes,Precipitation,#d60d2b,wmo,acquazzone italia,2026-04-20T05:27:00+00:00,Italy,0.5338162206572815,1,1,it,MED,Europe
 'cd3d048b5a',extremes,Precipitation,#d60d2b,wmo,pioggia italia,2026-04-15T05:12:00+00:00,Italy,0.5315169819594302,1,2,it,MED,Europe
 '507412aefc',extremes,Storm,#b3b2b1,wmo,tempesta italia,2026-04-22T05:13:00+00:00,Italy,0.5314919970101322,1,2,it,MED,Europe
 '715d602abe',extremes,Drought,#edc291,edo,secchezza italia,2026-04-26T05:25:00+00:00,Italy,0.5228820655037327,1,1,it,MED,Europe
@@ -32,6 +31,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f901ec377a',extremes,Precipitation,#d60d2b,wmo,precipitazioni toscana,2026-05-06T05:43:00+00:00,Italy,0.4980288383617122,1,1,it,MED,Europe
 'ddc0b2c2fb',extremes,Storm,#b3b2b1,wmo,mareggiata campania,2026-04-12T05:12:00+00:00,Italy,0.4978994396011179,1,1,it,MED,Europe
 '4fd8d48f37',extremes,Thunderstorm,#53785a,wmo,grandine lombardia,2026-05-06T05:43:00+00:00,Italy,0.4973768898032426,1,1,it,MED,Europe
+'0c3d21da24',extremes,Precipitation,#d60d2b,wmo,acquazzone italia,2026-04-20T05:27:00+00:00,Italy,0.4963030434677802,2,1,it,MED,Europe
 '7685a9c1a1',extremes,Storm,#b3b2b1,wmo,mareggiata trentino alto adige,2026-05-03T05:44:00+00:00,Italy,0.4955213496419232,1,1,it,MED,Europe
 '4ea5491fcc',extremes,Precipitation,#d60d2b,wmo,pioggia basilicata,2026-05-15T06:09:00+00:00,Italy,0.4954503072215582,1,2,it,MED,Europe
 'd18c9a3f35',extremes,Earthquake,#870007,usgs,terremoto san antonio de los cobres,2026-04-19T05:16:00+00:00,Argentina,0.4946293975404578,1,1,it,SWS,South-America
@@ -43,7 +43,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'eee27f7ca4',extremes,Precipitation,#d60d2b,wmo,acquazzone campania,2026-04-15T05:12:00+00:00,Italy,0.4891237279061067,1,1,it,MED,Europe
 '1fea4f642d',extremes,Storm,#b3b2b1,wmo,tempesta svizzera,2026-05-04T05:50:00+00:00,Switzerland,0.4877968912706275,2,1,it,WCE,Europe
 'd73c88d78a',extremes,Storm,#b3b2b1,wmo,mareggiata veneto,2026-04-29T05:40:00+00:00,Italy,0.4875330534158044,1,1,it,MED,Europe
-'e0e81271b7',extremes,Drought,#edc291,edo,periodo di siccità libia,2026-05-05T05:29:00+00:00,Libya,0.4870101422500646,0,1,it,SAH,Africa
 '78b1ef00d0',extremes,Snow&Ice,#d60d2b,wmo,gelido martigny verbier,2026-04-25T05:00:00+00:00,Switzerland,0.4867668310027909,0,1,it,WCE,Europe
 '9e098ebb16',extremes,Snow&Ice,#d60d2b,wmo,gelido delémont bellelay,2026-04-27T05:40:00+00:00,Switzerland,0.4867250469486773,0,1,it,WCE,Europe
 '0ebfc06b8b',extremes,Snow&Ice,#d60d2b,wmo,gelido Kerenzerberg Seeztal,2026-05-13T06:03:00+00:00,Switzerland,0.4850920585051261,0,1,it,WCE,Europe
@@ -216,6 +215,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9725916767',extremes,Snow&Ice,#d60d2b,wmo,ghiaccio thal,2026-04-17T05:16:00+00:00,Switzerland,0.4142974472098016,1,1,it,WCE,Europe
 'ac5f846cfc',extremes,Snow&Ice,#d60d2b,wmo,gelo sciaffusa,2026-04-21T05:15:00+00:00,Switzerland,0.4142312753038926,1,1,it,WCE,Europe
 '3659a6cf2c',extremes,Snow&Ice,#d60d2b,wmo,ice vallon de saint imier,2026-04-17T05:16:00+00:00,Switzerland,0.4141160506406913,1,1,it,WCE,Europe
+'e0e81271b7',extremes,Drought,#edc291,edo,periodo di siccità libia,2026-05-05T05:29:00+00:00,Libya,0.4139586209125549,1,1,it,SAH,Africa
 'f32c45a3c4',extremes,Snow&Ice,#d60d2b,wmo,snow flüelen unterschächen,2026-04-17T05:16:00+00:00,Switzerland,0.4138347043771002,1,1,it,WCE,Europe
 '67cbbf213c',extremes,Snow&Ice,#d60d2b,wmo,gelo la chaux de fonds le locle,2026-04-21T05:15:00+00:00,Switzerland,0.4123453743015093,1,1,it,WCE,Europe
 'e540afa0aa',extremes,Snow&Ice,#d60d2b,wmo,gelida laufental,2026-04-17T05:16:00+00:00,Switzerland,0.4123210279522687,1,1,it,WCE,Europe
