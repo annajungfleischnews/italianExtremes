@@ -96,6 +96,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '46bc9f7c8f',extremes,Snow&Ice,#d60d2b,wmo,gioia gelida,2026-04-24T05:22:00+00:00,Switzerland,0.4639441479954623,0,1,it,WCE,Europe
 'aeb8fffadb',extremes,Snow&Ice,#d60d2b,wmo,gelido Oberes Baselbiet,2026-04-23T05:16:00+00:00,Switzerland,0.4636837412602667,0,1,it,WCE,Europe
 'be99bf68c2',extremes,Thunderstorm,#53785a,wmo,grandine liguria,2026-05-10T05:51:00+00:00,Italy,0.4630911406415449,0,1,it,MED,Europe
+'1318594aed',extremes,Snow&Ice,#d60d2b,wmo,gelida sion crans montana,2026-05-01T05:54:00+00:00,Switzerland,0.4625655716569006,0,1,it,WCE,Europe
+'5535eb6776',extremes,Precipitation,#d60d2b,wmo,piogge torrenziali calabria,2026-05-16T05:40:00+00:00,Italy,0.4622884582168492,0,1,it,MED,Europe
 '82b8913676',extremes,Storm,#b3b2b1,wmo,mareggiata sardegna,2026-04-22T05:13:00+00:00,Italy,0.4621404215894644,2,1,it,MED,Europe
 'fb7bf220d2',extremes,Precipitation,#d60d2b,wmo,acquazzone calabria,2026-04-15T05:12:00+00:00,Italy,0.4616081142241829,1,1,it,MED,Europe
 '7d1efa3f00',extremes,Precipitation,#d60d2b,wmo,piogge torrenziali molisane,2026-04-14T05:11:00+00:00,Italy,0.4613743056467511,0,1,it,MED,Europe
@@ -114,7 +116,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '116616eb5b',extremes,Storm,#b3b2b1,wmo,mareggiata emilia e romagna,2026-04-13T05:28:00+00:00,Italy,0.4535741734935196,2,1,it,MED,Europe
 '548bcaf393',extremes,Precipitation,#d60d2b,wmo,piogge emilia e romagna,2026-05-06T05:43:00+00:00,Italy,0.4531478774005764,1,1,it,MED,Europe
 '70549607af',extremes,Precipitation,#d60d2b,wmo,pioggia marchigiana,2026-05-09T05:36:00+00:00,Italy,0.4527188584629397,1,1,it,MED,Europe
-'4ea5491fcc',extremes,Precipitation,#d60d2b,wmo,pioggia basilicata,2026-05-15T06:09:00+00:00,Italy,0.45263291113832443,2,2,it,MED,Europe
+'4ea5491fcc',extremes,Precipitation,#d60d2b,wmo,pioggia basilicata,2026-05-15T06:09:00+00:00,Italy,0.4526329111383244,2,2,it,MED,Europe
 'eced88a9b2',extremes,Precipitation,#d60d2b,wmo,acquazzone liguria,2026-05-03T05:44:00+00:00,Italy,0.4523041086461569,2,1,it,MED,Europe
 '6076c8543a',extremes,Storm,#b3b2b1,wmo,mareggiata liguria,2026-04-22T05:13:00+00:00,Italy,0.4513799860992989,2,1,it,MED,Europe
 'a0092fba89',extremes,Thunderstorm,#53785a,wmo,temporale sardegna,2026-04-22T05:13:00+00:00,Italy,0.4508807137761279,2,1,it,MED,Europe
@@ -168,7 +170,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7460e3c92b',extremes,Snow&Ice,#d60d2b,wmo,neve huttwil willisau,2026-04-24T05:22:00+00:00,Switzerland,0.4233380804911674,1,1,it,WCE,Europe
 'e5b1342785',extremes,Snow&Ice,#d60d2b,wmo,ghiaccio amriswil,2026-04-17T05:16:00+00:00,Switzerland,0.4233053006143389,1,1,it,WCE,Europe
 'be48fac8d6',extremes,Snow&Ice,#d60d2b,wmo,snow vallée de joux,2026-05-14T06:02:00+00:00,Switzerland,0.4230952006885974,1,1,it,WCE,Europe
-'4fd8d48f37',extremes,Thunderstorm,#53785a,wmo,grandine lombardia,2026-05-06T05:43:00+00:00,Italy,0.42277035633275617,2,1,it,MED,Europe
+'4fd8d48f37',extremes,Thunderstorm,#53785a,wmo,grandine lombardia,2026-05-06T05:43:00+00:00,Italy,0.4227703563327561,2,1,it,MED,Europe
 'b4a720ff08',extremes,Snow&Ice,#d60d2b,wmo,etlebuch di ghiaccio,2026-05-13T06:03:00+00:00,Switzerland,0.4225505795527019,1,1,it,WCE,Europe
 'ee371032d3',extremes,Thunderstorm,#53785a,wmo,temporale campania,2026-04-17T05:16:00+00:00,Italy,0.4224234512842538,1,1,it,MED,Europe
 'e5eb9755f3',extremes,Precipitation,#d60d2b,wmo,diluvio veneto,2026-04-12T05:12:00+00:00,Italy,0.4224094651479195,1,1,it,MED,Europe
