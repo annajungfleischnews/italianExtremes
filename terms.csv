@@ -137,6 +137,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '316c1a7868',extremes,Precipitation,#d60d2b,wmo,acquazzone toscana,2026-05-05T05:29:00+00:00,Italy,0.4412381763158706,2,1,it,MED,Europe
 '589d0558b8',extremes,Snow&Ice,#d60d2b,wmo,neve argentina,2026-05-01T05:54:00+00:00,Argentina,0.44083372937107,2,1,it,SES,South-America
 'ece651c6d3',extremes,Snow&Ice,#d60d2b,wmo,gelata aarau lenzburg,2026-05-13T06:03:00+00:00,Switzerland,0.4399829802287794,0,1,it,WCE,Europe
+'f58a7f1229',extremes,Precipitation,#d60d2b,wmo,pioggia svizzera,2026-05-06T05:43:00+00:00,Switzerland,0.4392976073583837,0,1,it,WCE,Europe
 'da7d718400',extremes,Thunderstorm,#53785a,wmo,temporale pugliese,2026-05-10T05:51:00+00:00,Italy,0.4386395910030313,1,1,it,MED,Europe
 '21cbdf87d9',extremes,Thunderstorm,#53785a,wmo,forte tempo toscana,2026-05-05T05:29:00+00:00,Italy,0.438060369502082,1,2,it,MED,Europe
 '41c5b86aec',extremes,Earthquake,#870007,usgs,terremoto andalgalá,2026-04-25T05:00:00+00:00,Argentina,0.437442652394115,1,1,it,SES,South-America
