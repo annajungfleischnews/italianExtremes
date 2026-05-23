@@ -51,7 +51,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f9eb244a9a',extremes,Drought,#edc291,edo,mancanza di pioggia italia,2026-04-21T05:15:00+00:00,Italy,0.4724865428435464,1,1,it,MED,Europe
 '4c403cc983',extremes,Precipitation,#d60d2b,wmo,piogge torrenziali friuli venezia giulia,2026-05-06T05:43:00+00:00,Italy,0.4717304200602912,1,1,it,MED,Europe
 '71aee81e61',extremes,Storm,#b3b2b1,wmo,mareggiata lazio,2026-05-09T05:36:00+00:00,Italy,0.4715292924533461,1,1,it,MED,Europe
-'b1adbe63f3',extremes,Snow&Ice,#d60d2b,wmo,il ghiaccio li contiene completamente,2026-05-14T06:02:00+00:00,Switzerland,0.4713316832525548,0,1,it,WCE,Europe
 '117e9a9455',extremes,Storm,#b3b2b1,wmo,mareggiata calabria,2026-05-01T05:54:00+00:00,Italy,0.4713111265678477,1,1,it,MED,Europe
 'a6ea704320',extremes,Precipitation,#d60d2b,wmo,acquazzone marchigiano,2026-04-20T05:27:00+00:00,Italy,0.470513871699323,1,1,it,MED,Europe
 '185c1a17b7',extremes,Snow&Ice,#d60d2b,wmo,"gelo, vouvry",2026-05-17T06:01:00+00:00,Switzerland,0.4702538002730269,0,1,it,WCE,Europe
@@ -304,6 +303,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0d99295f2f',extremes,Drought,#edc291,edo,mancanza di pioggia somalia,2026-04-30T05:46:00+00:00,Somalia,0.4015081961749858,1,1,it,NEAF,Africa
 'a3a6a90ae2',extremes,Snow&Ice,#d60d2b,wmo,gelo steckborn müllheim,2026-04-22T05:13:00+00:00,Switzerland,0.4010496803264451,1,1,it,WCE,Europe
 '4244b1f8be',extremes,Snow&Ice,#d60d2b,wmo,gelido Rothrist di Soletta,2026-04-22T05:13:00+00:00,Switzerland,0.4009824729510468,1,1,it,WCE,Europe
+'b1adbe63f3',extremes,Snow&Ice,#d60d2b,wmo,il ghiaccio li contiene completamente,2026-05-14T06:02:00+00:00,Switzerland,0.4007819457646716,1,1,it,WCE,Europe
 'e0cff663b6',extremes,Snow&Ice,#d60d2b,wmo,"gelo, gioia",2026-05-01T05:54:00+00:00,Switzerland,0.4004778756371725,1,1,it,WCE,Europe
 'e6243cd6b4',extremes,Snow&Ice,#d60d2b,wmo,friburgo di ghiaccio,2026-04-21T05:15:00+00:00,Switzerland,0.4004441312453464,1,1,it,WCE,Europe
 '7a93ca259e',extremes,Snow&Ice,#d60d2b,wmo,gelido wädenswil rüti,2026-04-24T05:22:00+00:00,Switzerland,0.4003187298957673,1,1,it,WCE,Europe
