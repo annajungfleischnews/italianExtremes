@@ -25,7 +25,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b885c97e01',extremes,Precipitation,#d60d2b,wmo,pioggia veneto,2026-05-05T05:29:00+00:00,Italy,0.4945558555654053,1,1,it,MED,Europe
 '9d51f7a7ec',extremes,Thunderstorm,#53785a,wmo,temporale piemontese,2026-04-21T05:15:00+00:00,Italy,0.4928661067979231,2,1,it,MED,Europe
 '3840c76d04',extremes,Storm,#b3b2b1,wmo,tempesta calabria,2026-05-15T06:09:00+00:00,Italy,0.4911758735509077,2,2,it,MED,Europe
-'d18c9a3f35',extremes,Earthquake,#870007,usgs,terremoto san antonio de los cobres,2026-05-10T05:51:00+00:00,Argentina,0.4889213109694019,1,1,it,SES,South-America
 '1fea4f642d',extremes,Storm,#b3b2b1,wmo,tempesta svizzera,2026-05-04T05:50:00+00:00,Switzerland,0.4877968912706275,2,1,it,WCE,Europe
 'f6ff301646',extremes,Drought,#edc291,edo,siccità Somalia,2026-05-02T05:24:00+00:00,Somalia,0.4857503929106698,2,2,it,NEAF,Africa
 'e9a8279e1e',extremes,Storm,#b3b2b1,wmo,tempesta toscana,2026-05-07T05:46:00+00:00,Italy,0.4848797110839079,1,1,it,MED,Europe
@@ -33,10 +32,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '12060a7df7',extremes,Storm,#b3b2b1,wmo,mareggiata italia,2026-05-04T05:50:00+00:00,Italy,0.4842665858932281,2,1,it,MED,Europe
 '569a1f5c0e',extremes,Storm,#b3b2b1,wmo,mareggiata friuli venezia giulia,2026-04-19T05:16:00+00:00,Italy,0.4829010809855698,1,1,it,MED,Europe
 '0e11501646',extremes,Storm,#b3b2b1,wmo,tempesta emilia e romagna,2026-05-11T06:14:00+00:00,Italy,0.481862431826864,1,1,it,MED,Europe
-'a4f740835f',extremes,Storm,#b3b2b1,wmo,tempesta piemontese,2026-04-28T05:45:00+00:00,Italy,0.47926724300481033,2,2,it,MED,Europe
+'a4f740835f',extremes,Storm,#b3b2b1,wmo,tempesta piemontese,2026-04-28T05:45:00+00:00,Italy,0.4792672430048103,2,2,it,MED,Europe
 'df9ced5b3c',extremes,Precipitation,#d60d2b,wmo,precipitazioni umbria,2026-04-20T05:27:00+00:00,Italy,0.4790566230138673,1,1,it,MED,Europe
-'508b73fb8c',extremes,Storm,#b3b2b1,wmo,mareggiata molisana,2026-05-13T06:03:00+00:00,Italy,0.4743108779125455,1,1,it,MED,Europe
-'ddcb5d8eb9',extremes,Thunderstorm,#53785a,wmo,maltempo emilia e romagna,2026-05-11T06:14:00+00:00,Italy,0.4742478602343948,1,1,it,MED,Europe
 '92ff957955',extremes,Snow&Ice,#d60d2b,wmo,neve svizzera,2026-04-22T05:13:00+00:00,Switzerland,0.4741001964238077,1,1,it,WCE,Europe
 '7ee26e9d4f',extremes,Storm,#b3b2b1,wmo,tempesta lombardia,2026-04-28T05:45:00+00:00,Italy,0.4739065474649649,1,1,it,MED,Europe
 '008b58f095',extremes,Storm,#b3b2b1,wmo,mareggiata piemonte,2026-04-26T05:25:00+00:00,Italy,0.472944685567249,1,1,it,MED,Europe
@@ -45,7 +42,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '71aee81e61',extremes,Storm,#b3b2b1,wmo,mareggiata lazio,2026-05-09T05:36:00+00:00,Italy,0.4715292924533461,1,1,it,MED,Europe
 '117e9a9455',extremes,Storm,#b3b2b1,wmo,mareggiata calabria,2026-05-01T05:54:00+00:00,Italy,0.4713111265678477,1,1,it,MED,Europe
 'a6ea704320',extremes,Precipitation,#d60d2b,wmo,acquazzone marchigiano,2026-04-20T05:27:00+00:00,Italy,0.470513871699323,1,1,it,MED,Europe
-'6977e2be13',extremes,Snow&Ice,#d60d2b,wmo,gelo limmattal,2026-05-13T06:03:00+00:00,Switzerland,0.4702672673558458,0,1,it,WCE,Europe
 '93f796a1ae',extremes,Thunderstorm,#53785a,wmo,grandine umbria,2026-05-06T05:43:00+00:00,Italy,0.4695426403514583,1,1,it,MED,Europe
 '4ef708e6ed',extremes,Precipitation,#d60d2b,wmo,piogge torrenziali toscana,2026-05-14T06:02:00+00:00,Italy,0.468581293613864,0,1,it,MED,Europe
 '57d748873a',extremes,Precipitation,#d60d2b,wmo,pioggia trentino alto adige,2026-05-05T05:29:00+00:00,Italy,0.4677549326941035,1,1,it,MED,Europe
@@ -155,7 +151,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b862f62894',extremes,Storm,#b3b2b1,wmo,mareggiata basilicata,2026-05-10T05:51:00+00:00,Italy,0.4247668751223381,2,1,it,MED,Europe
 'e8e8c6957c',extremes,Snow&Ice,#d60d2b,wmo,il gelo li contiene pienamente,2026-05-17T06:01:00+00:00,Switzerland,0.4246560522193663,1,1,it,WCE,Europe
 'e540afa0aa',extremes,Snow&Ice,#d60d2b,wmo,gelida laufental,2026-05-13T06:03:00+00:00,Switzerland,0.4245936856006612,1,1,it,WCE,Europe
-'d979ae46a4',extremes,Snow&Ice,#d60d2b,wmo,neve erstfeld engelberg,2026-05-12T05:52:00+00:00,Switzerland,0.42392691388305864,1,1,it,WCE,Europe
+'d979ae46a4',extremes,Snow&Ice,#d60d2b,wmo,neve erstfeld engelberg,2026-05-12T05:52:00+00:00,Switzerland,0.4239269138830586,1,1,it,WCE,Europe
 'b77d2e68e3',extremes,Storm,#b3b2b1,wmo,tempesta molisana,2026-04-22T05:13:00+00:00,Italy,0.4233733398168507,2,1,it,MED,Europe
 '7460e3c92b',extremes,Snow&Ice,#d60d2b,wmo,neve huttwil willisau,2026-04-24T05:22:00+00:00,Switzerland,0.4233380804911674,1,1,it,WCE,Europe
 'be48fac8d6',extremes,Snow&Ice,#d60d2b,wmo,snow vallée de joux,2026-05-14T06:02:00+00:00,Switzerland,0.4230952006885974,1,1,it,WCE,Europe
@@ -189,6 +185,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '62826bbd63',extremes,Earthquake,#870007,usgs,terremoto mutquín,2026-05-21T06:34:00+00:00,Argentina,0.4162637669963354,1,1,it,SES,South-America
 '12cf0fe02f',extremes,Snow&Ice,#d60d2b,wmo,gelido steckborn müllheim,2026-05-13T06:03:00+00:00,Switzerland,0.4158498108647737,1,1,it,WCE,Europe
 'cc4797e4e0',extremes,Snow&Ice,#d60d2b,wmo,neve limmattale,2026-04-21T05:15:00+00:00,Switzerland,0.4156859916119334,1,1,it,WCE,Europe
+'d18c9a3f35',extremes,Earthquake,#870007,usgs,terremoto san antonio de los cobres,2026-05-10T05:51:00+00:00,Argentina,0.4155831143239916,2,1,it,SES,South-America
 'eceb9ef4c9',extremes,Thunderstorm,#53785a,wmo,grandine trentino alto adige,2026-04-29T05:40:00+00:00,Italy,0.415222427902109,1,1,it,MED,Europe
 '0a36c64301',extremes,Thunderstorm,#53785a,wmo,grandine piemonte,2026-04-29T05:40:00+00:00,Italy,0.4147572816925408,1,1,it,MED,Europe
 '30f7444e18',extremes,Storm,#b3b2b1,wmo,tempesta puglia,2026-05-10T05:51:00+00:00,Italy,0.4147425077607957,2,1,it,MED,Europe
@@ -258,7 +255,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '309b00cfaf',extremes,Snow&Ice,#d60d2b,wmo,gelido erstfeld engelberg,2026-04-22T05:13:00+00:00,Switzerland,0.4043855550778655,1,1,it,WCE,Europe
 '4a96f4e4a3',extremes,Snow&Ice,#d60d2b,wmo,gelo broye,2026-04-22T05:13:00+00:00,Switzerland,0.404314784652099,1,1,it,WCE,Europe
 'fbf3e26835',extremes,Snow&Ice,#d60d2b,wmo,gelo olten gösgen,2026-04-22T05:13:00+00:00,Switzerland,0.4041123308896735,1,1,it,WCE,Europe
+'ddcb5d8eb9',extremes,Thunderstorm,#53785a,wmo,maltempo emilia e romagna,2026-05-11T06:14:00+00:00,Italy,0.4035607261992356,2,1,it,MED,Europe
 '178870205c',extremes,Snow&Ice,#d60d2b,wmo,neve franches montagnes,2026-04-24T05:22:00+00:00,Switzerland,0.4033340625468068,1,1,it,WCE,Europe
+'508b73fb8c',extremes,Storm,#b3b2b1,wmo,mareggiata molisana,2026-05-13T06:03:00+00:00,Italy,0.40316424622566366,2,1,it,MED,Europe
 '1a2f8b4a52',extremes,Snow&Ice,#d60d2b,wmo,neve lyss grenchen,2026-04-22T05:13:00+00:00,Switzerland,0.4031357722774211,1,1,it,WCE,Europe
 '8319407c99',extremes,Snow&Ice,#d60d2b,wmo,fürstenland gelido,2026-04-21T05:15:00+00:00,Switzerland,0.4029845665537317,1,1,it,WCE,Europe
 '081c41fb1c',extremes,Snow&Ice,#d60d2b,wmo,gelo yverdon bevaix,2026-04-21T05:15:00+00:00,Switzerland,0.4029140675921442,1,1,it,WCE,Europe
@@ -276,6 +275,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c4fd603a57',extremes,Snow&Ice,#d60d2b,wmo,gelida basse groviera,2026-04-22T05:13:00+00:00,Switzerland,0.4000710685445434,1,1,it,WCE,Europe
 '86b3c7eb4a',extremes,Snow&Ice,#d60d2b,wmo,gelo frutigen kental,2026-04-21T05:15:00+00:00,Switzerland,0.3999944878710846,1,1,it,WCE,Europe
 '5bd9aa7ede',extremes,Snow&Ice,#d60d2b,wmo,snow zurzach bülach,2026-04-22T05:13:00+00:00,Switzerland,0.3998356118135152,1,1,it,WCE,Europe
+'6977e2be13',extremes,Snow&Ice,#d60d2b,wmo,gelo limmattal,2026-05-13T06:03:00+00:00,Switzerland,0.3997271772524689,1,1,it,WCE,Europe
 '185c1a17b7',extremes,Snow&Ice,#d60d2b,wmo,"gelo, vouvry",2026-05-17T06:01:00+00:00,Switzerland,0.3997157302320728,1,1,it,WCE,Europe
 'ae8979372b',extremes,Snow&Ice,#d60d2b,wmo,ice frick leibstadt,2026-04-21T05:15:00+00:00,Switzerland,0.3997088153818278,1,1,it,WCE,Europe
 'f8b4ad19d7',extremes,Snow&Ice,#d60d2b,wmo,gelide tavannes di moutier,2026-04-27T05:40:00+00:00,Switzerland,0.3993170941578329,1,1,it,WCE,Europe
