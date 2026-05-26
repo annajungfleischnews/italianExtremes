@@ -35,7 +35,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a4f740835f',extremes,Storm,#b3b2b1,wmo,tempesta piemontese,2026-04-28T05:45:00+00:00,Italy,0.4792672430048103,2,2,it,MED,Europe
 'df9ced5b3c',extremes,Precipitation,#d60d2b,wmo,precipitazioni umbria,2026-04-20T05:27:00+00:00,Italy,0.4790566230138673,1,1,it,MED,Europe
 '92ff957955',extremes,Snow&Ice,#d60d2b,wmo,neve svizzera,2026-04-22T05:13:00+00:00,Switzerland,0.4741001964238077,1,1,it,WCE,Europe
-'7ee26e9d4f',extremes,Storm,#b3b2b1,wmo,tempesta lombardia,2026-04-28T05:45:00+00:00,Italy,0.4739065474649649,1,1,it,MED,Europe
 '008b58f095',extremes,Storm,#b3b2b1,wmo,mareggiata piemonte,2026-04-26T05:25:00+00:00,Italy,0.472944685567249,1,1,it,MED,Europe
 'f9eb244a9a',extremes,Drought,#edc291,edo,mancanza di pioggia italia,2026-04-21T05:15:00+00:00,Italy,0.4724865428435464,1,1,it,MED,Europe
 '4c403cc983',extremes,Precipitation,#d60d2b,wmo,piogge torrenziali friuli venezia giulia,2026-05-06T05:43:00+00:00,Italy,0.4717304200602912,1,1,it,MED,Europe
@@ -48,7 +47,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '52d7a12550',extremes,Earthquake,#870007,usgs,terremoto candelaria,2026-04-19T05:16:00+00:00,Argentina,0.4677353705054862,1,1,it,SES,South-America
 '3119bc53d4',extremes,Snow&Ice,#d60d2b,wmo,gelo,2026-04-22T05:13:00+00:00,Switzerland,0.4673583430763904,1,2,it,WCE,Europe
 '5d8c239887',extremes,Drought,#edc291,edo,mancanza di pioggia libia,2026-04-22T05:13:00+00:00,Libya,0.4668214193528272,2,1,it,SAH,Africa
-'ee5f7af755',extremes,Snow&Ice,#d60d2b,wmo,gelido locarnese,2026-04-25T05:00:00+00:00,Switzerland,0.4659234459135132,0,1,it,WCE,Europe
 '75dbe8c27e',extremes,Snow&Ice,#d60d2b,wmo,neve aigle leysin,2026-04-24T05:22:00+00:00,Switzerland,0.4658062649125873,0,1,it,WCE,Europe
 '6d1cbf0043',extremes,Snow&Ice,#d60d2b,wmo,terra di ghiaccio,2026-04-25T05:00:00+00:00,Switzerland,0.4656852833631368,0,1,it,WCE,Europe
 '1f4020ebca',extremes,Precipitation,#d60d2b,wmo,precipitazioni liguria,2026-05-04T05:50:00+00:00,Italy,0.4650570517091079,1,1,it,MED,Europe
@@ -257,7 +255,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'fbf3e26835',extremes,Snow&Ice,#d60d2b,wmo,gelo olten gösgen,2026-04-22T05:13:00+00:00,Switzerland,0.4041123308896735,1,1,it,WCE,Europe
 'ddcb5d8eb9',extremes,Thunderstorm,#53785a,wmo,maltempo emilia e romagna,2026-05-11T06:14:00+00:00,Italy,0.4035607261992356,2,1,it,MED,Europe
 '178870205c',extremes,Snow&Ice,#d60d2b,wmo,neve franches montagnes,2026-04-24T05:22:00+00:00,Switzerland,0.4033340625468068,1,1,it,WCE,Europe
-'508b73fb8c',extremes,Storm,#b3b2b1,wmo,mareggiata molisana,2026-05-13T06:03:00+00:00,Italy,0.40316424622566366,2,1,it,MED,Europe
+'7ee26e9d4f',extremes,Storm,#b3b2b1,wmo,tempesta lombardia,2026-04-28T05:45:00+00:00,Italy,0.40327061034522016,2,1,it,MED,Europe
+'508b73fb8c',extremes,Storm,#b3b2b1,wmo,mareggiata molisana,2026-05-13T06:03:00+00:00,Italy,0.4031642462256636,2,1,it,MED,Europe
 '1a2f8b4a52',extremes,Snow&Ice,#d60d2b,wmo,neve lyss grenchen,2026-04-22T05:13:00+00:00,Switzerland,0.4031357722774211,1,1,it,WCE,Europe
 '8319407c99',extremes,Snow&Ice,#d60d2b,wmo,fürstenland gelido,2026-04-21T05:15:00+00:00,Switzerland,0.4029845665537317,1,1,it,WCE,Europe
 '081c41fb1c',extremes,Snow&Ice,#d60d2b,wmo,gelo yverdon bevaix,2026-04-21T05:15:00+00:00,Switzerland,0.4029140675921442,1,1,it,WCE,Europe
@@ -297,3 +296,4 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'caa7552365',extremes,Snow&Ice,#d60d2b,wmo,gelo hulftegg untertoggenburg,2026-05-01T05:54:00+00:00,Switzerland,0.3960861211461184,1,1,it,WCE,Europe
 '347dca16c6',extremes,Snow&Ice,#d60d2b,wmo,neve delémont bellelay,2026-04-24T05:22:00+00:00,Switzerland,0.396072838329172,1,1,it,WCE,Europe
 'a0ba7c50dd',extremes,Snow&Ice,#d60d2b,wmo,gelo landquart coira,2026-04-24T05:22:00+00:00,Switzerland,0.3960719182902162,1,1,it,WCE,Europe
+'ee5f7af755',extremes,Snow&Ice,#d60d2b,wmo,gelido locarnese,2026-04-25T05:00:00+00:00,Switzerland,0.39603492902648624,1,1,it,WCE,Europe
