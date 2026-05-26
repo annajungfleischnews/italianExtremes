@@ -4,7 +4,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7104ad3c83',extremes,Thunderstorm,#53785a,wmo,temporale italia,2026-04-13T05:28:00+00:00,Italy,0.5737907174439225,1,2,it,MED,Europe
 'f733595ffd',extremes,Thunderstorm,#53785a,wmo,marche di maltempo,2026-04-19T05:16:00+00:00,Italy,0.570691607569175,1,2,it,MED,Europe
 '02711610b5',extremes,Storm,#b3b2b1,wmo,tempesta argentina,2026-04-26T05:25:00+00:00,Argentina,0.5679063678108011,2,2,it,SES,South-America
-'6636b82ba3',extremes,Thunderstorm,#53785a,wmo,temporale libia,2026-05-25T06:53:00+00:00,Libya,0.5660242280218164,1,1,it,SAH,Africa
 'edae5a8a2b',extremes,Snow&Ice,#d60d2b,wmo,ghiaccio argentino,2026-05-04T05:50:00+00:00,Argentina,0.5459817695286545,2,2,it,SES,South-America
 'b1d7a75a38',extremes,Storm,#b3b2b1,wmo,tempesta sicilia,2026-05-16T05:40:00+00:00,Italy,0.5452889225522272,1,2,it,MED,Europe
 '851e7f751b',extremes,Storm,#b3b2b1,wmo,temporale valle d'aosta,2026-05-06T05:43:00+00:00,Italy,0.5393198652015561,2,1,it,MED,Europe
@@ -22,7 +21,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '997a2e2157',extremes,Earthquake,#870007,usgs,terremoto argentina,2026-04-26T05:25:00+00:00,Argentina,0.5096389691912443,1,1,it,SES,South-America
 '075cc3fe36',extremes,Thunderstorm,#53785a,wmo,maltempo italia,2026-04-21T05:15:00+00:00,Italy,0.5062507934491235,1,2,it,MED,Europe
 'ddc0b2c2fb',extremes,Storm,#b3b2b1,wmo,mareggiata campania,2026-05-02T05:24:00+00:00,Italy,0.5031780834895451,1,1,it,MED,Europe
-'c76501402f',extremes,Snow&Ice,#d60d2b,wmo,gelo rheintal,2026-05-13T06:03:00+00:00,Switzerland,0.4973906386981173,0,1,it,WCE,Europe
 'b885c97e01',extremes,Precipitation,#d60d2b,wmo,pioggia veneto,2026-05-05T05:29:00+00:00,Italy,0.4945558555654053,1,1,it,MED,Europe
 '9d51f7a7ec',extremes,Thunderstorm,#53785a,wmo,temporale piemontese,2026-04-21T05:15:00+00:00,Italy,0.4928661067979231,2,1,it,MED,Europe
 '3840c76d04',extremes,Storm,#b3b2b1,wmo,tempesta calabria,2026-05-15T06:09:00+00:00,Italy,0.4911758735509077,2,2,it,MED,Europe
@@ -33,6 +31,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '12060a7df7',extremes,Storm,#b3b2b1,wmo,mareggiata italia,2026-05-04T05:50:00+00:00,Italy,0.4842665858932281,2,1,it,MED,Europe
 '569a1f5c0e',extremes,Storm,#b3b2b1,wmo,mareggiata friuli venezia giulia,2026-04-19T05:16:00+00:00,Italy,0.4829010809855698,1,1,it,MED,Europe
 '0e11501646',extremes,Storm,#b3b2b1,wmo,tempesta emilia e romagna,2026-05-11T06:14:00+00:00,Italy,0.481862431826864,1,1,it,MED,Europe
+'6636b82ba3',extremes,Thunderstorm,#53785a,wmo,temporale libia,2026-05-25T06:53:00+00:00,Libya,0.48127060881854394,2,1,it,SAH,Africa
 'a4f740835f',extremes,Storm,#b3b2b1,wmo,tempesta piemontese,2026-04-28T05:45:00+00:00,Italy,0.4792672430048103,2,2,it,MED,Europe
 'df9ced5b3c',extremes,Precipitation,#d60d2b,wmo,precipitazioni umbria,2026-04-20T05:27:00+00:00,Italy,0.4790566230138673,1,1,it,MED,Europe
 '92ff957955',extremes,Snow&Ice,#d60d2b,wmo,neve svizzera,2026-04-22T05:13:00+00:00,Switzerland,0.4741001964238077,1,1,it,WCE,Europe
@@ -156,6 +155,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7460e3c92b',extremes,Snow&Ice,#d60d2b,wmo,neve huttwil willisau,2026-04-24T05:22:00+00:00,Switzerland,0.4233380804911674,1,1,it,WCE,Europe
 'be48fac8d6',extremes,Snow&Ice,#d60d2b,wmo,snow vallée de joux,2026-05-14T06:02:00+00:00,Switzerland,0.4230952006885974,1,1,it,WCE,Europe
 'ceb4a488b0',extremes,Snow&Ice,#d60d2b,wmo,ghiaccio basso groviera,2026-05-17T06:01:00+00:00,Switzerland,0.4229688174919801,1,1,it,WCE,Europe
+'c76501402f',extremes,Snow&Ice,#d60d2b,wmo,gelo rheintal,2026-05-13T06:03:00+00:00,Switzerland,0.42278204289339966,1,1,it,WCE,Europe
 '4fd8d48f37',extremes,Thunderstorm,#53785a,wmo,grandine lombardia,2026-05-06T05:43:00+00:00,Italy,0.4227703563327561,2,1,it,MED,Europe
 'b4a720ff08',extremes,Snow&Ice,#d60d2b,wmo,etlebuch di ghiaccio,2026-05-13T06:03:00+00:00,Switzerland,0.4225505795527019,1,1,it,WCE,Europe
 '58a3873c9a',extremes,Precipitation,#d60d2b,wmo,precipitazioni emilia e romagna,2026-05-14T06:02:00+00:00,Italy,0.4218884483816223,1,1,it,MED,Europe
