@@ -23,7 +23,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9d36efcb9c',extremes,Thunderstorm,#53785a,wmo,maltempo sicilia,2026-05-28T06:38:00+00:00,Italy,0.5222148067142904,1,1,it,MED,Europe
 '3d4ffbc119',extremes,Storm,#b3b2b1,wmo,tempesta friuli venezia giulia,2026-04-28T05:45:00+00:00,Italy,0.5216235050130127,1,1,it,MED,Europe
 '5c854a933c',extremes,Precipitation,#d60d2b,wmo,pioggia liguria,2026-05-04T05:50:00+00:00,Italy,0.5189067974059812,2,2,it,MED,Europe
-'128c953b1e',extremes,Precipitation,#d60d2b,wmo,precipitazioni sicilia,2026-05-29T06:38:00+00:00,Italy,0.5181152009372442,0,1,it,MED,Europe
 'ac9b4f5444',extremes,Storm,#b3b2b1,wmo,mareggiata argentina,2026-04-26T05:25:00+00:00,Argentina,0.517929575649341,1,1,it,SES,South-America
 'da3f45eeca',extremes,Snow&Ice,#d60d2b,wmo,gelata bienne neuchâtel,2026-05-17T06:01:00+00:00,Switzerland,0.5152645995369494,0,1,it,WCE,Europe
 '930b9adc51',extremes,Drought,#edc291,edo,siccità argentina,2026-05-15T06:09:00+00:00,Argentina,0.5131952695017485,0,1,it,SES,South-America
@@ -141,6 +140,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '618e955f78',extremes,Drought,#edc291,edo,mancanza di pioggia in svizzera,2026-05-11T06:14:00+00:00,Switzerland,0.4430966991883678,0,1,it,WCE,Europe
 '50de04165f',extremes,Thunderstorm,#53785a,wmo,temporalesco marchigiano,2026-05-14T06:02:00+00:00,Italy,0.4422691664189243,0,1,it,MED,Europe
 '5e29cd96b0',extremes,Precipitation,#d60d2b,wmo,pioggia torrenziale italia,2026-05-04T05:50:00+00:00,Italy,0.4421218167760571,2,1,it,MED,Europe
+'128c953b1e',extremes,Precipitation,#d60d2b,wmo,precipitazioni sicilia,2026-05-29T06:38:00+00:00,Italy,0.4420480857966575,1,1,it,MED,Europe
 'bd8c8650ea',extremes,Earthquake,#870007,usgs,terremoto el aguilar,2026-05-18T06:38:00+00:00,Argentina,0.4416956340848511,1,1,it,SES,South-America
 '316c1a7868',extremes,Precipitation,#d60d2b,wmo,acquazzone toscana,2026-05-05T05:29:00+00:00,Italy,0.4412381763158706,2,1,it,MED,Europe
 '8a8a288c5e',extremes,Storm,#b3b2b1,wmo,mareggiata innertkirchen guttannen,2026-05-04T05:50:00+00:00,Switzerland,0.4411936803677652,0,1,it,WCE,Europe
