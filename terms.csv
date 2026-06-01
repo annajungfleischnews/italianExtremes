@@ -1,5 +1,7 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 '63b8afd7a4',extremes,Storm,#b3b2b1,wmo,tempesta lazio,2026-04-23T05:16:00+00:00,Italy,0.6893848831085211,1,2,it,MED,Europe
+'cb15bc1996',extremes,Heat Wave,#c40202,wmo,ondata di caldo puglia,2026-06-01T07:30:00+00:00,Italy,0.653149732839014,0,1,it,MED,Europe
+'4e5e4292b1',extremes,Thunderstorm,#53785a,wmo,grandine libia,2026-06-01T07:30:00+00:00,Libya,0.6526115263021939,0,1,it,SAH,Africa
 '97a2529f41',extremes,Snow&Ice,#d60d2b,wmo,ghiaccio svizzero,2026-05-12T05:52:00+00:00,Switzerland,0.6295653146688216,1,2,it,WCE,Europe
 '887af33c5b',extremes,Snow&Ice,#d60d2b,wmo,gelo svizzera,2026-05-12T05:52:00+00:00,Switzerland,0.6214283006275738,1,2,it,WCE,Europe
 '7104ad3c83',extremes,Thunderstorm,#53785a,wmo,temporale italia,2026-05-27T06:46:00+00:00,Italy,0.6073392581073668,1,2,it,MED,Europe
@@ -32,6 +34,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f9eb244a9a',extremes,Drought,#edc291,edo,mancanza di pioggia italia,2026-05-11T06:14:00+00:00,Italy,0.5061744728938435,1,1,it,MED,Europe
 'ddc0b2c2fb',extremes,Storm,#b3b2b1,wmo,mareggiata campania,2026-05-02T05:24:00+00:00,Italy,0.5031780834895451,1,1,it,MED,Europe
 '82b8913676',extremes,Storm,#b3b2b1,wmo,mareggiata sardegna,2026-05-12T05:52:00+00:00,Italy,0.5031190317108951,1,1,it,MED,Europe
+'75dbe8c27e',extremes,Snow&Ice,#d60d2b,wmo,neve aigle leysin,2026-05-14T06:02:00+00:00,Switzerland,0.4984594735927128,0,1,it,WCE,Europe
 '165e1b5216',extremes,Drought,#edc291,edo,siccità libia,2026-05-09T05:36:00+00:00,Libya,0.498011394695386,1,1,it,SAH,Africa
 '5d8c239887',extremes,Drought,#edc291,edo,mancanza di pioggia libia,2026-05-17T06:01:00+00:00,Libya,0.4974920102161083,1,1,it,SAH,Africa
 '70bf96ce01',extremes,Thunderstorm,#53785a,wmo,maltempo libia,2026-05-26T06:31:00+00:00,Libya,0.4951870667794976,2,1,it,SAH,Africa
@@ -253,8 +256,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '48482a5127',extremes,Snow&Ice,#d60d2b,wmo,gelido thun belp,2026-05-13T06:03:00+00:00,Switzerland,0.3999737112998426,1,1,it,WCE,Europe
 '6977e2be13',extremes,Snow&Ice,#d60d2b,wmo,gelo limmattal,2026-05-13T06:03:00+00:00,Switzerland,0.3997271772524689,1,1,it,WCE,Europe
 '185c1a17b7',extremes,Snow&Ice,#d60d2b,wmo,"gelo, vouvry",2026-05-17T06:01:00+00:00,Switzerland,0.3997157302320728,1,1,it,WCE,Europe
+'f90601fa23',extremes,Volcano,#b83202,random,eruzione del vulcano,2026-05-17T06:01:00+00:00,,0.3995213075890998,0,1,it,,
 'f8b4ad19d7',extremes,Snow&Ice,#d60d2b,wmo,gelide tavannes di moutier,2026-04-27T05:40:00+00:00,Switzerland,0.3993170941578329,1,1,it,WCE,Europe
 '980fb462e0',extremes,Snow&Ice,#d60d2b,wmo,neve lucerna alpnach,2026-04-27T05:40:00+00:00,Switzerland,0.3990694730318134,1,1,it,WCE,Europe
+'40f675561f',extremes,Heat Wave,#c40202,random,estate più calda,2026-05-22T06:31:00+00:00,,0.3989403773377403,0,1,it,,
+'ce37661cdd',extremes,Cold Wave,#a7e9fa,random,giorno più freddo,2026-05-26T06:31:00+00:00,,0.39852876093506256,0,1,it,,
 '51f6808ed3',extremes,Thunderstorm,#53785a,wmo,temporale liguria,2026-05-29T06:38:00+00:00,Italy,0.3984897836587845,1,1,it,MED,Europe
 '4ef708e6ed',extremes,Precipitation,#d60d2b,wmo,piogge torrenziali toscana,2026-05-14T06:02:00+00:00,Italy,0.3982940995717844,1,1,it,MED,Europe
 '85befecc45',extremes,Snow&Ice,#d60d2b,wmo,neve soletta rothrist,2026-04-26T05:25:00+00:00,Switzerland,0.3979135588576571,1,1,it,WCE,Europe
