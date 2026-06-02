@@ -12,7 +12,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8e5338dae6',extremes,Thunderstorm,#53785a,wmo,salve italia,2026-05-11T06:14:00+00:00,Italy,0.5656977948288722,2,2,it,MED,Europe
 'cb15bc1996',extremes,Heat Wave,#c40202,wmo,ondata di caldo puglia,2026-06-01T07:30:00+00:00,Italy,0.5551772729131619,1,1,it,MED,Europe
 '4e5e4292b1',extremes,Thunderstorm,#53785a,wmo,grandine libia,2026-06-01T07:30:00+00:00,Libya,0.5547197973568648,1,1,it,SAH,Africa
-'7664a3591c',extremes,Precipitation,#d60d2b,wmo,acquazzone friuli venezia giulia,2026-06-02T07:08:00+00:00,Italy,0.5464667057137006,0,1,it,MED,Europe
 '6d1cbf0043',extremes,Snow&Ice,#d60d2b,wmo,terra di ghiaccio,2026-04-25T05:00:00+00:00,Switzerland,0.5462379363132117,1,3,it,WCE,Europe
 'edae5a8a2b',extremes,Snow&Ice,#d60d2b,wmo,ghiaccio argentino,2026-05-04T05:50:00+00:00,Argentina,0.5459817695286545,2,2,it,SES,South-America
 'b1d7a75a38',extremes,Storm,#b3b2b1,wmo,tempesta sicilia,2026-05-16T05:40:00+00:00,Italy,0.5452889225522272,1,2,it,MED,Europe
@@ -40,7 +39,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '82b8913676',extremes,Storm,#b3b2b1,wmo,mareggiata sardegna,2026-05-12T05:52:00+00:00,Italy,0.5031190317108951,1,1,it,MED,Europe
 '165e1b5216',extremes,Drought,#edc291,edo,siccità libia,2026-05-09T05:36:00+00:00,Libya,0.498011394695386,1,1,it,SAH,Africa
 '5d8c239887',extremes,Drought,#edc291,edo,mancanza di pioggia libia,2026-05-17T06:01:00+00:00,Libya,0.4974920102161083,1,1,it,SAH,Africa
-'a03bfb69ba',extremes,Drought,#edc291,edo,periodo di siccità in svizzera,2026-06-02T07:08:00+00:00,Switzerland,0.4966865413056816,0,1,it,WCE,Europe
 '70bf96ce01',extremes,Thunderstorm,#53785a,wmo,maltempo libia,2026-05-26T06:31:00+00:00,Libya,0.4951870667794976,2,1,it,SAH,Africa
 'fb7bf220d2',extremes,Precipitation,#d60d2b,wmo,acquazzone calabria,2026-05-28T06:38:00+00:00,Italy,0.495038463606444,1,1,it,MED,Europe
 'b885c97e01',extremes,Precipitation,#d60d2b,wmo,pioggia veneto,2026-05-05T05:29:00+00:00,Italy,0.4945558555654053,1,1,it,MED,Europe
@@ -50,7 +48,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd90bfca4a4',extremes,Storm,#b3b2b1,wmo,tempesta sardegna,2026-05-10T05:51:00+00:00,Italy,0.4880160513261901,1,1,it,MED,Europe
 '1fea4f642d',extremes,Storm,#b3b2b1,wmo,tempesta svizzera,2026-05-04T05:50:00+00:00,Switzerland,0.4877968912706275,2,1,it,WCE,Europe
 'f6ff301646',extremes,Drought,#edc291,edo,siccità Somalia,2026-05-02T05:24:00+00:00,Somalia,0.4857503929106698,2,2,it,NEAF,Africa
-'2c65951a8c',extremes,Thunderstorm,#53785a,wmo,grandine veneto,2026-05-19T06:33:00+00:00,Italy,0.4853629409150212,0,1,it,MED,Europe
 'e9a8279e1e',extremes,Storm,#b3b2b1,wmo,tempesta toscana,2026-05-07T05:46:00+00:00,Italy,0.4848797110839079,1,1,it,MED,Europe
 '902e65f81a',extremes,Thunderstorm,#53785a,wmo,temporale abruzzo,2026-05-16T05:40:00+00:00,Italy,0.4844095082276765,0,1,it,MED,Europe
 '12060a7df7',extremes,Storm,#b3b2b1,wmo,mareggiata italia,2026-05-04T05:50:00+00:00,Italy,0.4842665858932281,2,1,it,MED,Europe
@@ -71,6 +68,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0c3d21da24',extremes,Precipitation,#d60d2b,wmo,acquazzone italia,2026-05-10T05:51:00+00:00,Italy,0.466622143113889,1,1,it,MED,Europe
 '1f4020ebca',extremes,Precipitation,#d60d2b,wmo,precipitazioni liguria,2026-05-04T05:50:00+00:00,Italy,0.4650570517091079,1,1,it,MED,Europe
 '54f5b8faba',extremes,Thunderstorm,#53785a,wmo,temporale trentino alto adige,2026-05-07T05:46:00+00:00,Italy,0.4649383247073617,1,1,it,MED,Europe
+'7664a3591c',extremes,Precipitation,#d60d2b,wmo,acquazzone friuli venezia giulia,2026-06-02T07:08:00+00:00,Italy,0.4644966998566455,1,1,it,MED,Europe
 'b96cc738bc',extremes,Precipitation,#d60d2b,wmo,pioggia piemonte,2026-05-04T05:50:00+00:00,Italy,0.4640451569095185,1,1,it,MED,Europe
 'aeb8fffadb',extremes,Snow&Ice,#d60d2b,wmo,gelido Oberes Baselbiet,2026-04-23T05:16:00+00:00,Switzerland,0.4636837412602667,0,1,it,WCE,Europe
 '27ecdd832f',extremes,Heat Wave,#c40202,wmo,ondata di caldo emilia e romagna,2026-05-27T06:46:00+00:00,Italy,0.4631900575149049,2,1,it,MED,Europe
@@ -188,6 +186,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4fd8d48f37',extremes,Thunderstorm,#53785a,wmo,grandine lombardia,2026-05-06T05:43:00+00:00,Italy,0.4227703563327561,2,1,it,MED,Europe
 'c985419a7b',extremes,Thunderstorm,#53785a,wmo,forte tempo umbria,2026-05-09T05:36:00+00:00,Italy,0.4225781680463516,1,1,it,MED,Europe
 'b4a720ff08',extremes,Snow&Ice,#d60d2b,wmo,etlebuch di ghiaccio,2026-05-13T06:03:00+00:00,Switzerland,0.4225505795527019,1,1,it,WCE,Europe
+'a03bfb69ba',extremes,Drought,#edc291,edo,periodo di siccità in svizzera,2026-06-02T07:08:00+00:00,Switzerland,0.4221835601098293,1,1,it,WCE,Europe
 '58a3873c9a',extremes,Precipitation,#d60d2b,wmo,precipitazioni emilia e romagna,2026-05-14T06:02:00+00:00,Italy,0.4218884483816223,1,1,it,MED,Europe
 'ad1d094d2b',extremes,Thunderstorm,#53785a,wmo,grandine sardegna,2026-05-04T05:50:00+00:00,Italy,0.4215559532106296,1,1,it,MED,Europe
 'f91267f64f',extremes,Snow&Ice,#d60d2b,wmo,neve vallon de saint imier,2026-05-17T06:01:00+00:00,Switzerland,0.4213311128125351,1,1,it,WCE,Europe
@@ -216,6 +215,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '647b6366f3',extremes,Snow&Ice,#d60d2b,wmo,ghiaccio emmen hochdorf,2026-05-13T06:03:00+00:00,Switzerland,0.4143444229646622,1,1,it,WCE,Europe
 'e0e81271b7',extremes,Drought,#edc291,edo,periodo di siccità libia,2026-05-05T05:29:00+00:00,Libya,0.4139586209125549,1,1,it,SAH,Africa
 '9e098ebb16',extremes,Snow&Ice,#d60d2b,wmo,gelido delémont bellelay,2026-04-27T05:40:00+00:00,Switzerland,0.4137162899063757,1,1,it,WCE,Europe
+'2c65951a8c',extremes,Thunderstorm,#53785a,wmo,grandine veneto,2026-05-19T06:33:00+00:00,Italy,0.413308574777768,1,1,it,MED,Europe
 '0ebfc06b8b',extremes,Snow&Ice,#d60d2b,wmo,gelido Kerenzerberg Seeztal,2026-05-13T06:03:00+00:00,Switzerland,0.4123282497293571,1,1,it,WCE,Europe
 'e876b3ff36',extremes,Earthquake,#870007,usgs,terremoto abra pampa,2026-05-19T06:33:00+00:00,Argentina,0.4118494864435794,1,1,it,SES,South-America
 '2cce7328e9',extremes,Storm,#b3b2b1,wmo,tempesta liguria,2026-05-03T05:44:00+00:00,Italy,0.4117552463246431,2,1,it,MED,Europe
