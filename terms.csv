@@ -61,7 +61,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '71aee81e61',extremes,Storm,#b3b2b1,wmo,mareggiata lazio,2026-05-09T05:36:00+00:00,Italy,0.4715292924533461,1,1,it,MED,Europe
 '117e9a9455',extremes,Storm,#b3b2b1,wmo,mareggiata calabria,2026-05-01T05:54:00+00:00,Italy,0.4713111265678477,1,1,it,MED,Europe
 '93f796a1ae',extremes,Thunderstorm,#53785a,wmo,grandine umbria,2026-05-06T05:43:00+00:00,Italy,0.4695426403514583,1,1,it,MED,Europe
-'569a1f5c0e',extremes,Storm,#b3b2b1,wmo,mareggiata friuli venezia giulia,2026-05-12T05:52:00+00:00,Italy,0.46896617904474686,1,1,it,MED,Europe
+'569a1f5c0e',extremes,Storm,#b3b2b1,wmo,mareggiata friuli venezia giulia,2026-05-12T05:52:00+00:00,Italy,0.4689661790447468,1,1,it,MED,Europe
 '57d748873a',extremes,Precipitation,#d60d2b,wmo,pioggia trentino alto adige,2026-05-05T05:29:00+00:00,Italy,0.4677549326941035,1,1,it,MED,Europe
 '3119bc53d4',extremes,Snow&Ice,#d60d2b,wmo,gelo,2026-04-22T05:13:00+00:00,Switzerland,0.4673583430763904,1,2,it,WCE,Europe
 '0c3d21da24',extremes,Precipitation,#d60d2b,wmo,acquazzone italia,2026-05-10T05:51:00+00:00,Italy,0.466622143113889,1,1,it,MED,Europe
@@ -258,6 +258,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ce37661cdd',extremes,Cold Wave,#a7e9fa,random,giorno più freddo,2026-05-26T06:31:00+00:00,,0.3985287609350625,0,1,it,,
 '51f6808ed3',extremes,Thunderstorm,#53785a,wmo,temporale liguria,2026-05-29T06:38:00+00:00,Italy,0.3984897836587845,1,1,it,MED,Europe
 '4ef708e6ed',extremes,Precipitation,#d60d2b,wmo,piogge torrenziali toscana,2026-05-14T06:02:00+00:00,Italy,0.3982940995717844,1,1,it,MED,Europe
+'0053afc92f',extremes,Volcano,#b83202,random,lahar,2026-05-20T06:32:00+00:00,,0.39810543207601495,0,1,it,,
 '85befecc45',extremes,Snow&Ice,#d60d2b,wmo,neve soletta rothrist,2026-04-26T05:25:00+00:00,Switzerland,0.3979135588576571,1,1,it,WCE,Europe
 'a217a5cf16',extremes,Thunderstorm,#53785a,wmo,maltempo trentino alto adige,2026-05-10T05:51:00+00:00,Italy,0.3978830573277019,1,1,it,MED,Europe
 '6b2c9d1d8b',extremes,Precipitation,#d60d2b,wmo,acquazzone umbria,2026-05-05T05:29:00+00:00,Italy,0.3975309401308546,1,1,it,MED,Europe
@@ -266,7 +267,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '60031a8fb9',extremes,Thunderstorm,#53785a,wmo,grandine friuli venezia giulia,2026-05-17T06:01:00+00:00,Italy,0.3970502785648185,1,1,it,MED,Europe
 '1b261773be',extremes,Snow&Ice,#d60d2b,wmo,gelo basilea,2026-04-26T05:25:00+00:00,Switzerland,0.3969029713993685,1,1,it,WCE,Europe
 'f2fa7241c7',extremes,Snow&Ice,#d60d2b,wmo,gelo kerenzerberg seeztal,2026-04-26T05:25:00+00:00,Switzerland,0.3968191111491838,1,1,it,WCE,Europe
-'8742149670',extremes,Thunderstorm,#53785a,wmo,temporale lazio,2026-05-29T06:38:00+00:00,Italy,0.39635438214159513,1,1,it,MED,Europe
+'b24c0517bf',extremes,Cold Wave,#a7e9fa,random,il mercurio scende,2026-05-16T05:40:00+00:00,,0.3966119968187661,0,1,it,,
+'8742149670',extremes,Thunderstorm,#53785a,wmo,temporale lazio,2026-05-29T06:38:00+00:00,Italy,0.3963543821415951,1,1,it,MED,Europe
 'e5b46f3978',extremes,Drought,#edc291,edo,periodo di siccità argentina,2026-05-08T05:16:00+00:00,Argentina,0.3962480563914705,1,1,it,SES,South-America
 'caa7552365',extremes,Snow&Ice,#d60d2b,wmo,gelo hulftegg untertoggenburg,2026-05-01T05:54:00+00:00,Switzerland,0.3960861211461184,1,1,it,WCE,Europe
-'66752335f2',extremes,Snow&Ice,#d60d2b,wmo,neve bex villars,2026-05-17T06:01:00+00:00,Switzerland,0.39388258101013107,1,1,it,WCE,Europe
+'66752335f2',extremes,Snow&Ice,#d60d2b,wmo,neve bex villars,2026-05-17T06:01:00+00:00,Switzerland,0.393882581010131,1,1,it,WCE,Europe
+'560b05d603',extremes,Heat Wave,#c40202,random,ondata di caldo,2026-05-21T06:34:00+00:00,,0.38932101245015593,0,1,it,,
