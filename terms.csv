@@ -1,7 +1,6 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 '887af33c5b',extremes,Snow&Ice,#d60d2b,wmo,gelo svizzera,2026-05-12T05:52:00+00:00,Switzerland,0.6214283006275738,1,2,it,WCE,Europe
 '7104ad3c83',extremes,Thunderstorm,#53785a,wmo,temporale italia,2026-05-27T06:46:00+00:00,Italy,0.6073392581073668,1,2,it,MED,Europe
-'008b58f095',extremes,Storm,#b3b2b1,wmo,mareggiata piemonte,2026-06-01T07:30:00+00:00,Italy,0.6011174933555545,0,1,it,MED,Europe
 '63b8afd7a4',extremes,Storm,#b3b2b1,wmo,tempesta lazio,2026-04-23T05:16:00+00:00,Italy,0.5868772406422429,2,2,it,MED,Europe
 '997a2e2157',extremes,Earthquake,#870007,usgs,terremoto argentina,2026-05-16T05:40:00+00:00,Argentina,0.5829192965644757,0,1,it,SES,South-America
 '6076c8543a',extremes,Storm,#b3b2b1,wmo,mareggiata liguria,2026-05-12T05:52:00+00:00,Italy,0.5702673994263485,1,2,it,MED,Europe
@@ -11,7 +10,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6d1cbf0043',extremes,Snow&Ice,#d60d2b,wmo,terra di ghiaccio,2026-04-25T05:00:00+00:00,Switzerland,0.5462379363132117,1,3,it,WCE,Europe
 'edae5a8a2b',extremes,Snow&Ice,#d60d2b,wmo,ghiaccio argentino,2026-05-04T05:50:00+00:00,Argentina,0.5459817695286545,2,2,it,SES,South-America
 'b1d7a75a38',extremes,Storm,#b3b2b1,wmo,tempesta sicilia,2026-05-16T05:40:00+00:00,Italy,0.5452889225522272,1,2,it,MED,Europe
-'bb9ac4cdb7',extremes,Precipitation,#d60d2b,wmo,acquazzone trentino alto adige,2026-06-04T07:06:00+00:00,Italy,0.5410937243061187,0,1,it,MED,Europe
 '851e7f751b',extremes,Storm,#b3b2b1,wmo,temporale valle d'aosta,2026-05-06T05:43:00+00:00,Italy,0.5393198652015561,2,1,it,MED,Europe
 '97a2529f41',extremes,Snow&Ice,#d60d2b,wmo,ghiaccio svizzero,2026-05-12T05:52:00+00:00,Switzerland,0.5358805924684984,2,2,it,WCE,Europe
 '5022ceabea',extremes,Storm,#b3b2b1,wmo,mareggiata abruzzo,2026-06-02T07:08:00+00:00,Italy,0.5321783232332669,1,1,it,MED,Europe
@@ -29,6 +27,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9d36efcb9c',extremes,Thunderstorm,#53785a,wmo,maltempo sicilia,2026-05-28T06:38:00+00:00,Italy,0.5222148067142904,1,1,it,MED,Europe
 '3d4ffbc119',extremes,Storm,#b3b2b1,wmo,tempesta friuli venezia giulia,2026-04-28T05:45:00+00:00,Italy,0.5216235050130127,1,1,it,MED,Europe
 '5c854a933c',extremes,Precipitation,#d60d2b,wmo,pioggia liguria,2026-05-04T05:50:00+00:00,Italy,0.5189067974059812,2,2,it,MED,Europe
+'008b58f095',extremes,Storm,#b3b2b1,wmo,mareggiata piemonte,2026-06-01T07:30:00+00:00,Italy,0.5110998843522213,1,1,it,MED,Europe
 'cd3d048b5a',extremes,Precipitation,#d60d2b,wmo,pioggia italia,2026-05-28T06:38:00+00:00,Italy,0.5109236165735618,1,2,it,MED,Europe
 '838174fb09',extremes,Precipitation,#d60d2b,wmo,acquazzone sicilia,2026-05-28T06:38:00+00:00,Italy,0.5085361681284103,2,1,it,MED,Europe
 '13d52d0826',extremes,Thunderstorm,#53785a,wmo,grandine lazio,2026-05-10T05:51:00+00:00,Italy,0.5077169627296116,1,2,it,MED,Europe
@@ -81,6 +80,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '731c9c6599',extremes,Storm,#b3b2b1,wmo,tempesta basilicata,2026-05-11T06:14:00+00:00,Italy,0.462027328333646,1,1,it,MED,Europe
 '5660802a7f',extremes,Heat Wave,#c40202,wmo,riviera dell'ondata di caldo,2026-05-26T06:31:00+00:00,Switzerland,0.4619868693892282,1,1,it,WCE,Europe
 'd9f5a28608',extremes,Heat Wave,#c40202,wmo,ondata di caldo basso moesano,2026-05-26T06:31:00+00:00,Switzerland,0.4600527191882508,1,1,it,WCE,Europe
+'bb9ac4cdb7',extremes,Precipitation,#d60d2b,wmo,acquazzone trentino alto adige,2026-06-04T07:06:00+00:00,Italy,0.4599296656602009,1,1,it,MED,Europe
 '3c9f3a79d5',extremes,Heat Wave,#c40202,wmo,ondata di caldo bellinzonese,2026-05-26T06:31:00+00:00,Switzerland,0.4599114023340578,1,1,it,WCE,Europe
 '56da66adf9',extremes,Thunderstorm,#53785a,wmo,maltempo basilicata,2026-05-27T06:46:00+00:00,Italy,0.4598900246593794,1,1,it,MED,Europe
 '207df0d218',extremes,Precipitation,#d60d2b,wmo,piogge torrenziali piemonte,2026-05-03T05:44:00+00:00,Italy,0.4594251462029488,1,1,it,MED,Europe
