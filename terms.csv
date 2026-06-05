@@ -56,7 +56,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9d51f7a7ec',extremes,Thunderstorm,#53785a,wmo,temporale piemontese,2026-05-30T06:01:00+00:00,Italy,0.4823521415526589,2,1,it,MED,Europe
 '0e11501646',extremes,Storm,#b3b2b1,wmo,tempesta emilia e romagna,2026-05-11T06:14:00+00:00,Italy,0.481862431826864,1,1,it,MED,Europe
 '6636b82ba3',extremes,Thunderstorm,#53785a,wmo,temporale libia,2026-05-25T06:53:00+00:00,Libya,0.4812706088185439,2,1,it,SAH,Africa
-'0e8f392ce9',extremes,Drought,#edc291,edo,siccità libia,2026-05-20T06:33:00+00:00,Libya,0.4806647425790669,0,1,it,SAH,Africa
 'a4f740835f',extremes,Storm,#b3b2b1,wmo,tempesta piemontese,2026-04-28T05:45:00+00:00,Italy,0.4792672430048103,2,2,it,MED,Europe
 '065a434526',extremes,Storm,#b3b2b1,wmo,tempesta Abruzzo,2026-05-14T06:02:00+00:00,Italy,0.478984719283045,1,1,it,MED,Europe
 '92ff957955',extremes,Snow&Ice,#d60d2b,wmo,neve svizzera,2026-05-12T05:52:00+00:00,Switzerland,0.4780483364671529,1,2,it,WCE,Europe
@@ -217,6 +216,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e9f196dfee',extremes,Heat Wave,#c40202,wmo,ondata di caldo mendrisiotto,2026-05-27T06:46:00+00:00,Switzerland,0.4100227695322025,0,1,it,WCE,Europe
 '7b012ea9fe',extremes,Storm,#b3b2b1,wmo,temporale alto moesano,2026-05-12T05:52:00+00:00,Switzerland,0.409914807603969,1,1,it,WCE,Europe
 'cefc77a4b3',extremes,Storm,#b3b2b1,wmo,tempesta svizzera,2026-05-12T05:52:00+00:00,Switzerland,0.4090598703025218,1,1,it,WCE,Europe
+'0e8f392ce9',extremes,Drought,#edc291,edo,siccità libia,2026-05-20T06:33:00+00:00,Libya,0.40871504619220683,1,1,it,SAH,Africa
 'dd6b34b96b',extremes,Snow&Ice,#d60d2b,wmo,neve wädenswil rüti,2026-05-01T05:54:00+00:00,Switzerland,0.4083278368962807,1,1,it,WCE,Europe
 '640b0c1fe5',extremes,Storm,#b3b2b1,wmo,tempesta umbria,2026-05-04T05:50:00+00:00,Italy,0.4081267197098129,2,1,it,MED,Europe
 'e64ce1c338',extremes,Storm,#b3b2b1,wmo,tempesta bregaglia,2026-05-12T05:52:00+00:00,Switzerland,0.4080307814368363,1,1,it,WCE,Europe
