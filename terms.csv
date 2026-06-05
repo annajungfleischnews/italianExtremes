@@ -3,6 +3,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7104ad3c83',extremes,Thunderstorm,#53785a,wmo,temporale italia,2026-05-27T06:46:00+00:00,Italy,0.6073392581073668,1,2,it,MED,Europe
 '63b8afd7a4',extremes,Storm,#b3b2b1,wmo,tempesta lazio,2026-04-23T05:16:00+00:00,Italy,0.5868772406422429,2,2,it,MED,Europe
 '997a2e2157',extremes,Earthquake,#870007,usgs,terremoto argentina,2026-05-16T05:40:00+00:00,Argentina,0.5829192965644757,0,1,it,SES,South-America
+'fdaa0a92ad',extremes,Storm,#b3b2b1,wmo,tempesta campania,2026-05-20T06:33:00+00:00,Italy,0.5827455439057753,0,1,it,MED,Europe
 '6076c8543a',extremes,Storm,#b3b2b1,wmo,mareggiata liguria,2026-05-12T05:52:00+00:00,Italy,0.5702673994263485,1,2,it,MED,Europe
 '02711610b5',extremes,Storm,#b3b2b1,wmo,tempesta argentina,2026-04-26T05:25:00+00:00,Argentina,0.5679063678108011,2,2,it,SES,South-America
 '8e5338dae6',extremes,Thunderstorm,#53785a,wmo,salve italia,2026-05-11T06:14:00+00:00,Italy,0.5656977948288722,2,2,it,MED,Europe
@@ -60,6 +61,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a4f740835f',extremes,Storm,#b3b2b1,wmo,tempesta piemontese,2026-04-28T05:45:00+00:00,Italy,0.4792672430048103,2,2,it,MED,Europe
 '065a434526',extremes,Storm,#b3b2b1,wmo,tempesta Abruzzo,2026-05-14T06:02:00+00:00,Italy,0.478984719283045,1,1,it,MED,Europe
 '92ff957955',extremes,Snow&Ice,#d60d2b,wmo,neve svizzera,2026-05-12T05:52:00+00:00,Switzerland,0.4780483364671529,1,2,it,WCE,Europe
+'de4ab1caea',extremes,Precipitation,#d60d2b,wmo,precipitazioni erstfeld engelberg,2026-06-03T07:23:00+00:00,Switzerland,0.4744813982804795,0,1,it,WCE,Europe
 '2acc964cba',extremes,Storm,#b3b2b1,wmo,mareggiata toscana,2026-05-14T06:02:00+00:00,Italy,0.4738805734140131,1,1,it,MED,Europe
 '4c403cc983',extremes,Precipitation,#d60d2b,wmo,piogge torrenziali friuli venezia giulia,2026-05-06T05:43:00+00:00,Italy,0.4717304200602912,1,1,it,MED,Europe
 '71aee81e61',extremes,Storm,#b3b2b1,wmo,mareggiata lazio,2026-05-09T05:36:00+00:00,Italy,0.4715292924533461,1,1,it,MED,Europe
