@@ -1,6 +1,9 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 '887af33c5b',extremes,Snow&Ice,#d60d2b,wmo,gelo svizzera,2026-05-12T05:52:00+00:00,Switzerland,0.6214283006275738,1,2,it,WCE,Europe
+'2cce7328e9',extremes,Storm,#b3b2b1,wmo,tempesta liguria,2026-06-01T07:30:00+00:00,Italy,0.6199119862194283,0,1,it,MED,Europe
 '7104ad3c83',extremes,Thunderstorm,#53785a,wmo,temporale italia,2026-05-27T06:46:00+00:00,Italy,0.6073392581073668,1,2,it,MED,Europe
+'7685a9c1a1',extremes,Storm,#b3b2b1,wmo,mareggiata trentino alto adige,2026-06-02T07:08:00+00:00,Italy,0.6027096448127095,0,1,it,MED,Europe
+'e529bb6ac5',extremes,Precipitation,#d60d2b,wmo,pioggia argentina,2026-05-28T06:38:00+00:00,Argentina,0.5988748935720343,0,1,it,SES,South-America
 '6076c8543a',extremes,Storm,#b3b2b1,wmo,mareggiata liguria,2026-05-12T05:52:00+00:00,Italy,0.5702673994263485,1,2,it,MED,Europe
 '02711610b5',extremes,Storm,#b3b2b1,wmo,tempesta argentina,2026-04-26T05:25:00+00:00,Argentina,0.5679063678108011,2,2,it,SES,South-America
 '8e5338dae6',extremes,Thunderstorm,#53785a,wmo,salve italia,2026-05-11T06:14:00+00:00,Italy,0.5656977948288722,2,2,it,MED,Europe
@@ -234,7 +237,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5e27394d94',extremes,Snow&Ice,#d60d2b,wmo,muotathal gelido,2026-05-12T05:52:00+00:00,Switzerland,0.4030897451449091,1,1,it,WCE,Europe
 '5df2f9cece',extremes,Precipitation,#d60d2b,wmo,acquazzone préalpes vaudoises,2026-05-11T06:14:00+00:00,Switzerland,0.4019677271843209,0,1,it,WCE,Europe
 '4d9577e33d',extremes,Volcano,#b83202,random,vulcano,2026-05-21T06:34:00+00:00,,0.4016653703927666,0,1,it,,
-'6a8f300cf6',extremes,Precipitation,#d60d2b,wmo,precipitazioni hulftegg untertoggenburg,2026-06-03T07:23:00+00:00,Switzerland,0.40138840906112705,1,1,it,WCE,Europe
+'6a8f300cf6',extremes,Precipitation,#d60d2b,wmo,precipitazioni hulftegg untertoggenburg,2026-06-03T07:23:00+00:00,Switzerland,0.401388409061127,1,1,it,WCE,Europe
 'b1adbe63f3',extremes,Snow&Ice,#d60d2b,wmo,il ghiaccio li contiene completamente,2026-05-14T06:02:00+00:00,Switzerland,0.4007819457646716,1,1,it,WCE,Europe
 '5b8cf400f9',extremes,Iceberg,#d60d2b,random,distacco dell'iceberg,2026-05-24T06:22:00+00:00,,0.4007054354312072,0,1,it,,
 'a8955ad6a2',extremes,Cold Wave,#a7e9fa,random,ondata di freddo,2026-05-21T06:34:00+00:00,,0.4004422002238279,0,1,it,,
