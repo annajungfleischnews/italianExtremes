@@ -1,352 +1,382 @@
 ,phrase,label,sentiment,subjectivity,language,count
-first,first,ORDINAL,,,en,23.1
+first,first,ORDINAL,,,en,23.400000000000002
 tomorrow,tomorrow,DATE,,,en,22.699999999999992
 winter,winter,DATE,,,en,19.300000000000004
-Italian,Italian,NORP,,,en,16.900000000000006
-today,today,DATE,,,en,16.7
-two,two,CARDINAL,,,en,16.7
-the weekend,the weekend,DATE,,,en,9.9
+today,today,DATE,,,en,18.3
+two,two,CARDINAL,,,en,18.0
+Italian,Italian,NORP,,,en,17.700000000000006
+the weekend,the weekend,DATE,,,en,10.200000000000001
 Christmas,Christmas,DATE,,,en,9.699999999999998
-one,one,CARDINAL,,,en,8.8
-2026,2026,CARDINAL,,,en,7.099999999999999
-5,5,CARDINAL,,,en,6.6
-Tyrrhenian,Tyrrhenian,NORP,,,en,6.5
+one,one,CARDINAL,,,en,9.400000000000002
+5,5,CARDINAL,,,en,7.3999999999999995
+2026,2026,CARDINAL,,,en,7.399999999999999
+Tyrrhenian,Tyrrhenian,NORP,,,en,7.3
 Monday,Monday,DATE,,,en,6.299999999999999
 recent days,recent days,DATE,,,en,5.999999999999999
 the next few hours,the next few hours,TIME,,,en,5.8
-the Centre-South,the Centre-South,FAC,-0.23597883597883593,1.225573192239859,en,5.3999999999999995
+yesterday,yesterday,DATE,,,en,5.6
+the Centre-South,the Centre-South,FAC,-0.2212301587301587,1.1489748677248677,en,5.3999999999999995
 Saturday,Saturday,DATE,,,en,5.199999999999998
 2025,2025,CARDINAL,,,en,5.1
-yesterday,yesterday,DATE,,,en,4.8999999999999995
-Sunday,Sunday,DATE,,,en,4.8
 Winter,Winter,DATE,,,en,4.8
+Sunday,Sunday,DATE,,,en,4.8
 February,February,DATE,,,en,4.7
 European,European,NORP,,,en,4.699999999999999
 3,3,CARDINAL,,,en,4.6
+three,three,CARDINAL,,,en,4.499999999999999
+Swiss,Swiss,NORP,,,en,4.499999999999999
 May 1st,May 1st,DATE,,,en,4.2
-three,three,CARDINAL,,,en,4.199999999999999
-Ionian,Ionian,NORP,,,en,4.0
 Italians,Italians,NORP,,,en,4.0
-nine,nine,CARDINAL,,,en,3.8
+Ionian,Ionian,NORP,,,en,4.0
+second,second,ORDINAL,,,en,3.999999999999999
+French,French,NORP,,,en,3.899999999999999
 zero,zero,CARDINAL,,,en,3.8
-second,second,ORDINAL,,,en,3.6999999999999993
+nine,nine,CARDINAL,,,en,3.8
+One,One,CARDINAL,,,en,3.6999999999999993
+Two,Two,CARDINAL,,,en,3.6999999999999993
 First,First,ORDINAL,,,en,3.6
+the evening,the evening,TIME,,,en,3.5999999999999996
 Olympics,Olympics,EVENT,,,en,3.5999999999999996
-French,French,NORP,,,en,3.599999999999999
 Friday,Friday,DATE,,,en,3.599999999999999
-the World Cup,the World Cup,EVENT,,,en,3.5
+days,days,DATE,,,en,3.5
 recent years,recent years,DATE,,,en,3.5
+the World Cup,the World Cup,EVENT,,,en,3.5
 a week,a week,DATE,,,en,3.499999999999999
 Tomorrow,Tomorrow,DATE,,,en,3.3999999999999995
-Two,Two,CARDINAL,,,en,3.3999999999999995
-Swiss,Swiss,NORP,,,en,3.3
+1,1,CARDINAL,,,en,3.3999999999999995
+the Centre-North,the Centre-North,FAC,-0.2166666666666665,3.408333333333333,en,3.3
 10,10,CARDINAL,,,en,3.3
-the evening,the evening,TIME,,,en,3.3
+the night,the night,TIME,,,en,3.3
 Russian,Russian,NORP,,,en,3.2
-five,five,CARDINAL,,,en,3.1999999999999997
+African,African,NORP,,,en,3.2
 Today,Today,DATE,,,en,3.1999999999999997
-the night,the night,TIME,,,en,3.0999999999999996
-1,1,CARDINAL,,,en,3.0999999999999996
-Molise,Molise,FAC,0.052195340501792094,0.18257168458781353,en,3.0999999999999996
+five,five,CARDINAL,,,en,3.1999999999999997
 this morning,this morning,TIME,,,en,3.0999999999999996
+Molise,Molise,FAC,0.052195340501792094,0.18257168458781353,en,3.0999999999999996
 American,American,NORP,,,en,3.0
-the Centre-North,the Centre-North,FAC,-0.2166666666666665,3.408333333333333,en,3.0
-One,One,CARDINAL,,,en,2.8999999999999995
+weekend,weekend,DATE,,,en,2.8
 years,years,DATE,,,en,2.8
-days,days,DATE,,,en,2.8
-the Winter Olympics,the Winter Olympics,EVENT,,,en,2.7
+the last few hours,the last few hours,TIME,,,en,2.7
 up to 10 meters,up to 10 meters,QUANTITY,,,en,2.7
 two days,two days,DATE,,,en,2.7
+the Winter Olympics,the Winter Olympics,EVENT,,,en,2.7
 night,night,TIME,,,en,2.6999999999999997
-Allegri,Allegri,NORP,,,en,2.6
 Ukrainian,Ukrainian,NORP,,,en,2.6
-the last few days,the last few days,DATE,,,en,2.5999999999999996
+Allegri,Allegri,NORP,,,en,2.6
 2,2,CARDINAL,,,en,2.5999999999999996
-ten,ten,CARDINAL,,,en,2.5
-Wednesday,Wednesday,DATE,,,en,2.5
-weekend,weekend,DATE,,,en,2.5
+the last few days,the last few days,DATE,,,en,2.5999999999999996
 Dolomites,Dolomites,NORP,,,en,2.5
+Wednesday,Wednesday,DATE,,,en,2.5
+ten,ten,CARDINAL,,,en,2.5
 Thursday,Thursday,DATE,,,en,2.4999999999999996
+Apennines,Apennines,NORP,,,en,2.4000000000000004
 January,January,DATE,,,en,2.4
-African,African,NORP,,,en,2.4
-90,90,CARDINAL,,,en,2.4
-one year,one year,DATE,,,en,2.4
-March,March,DATE,,,en,2.4
-Friuli Venezia Giulia,Friuli Venezia Giulia,FAC,,,en,2.4
 Sicilian,Sicilian,NORP,,,en,2.4
+one year,one year,DATE,,,en,2.4
+90,90,CARDINAL,,,en,2.4
+Friuli Venezia Giulia,Friuli Venezia Giulia,FAC,,,en,2.4
+March,March,DATE,,,en,2.4
 Easter,Easter,EVENT,0.062121212121212126,0.47323232323232317,en,2.3
 Vesuvius,Vesuvius,FAC,0.375,1.4166666666666665,en,2.3
-evening,evening,TIME,,,en,2.3
 four,four,CARDINAL,,,en,2.3
+evening,evening,TIME,,,en,2.3
 360,360,CARDINAL,,,en,2.2
 8,8,CARDINAL,,,en,2.1
-this year,this year,DATE,,,en,2.0
+these days,these days,DATE,,,en,2.1
 Calabrian,Calabrian,NORP,,,en,2.0
-the last few hours,the last few hours,TIME,,,en,2.0
-dozens,dozens,CARDINAL,,,en,2.0
-spring,spring,DATE,,,en,2.0
-Saharan,Saharan,NORP,,,en,2.0
 recent weeks,recent weeks,DATE,,,en,2.0
+dozens,dozens,CARDINAL,,,en,2.0
+Saharan,Saharan,NORP,,,en,2.0
+14,14,CARDINAL,,,en,2.0
+this year,this year,DATE,,,en,2.0
+spring,spring,DATE,,,en,2.0
+7,7,CARDINAL,,,en,2.0
 Spanish,Spanish,NORP,,,en,1.9000000000000001
-24 hours,24 hours,TIME,,,en,1.9000000000000001
+summer 2026,summer 2026,DATE,,,en,1.9000000000000001
 Three,Three,CARDINAL,,,en,1.9000000000000001
 next week,next week,DATE,,,en,1.9000000000000001
-summer 2026,summer 2026,DATE,,,en,1.9000000000000001
-"1,300 miles","1,300 miles",QUANTITY,,,en,1.9
-20°,20°,QUANTITY,,,en,1.9
+24 hours,24 hours,TIME,,,en,1.9000000000000001
 5 months,5 months,DATE,,,en,1.9
 6.4,6.4,CARDINAL,,,en,1.9
-millions,millions,CARDINAL,,,en,1.8
-a very white Christmas,a very white Christmas,DATE,,,en,1.8
+20°,20°,QUANTITY,,,en,1.9
+"1,300 miles","1,300 miles",QUANTITY,,,en,1.9
+6,6,CARDINAL,,,en,1.8
 half,half,CARDINAL,,,en,1.8
-a weekend,a weekend,DATE,,,en,1.7
-13,13,DATE,,,en,1.7
-2024,2024,DATE,,,en,1.7
-11 to 20 February,11 to 20 February,DATE,,,en,1.7
-Cyclone Harry,Cyclone Harry,WORK_OF_ART,,,en,1.7
-eight months,eight months,DATE,,,en,1.7
-between Wednesday and Thursday,between Wednesday and Thursday,DATE,,,en,1.7
-the next few days,the next few days,DATE,,,en,1.7
-afternoon,afternoon,TIME,,,en,1.7
-740 million euros,740 million euros,MONEY,,,en,1.7
-up to,up to,QUANTITY,,,en,1.7
-195,195,CARDINAL,,,en,1.7
-these hours,these hours,TIME,,,en,1.7
-10 degrees,10 degrees,QUANTITY,,,en,1.7
+48 hours,48 hours,TIME,,,en,1.8
+a very white Christmas,a very white Christmas,DATE,,,en,1.8
+millions,millions,CARDINAL,,,en,1.8
+week,week,DATE,,,en,1.8
 the end of the year,the end of the year,DATE,,,en,1.7
-two weeks,two weeks,DATE,,,en,1.7
-50,50,CARDINAL,,,en,1.7
-April 21st,April 21st,DATE,,,en,1.7
-the last week,the last week,DATE,,,en,1.7
-the early hours,the early hours,TIME,,,en,1.7
-2100,2100,CARDINAL,,,en,1.7
-the 31st day,the 31st day,DATE,,,en,1.7
-morning,morning,TIME,,,en,1.7
-376,376,CARDINAL,,,en,1.7
+between Wednesday and Thursday,between Wednesday and Thursday,DATE,,,en,1.7
+eight months,eight months,DATE,,,en,1.7
+10 degrees,10 degrees,QUANTITY,,,en,1.7
+up to,up to,QUANTITY,,,en,1.7
+a weekend,a weekend,DATE,,,en,1.7
 2015,2015,DATE,,,en,1.7
-6-7 degrees,6-7 degrees,QUANTITY,,,en,1.7
-a hundred meters,a hundred meters,QUANTITY,,,en,1.7
-the end of the century,the end of the century,DATE,,,en,1.7
-"above 2,300 meters","above 2,300 meters",QUANTITY,,,en,1.7
 Gennargentu,Gennargentu,NORP,,,en,1.7
+11 to 20 February,11 to 20 February,DATE,,,en,1.7
+the end of the century,the end of the century,DATE,,,en,1.7
+6-7 degrees,6-7 degrees,QUANTITY,,,en,1.7
+the next few days,the next few days,DATE,,,en,1.7
+2024,2024,DATE,,,en,1.7
+50,50,CARDINAL,,,en,1.7
+376,376,CARDINAL,,,en,1.7
 The days,The days,DATE,,,en,1.7
+the 31st day,the 31st day,DATE,,,en,1.7
+740 million euros,740 million euros,MONEY,,,en,1.7
+these hours,these hours,TIME,,,en,1.7
+a hundred meters,a hundred meters,QUANTITY,,,en,1.7
+195,195,CARDINAL,,,en,1.7
+afternoon,afternoon,TIME,,,en,1.7
+the early hours,the early hours,TIME,,,en,1.7
 Iranian,Iranian,NORP,,,en,1.7
-7,7,CARDINAL,,,en,1.7
+two weeks,two weeks,DATE,,,en,1.7
+13,13,DATE,,,en,1.7
 Another 48 hours,Another 48 hours,TIME,,,en,1.7
+the last week,the last week,DATE,,,en,1.7
+April 21st,April 21st,DATE,,,en,1.7
 third,third,ORDINAL,,,en,1.7
-Christmas week,Christmas week,DATE,,,en,1.6
-Apennines,Apennines,NORP,,,en,1.6
-the year,the year,DATE,,,en,1.6
-26.2,26.2,PRODUCT,,,en,1.6
-iOS 26.2,iOS 26.2,PRODUCT,,,en,1.6
-"About 4,200 years ago","About 4,200 years ago",DATE,,,en,1.6
-Egyptian,Egyptian,NORP,,,en,1.6
-the Italian Cup,the Italian Cup,EVENT,,,en,1.6
-"4,200 years ago","4,200 years ago",DATE,,,en,1.6
+morning,morning,TIME,,,en,1.7
+2100,2100,CARDINAL,,,en,1.7
+"above 2,300 meters","above 2,300 meters",QUANTITY,,,en,1.7
+the months,the months,DATE,,,en,1.7
+Cyclone Harry,Cyclone Harry,WORK_OF_ART,,,en,1.7
 15 years,15 years,DATE,,,en,1.6
-eight,eight,CARDINAL,,,en,1.6
-X4,X4,CARDINAL,,,en,1.6
-quarter,quarter,DATE,,,en,1.6
 500,500,CARDINAL,,,en,1.6
-the summer,the summer,DATE,,,en,1.6
-Easter Monday,Easter Monday,EVENT,,,en,1.6
+fifth,fifth,ORDINAL,,,en,1.6
+"About 4,200 years ago","About 4,200 years ago",DATE,,,en,1.6
 Norwegian,Norwegian,NORP,,,en,1.6
+Egyptian,Egyptian,NORP,,,en,1.6
 This year,This year,DATE,,,en,1.6
 129,129,CARDINAL,,,en,1.6
+26.2,26.2,PRODUCT,,,en,1.6
+the year,the year,DATE,,,en,1.6
+Easter Monday,Easter Monday,EVENT,,,en,1.6
+X4,X4,CARDINAL,,,en,1.6
+quarter,quarter,DATE,,,en,1.6
+Christmas week,Christmas week,DATE,,,en,1.6
+eight,eight,CARDINAL,,,en,1.6
+the summer,the summer,DATE,,,en,1.6
+"4,200 years ago","4,200 years ago",DATE,,,en,1.6
+the Italian Cup,the Italian Cup,EVENT,,,en,1.6
+iOS 26.2,iOS 26.2,PRODUCT,,,en,1.6
 Tuscan,Tuscan,NORP,,,en,1.5
 the day,the day,DATE,,,en,1.5
-hundreds,hundreds,CARDINAL,,,en,1.3
-1946-2026,1946-2026,DATE,,,en,1.3
-English,English,LANGUAGE,,,en,1.3
-14,14,CARDINAL,,,en,1.3
-Crans,Crans,NORP,,,en,1.3
-the Middle Ages,the Middle Ages,DATE,,,en,1.3
-73 million years ago,73 million years ago,DATE,,,en,1.3
-May 23-24,May 23-24,DATE,,,en,1.3
-Christmas 2025,Christmas 2025,DATE,,,en,1.3
-Siri,Siri,PRODUCT,,,en,1.3
-Cursor,Cursor,PRODUCT,,,en,1.3
-600-700 metres,600-700 metres,QUANTITY,,,en,1.3
-the second half,the second half,DATE,,,en,1.3
-Tuesday,Tuesday,DATE,,,en,1.3
-iLMeteo.it,iLMeteo.it,FAC,,,en,1.3
-fifth,fifth,ORDINAL,,,en,1.3
-the first half,the first half,DATE,,,en,1.3
-Yesterday,Yesterday,DATE,,,en,1.3
-"over 15,000 hectares","over 15,000 hectares",QUANTITY,,,en,1.3
-North African,North African,NORP,,,en,1.3
-April,April,DATE,,,en,1.3
-A few hours,A few hours,TIME,,,en,1.3
-"3,000","3,000",CARDINAL,,,en,1.3
-"15,000 hectares","15,000 hectares",QUANTITY,,,en,1.3
-Milan Design Week,Milan Design Week,EVENT,,,en,1.3
-May 2026,May 2026,DATE,,,en,1.3
-the Galaxy Z TriFold,the Galaxy Z TriFold,PRODUCT,,,en,1.3
-ten years,ten years,DATE,,,en,1.3
-Abruzzo airport,Abruzzo airport,FAC,,,en,1.3
-the Summer Olympics,the Summer Olympics,EVENT,,,en,1.3
 Padova,Padova,NORP,,,en,1.3
-early 2026,early 2026,DATE,,,en,1.3
-month,month,DATE,,,en,1.3
-2022,2022,DATE,,,en,1.3
-"today, Thursday 8 January","today, Thursday 8 January",DATE,,,en,1.3
-3.5,3.5,CARDINAL,,,en,1.3
-35 years,35 years,DATE,,,en,1.3
-this week,this week,DATE,,,en,1.3
-Aosta,Aosta,NORP,0.2543859649122807,0.37426900584795325,en,1.3
-May 1st long weekend,May 1st long weekend,DATE,,,en,1.3
-26,26,CARDINAL,,,en,1.3
-"the ""red code""","the ""red code""",LAW,,,en,1.3
-these days,these days,DATE,,,en,1.3
-next year,next year,DATE,,,en,1.3
-Brazilian,Brazilian,NORP,,,en,1.3
-40 meter,40 meter,QUANTITY,,,en,1.3
-the Center-South,the Center-South,FAC,,,en,1.3
-only one,only one,CARDINAL,,,en,1.3
-21 million,21 million,CARDINAL,,,en,1.3
 New Year's Eve,New Year's Eve,EVENT,,,en,1.3
+German,German,NORP,,,en,1.3
 80,80,CARDINAL,,,en,1.3
+Aosta,Aosta,NORP,0.2543859649122807,0.37426900584795325,en,1.3
 25,25,CARDINAL,,,en,1.3
-the Immaculate Conception,the Immaculate Conception,WORK_OF_ART,,,en,1.2
+Milan Design Week,Milan Design Week,EVENT,,,en,1.3
+21 million,21 million,CARDINAL,,,en,1.3
+A few hours,A few hours,TIME,,,en,1.3
+North African,North African,NORP,,,en,1.3
+month,month,DATE,,,en,1.3
+1946-2026,1946-2026,DATE,,,en,1.3
+26,26,CARDINAL,,,en,1.3
+Christmas 2025,Christmas 2025,DATE,,,en,1.3
+"15,000 hectares","15,000 hectares",QUANTITY,,,en,1.3
+only one,only one,CARDINAL,,,en,1.3
+early 2026,early 2026,DATE,,,en,1.3
+ten years,ten years,DATE,,,en,1.3
+hundreds,hundreds,CARDINAL,,,en,1.3
+English,English,LANGUAGE,,,en,1.3
+iLMeteo.it,iLMeteo.it,FAC,,,en,1.3
+Cursor,Cursor,PRODUCT,,,en,1.3
+the second half,the second half,DATE,,,en,1.3
+the first half,the first half,DATE,,,en,1.3
+May 2026,May 2026,DATE,,,en,1.3
+"the ""red code""","the ""red code""",LAW,,,en,1.3
+2022,2022,DATE,,,en,1.3
+Abruzzo airport,Abruzzo airport,FAC,,,en,1.3
+the early afternoon,the early afternoon,TIME,,,en,1.3
+next year,next year,DATE,,,en,1.3
+the Galaxy Z TriFold,the Galaxy Z TriFold,PRODUCT,,,en,1.3
+3.5,3.5,CARDINAL,,,en,1.3
+Siri,Siri,PRODUCT,,,en,1.3
+73 million years ago,73 million years ago,DATE,,,en,1.3
+the Summer Olympics,the Summer Olympics,EVENT,,,en,1.3
+May 23-24,May 23-24,DATE,,,en,1.3
+35 years,35 years,DATE,,,en,1.3
+"over 15,000 hectares","over 15,000 hectares",QUANTITY,,,en,1.3
+"3,000","3,000",CARDINAL,,,en,1.3
+the Middle Ages,the Middle Ages,DATE,,,en,1.3
+the Center-South,the Center-South,FAC,,,en,1.3
+24 degrees,24 degrees,QUANTITY,,,en,1.3
+this week,this week,DATE,,,en,1.3
+May 1st long weekend,May 1st long weekend,DATE,,,en,1.3
+Tuesday,Tuesday,DATE,,,en,1.3
+Yesterday,Yesterday,DATE,,,en,1.3
+April,April,DATE,,,en,1.3
+Brazilian,Brazilian,NORP,,,en,1.3
+Crans,Crans,NORP,,,en,1.3
+40 meter,40 meter,QUANTITY,,,en,1.3
+600-700 metres,600-700 metres,QUANTITY,,,en,1.3
+around 1000 meters,around 1000 meters,QUANTITY,,,en,1.3
+"today, Thursday 8 January","today, Thursday 8 January",DATE,,,en,1.3
+twenty-year-old,twenty-year-old,DATE,,,en,1.2
 Autumn,Autumn,DATE,,,en,1.2
+the Immaculate Conception,the Immaculate Conception,WORK_OF_ART,,,en,1.2
 11-12 April,11-12 April,DATE,,,en,1.2
 the 1980s and 1990s,the 1980s and 1990s,DATE,,,en,1.1
 100,100,CARDINAL,,,en,1.1
 2005,2005,DATE,,,en,1.1
 the heaviest year,the heaviest year,DATE,,,en,1.1
-between 14 and 19 March,between 14 and 19 March,DATE,,,en,1.0
+the first days of spring,the first days of spring,DATE,,,en,1.0
+Five,Five,CARDINAL,,,en,1.0
 over two meters,over two meters,QUANTITY,,,en,1.0
-the last white weekend of this month,the last white weekend of this month,DATE,,,en,1.0
 96,96,CARDINAL,,,en,1.0
-Fvg,Fvg,NORP,,,en,1.0
-Dozens,Dozens,CARDINAL,,,en,1.0
-Thousands of hectares,Thousands of hectares,QUANTITY,,,en,1.0
-the last winter,the last winter,DATE,,,en,1.0
-the last three days,the last three days,DATE,,,en,1.0
-the months,the months,DATE,,,en,1.0
-the morning,the morning,TIME,,,en,1.0
+Winter to spring,Winter to spring,DATE,,,en,1.0
+Anticyclone,Anticyclone,PRODUCT,,,en,1.0
+Easter weekend,Easter weekend,DATE,,,en,1.0
+2 billion euros,2 billion euros,MONEY,,,en,1.0
+the last white weekend of this month,the last white weekend of this month,DATE,,,en,1.0
 10 cm,10 cm,QUANTITY,,,en,1.0
-over 100,over 100,CARDINAL,,,en,1.0
-three days,three days,DATE,,,en,1.0
+40,40,CARDINAL,,,en,1.0
+hundreds of metres,hundreds of metres,QUANTITY,,,en,1.0
+above a thousand metres,above a thousand metres,QUANTITY,,,en,1.0
+late yesterday,late yesterday,DATE,,,en,1.0
+Sea Watch,Sea Watch,FAC,,,en,1.0
+90 centimeters,90 centimeters,QUANTITY,,,en,1.0
+the last three days,the last three days,DATE,,,en,1.0
+up to 100 mm,up to 100 mm,QUANTITY,,,en,1.0
+the last winter,the last winter,DATE,,,en,1.0
+Thousands of hectares,Thousands of hectares,QUANTITY,,,en,1.0
+Dozens,Dozens,CARDINAL,,,en,1.0
+Easter Eve,Easter Eve,DATE,,,en,1.0
 the Easter holidays,the Easter holidays,DATE,,,en,1.0
 the whole week: days,the whole week: days,DATE,,,en,1.0
+last week's,last week's,DATE,,,en,1.0
 44,44,CARDINAL,,,en,1.0
-5 days,5 days,DATE,,,en,1.0
-Sea Watch,Sea Watch,FAC,,,en,1.0
-late yesterday,late yesterday,DATE,,,en,1.0
-2 billion euros,2 billion euros,MONEY,,,en,1.0
-216 km per hour,216 km per hour,QUANTITY,,,en,1.0
-Easter Eve,Easter Eve,DATE,,,en,1.0
-Winter week,Winter week,DATE,,,en,1.0
-above a thousand metres,above a thousand metres,QUANTITY,,,en,1.0
-41 years old,41 years old,DATE,,,en,1.0
-autumn,autumn,DATE,,,en,1.0
-under 1.60 meters,under 1.60 meters,QUANTITY,,,en,1.0
-24 degrees,24 degrees,QUANTITY,,,en,1.0
-250 meters,250 meters,QUANTITY,,,en,1.0
-Anticyclone,Anticyclone,PRODUCT,,,en,1.0
-Winter to spring,Winter to spring,DATE,,,en,1.0
-the first days of spring,the first days of spring,DATE,,,en,1.0
 A few more days,A few more days,DATE,,,en,1.0
-40,40,CARDINAL,,,en,1.0
-Ravennate,Ravennate,PRODUCT,,,en,1.0
-late spring,late spring,DATE,,,en,1.0
-up to 100 mm,up to 100 mm,QUANTITY,,,en,1.0
-90 centimeters,90 centimeters,QUANTITY,,,en,1.0
+20 million euros,20 million euros,MONEY,,,en,1.0
 Arianese,Arianese,NORP,,,en,1.0
-Unstable weekend,Unstable weekend,DATE,,,en,1.0
-up to 400 meters,up to 400 meters,QUANTITY,,,en,1.0
-at least 10,at least 10,CARDINAL,,,en,1.0
-alert day,alert day,DATE,,,en,1.0
-Fifty-two,Fifty-two,CARDINAL,,,en,1.0
-Ferrarese,Ferrarese,NORP,,,en,1.0
-between January and March 2026,between January and March 2026,DATE,,,en,1.0
-the wettest January of the last 61 years,the wettest January of the last 61 years,DATE,,,en,1.0
-20 meters,20 meters,QUANTITY,,,en,1.0
-Festival,Festival,EVENT,,,en,1.0
-Sanremo 2026,Sanremo 2026,EVENT,,,en,1.0
-9.1 million,9.1 million,CARDINAL,,,en,1.0
-Out of Competition,Out of Competition,EVENT,,,en,1.0
-6.7 billion,6.7 billion,CARDINAL,,,en,1.0
-approximately 9.1 million,approximately 9.1 million,MONEY,,,en,1.0
-6.4 million,6.4 million,CARDINAL,,,en,1.0
-the Torino Film Festival,the Torino Film Festival,EVENT,,,en,1.0
-a skiing week,a skiing week,DATE,,,en,1.0
-700 thousand,700 thousand,CARDINAL,,,en,1.0
-10.20 am,10.20 am,TIME,,,en,1.0
-Pozzuoli,Pozzuoli,NORP,,,en,1.0
-last night,last night,TIME,,,en,1.0
+5 days,5 days,DATE,,,en,1.0
+three days,three days,DATE,,,en,1.0
+every minute,every minute,TIME,,,en,1.0
+between 14 and 19 March,between 14 and 19 March,DATE,,,en,1.0
+"1,400 metres","1,400 metres",QUANTITY,,,en,1.0
 between 15 and 22 degrees,between 15 and 22 degrees,CARDINAL,,,en,1.0
 the days,the days,DATE,,,en,1.0
 between 11 and 20 February 2026,between 11 and 20 February 2026,DATE,,,en,1.0
-30 million,30 million,CARDINAL,,,en,1.0
-the Doha tournament,the Doha tournament,EVENT,,,en,1.0
-20 thousand,20 thousand,CARDINAL,,,en,1.0
-24 years old,24 years old,DATE,,,en,1.0
-more than a billion,more than a billion,MONEY,,,en,1.0
-Buffer measure,Buffer measure,WORK_OF_ART,,,en,1.0
-18 January 2026,18 January 2026,DATE,,,en,1.0
-Indonesian,Indonesian,NORP,,,en,1.0
-84,84,DATE,,,en,1.0
-86,86,CARDINAL,,,en,1.0
-over 20 million,over 20 million,CARDINAL,,,en,1.0
-20 million euros,20 million euros,MONEY,,,en,1.0
-last week's,last week's,DATE,,,en,1.0
-just before 2pm,just before 2pm,TIME,,,en,1.0
-at least 4-5,at least 4-5,CARDINAL,,,en,1.0
-Sibari,Sibari,NORP,,,en,1.0
-2016-2017,2016-2017,DATE,,,en,1.0
-4 days,4 days,DATE,,,en,1.0
-every minute,every minute,TIME,,,en,1.0
-Cortina,Cortina,NORP,0.0,0.0,en,1.0
-Tenth,Tenth,ORDINAL,,,en,1.0
 Russians,Russians,NORP,,,en,1.0
 15 million euros,15 million euros,MONEY,,,en,1.0
-at least 3-4 days,at least 3-4 days,CARDINAL,,,en,1.0
-'79,'79,DATE,,,en,1.0
-between 700 and 1000 meters,between 700 and 1000 meters,QUANTITY,,,en,1.0
-the beginning of the year,the beginning of the year,DATE,,,en,1.0
-Ten days,Ten days,DATE,,,en,1.0
-the eve of the last World Cup,the eve of the last World Cup,DATE,,,en,1.0
-Lake Placid,Lake Placid,FAC,,,en,1.0
-early spring,early spring,DATE,,,en,1.0
-Northerner,Northerner,NORP,,,en,1.0
-the age of 84,the age of 84,DATE,,,en,1.0
-autonomist,autonomist,NORP,,,en,1.0
 a year,a year,DATE,,,en,1.0
-2004,2004,DATE,,,en,1.0
-the Latemar Snowpark,the Latemar Snowpark,FAC,,,en,1.0
-up to 500 meters,up to 500 meters,QUANTITY,,,en,1.0
-Wednesday 25 March,Wednesday 25 March,DATE,,,en,1.0
-300 metres,300 metres,QUANTITY,,,en,1.0
-400 m,400 m,QUANTITY,,,en,1.0
-next night,next night,TIME,,,en,1.0
-up to 8 metres,up to 8 metres,QUANTITY,,,en,1.0
-hundreds of metres,hundreds of metres,QUANTITY,,,en,1.0
-Cosentino,Cosentino,NORP,0.0,0.0,en,1.0
-another night,another night,TIME,,,en,1.0
-10°,10°,QUANTITY,,,en,1.0
 a further twelve months,a further twelve months,DATE,,,en,1.0
 the year of the Winter Olympics,the year of the Winter Olympics,DATE,,,en,1.0
-"1,400 metres","1,400 metres",QUANTITY,,,en,1.0
 between summer,between summer,DATE,,,en,1.0
+Pozzuoli,Pozzuoli,NORP,,,en,1.0
 over 100 mm,over 100 mm,QUANTITY,,,en,1.0
 a meter,a meter,QUANTITY,,,en,1.0
-32%,32%,PERCENT,,,en,1.0
+at least 4-5,at least 4-5,CARDINAL,,,en,1.0
 more than a meter,more than a meter,QUANTITY,,,en,1.0
 5s,5s,CARDINAL,,,en,1.0
 the third hottest year,the third hottest year,DATE,,,en,1.0
 260 billion dollars,260 billion dollars,MONEY,,,en,1.0
 100 billion,100 billion,CARDINAL,,,en,1.0
+last night,last night,TIME,,,en,1.0
+10.20 am,10.20 am,TIME,,,en,1.0
+Winter week,Winter week,DATE,,,en,1.0
+2016-2017,2016-2017,DATE,,,en,1.0
+Tenth,Tenth,ORDINAL,,,en,1.0
+24 years old,24 years old,DATE,,,en,1.0
+20 thousand,20 thousand,CARDINAL,,,en,1.0
+the Doha tournament,the Doha tournament,EVENT,,,en,1.0
+30 million,30 million,CARDINAL,,,en,1.0
+the wettest January of the last 61 years,the wettest January of the last 61 years,DATE,,,en,1.0
+4 days,4 days,DATE,,,en,1.0
+20 meters,20 meters,QUANTITY,,,en,1.0
+Festival,Festival,EVENT,,,en,1.0
+700 thousand,700 thousand,CARDINAL,,,en,1.0
+Sanremo 2026,Sanremo 2026,EVENT,,,en,1.0
+9.1 million,9.1 million,CARDINAL,,,en,1.0
+6.7 billion,6.7 billion,CARDINAL,,,en,1.0
+approximately 9.1 million,approximately 9.1 million,MONEY,,,en,1.0
+between January and March 2026,between January and March 2026,DATE,,,en,1.0
+6.4 million,6.4 million,CARDINAL,,,en,1.0
+a skiing week,a skiing week,DATE,,,en,1.0
+Sibari,Sibari,NORP,,,en,1.0
 April',April',DATE,,,en,1.0
 the past weeks,the past weeks,DATE,,,en,1.0
 8.00 pm,8.00 pm,TIME,,,en,1.0
+the morning,the morning,TIME,,,en,1.0
+400 m,400 m,QUANTITY,,,en,1.0
+next night,next night,TIME,,,en,1.0
+up to 8 metres,up to 8 metres,QUANTITY,,,en,1.0
+at least 3-4 days,at least 3-4 days,CARDINAL,,,en,1.0
+Ferrarese,Ferrarese,NORP,,,en,1.0
+Ravennate,Ravennate,PRODUCT,,,en,1.0
+alert day,alert day,DATE,,,en,1.0
+over 100,over 100,CARDINAL,,,en,1.0
+Fvg,Fvg,NORP,,,en,1.0
 Balkan,Balkan,NORP,,,en,1.0
+216 km per hour,216 km per hour,QUANTITY,,,en,1.0
+at least 10,at least 10,CARDINAL,,,en,1.0
+up to 400 meters,up to 400 meters,QUANTITY,,,en,1.0
+Unstable weekend,Unstable weekend,DATE,,,en,1.0
+late spring,late spring,DATE,,,en,1.0
+250 meters,250 meters,QUANTITY,,,en,1.0
+under 1.60 meters,under 1.60 meters,QUANTITY,,,en,1.0
+41 years old,41 years old,DATE,,,en,1.0
+300 metres,300 metres,QUANTITY,,,en,1.0
+Wednesday 25 March,Wednesday 25 March,DATE,,,en,1.0
+up to 500 meters,up to 500 meters,QUANTITY,,,en,1.0
+the Latemar Snowpark,the Latemar Snowpark,FAC,,,en,1.0
 900-1000 meters,900-1000 meters,QUANTITY,,,en,1.0
-Games,Games,EVENT,,,en,1.0
-five million,five million,CARDINAL,,,en,1.0
-Five,Five,CARDINAL,,,en,1.0
-Easter weekend,Easter weekend,DATE,,,en,1.0
+10°,10°,QUANTITY,,,en,1.0
+just before 2pm,just before 2pm,TIME,,,en,1.0
+another night,another night,TIME,,,en,1.0
+Cosentino,Cosentino,NORP,0.0,0.0,en,1.0
+between 700 and 1000 meters,between 700 and 1000 meters,QUANTITY,,,en,1.0
+the beginning of the year,the beginning of the year,DATE,,,en,1.0
+full spring,full spring,DATE,,,en,1.0
+Ten days,Ten days,DATE,,,en,1.0
+the eve of the last World Cup,the eve of the last World Cup,DATE,,,en,1.0
+Lake Placid,Lake Placid,FAC,,,en,1.0
+early spring,early spring,DATE,,,en,1.0
+Cortina,Cortina,NORP,0.0,0.0,en,1.0
+the age of 84,the age of 84,DATE,,,en,1.0
+'79,'79,DATE,,,en,1.0
+autonomist,autonomist,NORP,,,en,1.0
+2004,2004,DATE,,,en,1.0
+Northerner,Northerner,NORP,,,en,1.0
+the 31st,the 31st,DATE,,,en,1.0
+at least two years,at least two years,DATE,,,en,1.0
+Pluto,Pluto,PRODUCT,,,en,1.0
+the Italic Sanctuary,the Italic Sanctuary,FAC,,,en,1.0
+Mother's Day,Mother's Day,EVENT,,,en,1.0
+The first half of May,The first half of May,DATE,,,en,1.0
+the last five years,the last five years,DATE,,,en,1.0
+Argentine,Argentine,NORP,,,en,1.0
+Dutch,Dutch,NORP,,,en,1.0
+Le Mans | Times,Le Mans | Times,EVENT,,,en,1.0
+the 2026,the 2026,EVENT,,,en,1.0
+Between Saturday and Sunday,Between Saturday and Sunday,DATE,,,en,1.0
+Apennine,Apennine,NORP,,,en,1.0
+Frenchwoman,Frenchwoman,NORP,,,en,1.0
+the Week,the Week,DATE,,,en,1.0
+Copernicus Sentinel-1,Copernicus Sentinel-1,PRODUCT,,,en,1.0
+Poschiavino,Poschiavino,NORP,,,en,1.0
+Adda,Adda,NORP,,,en,1.0
+Lake Antrona,Lake Antrona,FAC,,,en,1.0
+1070 meters,1070 meters,QUANTITY,,,en,1.0
+Mid-May,Mid-May,DATE,,,en,1.0
+the perfect days,the perfect days,DATE,,,en,1.0
+mid-May,mid-May,DATE,,,en,1.0
+thousand-year-old,thousand-year-old,DATE,,,en,1.0
+Marrese,Marrese,NORP,,,en,1.0
+mid-summer,mid-summer,DATE,,,en,1.0
+early summer,early summer,DATE,,,en,1.0
+the first two months of 2026,the first two months of 2026,DATE,,,en,1.0
+the previous year,the previous year,DATE,,,en,1.0
+one million hectares,one million hectares,QUANTITY,,,en,1.0
+at least 95%,at least 95%,PERCENT,,,en,1.0
+April 12,April 12,DATE,,,en,1.0
+May Day,May Day,DATE,,,en,1.0
+15 centimeters,15 centimeters,QUANTITY,,,en,1.0
+30 million cubic meters,30 million cubic meters,QUANTITY,,,en,1.0
+more than a decade,more than a decade,DATE,,,en,1.0
 24,24,CARDINAL,,,en,1.0
 New week,New week,DATE,,,en,1.0
 "today, May 2nd: sunny weekend","today, May 2nd: sunny weekend",DATE,,,en,1.0
@@ -357,19 +387,116 @@ the week,the week,DATE,,,en,1.0
 around a thousand,around a thousand,CARDINAL,,,en,1.0
 May,May,DATE,,,en,1.0
 sunny days,sunny days,DATE,,,en,1.0
-early summer,early summer,DATE,,,en,1.0
-mid-summer,mid-summer,DATE,,,en,1.0
-Marrese,Marrese,NORP,,,en,1.0
-thousand-year-old,thousand-year-old,DATE,,,en,1.0
-around 1000 meters,around 1000 meters,QUANTITY,,,en,1.0
-the Italic Sanctuary,the Italic Sanctuary,FAC,,,en,1.0
-Mother's Day,Mother's Day,EVENT,,,en,1.0
-The first half of May,The first half of May,DATE,,,en,1.0
-the last five years,the last five years,DATE,,,en,1.0
-more than a decade,more than a decade,DATE,,,en,1.0
-30 million cubic meters,30 million cubic meters,QUANTITY,,,en,1.0
-15 centimeters,15 centimeters,QUANTITY,,,en,1.0
+45 days,45 days,DATE,,,en,1.0
+A day,A day,DATE,,,en,1.0
+1592 meters,1592 meters,QUANTITY,,,en,1.0
+the whole week,the whole week,DATE,,,en,1.0
+Path of the Fairies,Path of the Fairies,WORK_OF_ART,,,en,1.0
+Lombok,Lombok,LANGUAGE,,,en,1.0
+883 meters,883 meters,QUANTITY,,,en,1.0
+the end of,the end of,DATE,,,en,1.0
+a few minutes,a few minutes,TIME,,,en,1.0
+The Lame Rosse,The Lame Rosse,WORK_OF_ART,,,en,1.0
+about 70 kilometers,about 70 kilometers,QUANTITY,,,en,1.0
+fifteen,fifteen,CARDINAL,,,en,1.0
+2.1 billion,2.1 billion,CARDINAL,,,en,1.0
+approximately 143 metres,approximately 143 metres,QUANTITY,,,en,1.0
+"over 58,000 hectares","over 58,000 hectares",QUANTITY,,,en,1.0
+5 percent,5 percent,PERCENT,,,en,1.0
+12 years,12 years,DATE,,,en,1.0
+300,300,CARDINAL,,,en,1.0
+light-years,light-years,DATE,,,en,1.0
+5 hours,5 hours,TIME,,,en,1.0
+Czech,Czech,NORP,,,en,1.0
+June 5th,June 5th,DATE,,,en,1.0
+Long weekend of June 2nd,Long weekend of June 2nd,DATE,,,en,1.0
+June 1st,June 1st,DATE,,,en,1.0
+60 kilometers,60 kilometers,QUANTITY,,,en,1.0
+29-30,29-30,PERCENT,,,en,1.0
+20-21,20-21,CARDINAL,,,en,1.0
+48 years old,48 years old,DATE,,,en,1.0
+"3,300 meters","3,300 meters",QUANTITY,,,en,1.0
+Scottish,Scottish,NORP,,,en,1.0
+1300 metres,1300 metres,QUANTITY,,,en,1.0
+1500 metres,1500 metres,QUANTITY,,,en,1.0
+1pm to 9pm,1pm to 9pm,TIME,,,en,1.0
+4-5 meter,4-5 meter,QUANTITY,,,en,1.0
+tonight,tonight,TIME,,,en,1.0
+late afternoon,late afternoon,TIME,,,en,1.0
+Summer,Summer,DATE,,,en,1.0
+the 20th,the 20th,DATE,,,en,1.0
+Internazionali,Internazionali,NORP,,,en,1.0
+20 minutes,20 minutes,TIME,,,en,1.0
+10.50pm,10.50pm,CARDINAL,,,en,1.0
+up to 9 meters,up to 9 meters,QUANTITY,,,en,1.0
+the Blue Flags,the Blue Flags,WORK_OF_ART,,,en,1.0
+257,257,CARDINAL,,,en,1.0
+525 beaches,525 beaches,QUANTITY,,,en,1.0
+87,87,CARDINAL,,,en,1.0
+42 years old,42 years old,DATE,,,en,1.0
+91 thousand,91 thousand,CARDINAL,,,en,1.0
+Valdarno,Valdarno,PRODUCT,,,en,1.0
+231 million,231 million,CARDINAL,,,en,1.0
+Tortona Rocks,Tortona Rocks,FAC,,,en,1.0
+the new season,the new season,DATE,,,en,1.0
+Euphoria,Euphoria,WORK_OF_ART,,,en,1.0
+four years,four years,DATE,,,en,1.0
+the third season,the third season,DATE,,,en,1.0
+April 13th,April 13th,DATE,,,en,1.0
+the afternoon,the afternoon,TIME,,,en,1.0
+8.6 billion,8.6 billion,CARDINAL,,,en,1.0
+-37%,-37%,PERCENT,,,en,1.0
+4th,4th,ORDINAL,,,en,1.0
+The Art of Connection,The Art of Connection,WORK_OF_ART,,,en,1.0
+25-26 degrees,25-26 degrees,QUANTITY,,,en,1.0
+20 to 26 April,20 to 26 April,DATE,,,en,1.0
+the Nature Park,the Nature Park,FAC,,,en,1.0
+16 year old,16 year old,DATE,,,en,1.0
+the age of 38,the age of 38,DATE,,,en,1.0
+86,86,CARDINAL,,,en,1.0
+7.00 pm,7.00 pm,TIME,,,en,1.0
+the 'Ceravolo',the 'Ceravolo',FAC,,,en,1.0
+a few hours,a few hours,TIME,,,en,1.0
+12 year old,12 year old,DATE,,,en,1.0
+Euphoria 3,Euphoria 3,WORK_OF_ART,,,en,1.0
+OnlyFans,OnlyFans,NORP,,,en,1.0
+last Thursday,last Thursday,DATE,,,en,1.0
+five million,five million,CARDINAL,,,en,1.0
+80.7 million,80.7 million,CARDINAL,,,en,1.0
+4000 km,4000 km,QUANTITY,,,en,1.0
+26 years old,26 years old,DATE,,,en,1.0
+last March 16th,last March 16th,DATE,,,en,1.0
+up to 10 hours,up to 10 hours,TIME,,,en,1.0
+hundreds and hundreds,hundreds and hundreds,CARDINAL,,,en,1.0
+200,200,CARDINAL,,,en,1.0
+Republicans,Republicans,NORP,,,en,1.0
+Western,Western,NORP,,,en,1.0
+April weekend,April weekend,DATE,,,en,1.0
+130,130,CARDINAL,,,en,1.0
+only 0.15 percent,only 0.15 percent,PERCENT,,,en,1.0
+over 680 thousand,over 680 thousand,CARDINAL,,,en,1.0
+just over a thousand,just over a thousand,CARDINAL,,,en,1.0
+Biccari,Biccari,NORP,0.0,0.0,en,1.0
+Abruzzo-Basilicata-Molise-Puglia,Abruzzo-Basilicata-Molise-Puglia,EVENT,,,en,1.0
+50 million,50 million,CARDINAL,,,en,1.0
+50 million euros,50 million euros,MONEY,,,en,1.0
+Americans,Americans,NORP,,,en,1.0
+daytime,daytime,TIME,,,en,1.0
+October 2025,October 2025,DATE,,,en,1.0
 Donne al Timone,Donne al Timone,WORK_OF_ART,,,en,1.0
+Franciscan,Franciscan,NORP,,,en,1.0
+about fifteen days,about fifteen days,DATE,,,en,1.0
+the summer season,the summer season,DATE,,,en,1.0
+"April 22, 2024","April 22, 2024",DATE,,,en,1.0
+22 April 2024,22 April 2024,DATE,,,en,1.0
+five matchdays,five matchdays,DATE,,,en,1.0
+the last two days,the last two days,DATE,,,en,1.0
+the 2026 season,the 2026 season,DATE,,,en,1.0
+18 January,18 January,DATE,,,en,1.0
+3-5,3-5,CARDINAL,,,en,1.0
+120 minutes,120 minutes,TIME,,,en,1.0
+February 21st,February 21st,DATE,,,en,1.0
+between the end of 2025,between the end of 2025,DATE,,,en,1.0
 the beginning of,the beginning of,DATE,,,en,1.0
 A sunny weekend,A sunny weekend,DATE,,,en,1.0
 APRIL 24,APRIL 24,DATE,,,en,1.0
@@ -378,324 +505,65 @@ the 34th day,the 34th day,DATE,,,en,1.0
 28 April,28 April,DATE,,,en,1.0
 Tuesday 28 April,Tuesday 28 April,DATE,,,en,1.0
 one hundred years ago,one hundred years ago,DATE,,,en,1.0
-Tuesday 18,Tuesday 18,DATE,,,en,1.0
-May Day,May Day,DATE,,,en,1.0
-Valdarno,Valdarno,PRODUCT,,,en,1.0
-1592 meters,1592 meters,QUANTITY,,,en,1.0
-91 thousand,91 thousand,CARDINAL,,,en,1.0
-the first two months of 2026,the first two months of 2026,DATE,,,en,1.0
-the previous year,the previous year,DATE,,,en,1.0
-one million hectares,one million hectares,QUANTITY,,,en,1.0
-at least 95%,at least 95%,PERCENT,,,en,1.0
-April 12,April 12,DATE,,,en,1.0
-Argentine,Argentine,NORP,,,en,1.0
-Dutch,Dutch,NORP,,,en,1.0
-Between Saturday and Sunday,Between Saturday and Sunday,DATE,,,en,1.0
-Lombok,Lombok,LANGUAGE,,,en,1.0
-the 20th,the 20th,DATE,,,en,1.0
-up to 9 meters,up to 9 meters,QUANTITY,,,en,1.0
-the Blue Flags,the Blue Flags,WORK_OF_ART,,,en,1.0
-257,257,CARDINAL,,,en,1.0
-525 beaches,525 beaches,QUANTITY,,,en,1.0
-87,87,CARDINAL,,,en,1.0
-20-21,20-21,CARDINAL,,,en,1.0
-29-30,29-30,PERCENT,,,en,1.0
-the end of May,the end of May,DATE,,,en,1.0
-late afternoon,late afternoon,TIME,,,en,1.0
-The Lame Rosse,The Lame Rosse,WORK_OF_ART,,,en,1.0
-the whole week,the whole week,DATE,,,en,1.0
-5 percent,5 percent,PERCENT,,,en,1.0
-12 years,12 years,DATE,,,en,1.0
-300,300,CARDINAL,,,en,1.0
-light-years,light-years,DATE,,,en,1.0
-5 hours,5 hours,TIME,,,en,1.0
-Czech,Czech,NORP,,,en,1.0
-Summer,Summer,DATE,,,en,1.0
-tonight,tonight,TIME,,,en,1.0
-Pluto,Pluto,PRODUCT,,,en,1.0
-the perfect days,the perfect days,DATE,,,en,1.0
-Apennine,Apennine,NORP,,,en,1.0
-the Week,the Week,DATE,,,en,1.0
-Copernicus Sentinel-1,Copernicus Sentinel-1,PRODUCT,,,en,1.0
-Poschiavino,Poschiavino,NORP,,,en,1.0
-Adda,Adda,NORP,,,en,1.0
-Lake Antrona,Lake Antrona,FAC,,,en,1.0
-1070 meters,1070 meters,QUANTITY,,,en,1.0
-Mid-May,Mid-May,DATE,,,en,1.0
-week,week,DATE,,,en,1.0
-4-5 meter,4-5 meter,QUANTITY,,,en,1.0
-mid-May,mid-May,DATE,,,en,1.0
-45 days,45 days,DATE,,,en,1.0
-Frenchwoman,Frenchwoman,NORP,,,en,1.0
-A day,A day,DATE,,,en,1.0
-Scottish,Scottish,NORP,,,en,1.0
-1300 metres,1300 metres,QUANTITY,,,en,1.0
-1500 metres,1500 metres,QUANTITY,,,en,1.0
-1pm to 9pm,1pm to 9pm,TIME,,,en,1.0
-between the end of 2025,between the end of 2025,DATE,,,en,1.0
-120 minutes,120 minutes,TIME,,,en,1.0
-Franciscan,Franciscan,NORP,,,en,1.0
-the third season,the third season,DATE,,,en,1.0
-Americans,Americans,NORP,,,en,1.0
-Torino Film Festival,Torino Film Festival,EVENT,,,en,1.0
-last Thursday,last Thursday,DATE,,,en,1.0
-OnlyFans,OnlyFans,NORP,,,en,1.0
-Euphoria 3,Euphoria 3,WORK_OF_ART,,,en,1.0
-the new season,the new season,DATE,,,en,1.0
-Euphoria,Euphoria,WORK_OF_ART,,,en,1.0
-four years,four years,DATE,,,en,1.0
-April 13th,April 13th,DATE,,,en,1.0
-50 million,50 million,CARDINAL,,,en,1.0
-the afternoon,the afternoon,TIME,,,en,1.0
-8.6 billion,8.6 billion,CARDINAL,,,en,1.0
--37%,-37%,PERCENT,,,en,1.0
-4th,4th,ORDINAL,,,en,1.0
-Tortona Rocks,Tortona Rocks,FAC,,,en,1.0
-The Art of Connection,The Art of Connection,WORK_OF_ART,,,en,1.0
-20 to 26 April,20 to 26 April,DATE,,,en,1.0
-the Nature Park,the Nature Park,FAC,,,en,1.0
-50 million euros,50 million euros,MONEY,,,en,1.0
-Abruzzo-Basilicata-Molise-Puglia,Abruzzo-Basilicata-Molise-Puglia,EVENT,,,en,1.0
-the age of 38,the age of 38,DATE,,,en,1.0
-hundreds and hundreds,hundreds and hundreds,CARDINAL,,,en,1.0
-full spring,full spring,DATE,,,en,1.0
-at least two years,at least two years,DATE,,,en,1.0
-231 million,231 million,CARDINAL,,,en,1.0
-80.7 million,80.7 million,CARDINAL,,,en,1.0
-4000 km,4000 km,QUANTITY,,,en,1.0
-26 years old,26 years old,DATE,,,en,1.0
-last March 16th,last March 16th,DATE,,,en,1.0
-up to 10 hours,up to 10 hours,TIME,,,en,1.0
-200,200,CARDINAL,,,en,1.0
-Biccari,Biccari,NORP,0.0,0.0,en,1.0
-Republicans,Republicans,NORP,,,en,1.0
-Finnish,Finnish,NORP,,,en,1.0
-Western,Western,NORP,,,en,1.0
-April weekend,April weekend,DATE,,,en,1.0
-130,130,CARDINAL,,,en,1.0
-only 0.15 percent,only 0.15 percent,PERCENT,,,en,1.0
-over 680 thousand,over 680 thousand,CARDINAL,,,en,1.0
-just over a thousand,just over a thousand,CARDINAL,,,en,1.0
-16 year old,16 year old,DATE,,,en,1.0
-the 31st,the 31st,DATE,,,en,1.0
-3-5,3-5,CARDINAL,,,en,1.0
 Uncertain week,Uncertain week,DATE,,,en,1.0
+a week full of spring,a week full of spring,DATE,,,en,1.0
+2200,2200,CARDINAL,,,en,1.0
+28,28,CARDINAL,,,en,1.0
+December 23rd 2025,December 23rd 2025,DATE,,,en,1.0
+the Castle of Rocca Calascio,the Castle of Rocca Calascio,FAC,,,en,1.0
+around 1460 meters,around 1460 meters,QUANTITY,,,en,1.0
+the Abruzzo Apennines,the Abruzzo Apennines,EVENT,,,en,1.0
+Last hours,Last hours,TIME,,,en,1.0
+One hundred years,One hundred years,DATE,,,en,1.0
+Roman,Roman,NORP,,,en,1.0
+the end of the season,the end of the season,DATE,,,en,1.0
+Twelve months ago April,Twelve months ago April,DATE,,,en,1.0
+May 30th,May 30th,DATE,,,en,1.0
+2028,2028,DATE,,,en,1.0
+Inuit,Inuit,NORP,,,en,1.0
+"April 19, 2026","April 19, 2026",DATE,,,en,1.0
+Last few days,Last few days,DATE,,,en,1.0
 spring weekend,spring weekend,DATE,,,en,1.0
 27,27,CARDINAL,,,en,1.0
 one thousand euros,one thousand euros,MONEY,,,en,1.0
 18-19 April,18-19 April,DATE,,,en,1.0
 mid-weekend,mid-weekend,DATE,,,en,1.0
-28,28,CARDINAL,,,en,1.0
-2200,2200,CARDINAL,,,en,1.0
-a week full of spring,a week full of spring,DATE,,,en,1.0
-about fifteen days,about fifteen days,DATE,,,en,1.0
-"April 19, 2026","April 19, 2026",DATE,,,en,1.0
-the summer season,the summer season,DATE,,,en,1.0
-"April 22, 2024","April 22, 2024",DATE,,,en,1.0
-22 April 2024,22 April 2024,DATE,,,en,1.0
-five matchdays,five matchdays,DATE,,,en,1.0
-the last two days,the last two days,DATE,,,en,1.0
-6,6,CARDINAL,,,en,1.0
-the 2026 season,the 2026 season,DATE,,,en,1.0
-18 January,18 January,DATE,,,en,1.0
-Last few days,Last few days,DATE,,,en,1.0
-Inuit,Inuit,NORP,,,en,1.0
-7.00 pm,7.00 pm,TIME,,,en,1.0
-the Castle of Rocca Calascio,the Castle of Rocca Calascio,FAC,,,en,1.0
-the 'Ceravolo',the 'Ceravolo',FAC,,,en,1.0
-a few hours,a few hours,TIME,,,en,1.0
-12 year old,12 year old,DATE,,,en,1.0
-daytime,daytime,TIME,,,en,1.0
-25-26 degrees,25-26 degrees,QUANTITY,,,en,1.0
-October 2025,October 2025,DATE,,,en,1.0
-February 21st,February 21st,DATE,,,en,1.0
-December 23rd 2025,December 23rd 2025,DATE,,,en,1.0
-around 1460 meters,around 1460 meters,QUANTITY,,,en,1.0
-2028,2028,DATE,,,en,1.0
-the Abruzzo Apennines,the Abruzzo Apennines,EVENT,,,en,1.0
-Last hours,Last hours,TIME,,,en,1.0
-One hundred years,One hundred years,DATE,,,en,1.0
-Roman,Roman,NORP,,,en,1.0
-November,November,DATE,,,en,1.0
-the end of the season,the end of the season,DATE,,,en,1.0
-Twelve months ago April,Twelve months ago April,DATE,,,en,1.0
-May 30th,May 30th,DATE,,,en,1.0
-last days,last days,DATE,,,en,1.0
-this evening,this evening,TIME,,,en,1.0
-a day,a day,DATE,,,en,1.0
-the last weekend of the year',the last weekend of the year',DATE,,,en,1.0
-up to 100,up to 100,CARDINAL,,,en,1.0
-just 24 hours,just 24 hours,TIME,,,en,1.0
-three hours,three hours,TIME,,,en,1.0
-250 centimeters,250 centimeters,QUANTITY,,,en,1.0
-At least 4 days,At least 4 days,DATE,,,en,1.0
-one metre,one metre,QUANTITY,,,en,1.0
-163 centimeters,163 centimeters,QUANTITY,,,en,1.0
-another 24 hours,another 24 hours,TIME,,,en,1.0
-a White Christmas,a White Christmas,DATE,,,en,1.0
-79–2025,79–2025,CARDINAL,,,en,1.0
-600-700 meters,600-700 meters,QUANTITY,,,en,1.0
-1000-1200 meters,1000-1200 meters,QUANTITY,,,en,1.0
-the end of 2026 | Rumor,the end of 2026 | Rumor,DATE,,,en,1.0
-1992,1992,DATE,,,en,1.0
-a night,a night,TIME,,,en,1.0
-the first days of 2026,the first days of 2026,DATE,,,en,1.0
-Corsica,Corsica,PRODUCT,-0.15625,0.4166666666666667,en,1.0
-the second year,the second year,DATE,,,en,1.0
-the end of 2026 |,the end of 2026 |,DATE,,,en,1.0
-23 December,23 December,DATE,,,en,1.0
-the last 11 years,the last 11 years,DATE,,,en,1.0
-the holiday week,the holiday week,DATE,,,en,1.0
-2027,2027,DATE,,,en,1.0
-Sunny Saturday,Sunny Saturday,DATE,,,en,1.0
-several years,several years,DATE,,,en,1.0
-Odyssey,Odyssey,PRODUCT,,,en,1.0
-Doomsday,Doomsday,DATE,,,en,1.0
-36%,36%,PERCENT,,,en,1.0
-Christmas day,Christmas day,DATE,,,en,1.0
-up to 500 metres,up to 500 metres,QUANTITY,,,en,1.0
-25 years,25 years,DATE,,,en,1.0
-9:00 tomorrow,9:00 tomorrow,TIME,,,en,1.0
-four metres,four metres,QUANTITY,,,en,1.0
-two-day,two-day,DATE,,,en,1.0
-MacBook,MacBook,PRODUCT,,,en,1.0
-Chromebooks,Chromebooks,PRODUCT,,,en,1.0
-iPad Pro,iPad Pro,PRODUCT,,,en,1.0
-22.1 billion euros,22.1 billion euros,MONEY,,,en,1.0
-Galaxy S25,Galaxy S25,PRODUCT,,,en,1.0
-tomorrow morning,tomorrow morning,TIME,,,en,1.0
-the second bitterest year,the second bitterest year,DATE,,,en,1.0
-2023,2023,DATE,,,en,1.0
-4pm,4pm,TIME,,,en,1.0
-150,150,CARDINAL,,,en,1.0
-Varaita,Varaita,NORP,,,en,1.0
-Ivorian,Ivorian,NORP,,,en,1.0
-7 hours,7 hours,TIME,,,en,1.0
-late July,late July,DATE,,,en,1.0
-Marturanum,Marturanum,NORP,,,en,1.0
-the Necropolis of San Giuliano,the Necropolis of San Giuliano,FAC,,,en,1.0
-this afternoon,this afternoon,TIME,,,en,1.0
-approximately 1500 metres,approximately 1500 metres,QUANTITY,,,en,1.0
-19th,19th,DATE,,,en,1.0
-7 meters,7 meters,QUANTITY,,,en,1.0
-the Corriere dello Sport,the Corriere dello Sport,WORK_OF_ART,,,en,1.0
-275 km/h,275 km/h,QUANTITY,,,en,1.0
-day,day,DATE,,,en,1.0
-scudetto,scudetto,WORK_OF_ART,0.13636363636363635,0.45454545454545453,en,1.0
-Milanese,Milanese,NORP,,,en,1.0
-3.5 seconds,3.5 seconds,TIME,,,en,1.0
--23 degrees,-23 degrees,QUANTITY,,,en,1.0
-the new year,the new year,DATE,,,en,1.0
-"tomorrow, Tuesday 6 January","tomorrow, Tuesday 6 January",DATE,,,en,1.0
-11,11,CARDINAL,,,en,1.0
-383,383,CARDINAL,,,en,1.0
-Constellation,Constellation,PRODUCT,,,en,1.0
-January 9th,January 9th,DATE,,,en,1.0
-22 years,22 years,DATE,,,en,1.0
-Trentino,Trentino,NORP,0.0,0.0,en,1.0
-3100,3100,CARDINAL,,,en,1.0
-several weeks,several weeks,DATE,,,en,1.0
-the most serious seasons of the last 40 years,the most serious seasons of the last 40 years,DATE,,,en,1.0
-about the night,about the night,TIME,,,en,1.0
-30 years,30 years,DATE,,,en,1.0
-the first weekend of 2026,the first weekend of 2026,DATE,,,en,1.0
-Piedmontese Alpine,Piedmontese Alpine,FAC,,,en,1.0
-Second,Second,ORDINAL,,,en,1.0
-Japanese,Japanese,NORP,,,en,1.0
-a month,a month,DATE,,,en,1.0
-Start of the year,Start of the year,DATE,,,en,1.0
-These days,These days,DATE,,,en,1.0
-eleven,eleven,CARDINAL,,,en,1.0
-the last minutes,the last minutes,TIME,,,en,1.0
-late in the morning,late in the morning,TIME,,,en,1.0
+over 20 million,over 20 million,CARDINAL,,,en,1.0
+Civitella del Tronto,Civitella del Tronto,FAC,,,en,1.0
+84,84,DATE,,,en,1.0
+Comet 3I/ATLAS,Comet 3I/ATLAS,PRODUCT,,,en,1.0
+10 euros,10 euros,MONEY,,,en,1.0
+the Christmas holidays,the Christmas holidays,DATE,,,en,1.0
+Romans,Romans,NORP,,,en,1.0
+1pm,1pm,TIME,,,en,1.0
+50 days,50 days,DATE,,,en,1.0
+February 6,February 6,DATE,,,en,1.0
+the Sforzesco Castle,the Sforzesco Castle,FAC,,,en,1.0
+600,600,CARDINAL,,,en,1.0
+218,218,CARDINAL,,,en,1.0
+Shield,Shield,PRODUCT,,,en,1.0
 "brightness
 
 ","brightness
 
 ",PRODUCT,,,en,1.0
-Shield,Shield,PRODUCT,,,en,1.0
-218,218,CARDINAL,,,en,1.0
-over half a million euros,over half a million euros,MONEY,,,en,1.0
-16 years,16 years,DATE,,,en,1.0
-60%,60%,PERCENT,,,en,1.0
-years old,years old,DATE,,,en,1.0
-the first months of 2026,the first months of 2026,DATE,,,en,1.0
-the middle of December,the middle of December,DATE,,,en,1.0
-520 thousand euros,520 thousand euros,MONEY,,,en,1.0
-six,six,CARDINAL,,,en,1.0
-Six,Six,CARDINAL,,,en,1.0
-17e,17e,PRODUCT,,,en,1.0
-every five days,every five days,DATE,,,en,1.0
-a year ago,a year ago,DATE,,,en,1.0
-17,17,PRODUCT,,,en,1.0
-"DECEMBER 10, 2025","DECEMBER 10, 2025",DATE,,,en,1.0
-App Tracking Transpare,App Tracking Transpare,PRODUCT,,,en,1.0
-British,British,NORP,,,en,1.0
-earlier this year,earlier this year,DATE,,,en,1.0
-three-year,three-year,DATE,,,en,1.0
-iOS 26,iOS 26,PRODUCT,,,en,1.0
-more than half,more than half,CARDINAL,,,en,1.0
-Eight months,Eight months,DATE,,,en,1.0
-600,600,CARDINAL,,,en,1.0
-6 December to 6 January,6 December to 6 January,DATE,,,en,1.0
-4 December to 3,4 December to 3,DATE,,,en,1.0
-Woman in an Armchair',Woman in an Armchair',WORK_OF_ART,,,en,1.0
-Dancers in the Green Room',Dancers in the Green Room',WORK_OF_ART,,,en,1.0
-our year,our year,DATE,,,en,1.0
-the Ara Pacis,the Ara Pacis,FAC,,,en,1.0
-52,52,CARDINAL,,,en,1.0
-iOS,iOS,PRODUCT,,,en,1.0
-the first 45',the first 45',DATE,,,en,1.0
-22nd,22nd,DATE,,,en,1.0
-1968,1968,DATE,,,en,1.0
-last December 1st,last December 1st,DATE,,,en,1.0
-3.4 million,3.4 million,CARDINAL,,,en,1.0
-only 15%,only 15%,PERCENT,,,en,1.0
-Gemini 3 Pro,Gemini 3 Pro,WORK_OF_ART,,,en,1.0
-World Cup,World Cup,EVENT,,,en,1.0
-recent months,recent months,DATE,,,en,1.0
-the Immaculate Conception weekend,the Immaculate Conception weekend,FAC,,,en,1.0
-8 December,8 December,DATE,,,en,1.0
-Macworld,Macworld,PRODUCT,,,en,1.0
-'26,'26,DATE,,,en,1.0
-100 mm,100 mm,QUANTITY,,,en,1.0
+2027,2027,DATE,,,en,1.0
+several years,several years,DATE,,,en,1.0
+Odyssey,Odyssey,PRODUCT,,,en,1.0
+Doomsday,Doomsday,DATE,,,en,1.0
+Christmas day,Christmas day,DATE,,,en,1.0
+up to 500 metres,up to 500 metres,QUANTITY,,,en,1.0
+the holiday week,the holiday week,DATE,,,en,1.0
+25 years,25 years,DATE,,,en,1.0
 around ten euros,around ten euros,MONEY,,,en,1.0
-12 November 2024,12 November 2024,DATE,,,en,1.0
-the Caltanissetta CPR,the Caltanissetta CPR,PRODUCT,,,en,1.0
-Nobel Peace Prize,Nobel Peace Prize,WORK_OF_ART,,,en,1.0
-the Nobel Prize,the Nobel Prize,WORK_OF_ART,,,en,1.0
-the last year,the last year,DATE,,,en,1.0
 the White House,the White House,FAC,,,en,1.0
-every year,every year,DATE,,,en,1.0
-Comet 3I/ATLAS,Comet 3I/ATLAS,PRODUCT,,,en,1.0
-10 euros,10 euros,MONEY,,,en,1.0
-day one,day one,DATE,,,en,1.0
-the Christmas holidays,the Christmas holidays,DATE,,,en,1.0
-Romans,Romans,NORP,,,en,1.0
-1pm,1pm,TIME,,,en,1.0
-50 days,50 days,DATE,,,en,1.0
-the holidays,the holidays,DATE,,,en,1.0
-February 6,February 6,DATE,,,en,1.0
-the Sforzesco Castle,the Sforzesco Castle,FAC,,,en,1.0
-German,German,NORP,,,en,1.0
-Eight hours,Eight hours,TIME,,,en,1.0
-Korean,Korean,NORP,,,en,1.0
-80%,80%,PERCENT,,,en,1.0
-the Statue of Liberty,the Statue of Liberty,FAC,,,en,1.0
-iOS 26.4,iOS 26.4,PRODUCT,,,en,1.0
-iOS 27,iOS 27,PRODUCT,,,en,1.0
-iOS 28,iOS 28,PRODUCT,,,en,1.0
-"iOS 28
-
-","iOS 28
-
-",PRODUCT,,,en,1.0
+"tomorrow, Tuesday 6 January","tomorrow, Tuesday 6 January",DATE,,,en,1.0
+the last year,the last year,DATE,,,en,1.0
 the next few years,the next few years,DATE,,,en,1.0
 Angelucci,Angelucci,NORP,,,en,1.0
 10:00 am,10:00 am,TIME,,,en,1.0
 The last day,The last day,DATE,,,en,1.0
 up to 80 km/h,up to 80 km/h,QUANTITY,,,en,1.0
-F1,F1,PRODUCT,,,en,1.0
 Eight,Eight,CARDINAL,,,en,1.0
 December 15,December 15,DATE,,,en,1.0
 Pentagon,Pentagon,FAC,,,en,1.0
@@ -703,32 +571,183 @@ the end of October,the end of October,DATE,,,en,1.0
 45,45,CARDINAL,,,en,1.0
 around 850 thousand,around 850 thousand,CARDINAL,,,en,1.0
 two years,two years,DATE,,,en,1.0
+the Statue of Liberty,the Statue of Liberty,FAC,,,en,1.0
+80%,80%,PERCENT,,,en,1.0
+Eight hours,Eight hours,TIME,,,en,1.0
+12 November 2024,12 November 2024,DATE,,,en,1.0
+the Caltanissetta CPR,the Caltanissetta CPR,PRODUCT,,,en,1.0
+Nobel Peace Prize,Nobel Peace Prize,WORK_OF_ART,,,en,1.0
+the Nobel Prize,the Nobel Prize,WORK_OF_ART,,,en,1.0
+four metres,four metres,QUANTITY,,,en,1.0
+MacBook,MacBook,PRODUCT,,,en,1.0
+Chromebooks,Chromebooks,PRODUCT,,,en,1.0
+iPad Pro,iPad Pro,PRODUCT,,,en,1.0
+the last 11 years,the last 11 years,DATE,,,en,1.0
+2023,2023,DATE,,,en,1.0
+383,383,CARDINAL,,,en,1.0
+January 9th,January 9th,DATE,,,en,1.0
+Trentino,Trentino,NORP,0.0,0.0,en,1.0
+3100,3100,CARDINAL,,,en,1.0
+several weeks,several weeks,DATE,,,en,1.0
+the most serious seasons of the last 40 years,the most serious seasons of the last 40 years,DATE,,,en,1.0
+about the night,about the night,TIME,,,en,1.0
+30 years,30 years,DATE,,,en,1.0
+Constellation,Constellation,PRODUCT,,,en,1.0
+the first weekend of 2026,the first weekend of 2026,DATE,,,en,1.0
+a month,a month,DATE,,,en,1.0
+Start of the year,Start of the year,DATE,,,en,1.0
+eleven,eleven,CARDINAL,,,en,1.0
+the last minutes,the last minutes,TIME,,,en,1.0
+late in the morning,late in the morning,TIME,,,en,1.0
+Piedmontese Alpine,Piedmontese Alpine,FAC,,,en,1.0
+11,11,CARDINAL,,,en,1.0
+the second bitterest year,the second bitterest year,DATE,,,en,1.0
+the second year,the second year,DATE,,,en,1.0
+Corsica,Corsica,PRODUCT,-0.15625,0.4166666666666667,en,1.0
+At least 4 days,At least 4 days,DATE,,,en,1.0
+Galaxy S25,Galaxy S25,PRODUCT,,,en,1.0
+tomorrow morning,tomorrow morning,TIME,,,en,1.0
+9:00 tomorrow,9:00 tomorrow,TIME,,,en,1.0
+23 December,23 December,DATE,,,en,1.0
+up to 100,up to 100,CARDINAL,,,en,1.0
+just 24 hours,just 24 hours,TIME,,,en,1.0
+three hours,three hours,TIME,,,en,1.0
+250 centimeters,250 centimeters,QUANTITY,,,en,1.0
+one metre,one metre,QUANTITY,,,en,1.0
+the first days of 2026,the first days of 2026,DATE,,,en,1.0
+163 centimeters,163 centimeters,QUANTITY,,,en,1.0
+another 24 hours,another 24 hours,TIME,,,en,1.0
+the last weekend of the year',the last weekend of the year',DATE,,,en,1.0
+a White Christmas,a White Christmas,DATE,,,en,1.0
+600-700 meters,600-700 meters,QUANTITY,,,en,1.0
+1000-1200 meters,1000-1200 meters,QUANTITY,,,en,1.0
+1992,1992,DATE,,,en,1.0
+a night,a night,TIME,,,en,1.0
+"iOS 28
+
+","iOS 28
+
+",PRODUCT,,,en,1.0
+iOS 28,iOS 28,PRODUCT,,,en,1.0
+iOS 27,iOS 27,PRODUCT,,,en,1.0
+three-year,three-year,DATE,,,en,1.0
 0 to 100 km,0 to 100 km,QUANTITY,,,en,1.0
-This morning,This morning,TIME,,,en,1.0
+3.5 seconds,3.5 seconds,TIME,,,en,1.0
+275 km/h,275 km/h,QUANTITY,,,en,1.0
+These days,These days,DATE,,,en,1.0
+Japanese,Japanese,NORP,,,en,1.0
+Second,Second,ORDINAL,,,en,1.0
+22 years,22 years,DATE,,,en,1.0
+the end of 2026 | Rumor,the end of 2026 | Rumor,DATE,,,en,1.0
+the end of 2026 |,the end of 2026 |,DATE,,,en,1.0
+79–2025,79–2025,CARDINAL,,,en,1.0
+22.1 billion euros,22.1 billion euros,MONEY,,,en,1.0
+two-day,two-day,DATE,,,en,1.0
+36%,36%,PERCENT,,,en,1.0
+Sunny Saturday,Sunny Saturday,DATE,,,en,1.0
+the holidays,the holidays,DATE,,,en,1.0
+every year,every year,DATE,,,en,1.0
+Korean,Korean,NORP,,,en,1.0
+F1,F1,PRODUCT,,,en,1.0
+day one,day one,DATE,,,en,1.0
 671,671,CARDINAL,,,en,1.0
-8 January,8 January,DATE,,,en,1.0
+The Appointment,The Appointment,WORK_OF_ART,,,en,1.0
+800,800,CARDINAL,,,en,1.0
+Torino Film Festival,Torino Film Festival,EVENT,,,en,1.0
+Tuesday 18,Tuesday 18,DATE,,,en,1.0
+November,November,DATE,,,en,1.0
+Finnish,Finnish,NORP,,,en,1.0
+autumn,autumn,DATE,,,en,1.0
+Games,Games,EVENT,,,en,1.0
+32%,32%,PERCENT,,,en,1.0
+the Torino Film Festival,the Torino Film Festival,EVENT,,,en,1.0
+Out of Competition,Out of Competition,EVENT,,,en,1.0
+half plaza,half plaza,QUANTITY,,,en,1.0
+the Libreria Feltrinelli,the Libreria Feltrinelli,FAC,,,en,1.0
+12,12,CARDINAL,,,en,1.0
+over 50 cm,over 50 cm,QUANTITY,,,en,1.0
+"Today, November 24th","Today, November 24th",DATE,,,en,1.0
+the Piccolo Teatro Grassi,the Piccolo Teatro Grassi,FAC,,,en,1.0
+10 o'clock,10 o'clock,TIME,,,en,1.0
+reference years,reference years,DATE,,,en,1.0
+Tuesday 25 November,Tuesday 25 November,DATE,,,en,1.0
+6.30pm,6.30pm,DATE,,,en,1.0
+100 mm,100 mm,QUANTITY,,,en,1.0
+earlier this year,earlier this year,DATE,,,en,1.0
+iOS 26.4,iOS 26.4,PRODUCT,,,en,1.0
+App Tracking Transpare,App Tracking Transpare,PRODUCT,,,en,1.0
+8 December,8 December,DATE,,,en,1.0
+1968,1968,DATE,,,en,1.0
+Eight months,Eight months,DATE,,,en,1.0
+every five days,every five days,DATE,,,en,1.0
+more than half,more than half,CARDINAL,,,en,1.0
+16 years,16 years,DATE,,,en,1.0
+60%,60%,PERCENT,,,en,1.0
+years old,years old,DATE,,,en,1.0
+the middle of December,the middle of December,DATE,,,en,1.0
+520 thousand euros,520 thousand euros,MONEY,,,en,1.0
+six,six,CARDINAL,,,en,1.0
+Six,Six,CARDINAL,,,en,1.0
+over half a million euros,over half a million euros,MONEY,,,en,1.0
+a year ago,a year ago,DATE,,,en,1.0
+"DECEMBER 10, 2025","DECEMBER 10, 2025",DATE,,,en,1.0
+British,British,NORP,,,en,1.0
+iOS 26,iOS 26,PRODUCT,,,en,1.0
+Macworld,Macworld,PRODUCT,,,en,1.0
+'26,'26,DATE,,,en,1.0
+the Immaculate Conception weekend,the Immaculate Conception weekend,FAC,,,en,1.0
+World Cup,World Cup,EVENT,,,en,1.0
+only 15%,only 15%,PERCENT,,,en,1.0
+the 19th to the 20th century,the 19th to the 20th century,DATE,,,en,1.0
+17,17,PRODUCT,,,en,1.0
+17e,17e,PRODUCT,,,en,1.0
+the first months of 2026,the first months of 2026,DATE,,,en,1.0
+recent months,recent months,DATE,,,en,1.0
+Gemini 3 Pro,Gemini 3 Pro,WORK_OF_ART,,,en,1.0
+52,52,CARDINAL,,,en,1.0
+the Ara Pacis,the Ara Pacis,FAC,,,en,1.0
+Fifty-two,Fifty-two,CARDINAL,,,en,1.0
+4 December to 3,4 December to 3,DATE,,,en,1.0
+3.4 million,3.4 million,CARDINAL,,,en,1.0
+Woman in an Armchair',Woman in an Armchair',WORK_OF_ART,,,en,1.0
+Dancers in the Green Room',Dancers in the Green Room',WORK_OF_ART,,,en,1.0
+our year,our year,DATE,,,en,1.0
+iOS,iOS,PRODUCT,,,en,1.0
+the first 45',the first 45',DATE,,,en,1.0
+6 December to 6 January,6 December to 6 January,DATE,,,en,1.0
+22nd,22nd,DATE,,,en,1.0
+last December 1st,last December 1st,DATE,,,en,1.0
+7 meters,7 meters,QUANTITY,,,en,1.0
+Varaita,Varaita,NORP,,,en,1.0
+Indonesian,Indonesian,NORP,,,en,1.0
+around 110,around 110,CARDINAL,,,en,1.0
+only 10%,only 10%,PERCENT,,,en,1.0
 10001 mAh,10001 mAh,QUANTITY,,,en,1.0
 "10,001 mAh","10,001 mAh",QUANTITY,,,en,1.0
 spring weekends,spring weekends,DATE,,,en,1.0
-between 19 and 22 January,between 19 and 22 January,DATE,,,en,1.0
 Five hundred centuries-old,Five hundred centuries-old,DATE,,,en,1.0
-over 50 cm,over 50 cm,QUANTITY,,,en,1.0
+between 19 and 22 January,between 19 and 22 January,DATE,,,en,1.0
 almost 30 billion,almost 30 billion,CARDINAL,,,en,1.0
 the next irrigation season,the next irrigation season,DATE,,,en,1.0
+8 January,8 January,DATE,,,en,1.0
 the Ice Stadium,the Ice Stadium,FAC,,,en,1.0
-a few days ago,a few days ago,DATE,,,en,1.0
 Monday 2 February,Monday 2 February,DATE,,,en,1.0
 Weekend,Weekend,DATE,,,en,1.0
-the early afternoon,the early afternoon,TIME,,,en,1.0
 Udine,Udine,NORP,0.13333333333333333,0.39999999999999997,en,1.0
 thousand,thousand,CARDINAL,,,en,1.0
 seven meter,seven meter,QUANTITY,,,en,1.0
 the Games,the Games,EVENT,,,en,1.0
 20,20,CARDINAL,,,en,1.0
-only 10%,only 10%,PERCENT,,,en,1.0
-"Today, November 24th","Today, November 24th",DATE,,,en,1.0
+the Sirente-Velino Regional Park,the Sirente-Velino Regional Park,FAC,,,en,1.0
+Thousands,Thousands,CARDINAL,,,en,1.0
+a few days ago,a few days ago,DATE,,,en,1.0
+nine years,nine years,DATE,,,en,1.0
+Ivorian,Ivorian,NORP,,,en,1.0
+9 years,9 years,DATE,,,en,1.0
+Pavese,Pavese,LANGUAGE,,,en,1.0
+five hundred,five hundred,CARDINAL,,,en,1.0
 25 thousand,25 thousand,CARDINAL,,,en,1.0
-500 thousand euros,500 thousand euros,MONEY,,,en,1.0
+around 1pm,around 1pm,TIME,,,en,1.0
 Sunday 25 January,Sunday 25 January,DATE,,,en,1.0
 3.30 pm,3.30 pm,TIME,,,en,1.0
 100 million,100 million,CARDINAL,,,en,1.0
@@ -736,31 +755,23 @@ Sunday 25 January,Sunday 25 January,DATE,,,en,1.0
 the first days,the first days,DATE,,,en,1.0
 Morettis,Morettis,NORP,,,en,1.0
 Le Constellation,Le Constellation,WORK_OF_ART,,,en,1.0
-the Piccolo Teatro Grassi,the Piccolo Teatro Grassi,FAC,,,en,1.0
+two billion»,two billion»,MONEY,,,en,1.0
+500 thousand euros,500 thousand euros,MONEY,,,en,1.0
 the entire weekend,the entire weekend,DATE,,,en,1.0
-Civitella del Tronto,Civitella del Tronto,FAC,,,en,1.0
 last two weeks,last two weeks,DATE,,,en,1.0
 A life for sport”,A life for sport”,WORK_OF_ART,,,en,1.0
 47%,47%,PERCENT,,,en,1.0
 51% to 25%,51% to 25%,PERCENT,,,en,1.0
 hour,hour,TIME,,,en,1.0
-9 years,9 years,DATE,,,en,1.0
-nine years,nine years,DATE,,,en,1.0
-around 110,around 110,CARDINAL,,,en,1.0
-the Sirente-Velino Regional Park,the Sirente-Velino Regional Park,FAC,,,en,1.0
-Thousands,Thousands,CARDINAL,,,en,1.0
 51 years old,51 years old,DATE,,,en,1.0
-Only 13,Only 13,CARDINAL,,,en,1.0
-14 February 2026,14 February 2026,DATE,,,en,1.0
-Olympus,Olympus,WORK_OF_ART,,,en,1.0
-647,647,CARDINAL,,,en,1.0
-Villacidrese,Villacidrese,NORP,,,en,1.0
-6pm tomorrow,6pm tomorrow,TIME,,,en,1.0
+2009,2009,DATE,,,en,1.0
+ten months,ten months,DATE,,,en,1.0
+weeks,weeks,DATE,,,en,1.0
 Last night,Last night,TIME,,,en,1.0
 2 thousand,2 thousand,CARDINAL,,,en,1.0
 the Olympic Rings,the Olympic Rings,FAC,,,en,1.0
+Only 13,Only 13,CARDINAL,,,en,1.0
 Neutral Individual Athlete,Neutral Individual Athlete,WORK_OF_ART,,,en,1.0
-2009,2009,DATE,,,en,1.0
 Belarusian,Belarusian,NORP,,,en,1.0
 thirty,thirty,CARDINAL,,,en,1.0
 24 years,24 years,DATE,,,en,1.0
@@ -769,41 +780,106 @@ around 1.00 pm,around 1.00 pm,TIME,,,en,1.0
 The day,The day,DATE,,,en,1.0
 Up to 50 millimeters,Up to 50 millimeters,QUANTITY,,,en,1.0
 12 hours,12 hours,TIME,,,en,1.0
-Ittiri,Ittiri,NORP,,,en,1.0
-Camedda,Camedda,NORP,,,en,1.0
-Sassari,Sassari,NORP,,,en,1.0
-this night,this night,TIME,,,en,1.0
-ten months,ten months,DATE,,,en,1.0
-12,12,CARDINAL,,,en,1.0
-weeks,weeks,DATE,,,en,1.0
+4pm,4pm,TIME,,,en,1.0
+a day,a day,DATE,,,en,1.0
+last days,last days,DATE,,,en,1.0
+more than a billion,more than a billion,MONEY,,,en,1.0
+Buffer measure,Buffer measure,WORK_OF_ART,,,en,1.0
+18 January 2026,18 January 2026,DATE,,,en,1.0
+6pm tomorrow,6pm tomorrow,TIME,,,en,1.0
+Villacidrese,Villacidrese,NORP,,,en,1.0
+647,647,CARDINAL,,,en,1.0
+76,76,CARDINAL,,,en,1.0
 thousands of hectares,thousands of hectares,QUANTITY,,,en,1.0
-the 19th to the 20th century,the 19th to the 20th century,DATE,,,en,1.0
+this evening,this evening,TIME,,,en,1.0
 six months,six months,DATE,,,en,1.0
 2016,2016,DATE,,,en,1.0
 Socialists,Socialists,NORP,,,en,1.0
 the Pavilion of the Lazio Region,the Pavilion of the Lazio Region,FAC,,,en,1.0
 up to 9 metres,up to 9 metres,QUANTITY,,,en,1.0
 55 thousand,55 thousand,CARDINAL,,,en,1.0
-76,76,CARDINAL,,,en,1.0
 38 million,38 million,CARDINAL,,,en,1.0
+Olympus,Olympus,WORK_OF_ART,,,en,1.0
 the end of January,the end of January,DATE,,,en,1.0
-half plaza,half plaza,QUANTITY,,,en,1.0
 120 km,120 km,QUANTITY,,,en,1.0
 up to 120 km/h,up to 120 km/h,QUANTITY,,,en,1.0
-around 1pm,around 1pm,TIME,,,en,1.0
-five hundred,five hundred,CARDINAL,,,en,1.0
-the Sibillini Mountains National Park,the Sibillini Mountains National Park,FAC,,,en,1.0
-up to 180 mm,up to 180 mm,QUANTITY,,,en,1.0
+this night,this night,TIME,,,en,1.0
+Sassari,Sassari,NORP,,,en,1.0
+Camedda,Camedda,NORP,,,en,1.0
+Ittiri,Ittiri,NORP,,,en,1.0
+14 February 2026,14 February 2026,DATE,,,en,1.0
+Oltrepò,Oltrepò,NORP,0.0,0.0,en,1.0
+Castori,Castori,NORP,,,en,1.0
+32nd,32nd,ORDINAL,,,en,1.0
+120 km/h,120 km/h,QUANTITY,,,en,1.0
+"today, Saturday 10 January","today, Saturday 10 January",DATE,,,en,1.0
+between 2024 and 2025,between 2024 and 2025,DATE,,,en,1.0
+last weekend,last weekend,DATE,,,en,1.0
+11 January,11 January,DATE,,,en,1.0
+the high season,the high season,DATE,,,en,1.0
+last month,last month,DATE,,,en,1.0
+up to 100 metres,up to 100 metres,QUANTITY,,,en,1.0
+Discontinuity,Discontinuity,WORK_OF_ART,,,en,1.0
+July,July,DATE,,,en,1.0
+15,15,CARDINAL,,,en,1.0
+70s,70s,DATE,,,en,1.0
+the Brent de l'Art,the Brent de l'Art,FAC,,,en,1.0
+the age of 89,the age of 89,DATE,,,en,1.0
+1960,1960,DATE,,,en,1.0
 La Volta Buona,La Volta Buona,WORK_OF_ART,,,en,1.0
 La Volta Buona”,La Volta Buona”,WORK_OF_ART,,,en,1.0
 Sunday 18 January,Sunday 18 January,DATE,,,en,1.0
 Wednesday 21,Wednesday 21,DATE,,,en,1.0
 300 mm,300 mm,QUANTITY,,,en,1.0
+this century,this century,DATE,,,en,1.0
+only the month,only the month,DATE,,,en,1.0
+The month,The month,DATE,,,en,1.0
+the Corriere dello Sport,the Corriere dello Sport,WORK_OF_ART,,,en,1.0
+7 hours,7 hours,TIME,,,en,1.0
+late July,late July,DATE,,,en,1.0
+Marturanum,Marturanum,NORP,,,en,1.0
+the Necropolis of San Giuliano,the Necropolis of San Giuliano,FAC,,,en,1.0
+this afternoon,this afternoon,TIME,,,en,1.0
+approximately 1500 metres,approximately 1500 metres,QUANTITY,,,en,1.0
+150,150,CARDINAL,,,en,1.0
+19th,19th,DATE,,,en,1.0
+day,day,DATE,,,en,1.0
+summer,summer,DATE,,,en,1.0
+scudetto,scudetto,WORK_OF_ART,0.13636363636363635,0.45454545454545453,en,1.0
+Milanese,Milanese,NORP,,,en,1.0
+-23 degrees,-23 degrees,QUANTITY,,,en,1.0
+the new year,the new year,DATE,,,en,1.0
+This morning,This morning,TIME,,,en,1.0
+the Sibillini Mountains National Park,the Sibillini Mountains National Park,FAC,,,en,1.0
+almost an hour,almost an hour,TIME,,,en,1.0
+Venetian,Venetian,NORP,,,en,1.0
 between Monday and Tuesday,between Monday and Tuesday,DATE,,,en,1.0
-120 km/h,120 km/h,QUANTITY,,,en,1.0
 the last 20 years,the last 20 years,DATE,,,en,1.0
-48 hours,48 hours,TIME,,,en,1.0
-the age of 89,the age of 89,DATE,,,en,1.0
+up to 70 kilometers per hour,up to 70 kilometers per hour,QUANTITY,,,en,1.0
+up to 180 mm,up to 180 mm,QUANTITY,,,en,1.0
+billions of euros,billions of euros,MONEY,,,en,1.0
+Southern,Southern,NORP,,,en,1.0
+billions,billions,CARDINAL,,,en,1.0
+half a billion,half a billion,CARDINAL,,,en,1.0
+80 million,80 million,CARDINAL,,,en,1.0
+5.3%,5.3%,PERCENT,,,en,1.0
+6.9%,6.9%,PERCENT,,,en,1.0
+last year,last year,DATE,,,en,1.0
+over 90 km,over 90 km,QUANTITY,,,en,1.0
+23,23,CARDINAL,,,en,1.0
+Hundreds of millions,Hundreds of millions,CARDINAL,,,en,1.0
+Snow weekend,Snow weekend,DATE,,,en,1.0
+eight months',eight months',DATE,,,en,1.0
+the season,the season,DATE,,,en,1.0
+the start of the Winter Olympics,the start of the Winter Olympics,DATE,,,en,1.0
+Phoenician,Phoenician,NORP,,,en,1.0
+two billion,two billion,CARDINAL,,,en,1.0
+the end of last year,the end of last year,DATE,,,en,1.0
+A weekend,A weekend,DATE,,,en,1.0
+Sulcitana,Sulcitana,WORK_OF_ART,,,en,1.0
+2km,2km,QUANTITY,,,en,1.0
+about a meter,about a meter,QUANTITY,,,en,1.0
+recent hours,recent hours,TIME,,,en,1.0
 at least 48 hours,at least 48 hours,TIME,,,en,1.0
 the last 48 hours,the last 48 hours,TIME,,,en,1.0
 100 milliliters,100 milliliters,QUANTITY,,,en,1.0
@@ -812,69 +888,14 @@ the last 48 hours,the last 48 hours,TIME,,,en,1.0
 60 mm,60 mm,QUANTITY,,,en,1.0
 November 2020,November 2020,DATE,,,en,1.0
 A few days,A few days,DATE,,,en,1.0
-1960,1960,DATE,,,en,1.0
-the Brent de l'Art,the Brent de l'Art,FAC,,,en,1.0
-Pavese,Pavese,LANGUAGE,,,en,1.0
-between 2024 and 2025,between 2024 and 2025,DATE,,,en,1.0
-The Appointment,The Appointment,WORK_OF_ART,,,en,1.0
-almost an hour,almost an hour,TIME,,,en,1.0
-Venetian,Venetian,NORP,,,en,1.0
-summer,summer,DATE,,,en,1.0
-The month,The month,DATE,,,en,1.0
-only the month,only the month,DATE,,,en,1.0
-this century,this century,DATE,,,en,1.0
-"today, Saturday 10 January","today, Saturday 10 January",DATE,,,en,1.0
-last weekend,last weekend,DATE,,,en,1.0
-70s,70s,DATE,,,en,1.0
-11 January,11 January,DATE,,,en,1.0
-the high season,the high season,DATE,,,en,1.0
-last month,last month,DATE,,,en,1.0
-800,800,CARDINAL,,,en,1.0
-up to 100 metres,up to 100 metres,QUANTITY,,,en,1.0
-Discontinuity,Discontinuity,WORK_OF_ART,,,en,1.0
-July,July,DATE,,,en,1.0
-15,15,CARDINAL,,,en,1.0
-twenty-year-old,twenty-year-old,DATE,,,en,1.0
-recent hours,recent hours,TIME,,,en,1.0
-the Libreria Feltrinelli,the Libreria Feltrinelli,FAC,,,en,1.0
-the season,the season,DATE,,,en,1.0
-last year,last year,DATE,,,en,1.0
-over 90 km,over 90 km,QUANTITY,,,en,1.0
-23,23,CARDINAL,,,en,1.0
-Hundreds of millions,Hundreds of millions,CARDINAL,,,en,1.0
-Snow weekend,Snow weekend,DATE,,,en,1.0
-eight months',eight months',DATE,,,en,1.0
-reference years,reference years,DATE,,,en,1.0
-10 o'clock,10 o'clock,TIME,,,en,1.0
-the start of the Winter Olympics,the start of the Winter Olympics,DATE,,,en,1.0
 sheepfold,sheepfold,NORP,,,en,1.0
-Phoenician,Phoenician,NORP,,,en,1.0
-two billion,two billion,CARDINAL,,,en,1.0
-the end of last year,the end of last year,DATE,,,en,1.0
-A weekend,A weekend,DATE,,,en,1.0
-up to 70 kilometers per hour,up to 70 kilometers per hour,QUANTITY,,,en,1.0
-32nd,32nd,ORDINAL,,,en,1.0
-Castori,Castori,NORP,,,en,1.0
-Oltrepò,Oltrepò,NORP,0.0,0.0,en,1.0
-6.9%,6.9%,PERCENT,,,en,1.0
-5.3%,5.3%,PERCENT,,,en,1.0
-80 million,80 million,CARDINAL,,,en,1.0
-half a billion,half a billion,CARDINAL,,,en,1.0
-6.30pm,6.30pm,DATE,,,en,1.0
+annual,annual,DATE,,,en,1.0
 three months,three months,DATE,,,en,1.0
 Odle,Odle,FAC,,,en,1.0
 another century,another century,DATE,,,en,1.0
 Melito Porto Salvo,Melito Porto Salvo,FAC,,,en,1.0
 Tuesday 20 January,Tuesday 20 January,DATE,,,en,1.0
-Tuesday 25 November,Tuesday 25 November,DATE,,,en,1.0
 120km/h,120km/h,QUANTITY,,,en,1.0
 four days,four days,DATE,,,en,1.0
 approximately half,approximately half,CARDINAL,,,en,1.0
-annual,annual,DATE,,,en,1.0
-about a meter,about a meter,QUANTITY,,,en,1.0
-2km,2km,QUANTITY,,,en,1.0
-Sulcitana,Sulcitana,WORK_OF_ART,,,en,1.0
-billions of euros,billions of euros,MONEY,,,en,1.0
-Southern,Southern,NORP,,,en,1.0
-billions,billions,CARDINAL,,,en,1.0
-two billion»,two billion»,MONEY,,,en,1.0
+tens of meters,tens of meters,QUANTITY,,,en,1.0
