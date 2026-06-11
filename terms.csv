@@ -36,12 +36,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '008b58f095',extremes,Storm,#b3b2b1,wmo,mareggiata piemonte,2026-06-01T07:30:00+00:00,Italy,0.5110998843522213,1,1,it,MED,Europe
 'cd3d048b5a',extremes,Precipitation,#d60d2b,wmo,pioggia italia,2026-05-28T06:38:00+00:00,Italy,0.5109236165735618,1,2,it,MED,Europe
 '3d4ffbc119',extremes,Storm,#b3b2b1,wmo,tempesta friuli venezia giulia,2026-05-20T06:33:00+00:00,Italy,0.5097150087698181,1,1,it,MED,Europe
-'4fd8d48f37',extremes,Thunderstorm,#53785a,wmo,grandine lombardia,2026-06-02T07:08:00+00:00,Italy,0.5097105845391289,0,1,it,MED,Europe
 '838174fb09',extremes,Precipitation,#d60d2b,wmo,acquazzone sicilia,2026-05-28T06:38:00+00:00,Italy,0.5085361681284103,2,1,it,MED,Europe
 'd73c88d78a',extremes,Storm,#b3b2b1,wmo,mareggiata veneto,2026-05-21T06:35:00+00:00,Italy,0.507091941051381,1,1,it,MED,Europe
 'c9fc484d05',extremes,Storm,#b3b2b1,wmo,mareggiata umbria,2026-05-28T06:38:00+00:00,Italy,0.4994754149756634,1,1,it,MED,Europe
 '117e9a9455',extremes,Storm,#b3b2b1,wmo,mareggiata calabria,2026-06-02T07:08:00+00:00,Italy,0.4966481984309816,1,1,it,MED,Europe
-'30b7b41a32',extremes,Storm,#b3b2b1,wmo,mareggiata marcia,2026-05-31T06:40:00+00:00,Italy,0.49660760484174793,1,1,it,MED,Europe
+'30b7b41a32',extremes,Storm,#b3b2b1,wmo,mareggiata marcia,2026-05-31T06:40:00+00:00,Italy,0.4966076048417479,1,1,it,MED,Europe
 '997a2e2157',extremes,Earthquake,#870007,usgs,terremoto argentina,2026-05-16T05:40:00+00:00,Argentina,0.4954814020798043,1,1,it,SES,South-America
 '70bf96ce01',extremes,Thunderstorm,#53785a,wmo,maltempo libia,2026-05-26T06:31:00+00:00,Libya,0.4951870667794976,2,1,it,SAH,Africa
 'fb7bf220d2',extremes,Precipitation,#d60d2b,wmo,acquazzone calabria,2026-05-28T06:38:00+00:00,Italy,0.495038463606444,1,1,it,MED,Europe
@@ -142,6 +141,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7685a9c1a1',extremes,Storm,#b3b2b1,wmo,mareggiata trentino alto adige,2026-06-02T07:08:00+00:00,Italy,0.4354577183771825,2,1,it,MED,Europe
 'cf8bea3213',extremes,Snow&Ice,#d60d2b,wmo,neve broye,2026-05-17T06:01:00+00:00,Switzerland,0.4352274680643715,1,1,it,WCE,Europe
 'fc9ab070b4',extremes,Snow&Ice,#d60d2b,wmo,gelo sion crans montana,2026-05-17T06:01:00+00:00,Switzerland,0.4341444370877363,1,1,it,WCE,Europe
+'4fd8d48f37',extremes,Thunderstorm,#53785a,wmo,grandine lombardia,2026-06-02T07:08:00+00:00,Italy,0.43400407185825957,1,1,it,MED,Europe
 '89cd0748e9',extremes,Precipitation,#d60d2b,wmo,pioggia friuli venezia giulia,2026-05-10T05:51:00+00:00,Italy,0.4339830032642178,1,1,it,MED,Europe
 '84e09433c3',extremes,Earthquake,#870007,usgs,terremoto castro barros,2026-06-02T07:08:00+00:00,Argentina,0.4339605340862312,1,1,it,SES,South-America
 '757a24f6e9',extremes,Thunderstorm,#53785a,wmo,ave emilia e romagna,2026-05-31T06:40:00+00:00,Italy,0.4335972878704039,1,1,it,MED,Europe
