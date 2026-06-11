@@ -3,14 +3,17 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c8bad6097f',extremes,Heat Wave,#c40202,wmo,ondata di caldo basilicata,2026-06-09T06:32:00+00:00,Italy,0.6089381283157844,2,1,it,MED,Europe
 '7104ad3c83',extremes,Thunderstorm,#53785a,wmo,temporale italia,2026-05-27T06:46:00+00:00,Italy,0.6073392581073668,1,2,it,MED,Europe
 'b4a448711b',extremes,Heat Wave,#c40202,wmo,ondata di caldo italia,2026-06-09T06:32:00+00:00,Italy,0.6040493840468018,2,1,it,MED,Europe
+'c88b43e0ba',extremes,Snow&Ice,#d60d2b,wmo,gelo argentino,2026-06-09T06:32:00+00:00,Argentina,0.6027032402422043,0,1,it,SES,South-America
 '32e74ad8ff',extremes,Heat Wave,#c40202,wmo,ondata di caldo molisano,2026-06-10T06:49:00+00:00,Italy,0.5720889106515282,1,1,it,MED,Europe
 '316c1a7868',extremes,Precipitation,#d60d2b,wmo,acquazzone toscana,2026-06-02T07:08:00+00:00,Italy,0.5710248065288966,1,2,it,MED,Europe
 '6076c8543a',extremes,Storm,#b3b2b1,wmo,mareggiata liguria,2026-05-12T05:52:00+00:00,Italy,0.5702673994263485,1,2,it,MED,Europe
 '507412aefc',extremes,Storm,#b3b2b1,wmo,tempesta italia,2026-06-02T07:08:00+00:00,Italy,0.5664969148863008,1,2,it,MED,Europe
 '8e5338dae6',extremes,Thunderstorm,#53785a,wmo,salve italia,2026-05-11T06:14:00+00:00,Italy,0.5656977948288722,2,2,it,MED,Europe
+'b6b1d80b84',extremes,Precipitation,#d60d2b,wmo,precipitazioni lombardia,2026-06-09T06:32:00+00:00,Italy,0.5628336129398592,0,1,it,MED,Europe
 '12060a7df7',extremes,Storm,#b3b2b1,wmo,mareggiata italia,2026-05-24T06:22:00+00:00,Italy,0.5622817606433621,1,1,it,MED,Europe
 'd1d9cf4e58',extremes,Snow&Ice,#d60d2b,wmo,gelida argentina,2026-05-26T06:31:00+00:00,Argentina,0.5616187320677392,2,1,it,SES,South-America
 'e529bb6ac5',extremes,Precipitation,#d60d2b,wmo,pioggia argentina,2026-05-28T06:38:00+00:00,Argentina,0.5529509073933719,1,1,it,SES,South-America
+'b96cc738bc',extremes,Precipitation,#d60d2b,wmo,pioggia piemonte,2026-06-03T07:23:00+00:00,Italy,0.5486187358804088,0,1,it,MED,Europe
 '8e5b367351',extremes,Precipitation,#d60d2b,wmo,precipitazioni italia,2026-05-27T06:46:00+00:00,Italy,0.547132437649852,2,2,it,MED,Europe
 '572704ba2e',extremes,Thunderstorm,#53785a,wmo,temporale lombardia,2026-05-31T06:40:00+00:00,Italy,0.5465907782745022,1,2,it,MED,Europe
 '6d1cbf0043',extremes,Snow&Ice,#d60d2b,wmo,terra di ghiaccio,2026-04-25T05:00:00+00:00,Switzerland,0.5462379363132117,1,3,it,WCE,Europe
@@ -74,6 +77,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '731c9c6599',extremes,Storm,#b3b2b1,wmo,tempesta basilicata,2026-05-11T06:14:00+00:00,Italy,0.462027328333646,1,1,it,MED,Europe
 '5660802a7f',extremes,Heat Wave,#c40202,wmo,riviera dell'ondata di caldo,2026-05-26T06:31:00+00:00,Switzerland,0.4619868693892282,1,1,it,WCE,Europe
 'b7030f8398',extremes,Precipitation,#d60d2b,wmo,precipitazione frutigen kiental,2026-06-03T07:23:00+00:00,Switzerland,0.4613131790147471,0,1,it,WCE,Europe
+'b317b52df4',extremes,Precipitation,#d60d2b,wmo,pioggia torrenziale turbenthal sirnach,2026-06-02T07:08:00+00:00,Switzerland,0.4601423127822668,0,1,it,WCE,Europe
 'd9f5a28608',extremes,Heat Wave,#c40202,wmo,ondata di caldo basso moesano,2026-05-26T06:31:00+00:00,Switzerland,0.4600527191882508,1,1,it,WCE,Europe
 'bb9ac4cdb7',extremes,Precipitation,#d60d2b,wmo,acquazzone trentino alto adige,2026-06-04T07:06:00+00:00,Italy,0.4599296656602009,1,1,it,MED,Europe
 '3c9f3a79d5',extremes,Heat Wave,#c40202,wmo,ondata di caldo bellinzonese,2026-05-26T06:31:00+00:00,Switzerland,0.4599114023340578,1,1,it,WCE,Europe
@@ -141,7 +145,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7685a9c1a1',extremes,Storm,#b3b2b1,wmo,mareggiata trentino alto adige,2026-06-02T07:08:00+00:00,Italy,0.4354577183771825,2,1,it,MED,Europe
 'cf8bea3213',extremes,Snow&Ice,#d60d2b,wmo,neve broye,2026-05-17T06:01:00+00:00,Switzerland,0.4352274680643715,1,1,it,WCE,Europe
 'fc9ab070b4',extremes,Snow&Ice,#d60d2b,wmo,gelo sion crans montana,2026-05-17T06:01:00+00:00,Switzerland,0.4341444370877363,1,1,it,WCE,Europe
-'4fd8d48f37',extremes,Thunderstorm,#53785a,wmo,grandine lombardia,2026-06-02T07:08:00+00:00,Italy,0.43400407185825957,1,1,it,MED,Europe
+'4fd8d48f37',extremes,Thunderstorm,#53785a,wmo,grandine lombardia,2026-06-02T07:08:00+00:00,Italy,0.4340040718582595,1,1,it,MED,Europe
 '89cd0748e9',extremes,Precipitation,#d60d2b,wmo,pioggia friuli venezia giulia,2026-05-10T05:51:00+00:00,Italy,0.4339830032642178,1,1,it,MED,Europe
 '84e09433c3',extremes,Earthquake,#870007,usgs,terremoto castro barros,2026-06-02T07:08:00+00:00,Argentina,0.4339605340862312,1,1,it,SES,South-America
 '757a24f6e9',extremes,Thunderstorm,#53785a,wmo,ave emilia e romagna,2026-05-31T06:40:00+00:00,Italy,0.4335972878704039,1,1,it,MED,Europe
