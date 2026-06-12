@@ -7,8 +7,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6076c8543a',extremes,Storm,#b3b2b1,wmo,mareggiata liguria,2026-05-12T05:52:00+00:00,Italy,0.5702673994263485,1,2,it,MED,Europe
 '507412aefc',extremes,Storm,#b3b2b1,wmo,tempesta italia,2026-06-02T07:08:00+00:00,Italy,0.5664969148863008,1,2,it,MED,Europe
 '8e5338dae6',extremes,Thunderstorm,#53785a,wmo,salve italia,2026-05-11T06:14:00+00:00,Italy,0.5656977948288722,2,2,it,MED,Europe
-'57d748873a',extremes,Precipitation,#d60d2b,wmo,pioggia trentino alto adige,2026-06-09T06:32:00+00:00,Italy,0.5632075160898884,0,1,it,MED,Europe
 'd1d9cf4e58',extremes,Snow&Ice,#d60d2b,wmo,gelida argentina,2026-05-26T06:31:00+00:00,Argentina,0.5616187320677392,2,1,it,SES,South-America
+'57d748873a',extremes,Precipitation,#d60d2b,wmo,pioggia trentino alto adige,2026-06-09T06:32:00+00:00,Italy,0.5540264186764051,1,2,it,MED,Europe
 'e529bb6ac5',extremes,Precipitation,#d60d2b,wmo,pioggia argentina,2026-05-28T06:38:00+00:00,Argentina,0.5529509073933719,1,1,it,SES,South-America
 '8e5b367351',extremes,Precipitation,#d60d2b,wmo,precipitazioni italia,2026-05-27T06:46:00+00:00,Italy,0.547132437649852,2,2,it,MED,Europe
 '572704ba2e',extremes,Thunderstorm,#53785a,wmo,temporale lombardia,2026-05-31T06:40:00+00:00,Italy,0.5465907782745022,1,2,it,MED,Europe
@@ -79,7 +79,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3c9f3a79d5',extremes,Heat Wave,#c40202,wmo,ondata di caldo bellinzonese,2026-05-26T06:31:00+00:00,Switzerland,0.4599114023340578,1,1,it,WCE,Europe
 '56da66adf9',extremes,Thunderstorm,#53785a,wmo,maltempo basilicata,2026-05-27T06:46:00+00:00,Italy,0.4598900246593794,1,1,it,MED,Europe
 '0fe21077f2',extremes,Snow&Ice,#d60d2b,wmo,ghiaccio yverdon bevaix,2026-05-17T06:01:00+00:00,Switzerland,0.4591505772235658,0,1,it,WCE,Europe
-'851be9f98e',extremes,Precipitation,#d60d2b,wmo,precipitazioni gersau engelbergertal,2026-06-03T07:23:00+00:00,Switzerland,0.4590897202239301,0,1,it,WCE,Europe
 '03a2b00348',extremes,Precipitation,#d60d2b,wmo,pioggia scuol samnaun,2026-06-10T06:49:00+00:00,Switzerland,0.4590519822126684,0,1,it,WCE,Europe
 '8dbdda11a1',extremes,Thunderstorm,#53785a,wmo,maltempo piemonte,2026-05-09T05:36:00+00:00,Italy,0.4589121730163549,1,1,it,MED,Europe
 '08fe1daacf',extremes,Earthquake,#870007,usgs,terremoto san lucido,2026-06-08T07:13:00+00:00,Italy,0.4582636352740126,2,1,it,MED,Europe
@@ -258,6 +257,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b7030f8398',extremes,Precipitation,#d60d2b,wmo,precipitazione frutigen kiental,2026-06-03T07:23:00+00:00,Switzerland,0.392116202162535,1,1,it,WCE,Europe
 '2c2aadffd8',extremes,Snow&Ice,#d60d2b,wmo,snow einsiedeln wägital,2026-05-12T05:52:00+00:00,Switzerland,0.3914182618362308,1,1,it,WCE,Europe
 'b317b52df4',extremes,Precipitation,#d60d2b,wmo,pioggia torrenziale turbenthal sirnach,2026-06-02T07:08:00+00:00,Switzerland,0.3911209658649268,1,1,it,WCE,Europe
+'851be9f98e',extremes,Precipitation,#d60d2b,wmo,precipitazioni gersau engelbergertal,2026-06-03T07:23:00+00:00,Switzerland,0.39022626219034057,1,1,it,WCE,Europe
 '0ad538a863',extremes,Heat Wave,#c40202,wmo,ondata di caldo in svizzera,2026-05-26T06:31:00+00:00,Switzerland,0.3896878811172147,1,1,it,WCE,Europe
 '560b05d603',extremes,Heat Wave,#c40202,random,ondata di caldo,2026-05-21T06:34:00+00:00,,0.3893210124501559,0,1,it,,
 'ece651c6d3',extremes,Snow&Ice,#d60d2b,wmo,gelata aarau lenzburg,2026-05-13T06:03:00+00:00,Switzerland,0.3739855331944625,1,1,it,WCE,Europe
