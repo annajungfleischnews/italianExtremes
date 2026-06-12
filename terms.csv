@@ -46,7 +46,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3840c76d04',extremes,Storm,#b3b2b1,wmo,tempesta calabria,2026-05-15T06:09:00+00:00,Italy,0.4911758735509077,2,2,it,MED,Europe
 '902e65f81a',extremes,Thunderstorm,#53785a,wmo,temporale abruzzo,2026-05-16T05:40:00+00:00,Italy,0.487048111993525,1,2,it,MED,Europe
 '32e74ad8ff',extremes,Heat Wave,#c40202,wmo,ondata di caldo molisano,2026-06-10T06:49:00+00:00,Italy,0.4862755740537989,2,1,it,MED,Europe
-'f6ff301646',extremes,Drought,#edc291,edo,siccità Somalia,2026-05-02T05:24:00+00:00,Somalia,0.4857503929106698,2,2,it,NEAF,Africa
 '316c1a7868',extremes,Precipitation,#d60d2b,wmo,acquazzone toscana,2026-06-02T07:08:00+00:00,Italy,0.4853711905495621,2,1,it,MED,Europe
 'e9a8279e1e',extremes,Storm,#b3b2b1,wmo,tempesta toscana,2026-05-07T05:46:00+00:00,Italy,0.4848797110839079,1,1,it,MED,Europe
 '9d51f7a7ec',extremes,Thunderstorm,#53785a,wmo,temporale piemontese,2026-05-30T06:01:00+00:00,Italy,0.4823521415526589,2,1,it,MED,Europe
@@ -127,7 +126,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '128c953b1e',extremes,Precipitation,#d60d2b,wmo,precipitazioni sicilia,2026-05-29T06:38:00+00:00,Italy,0.4420480857966575,1,1,it,MED,Europe
 'bd8c8650ea',extremes,Earthquake,#870007,usgs,terremoto el aguilar,2026-05-18T06:38:00+00:00,Argentina,0.4416956340848511,1,1,it,SES,South-America
 '8a8a288c5e',extremes,Storm,#b3b2b1,wmo,mareggiata innertkirchen guttannen,2026-05-04T05:50:00+00:00,Switzerland,0.4411936803677652,0,1,it,WCE,Europe
-'ece651c6d3',extremes,Snow&Ice,#d60d2b,wmo,gelata aarau lenzburg,2026-05-13T06:03:00+00:00,Switzerland,0.4399829802287794,0,1,it,WCE,Europe
 'e010701253',extremes,Precipitation,#d60d2b,wmo,piogge torrenziali sardegna,2026-05-15T06:09:00+00:00,Italy,0.439756821029009,0,1,it,MED,Europe
 'f58a7f1229',extremes,Precipitation,#d60d2b,wmo,pioggia svizzera,2026-05-06T05:43:00+00:00,Switzerland,0.4392976073583837,0,1,it,WCE,Europe
 '36dc9f87fa',extremes,Precipitation,#d60d2b,wmo,pioggia torrenziale svizzera,2026-05-11T06:14:00+00:00,Switzerland,0.4391431837666308,0,1,it,WCE,Europe
@@ -162,7 +160,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '754dc98440',extremes,Snow&Ice,#d60d2b,wmo,gelo préalpes vaudoises,2026-05-17T06:01:00+00:00,Switzerland,0.4306113192750186,1,1,it,WCE,Europe
 '589d0558b8',extremes,Snow&Ice,#d60d2b,wmo,neve argentina,2026-05-25T06:53:00+00:00,Argentina,0.4301764187334325,2,1,it,SES,South-America
 '1cbc279697',extremes,Snow&Ice,#d60d2b,wmo,neve vouvry,2026-05-14T06:02:00+00:00,Switzerland,0.4300992151810383,1,1,it,WCE,Europe
-'be3f704fd5',extremes,Storm,#b3b2b1,wmo,tempesta sudliches simplongebiet,2026-05-12T05:52:00+00:00,Switzerland,0.4295259693404969,0,1,it,WCE,Europe
 '8e9ceec15a',extremes,Snow&Ice,#d60d2b,wmo,gelo Obertoggenburg,2026-05-12T05:52:00+00:00,Switzerland,0.4287439691590594,0,1,it,WCE,Europe
 '88670cbd24',extremes,Storm,#b3b2b1,wmo,la tempesta obergoms,2026-05-12T05:52:00+00:00,Switzerland,0.4284985149364402,0,1,it,WCE,Europe
 'bcd59ca149',extremes,Snow&Ice,#d60d2b,wmo,ghiaccio werdenberg,2026-05-13T06:03:00+00:00,Switzerland,0.4282358394713784,1,1,it,WCE,Europe
@@ -260,4 +257,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '2c2aadffd8',extremes,Snow&Ice,#d60d2b,wmo,snow einsiedeln wägital,2026-05-12T05:52:00+00:00,Switzerland,0.3914182618362308,1,1,it,WCE,Europe
 '0ad538a863',extremes,Heat Wave,#c40202,wmo,ondata di caldo in svizzera,2026-05-26T06:31:00+00:00,Switzerland,0.3896878811172147,1,1,it,WCE,Europe
 '560b05d603',extremes,Heat Wave,#c40202,random,ondata di caldo,2026-05-21T06:34:00+00:00,,0.3893210124501559,0,1,it,,
+'ece651c6d3',extremes,Snow&Ice,#d60d2b,wmo,gelata aarau lenzburg,2026-05-13T06:03:00+00:00,Switzerland,0.3739855331944625,1,1,it,WCE,Europe
 'a935f88023',extremes,Snow&Ice,#d60d2b,wmo,ghiaccio val d'hérens,2026-05-17T06:01:00+00:00,Switzerland,0.3716335689161916,1,1,it,WCE,Europe
+'be3f704fd5',extremes,Storm,#b3b2b1,wmo,tempesta sudliches simplongebiet,2026-05-12T05:52:00+00:00,Switzerland,0.36509707393942237,1,1,it,WCE,Europe
