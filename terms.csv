@@ -1,4 +1,6 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'5e29cd96b0',extremes,Precipitation,#d60d2b,wmo,pioggia torrenziale italia,2026-05-28T06:38:00+00:00,Italy,0.6408179754277183,0,1,it,MED,Europe
+'80fa381938',extremes,Thunderstorm,#53785a,wmo,temporale friuli venezia giulia,2026-05-27T06:46:00+00:00,Italy,0.6250530735959492,0,1,it,MED,Europe
 '887af33c5b',extremes,Snow&Ice,#d60d2b,wmo,gelo svizzera,2026-05-12T05:52:00+00:00,Switzerland,0.6214283006275738,1,2,it,WCE,Europe
 'c8bad6097f',extremes,Heat Wave,#c40202,wmo,ondata di caldo basilicata,2026-06-09T06:32:00+00:00,Italy,0.6089381283157844,2,1,it,MED,Europe
 '7104ad3c83',extremes,Thunderstorm,#53785a,wmo,temporale italia,2026-05-27T06:46:00+00:00,Italy,0.6073392581073668,1,2,it,MED,Europe
@@ -97,6 +99,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'feefb0b7a1',extremes,Storm,#b3b2b1,wmo,mareggiata locarnese,2026-05-12T05:52:00+00:00,Switzerland,0.4530735915360398,0,1,it,WCE,Europe
 '70549607af',extremes,Precipitation,#d60d2b,wmo,pioggia marchigiana,2026-05-09T05:36:00+00:00,Italy,0.4527188584629397,1,1,it,MED,Europe
 '4ea5491fcc',extremes,Precipitation,#d60d2b,wmo,pioggia basilicata,2026-05-15T06:09:00+00:00,Italy,0.4526329111383244,2,2,it,MED,Europe
+'a1f2c27a9f',extremes,Precipitation,#d60d2b,wmo,acquazzone einsiedeln wägital,2026-06-04T07:06:00+00:00,Switzerland,0.45239562419700724,0,1,it,WCE,Europe
 '5022ceabea',extremes,Storm,#b3b2b1,wmo,mareggiata abruzzo,2026-06-02T07:08:00+00:00,Italy,0.4523515747482768,2,1,it,MED,Europe
 '8009981fb6',extremes,Thunderstorm,#53785a,wmo,grandine campania,2026-06-08T07:13:00+00:00,Italy,0.4519482267864367,2,1,it,MED,Europe
 '9d6cac03c7',extremes,Precipitation,#d60d2b,wmo,precipitazioni svizzera,2026-05-06T05:43:00+00:00,Switzerland,0.4511891418994661,0,1,it,WCE,Europe
@@ -104,10 +107,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a0092fba89',extremes,Thunderstorm,#53785a,wmo,temporale sardegna,2026-05-28T06:38:00+00:00,Italy,0.4509078176217098,1,1,it,MED,Europe
 '86288c9aa3',extremes,Precipitation,#d60d2b,wmo,piogge torrenziali umbria,2026-05-06T05:43:00+00:00,Italy,0.4508424560464855,1,1,it,MED,Europe
 '9a09042a39',extremes,Precipitation,#d60d2b,wmo,pioggia torrenziale hulftegg untertoggenburg,2026-06-02T07:08:00+00:00,Switzerland,0.450430192101201,0,1,it,WCE,Europe
+'1d9279f2d9',extremes,Precipitation,#d60d2b,wmo,acquazzone innertkirchen guttannen,2026-06-02T07:08:00+00:00,Switzerland,0.4503605602806583,0,1,it,WCE,Europe
 '209d8b6463',extremes,Storm,#b3b2b1,wmo,mareggiata bellinzonese,2026-05-12T05:52:00+00:00,Switzerland,0.4502776707353232,0,1,it,WCE,Europe
 '54ce36b275',extremes,Thunderstorm,#53785a,wmo,maltempo liguria,2026-05-15T06:09:00+00:00,Italy,0.4502403160661559,0,1,it,MED,Europe
+'46fd745b7a',extremes,Precipitation,#d60d2b,wmo,pioggia torrenziale liechtenstein,2026-06-04T07:06:00+00:00,Switzerland,0.44998867297769096,0,1,it,WCE,Europe
 '0587e67588',extremes,Precipitation,#d60d2b,wmo,piogge torrenziali lazio,2026-06-03T07:23:00+00:00,Italy,0.4497291449969973,1,1,it,MED,Europe
 '45278c4de3',extremes,Drought,#edc291,edo,periodo di siccità in Somalia,2026-05-08T05:16:00+00:00,Somalia,0.4491717135968825,1,1,it,NEAF,Africa
+'5ef9871df1',extremes,Precipitation,#d60d2b,wmo,pioggia torrenziale Grindelwald,2026-06-04T07:06:00+00:00,Switzerland,0.4487178128528866,0,1,it,WCE,Europe
 '0df834d969',extremes,Thunderstorm,#53785a,wmo,maltempo sardegna,2026-05-10T05:51:00+00:00,Italy,0.4483203101217732,1,1,it,MED,Europe
 'fdaa0a92ad',extremes,Storm,#b3b2b1,wmo,tempesta campania,2026-05-20T06:33:00+00:00,Italy,0.4479212942219227,2,1,it,MED,Europe
 '7b5b3b8ad8',extremes,Storm,#b3b2b1,wmo,temporale trentino alto adige,2026-05-17T06:01:00+00:00,Italy,0.4464710966307904,1,1,it,MED,Europe
