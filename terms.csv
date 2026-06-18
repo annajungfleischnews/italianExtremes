@@ -159,7 +159,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'fc9ab070b4',extremes,Snow&Ice,#d60d2b,wmo,gelo sion crans montana,2026-05-17T06:01:00+00:00,Switzerland,0.4341444370877363,1,1,it,WCE,Europe
 '4fd8d48f37',extremes,Thunderstorm,#53785a,wmo,grandine lombardia,2026-06-02T07:08:00+00:00,Italy,0.4340040718582595,1,1,it,MED,Europe
 '84e09433c3',extremes,Earthquake,#870007,usgs,terremoto castro barros,2026-06-02T07:08:00+00:00,Argentina,0.4339605340862312,1,1,it,SES,South-America
-'4495d1fc35',extremes,Thunderstorm,#53785a,wmo,maltempo friuli venezia giulia,2026-06-15T08:36:00+00:00,Italy,0.43371094658832327,1,1,it,MED,Europe
+'4495d1fc35',extremes,Thunderstorm,#53785a,wmo,maltempo friuli venezia giulia,2026-06-15T08:36:00+00:00,Italy,0.4337109465883232,1,1,it,MED,Europe
 '757a24f6e9',extremes,Thunderstorm,#53785a,wmo,ave emilia e romagna,2026-05-31T06:40:00+00:00,Italy,0.4335972878704039,1,1,it,MED,Europe
 '31ac7af311',extremes,Storm,#b3b2b1,wmo,tempesta binntal,2026-05-12T05:52:00+00:00,Switzerland,0.4333668034356771,0,1,it,WCE,Europe
 '4910cc6a53',extremes,Snow&Ice,#d60d2b,wmo,ice geneve,2026-05-17T06:01:00+00:00,Switzerland,0.4327923042031064,1,1,it,WCE,Europe
