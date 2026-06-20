@@ -46,7 +46,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'edae5a8a2b',extremes,Snow&Ice,#d60d2b,wmo,ghiaccio argentino,2026-06-09T06:32:00+00:00,Argentina,0.51596448806849,1,1,it,SES,South-America
 '731c9c6599',extremes,Storm,#b3b2b1,wmo,tempesta basilicata,2026-06-12T07:05:00+00:00,Italy,0.5143373703089665,1,1,it,MED,Europe
 '508b73fb8c',extremes,Storm,#b3b2b1,wmo,mareggiata molisana,2026-06-02T07:08:00+00:00,Italy,0.5127107135533459,1,1,it,MED,Europe
-'02711610b5',extremes,Storm,#b3b2b1,wmo,tempesta argentina,2026-06-06T06:08:00+00:00,Argentina,0.5111161710387395,1,1,it,SES,South-America
 'cd3d048b5a',extremes,Precipitation,#d60d2b,wmo,pioggia italia,2026-05-28T06:38:00+00:00,Italy,0.5109236165735618,1,2,it,MED,Europe
 '3d4ffbc119',extremes,Storm,#b3b2b1,wmo,tempesta friuli venezia giulia,2026-05-20T06:33:00+00:00,Italy,0.5097150087698181,1,1,it,MED,Europe
 '838174fb09',extremes,Precipitation,#d60d2b,wmo,acquazzone sicilia,2026-05-28T06:38:00+00:00,Italy,0.5085361681284103,2,1,it,MED,Europe
@@ -54,7 +53,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd73c88d78a',extremes,Storm,#b3b2b1,wmo,mareggiata veneto,2026-05-21T06:35:00+00:00,Italy,0.507091941051381,1,1,it,MED,Europe
 '0e11501646',extremes,Storm,#b3b2b1,wmo,tempesta emilia e romagna,2026-06-01T07:30:00+00:00,Italy,0.5002697243191928,1,1,it,MED,Europe
 'c9fc484d05',extremes,Storm,#b3b2b1,wmo,mareggiata umbria,2026-05-28T06:38:00+00:00,Italy,0.4994754149756634,1,1,it,MED,Europe
-'b9a82bfdaa',extremes,Storm,#b3b2b1,wmo,tempesta veneta,2026-06-18T07:16:00+00:00,Italy,0.49807159576178095,1,1,it,MED,Europe
+'b9a82bfdaa',extremes,Storm,#b3b2b1,wmo,tempesta veneta,2026-06-18T07:16:00+00:00,Italy,0.4980715957617809,1,1,it,MED,Europe
 '117e9a9455',extremes,Storm,#b3b2b1,wmo,mareggiata calabria,2026-06-02T07:08:00+00:00,Italy,0.4966481984309816,1,1,it,MED,Europe
 '30b7b41a32',extremes,Storm,#b3b2b1,wmo,mareggiata marcia,2026-05-31T06:40:00+00:00,Italy,0.4966076048417479,1,1,it,MED,Europe
 '997a2e2157',extremes,Earthquake,#870007,usgs,terremoto argentina,2026-05-16T05:40:00+00:00,Argentina,0.4954814020798043,1,1,it,SES,South-America
@@ -149,6 +148,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7685a9c1a1',extremes,Storm,#b3b2b1,wmo,mareggiata trentino alto adige,2026-06-02T07:08:00+00:00,Italy,0.4354577183771825,2,1,it,MED,Europe
 'c88b43e0ba',extremes,Snow&Ice,#d60d2b,wmo,gelo argentino,2026-06-09T06:32:00+00:00,Argentina,0.4354530910749926,2,1,it,SES,South-America
 'cf8bea3213',extremes,Snow&Ice,#d60d2b,wmo,neve broye,2026-05-17T06:01:00+00:00,Switzerland,0.4352274680643715,1,1,it,WCE,Europe
+'02711610b5',extremes,Storm,#b3b2b1,wmo,tempesta argentina,2026-06-06T06:08:00+00:00,Argentina,0.4347487753829286,2,1,it,SES,South-America
 '008b58f095',extremes,Storm,#b3b2b1,wmo,mareggiata piemonte,2026-06-01T07:30:00+00:00,Italy,0.4345849166993881,2,1,it,MED,Europe
 'fc9ab070b4',extremes,Snow&Ice,#d60d2b,wmo,gelo sion crans montana,2026-05-17T06:01:00+00:00,Switzerland,0.4341444370877363,1,1,it,WCE,Europe
 '4fd8d48f37',extremes,Thunderstorm,#53785a,wmo,grandine lombardia,2026-06-02T07:08:00+00:00,Italy,0.4340040718582595,1,1,it,MED,Europe
@@ -163,7 +163,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8dbdda11a1',extremes,Thunderstorm,#53785a,wmo,maltempo piemonte,2026-06-06T06:08:00+00:00,Italy,0.432173651124945,1,1,it,MED,Europe
 '6c6666b2af',extremes,Precipitation,#d60d2b,wmo,precipitazioni argentina,2026-05-28T06:38:00+00:00,Argentina,0.4313787202527346,2,1,it,SES,South-America
 '45abc9898f',extremes,Storm,#b3b2b1,wmo,tempesta luganese,2026-05-12T05:52:00+00:00,Switzerland,0.4311267068999863,0,1,it,WCE,Europe
-'7e9da07b42',extremes,Storm,#b3b2b1,wmo,tempesta mendrisiotto,2026-05-12T05:52:00+00:00,Switzerland,0.4308335974134785,0,1,it,WCE,Europe
 'dbb3fa7d26',extremes,Earthquake,#870007,usgs,terremoto villa general roca,2026-06-06T06:08:00+00:00,Argentina,0.4307751739026621,1,1,it,SES,South-America
 '754dc98440',extremes,Snow&Ice,#d60d2b,wmo,gelo préalpes vaudoises,2026-05-17T06:01:00+00:00,Switzerland,0.4306113192750186,1,1,it,WCE,Europe
 '589d0558b8',extremes,Snow&Ice,#d60d2b,wmo,neve argentina,2026-05-25T06:53:00+00:00,Argentina,0.4301764187334325,2,1,it,SES,South-America
