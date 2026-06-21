@@ -2,7 +2,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5bf34f285a',extremes,Earthquake,#870007,usgs,terremoto italia,2026-06-12T07:05:00+00:00,Italy,0.6191046337430897,1,3,it,MED,Europe
 'c8bad6097f',extremes,Heat Wave,#c40202,wmo,ondata di caldo basilicata,2026-06-09T06:32:00+00:00,Italy,0.6089381283157844,2,1,it,MED,Europe
 '7104ad3c83',extremes,Thunderstorm,#53785a,wmo,temporale italia,2026-05-27T06:46:00+00:00,Italy,0.6073392581073668,1,2,it,MED,Europe
+'25e89c2734',extremes,Thunderstorm,#53785a,wmo,salve toscana,2026-06-21T07:16:00+00:00,Italy,0.60529984835552,0,1,it,MED,Europe
 'b4a448711b',extremes,Heat Wave,#c40202,wmo,ondata di caldo italia,2026-06-09T06:32:00+00:00,Italy,0.6040493840468018,2,1,it,MED,Europe
+'b77d2e68e3',extremes,Storm,#b3b2b1,wmo,tempesta molisana,2026-06-11T07:14:00+00:00,Italy,0.5982747226966569,0,1,it,MED,Europe
+'0a43eb8b74',extremes,Heat Wave,#c40202,wmo,ondata di caldo vouvry,2026-06-17T07:33:00+00:00,Switzerland,0.5958764299867628,0,1,it,WCE,Europe
+'a6c2bcf90c',extremes,Heat Wave,#c40202,wmo,ondata di caldo sumiswald worb,2026-06-19T07:39:00+00:00,Switzerland,0.5957922497541507,0,1,it,WCE,Europe
 '30f7444e18',extremes,Storm,#b3b2b1,wmo,tempesta puglia,2026-06-03T07:23:00+00:00,Italy,0.5935498592867026,2,2,it,MED,Europe
 '9b6136ffec',extremes,Heat Wave,#c40202,wmo,ondata di caldo umbria,2026-06-18T07:16:00+00:00,Italy,0.5880765975335341,2,2,it,MED,Europe
 'b96cc738bc',extremes,Precipitation,#d60d2b,wmo,pioggia piemonte,2026-06-03T07:23:00+00:00,Italy,0.5728260754983474,1,2,it,MED,Europe
@@ -51,7 +55,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd73c88d78a',extremes,Storm,#b3b2b1,wmo,mareggiata veneto,2026-05-21T06:35:00+00:00,Italy,0.507091941051381,1,1,it,MED,Europe
 'e9c919775b',extremes,Heat Wave,#c40202,wmo,ondata di caldo fürstenland,2026-06-17T07:33:00+00:00,Switzerland,0.5011211222618371,1,1,it,WCE,Europe
 '0e11501646',extremes,Storm,#b3b2b1,wmo,tempesta emilia e romagna,2026-06-01T07:30:00+00:00,Italy,0.5002697243191928,1,1,it,MED,Europe
-'de5ea0826d',extremes,Heat Wave,#c40202,wmo,ondata di caldo basilea,2026-06-20T06:47:00+00:00,Switzerland,0.49983115038861653,1,1,it,WCE,Europe
+'de5ea0826d',extremes,Heat Wave,#c40202,wmo,ondata di caldo basilea,2026-06-20T06:47:00+00:00,Switzerland,0.4998311503886165,1,1,it,WCE,Europe
 '18e7fdcc5f',extremes,Heat Wave,#c40202,wmo,l'ondata di caldo li contiene pienamente,2026-06-19T07:39:00+00:00,Switzerland,0.4998246399894104,1,1,it,WCE,Europe
 'c9fc484d05',extremes,Storm,#b3b2b1,wmo,mareggiata umbria,2026-05-28T06:38:00+00:00,Italy,0.4994754149756634,1,1,it,MED,Europe
 'b9a82bfdaa',extremes,Storm,#b3b2b1,wmo,tempesta veneta,2026-06-18T07:16:00+00:00,Italy,0.4980715957617809,1,1,it,MED,Europe
