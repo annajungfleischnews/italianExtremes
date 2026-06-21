@@ -4,6 +4,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7104ad3c83',extremes,Thunderstorm,#53785a,wmo,temporale italia,2026-05-27T06:46:00+00:00,Italy,0.6073392581073668,1,2,it,MED,Europe
 'b4a448711b',extremes,Heat Wave,#c40202,wmo,ondata di caldo italia,2026-06-09T06:32:00+00:00,Italy,0.6040493840468018,2,1,it,MED,Europe
 '9b6136ffec',extremes,Heat Wave,#c40202,wmo,ondata di caldo umbria,2026-06-18T07:16:00+00:00,Italy,0.6029135735688638,1,1,it,MED,Europe
+'e9c919775b',extremes,Heat Wave,#c40202,wmo,ondata di caldo fürstenland,2026-06-17T07:33:00+00:00,Switzerland,0.5895542614845143,0,1,it,WCE,Europe
+'de5ea0826d',extremes,Heat Wave,#c40202,wmo,ondata di caldo basilea,2026-06-20T06:47:00+00:00,Switzerland,0.5880366475160195,0,1,it,WCE,Europe
+'18e7fdcc5f',extremes,Heat Wave,#c40202,wmo,l'ondata di caldo li contiene pienamente,2026-06-19T07:39:00+00:00,Switzerland,0.5880289882228358,0,1,it,WCE,Europe
 '30f7444e18',extremes,Storm,#b3b2b1,wmo,tempesta puglia,2026-06-03T07:23:00+00:00,Italy,0.5801174285725912,1,1,it,MED,Europe
 'b96cc738bc',extremes,Precipitation,#d60d2b,wmo,pioggia piemonte,2026-06-03T07:23:00+00:00,Italy,0.5728260754983474,1,2,it,MED,Europe
 '78021233b7',extremes,Heat Wave,#c40202,wmo,ondata di caldo toscana,2026-06-17T07:33:00+00:00,Italy,0.5710809452305922,1,1,it,MED,Europe
@@ -226,7 +229,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'cb207f7e4e',extremes,Drought,#edc291,edo,mancanza di pioggia argentina,2026-05-18T06:38:00+00:00,Argentina,0.386445783198546,1,1,it,SES,South-America
 '5649c0bd8e',extremes,Precipitation,#d60d2b,wmo,pioggia torrenziale lauterbrunnen wilderswil,2026-06-02T07:08:00+00:00,Switzerland,0.3864438111494846,1,1,it,WCE,Europe
 '2a2adbc0f1',extremes,Precipitation,#d60d2b,wmo,acquazzone emmen hochdorf,2026-06-03T07:23:00+00:00,Switzerland,0.3862388142871047,1,1,it,WCE,Europe
-'1d9279f2d9',extremes,Precipitation,#d60d2b,wmo,acquazzone innertkirchen guttannen,2026-06-02T07:08:00+00:00,Switzerland,0.38280647623855957,1,1,it,WCE,Europe
+'1d9279f2d9',extremes,Precipitation,#d60d2b,wmo,acquazzone innertkirchen guttannen,2026-06-02T07:08:00+00:00,Switzerland,0.3828064762385595,1,1,it,WCE,Europe
 'a935f88023',extremes,Snow&Ice,#d60d2b,wmo,ghiaccio val d'hérens,2026-05-17T06:01:00+00:00,Switzerland,0.3716335689161916,1,1,it,WCE,Europe
 '40f675561f',extremes,Heat Wave,#c40202,random,estate più calda,2026-05-22T06:31:00+00:00,,0.3667777334643519,1,2,it,,
 '6a8f300cf6',extremes,Precipitation,#d60d2b,wmo,precipitazioni hulftegg untertoggenburg,2026-06-03T07:23:00+00:00,Switzerland,0.3411801477019579,2,1,it,WCE,Europe
