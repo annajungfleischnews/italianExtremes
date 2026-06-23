@@ -155,7 +155,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ddc0b2c2fb',extremes,Storm,#b3b2b1,wmo,mareggiata campania,2026-06-02T07:08:00+00:00,Italy,0.4421835263151066,2,1,it,MED,Europe
 '128c953b1e',extremes,Precipitation,#d60d2b,wmo,precipitazioni sicilia,2026-05-29T06:38:00+00:00,Italy,0.4420480857966575,1,1,it,MED,Europe
 'bd8c8650ea',extremes,Earthquake,#870007,usgs,terremoto el aguilar,2026-05-18T06:38:00+00:00,Argentina,0.4416956340848511,1,1,it,SES,South-America
-'e010701253',extremes,Precipitation,#d60d2b,wmo,piogge torrenziali sardegna,2026-05-15T06:09:00+00:00,Italy,0.439756821029009,0,1,it,MED,Europe
 '1677dfb334',extremes,Precipitation,#d60d2b,wmo,precipitazioni liechtenstein,2026-06-02T07:08:00+00:00,Switzerland,0.4395346681846159,0,1,it,WCE,Europe
 'da3f45eeca',extremes,Snow&Ice,#d60d2b,wmo,gelata bienne neuchâtel,2026-05-17T06:01:00+00:00,Switzerland,0.4379749096064069,1,1,it,WCE,Europe
 '98067269b6',extremes,Heat Wave,#c40202,wmo,ondata di caldo piemonte,2026-05-27T06:46:00+00:00,Italy,0.436482405142472,1,1,it,MED,Europe
@@ -203,7 +202,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '27e1d29523',extremes,Precipitation,#d60d2b,wmo,acquazzone schangnau sigriswil,2026-06-03T07:23:00+00:00,Switzerland,0.4000366183259258,1,1,it,WCE,Europe
 'f90601fa23',extremes,Volcano,#b83202,random,eruzione del vulcano,2026-05-17T06:01:00+00:00,,0.3995213075890998,0,1,it,,
 '495d5f27a3',extremes,Precipitation,#d60d2b,wmo,pioggia lucerna alpnach,2026-06-03T07:23:00+00:00,Switzerland,0.399029226910465,1,1,it,WCE,Europe
-'ce37661cdd',extremes,Cold Wave,#a7e9fa,random,giorno più freddo,2026-05-26T06:31:00+00:00,,0.3985287609350625,0,1,it,,
 '51f6808ed3',extremes,Thunderstorm,#53785a,wmo,temporale liguria,2026-05-29T06:38:00+00:00,Italy,0.3984897836587845,1,1,it,MED,Europe
 '0053afc92f',extremes,Volcano,#b83202,random,lahar,2026-05-20T06:32:00+00:00,,0.3981054320760149,0,1,it,,
 '50f39bafbb',extremes,Precipitation,#d60d2b,wmo,acquazzone grindelwald,2026-06-02T07:08:00+00:00,Switzerland,0.3972433810515439,1,1,it,WCE,Europe
@@ -229,4 +227,5 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '2a2adbc0f1',extremes,Precipitation,#d60d2b,wmo,acquazzone emmen hochdorf,2026-06-03T07:23:00+00:00,Switzerland,0.3862388142871047,1,1,it,WCE,Europe
 '1d9279f2d9',extremes,Precipitation,#d60d2b,wmo,acquazzone innertkirchen guttannen,2026-06-02T07:08:00+00:00,Switzerland,0.3828064762385595,1,1,it,WCE,Europe
 '40f675561f',extremes,Heat Wave,#c40202,random,estate più calda,2026-05-22T06:31:00+00:00,,0.3667777334643519,1,2,it,,
+'ce37661cdd',extremes,Cold Wave,#a7e9fa,random,giorno più freddo,2026-05-26T06:31:00+00:00,,0.3437003167948031,1,2,it,,
 '6a8f300cf6',extremes,Precipitation,#d60d2b,wmo,precipitazioni hulftegg untertoggenburg,2026-06-03T07:23:00+00:00,Switzerland,0.3411801477019579,2,1,it,WCE,Europe
