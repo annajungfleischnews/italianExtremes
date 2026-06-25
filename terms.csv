@@ -9,7 +9,15 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e86bb6f3ad',extremes,Heat Wave,#c40202,wmo,ondata di caldo aarau lenzburg,2026-06-17T07:33:00+00:00,Switzerland,0.5903499818431525,0,1,it,WCE,Europe
 '72ffb98e6f',extremes,Heat Wave,#c40202,wmo,ondata di caldo flüelen unterschächen,2026-06-17T07:33:00+00:00,Switzerland,0.5893433486277311,0,1,it,WCE,Europe
 '5d8c69af03',extremes,Heat Wave,#c40202,wmo,ondata di caldo vallon de saint imier,2026-06-17T07:33:00+00:00,Switzerland,0.5886976017114047,0,1,it,WCE,Europe
+'285520cfc4',extremes,Heat Wave,#c40202,wmo,ondata di caldo mensili val d'illiez,2026-06-21T07:16:00+00:00,Switzerland,0.5886424561401309,0,1,it,WCE,Europe
 '9b6136ffec',extremes,Heat Wave,#c40202,wmo,ondata di caldo umbria,2026-06-18T07:16:00+00:00,Italy,0.5880765975335341,2,2,it,MED,Europe
+'8e76e97181',extremes,Heat Wave,#c40202,wmo,ondata di caldo morges cossonay,2026-06-18T07:16:00+00:00,Switzerland,0.5878058431044244,0,1,it,WCE,Europe
+'09cd3138c0',extremes,Heat Wave,#c40202,wmo,ondata di caldo vallée du trient,2026-06-19T07:39:00+00:00,Switzerland,0.5874077043531275,0,1,it,WCE,Europe
+'16ea378d6b',extremes,Heat Wave,#c40202,wmo,ondata di caldo liechtenstein,2026-06-18T07:16:00+00:00,Switzerland,0.587276829056598,0,1,it,WCE,Europe
+'93ee21e413',extremes,Heat Wave,#c40202,wmo,ondata di caldo gersau engelbergertal,2026-06-17T07:33:00+00:00,Switzerland,0.5872649822049602,0,1,it,WCE,Europe
+'f4d16ac321',extremes,Heat Wave,#c40202,wmo,ondata di caldo schiers,2026-06-17T07:33:00+00:00,Switzerland,0.586411213811466,0,1,it,WCE,Europe
+'4d27fd77b1',extremes,Heat Wave,#c40202,wmo,ondata di caldo Obertoggenburg,2026-06-18T07:16:00+00:00,Switzerland,0.5860139505783899,0,1,it,WCE,Europe
+'f6f32944d1',extremes,Heat Wave,#c40202,wmo,ondata di caldo gros de vaud,2026-06-18T07:16:00+00:00,Switzerland,0.5859451265737253,0,1,it,WCE,Europe
 'b96cc738bc',extremes,Precipitation,#d60d2b,wmo,pioggia piemonte,2026-06-03T07:23:00+00:00,Italy,0.5728260754983474,1,2,it,MED,Europe
 '6076c8543a',extremes,Storm,#b3b2b1,wmo,mareggiata liguria,2026-05-12T05:52:00+00:00,Italy,0.5702673994263485,1,2,it,MED,Europe
 '3840c76d04',extremes,Storm,#b3b2b1,wmo,tempesta calabria,2026-06-11T07:14:00+00:00,Italy,0.5681830552002749,1,1,it,MED,Europe
