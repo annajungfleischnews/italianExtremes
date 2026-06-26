@@ -165,7 +165,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a33960f8b5',extremes,Precipitation,#d60d2b,wmo,pioggia Liechtenstein,2026-06-03T07:23:00+00:00,Switzerland,0.4457925512501141,0,1,it,WCE,Europe
 '9d36efcb9c',extremes,Thunderstorm,#53785a,wmo,maltempo sicilia,2026-05-28T06:38:00+00:00,Italy,0.4455327507071468,2,1,it,MED,Europe
 '1b88ff6412',extremes,Precipitation,#d60d2b,wmo,acquazzone wädenswil rüti,2026-06-02T07:08:00+00:00,Switzerland,0.4451267152015237,0,1,it,WCE,Europe
-'5b610cf8b5',extremes,Precipitation,#d60d2b,wmo,pioggia flüelen unterschächen,2026-06-02T07:08:00+00:00,Switzerland,0.4449792091635426,0,1,it,WCE,Europe
 'fc5823cc73',extremes,Precipitation,#d60d2b,wmo,precipitazioni urner oberland,2026-06-04T07:06:00+00:00,Switzerland,0.4447327824951185,0,1,it,WCE,Europe
 '2d8893aa94',extremes,Precipitation,#d60d2b,wmo,acquazzone maderanertal,2026-06-04T07:06:00+00:00,Switzerland,0.444561263454228,0,1,it,WCE,Europe
 'ae340540d6',extremes,Precipitation,#d60d2b,wmo,acquazzone argentina,2026-05-28T06:38:00+00:00,Argentina,0.4439921296643809,2,1,it,SES,South-America
@@ -217,7 +216,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'de4ab1caea',extremes,Precipitation,#d60d2b,wmo,precipitazioni erstfeld engelberg,2026-06-03T07:23:00+00:00,Switzerland,0.4033091885384076,1,1,it,WCE,Europe
 '4d9577e33d',extremes,Volcano,#b83202,random,vulcano,2026-05-21T06:34:00+00:00,,0.4016653703927666,0,1,it,,
 '5b8cf400f9',extremes,Iceberg,#d60d2b,random,distacco dell'iceberg,2026-05-24T06:22:00+00:00,,0.4007054354312072,0,1,it,,
-'a8955ad6a2',extremes,Cold Wave,#a7e9fa,random,ondata di freddo,2026-05-21T06:34:00+00:00,,0.4004422002238279,0,1,it,,
 '27e1d29523',extremes,Precipitation,#d60d2b,wmo,acquazzone schangnau sigriswil,2026-06-03T07:23:00+00:00,Switzerland,0.4000366183259258,1,1,it,WCE,Europe
 '495d5f27a3',extremes,Precipitation,#d60d2b,wmo,pioggia lucerna alpnach,2026-06-03T07:23:00+00:00,Switzerland,0.399029226910465,1,1,it,WCE,Europe
 '51f6808ed3',extremes,Thunderstorm,#53785a,wmo,temporale liguria,2026-05-29T06:38:00+00:00,Italy,0.3984897836587845,1,1,it,MED,Europe
@@ -245,7 +243,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9a09042a39',extremes,Precipitation,#d60d2b,wmo,pioggia torrenziale hulftegg untertoggenburg,2026-06-02T07:08:00+00:00,Switzerland,0.3828656632860208,1,1,it,WCE,Europe
 '1d9279f2d9',extremes,Precipitation,#d60d2b,wmo,acquazzone innertkirchen guttannen,2026-06-02T07:08:00+00:00,Switzerland,0.3828064762385595,1,1,it,WCE,Europe
 '46fd745b7a',extremes,Precipitation,#d60d2b,wmo,pioggia torrenziale liechtenstein,2026-06-04T07:06:00+00:00,Switzerland,0.3824903720310372,1,1,it,WCE,Europe
-'5ef9871df1',extremes,Precipitation,#d60d2b,wmo,pioggia torrenziale Grindelwald,2026-06-04T07:06:00+00:00,Switzerland,0.38141014092495357,1,1,it,WCE,Europe
+'5ef9871df1',extremes,Precipitation,#d60d2b,wmo,pioggia torrenziale Grindelwald,2026-06-04T07:06:00+00:00,Switzerland,0.3814101409249535,1,1,it,WCE,Europe
+'5b610cf8b5',extremes,Precipitation,#d60d2b,wmo,pioggia flüelen unterschächen,2026-06-02T07:08:00+00:00,Switzerland,0.3782323277890112,1,1,it,WCE,Europe
 '40f675561f',extremes,Heat Wave,#c40202,random,estate più calda,2026-05-22T06:31:00+00:00,,0.3667777334643519,1,2,it,,
 'ce37661cdd',extremes,Cold Wave,#a7e9fa,random,giorno più freddo,2026-05-26T06:31:00+00:00,,0.3437003167948031,1,2,it,,
+'a8955ad6a2',extremes,Cold Wave,#a7e9fa,random,ondata di freddo,2026-05-21T06:34:00+00:00,,0.34142597519025375,1,1,it,,
 '6a8f300cf6',extremes,Precipitation,#d60d2b,wmo,precipitazioni hulftegg untertoggenburg,2026-06-03T07:23:00+00:00,Switzerland,0.3411801477019579,2,1,it,WCE,Europe
