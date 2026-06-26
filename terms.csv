@@ -8,6 +8,14 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'edae5a8a2b',extremes,Snow&Ice,#d60d2b,wmo,ghiaccio argentino,2026-06-09T06:32:00+00:00,Argentina,0.5890198598582165,2,2,it,SES,South-America
 '9b6136ffec',extremes,Heat Wave,#c40202,wmo,ondata di caldo umbria,2026-06-18T07:16:00+00:00,Italy,0.5880765975335341,2,2,it,MED,Europe
 '731c9c6599',extremes,Storm,#b3b2b1,wmo,tempesta basilicata,2026-06-12T07:05:00+00:00,Italy,0.5873367797626216,2,2,it,MED,Europe
+'0b0a5d6b0a',extremes,Heat Wave,#c40202,wmo,ondata di caldo franches montagnes,2026-06-17T07:33:00+00:00,Switzerland,0.5839296099791853,0,1,it,WCE,Europe
+'42cb1ac630',extremes,Heat Wave,#c40202,wmo,ondata di caldo erstfeld engelberg,2026-06-18T07:16:00+00:00,Switzerland,0.5837354922680028,0,1,it,WCE,Europe
+'6f8f50b514',extremes,Heat Wave,#c40202,wmo,ondata di caldo vispertal nanztal,2026-06-17T07:33:00+00:00,Switzerland,0.5837053664526787,0,1,it,WCE,Europe
+'8025b5773e',extremes,Heat Wave,#c40202,wmo,ondata di caldo Yverdon Bevaix,2026-06-18T07:16:00+00:00,Switzerland,0.5828551117702432,0,1,it,WCE,Europe
+'7535b4e5c1',extremes,Heat Wave,#c40202,wmo,ondata di caldo frutigen kiental,2026-06-18T07:16:00+00:00,Switzerland,0.5828391408976372,0,1,it,WCE,Europe
+'66206e02fd',extremes,Heat Wave,#c40202,wmo,ondata di caldo zofingen triengen,2026-06-17T07:33:00+00:00,Switzerland,0.5819902979807882,0,1,it,WCE,Europe
+'47f4d3e73c',extremes,Heat Wave,#c40202,wmo,ondata di caldo thal,2026-06-20T06:47:00+00:00,Switzerland,0.5817778109008414,0,1,it,WCE,Europe
+'ff2fb99e65',extremes,Heat Wave,#c40202,wmo,ondata di caldo hulftegg untertoggenburg,2026-06-21T07:16:00+00:00,Switzerland,0.5811145483582352,0,1,it,WCE,Europe
 'b96cc738bc',extremes,Precipitation,#d60d2b,wmo,pioggia piemonte,2026-06-03T07:23:00+00:00,Italy,0.5728260754983474,1,2,it,MED,Europe
 '6076c8543a',extremes,Storm,#b3b2b1,wmo,mareggiata liguria,2026-05-12T05:52:00+00:00,Italy,0.5702673994263485,1,2,it,MED,Europe
 '3840c76d04',extremes,Storm,#b3b2b1,wmo,tempesta calabria,2026-06-11T07:14:00+00:00,Italy,0.5681830552002749,1,1,it,MED,Europe
@@ -247,5 +255,5 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5b610cf8b5',extremes,Precipitation,#d60d2b,wmo,pioggia flüelen unterschächen,2026-06-02T07:08:00+00:00,Switzerland,0.3782323277890112,1,1,it,WCE,Europe
 '40f675561f',extremes,Heat Wave,#c40202,random,estate più calda,2026-05-22T06:31:00+00:00,,0.3667777334643519,1,2,it,,
 'ce37661cdd',extremes,Cold Wave,#a7e9fa,random,giorno più freddo,2026-05-26T06:31:00+00:00,,0.3437003167948031,1,2,it,,
-'a8955ad6a2',extremes,Cold Wave,#a7e9fa,random,ondata di freddo,2026-05-21T06:34:00+00:00,,0.34142597519025375,1,1,it,,
+'a8955ad6a2',extremes,Cold Wave,#a7e9fa,random,ondata di freddo,2026-05-21T06:34:00+00:00,,0.3414259751902537,1,1,it,,
 '6a8f300cf6',extremes,Precipitation,#d60d2b,wmo,precipitazioni hulftegg untertoggenburg,2026-06-03T07:23:00+00:00,Switzerland,0.3411801477019579,2,1,it,WCE,Europe
