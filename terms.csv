@@ -30,9 +30,14 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '572704ba2e',extremes,Thunderstorm,#53785a,wmo,temporale lombardia,2026-05-31T06:40:00+00:00,Italy,0.5465907782745022,1,2,it,MED,Europe
 '715d602abe',extremes,Drought,#edc291,edo,secchezza italia,2026-05-16T05:40:00+00:00,Italy,0.5454200440293137,1,2,it,MED,Europe
 'e3a5e377d1',extremes,Heat Wave,#c40202,wmo,ondata di caldo val d'hérens,2026-06-23T06:33:00+00:00,Switzerland,0.5450825259600444,0,1,it,WCE,Europe
+'597a58110b',extremes,Heat Wave,#c40202,wmo,ondata di caldo blenio,2026-06-26T06:36:00+00:00,Switzerland,0.5437310407324499,0,1,it,WCE,Europe
+'4af517fad7',extremes,Heat Wave,#c40202,wmo,ondata di caldo glarus süd grosstal,2026-06-17T07:33:00+00:00,Switzerland,0.5420719966362291,0,1,it,WCE,Europe
 'f58a7f1229',extremes,Precipitation,#d60d2b,wmo,pioggia svizzera,2026-06-02T07:08:00+00:00,Switzerland,0.5417643705148095,2,2,it,WCE,Europe
 '89cd0748e9',extremes,Precipitation,#d60d2b,wmo,pioggia friuli venezia giulia,2026-06-03T07:23:00+00:00,Italy,0.5367441212610413,1,1,it,MED,Europe
+'a68fadbbf5',extremes,Drought,#edc291,edo,siccità svizzera,2026-06-12T07:05:00+00:00,Switzerland,0.5356566542161411,0,1,it,WCE,Europe
+'740ea7b0aa',extremes,Heat Wave,#c40202,wmo,ondata di caldo obersimmental,2026-06-18T07:16:00+00:00,Switzerland,0.5323715485243098,0,1,it,WCE,Europe
 '78021233b7',extremes,Heat Wave,#c40202,wmo,ondata di caldo toscana,2026-06-17T07:33:00+00:00,Italy,0.5320867055048268,2,1,it,MED,Europe
+'45278c4de3',extremes,Drought,#edc291,edo,periodo di siccità in Somalia,2026-06-13T06:38:00+00:00,Somalia,0.5303200912119516,0,1,it,NEAF,Africa
 '7104ad3c83',extremes,Thunderstorm,#53785a,wmo,temporale italia,2026-05-27T06:46:00+00:00,Italy,0.5302805384821708,2,2,it,MED,Europe
 'd464543475',extremes,Heat Wave,#c40202,wmo,ondata di caldo lazio,2026-06-18T07:16:00+00:00,Italy,0.5289977761851851,2,1,it,MED,Europe
 '0301a561b6',extremes,Thunderstorm,#53785a,wmo,grandine puglia,2026-06-02T07:08:00+00:00,Italy,0.5288809388022297,2,2,it,MED,Europe
@@ -47,9 +52,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd90bfca4a4',extremes,Storm,#b3b2b1,wmo,tempesta sardegna,2026-06-03T07:23:00+00:00,Italy,0.5203119565016185,1,1,it,MED,Europe
 'b862f62894',extremes,Storm,#b3b2b1,wmo,mareggiata basilicata,2026-06-11T07:14:00+00:00,Italy,0.5201671326035944,1,1,it,MED,Europe
 '851e7f751b',extremes,Storm,#b3b2b1,wmo,temporale valle d'aosta,2026-06-02T07:08:00+00:00,Italy,0.5194954747704423,1,1,it,MED,Europe
+'f6ff301646',extremes,Drought,#edc291,edo,siccità in Somalia,2026-06-16T08:27:00+00:00,Somalia,0.5192480365709203,0,1,it,NEAF,Africa
+'e5b46f3978',extremes,Drought,#edc291,edo,periodo di siccità argentina,2026-06-18T07:16:00+00:00,Argentina,0.5131141931211544,0,1,it,SES,South-America
 'cd3d048b5a',extremes,Precipitation,#d60d2b,wmo,pioggia italia,2026-05-28T06:38:00+00:00,Italy,0.5109236165735618,1,2,it,MED,Europe
 'e762488b7b',extremes,Earthquake,#870007,usgs,terremoto caluula,2026-06-28T06:44:00+00:00,Somalia,0.510335249058745,1,1,it,NEAF,Africa
 '0df834d969',extremes,Thunderstorm,#53785a,wmo,maltempo sardegna,2026-06-23T06:33:00+00:00,Italy,0.51011714194284,1,1,it,MED,Europe
+'618e955f78',extremes,Drought,#edc291,edo,mancanza di pioggia in svizzera,2026-06-27T06:08:00+00:00,Switzerland,0.5095668323678317,0,1,it,WCE,Europe
 'fdaa0a92ad',extremes,Storm,#b3b2b1,wmo,tempesta campania,2026-06-11T07:14:00+00:00,Italy,0.5086796472971022,2,2,it,MED,Europe
 '838174fb09',extremes,Precipitation,#d60d2b,wmo,acquazzone sicilia,2026-05-28T06:38:00+00:00,Italy,0.5085361681284103,2,1,it,MED,Europe
 '540c976e59',extremes,Heat Wave,#c40202,wmo,ondata di caldo sardegna,2026-06-14T07:07:00+00:00,Italy,0.5081276692553441,2,1,it,MED,Europe
