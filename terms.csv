@@ -150,20 +150,28 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4b8a98e260',extremes,Heat Wave,#c40202,wmo,ondata di caldo glâne,2026-06-17T07:33:00+00:00,Switzerland,0.4747176456786161,1,1,it,WCE,Europe
 'da505455fb',extremes,Thunderstorm,#53785a,wmo,temporale sicilia,2026-06-22T08:39:00+00:00,Italy,0.4739839545833196,0,1,it,MED,Europe
 '6c67a60d9b',extremes,Heat Wave,#c40202,wmo,ondata di caldo turtmanntal,2026-06-18T07:16:00+00:00,Switzerland,0.4737853810081601,1,1,it,WCE,Europe
+'b6c9b0cd21',extremes,Thunderstorm,#53785a,wmo,maltempo valle d'aosta,2026-06-19T07:39:00+00:00,Italy,0.47303245184758164,0,1,it,MED,Europe
 '2f2f638d6d',extremes,Heat Wave,#c40202,wmo,ondata di caldo niedersimmental,2026-06-17T07:33:00+00:00,Switzerland,0.4724674563243676,1,1,it,WCE,Europe
+'973af89b5a',extremes,Thunderstorm,#53785a,wmo,temporale calabria,2026-06-22T08:39:00+00:00,Italy,0.4721337733747526,0,1,it,MED,Europe
+'93f796a1ae',extremes,Thunderstorm,#53785a,wmo,grandine umbria,2026-06-22T08:39:00+00:00,Italy,0.4718067168212474,0,1,it,MED,Europe
 '4e5e4292b1',extremes,Thunderstorm,#53785a,wmo,grandine libia,2026-06-01T07:30:00+00:00,Libya,0.4715118277533351,2,1,it,SAH,Africa
+'0812394012',extremes,Thunderstorm,#53785a,wmo,maltempo lazio,2026-06-22T08:39:00+00:00,Italy,0.4714153994831205,0,1,it,MED,Europe
 '02328cb582',extremes,Heat Wave,#c40202,wmo,ondata di caldo murten kerzers,2026-06-17T07:33:00+00:00,Switzerland,0.4711543913753047,1,1,it,WCE,Europe
 'e529bb6ac5',extremes,Precipitation,#d60d2b,wmo,pioggia argentina,2026-05-28T06:38:00+00:00,Argentina,0.4707583462843661,2,1,it,SES,South-America
 '5d8c239887',extremes,Drought,#edc291,edo,mancanza di pioggia libia,2026-06-12T07:05:00+00:00,Libya,0.4697529232221582,1,1,it,SAH,Africa
 '16664cc668',extremes,Heat Wave,#c40202,wmo,ondata di caldo verzasca,2026-06-17T07:33:00+00:00,Switzerland,0.4692210049189302,1,1,it,WCE,Europe
+'2c65951a8c',extremes,Thunderstorm,#53785a,wmo,grandine veneto,2026-06-22T08:39:00+00:00,Italy,0.4691857270697917,0,1,it,MED,Europe
 'edae5a8a2b',extremes,Snow&Ice,#d60d2b,wmo,ghiaccio argentino,2026-06-09T06:32:00+00:00,Argentina,0.4684494319975613,4,1,it,SES,South-America
 '0d99295f2f',extremes,Drought,#edc291,edo,mancanza di pioggia somalia,2026-06-09T06:33:00+00:00,Somalia,0.4682824044166739,1,1,it,NEAF,Africa
+'0a36c64301',extremes,Thunderstorm,#53785a,wmo,grandine piemonte,2026-06-19T07:39:00+00:00,Italy,0.46717924771416697,0,1,it,MED,Europe
 'ee371032d3',extremes,Thunderstorm,#53785a,wmo,temporale campania,2026-06-15T08:36:00+00:00,Italy,0.465793825836789,1,1,it,MED,Europe
+'eceb9ef4c9',extremes,Thunderstorm,#53785a,wmo,grandine trentino alto adige,2026-06-26T06:36:00+00:00,Italy,0.4650960016242221,0,1,it,MED,Europe
 '7664a3591c',extremes,Precipitation,#d60d2b,wmo,acquazzone friuli venezia giulia,2026-06-02T07:08:00+00:00,Italy,0.4644966998566455,1,1,it,MED,Europe
 '757cf38b46',extremes,Heat Wave,#c40202,wmo,ondata di caldo lausanne lavaux,2026-06-18T07:16:00+00:00,Switzerland,0.4638405161044969,1,1,it,WCE,Europe
 'e3a5e377d1',extremes,Heat Wave,#c40202,wmo,ondata di caldo val d'hérens,2026-06-23T06:33:00+00:00,Switzerland,0.4633201470660377,1,1,it,WCE,Europe
 '5e29cd96b0',extremes,Precipitation,#d60d2b,wmo,pioggia torrenziale italia,2026-05-28T06:38:00+00:00,Italy,0.4632685149965264,2,1,it,MED,Europe
 '27ecdd832f',extremes,Heat Wave,#c40202,wmo,ondata di caldo emilia e romagna,2026-05-27T06:46:00+00:00,Italy,0.4631900575149049,2,1,it,MED,Europe
+'e2e8743d46',extremes,Thunderstorm,#53785a,wmo,temporale emilia e romagna,2026-06-30T06:39:00+00:00,Italy,0.4629832284457803,0,1,it,MED,Europe
 '97e8e6e190',extremes,Heat Wave,#c40202,wmo,ondata di caldo locarnese,2026-05-26T06:31:00+00:00,Switzerland,0.4625362157970367,1,1,it,WCE,Europe
 '597a58110b',extremes,Heat Wave,#c40202,wmo,ondata di caldo blenio,2026-06-26T06:36:00+00:00,Switzerland,0.4621713846225824,1,1,it,WCE,Europe
 '5660802a7f',extremes,Heat Wave,#c40202,wmo,riviera dell'ondata di caldo,2026-05-26T06:31:00+00:00,Switzerland,0.4619868693892282,1,1,it,WCE,Europe
