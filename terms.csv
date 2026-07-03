@@ -127,6 +127,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e876b3ff36',extremes,Earthquake,#870007,usgs,terremoto abra pampa,2026-06-23T06:32:00+00:00,Argentina,0.4891585912100124,1,1,it,SES,South-America
 '0c355d5b91',extremes,Heat Wave,#c40202,wmo,ondata di caldo préalpes vaudoises,2026-06-17T07:33:00+00:00,Switzerland,0.4891530683288358,1,1,it,WCE,Europe
 '23cf4b65f8',extremes,Heat Wave,#c40202,wmo,ondata di caldo nidau ins,2026-06-19T07:39:00+00:00,Switzerland,0.489018270215285,1,1,it,WCE,Europe
+'9d36efcb9c',extremes,Thunderstorm,#53785a,wmo,maltempo sicilia,2026-06-24T06:30:00+00:00,Italy,0.48785115766134873,0,1,it,MED,Europe
 'f9eb244a9a',extremes,Drought,#edc291,edo,mancanza di pioggia italia,2026-05-31T06:40:00+00:00,Italy,0.4873877907149234,1,1,it,MED,Europe
 '7287d50547',extremes,Thunderstorm,#53785a,wmo,forte maltempo st.gallen rorschach,2026-07-01T06:52:00+00:00,Switzerland,0.4873370680759213,0,1,it,WCE,Europe
 '3f5bcf9129',extremes,Thunderstorm,#53785a,wmo,forte tempo saanen gsteig,2026-07-01T06:52:00+00:00,Switzerland,0.4870683199194919,0,1,it,WCE,Europe
@@ -151,15 +152,22 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'df19823d7f',extremes,Precipitation,#d60d2b,wmo,acquazzone valle d'aosta,2026-06-04T07:06:00+00:00,Italy,0.4809563181148983,1,1,it,MED,Europe
 'c377e67829',extremes,Heat Wave,#c40202,wmo,ondata di caldo campania,2026-06-22T08:39:00+00:00,Italy,0.4808834889698193,2,1,it,MED,Europe
 '8e19081b44',extremes,Heat Wave,#c40202,wmo,ondata di caldo senso berna,2026-06-17T07:33:00+00:00,Switzerland,0.480676352974285,1,1,it,WCE,Europe
+'da1464f260',extremes,Thunderstorm,#53785a,wmo,maltempo veneto,2026-07-01T06:52:00+00:00,Italy,0.4799298708319123,0,1,it,MED,Europe
 'b6b1d80b84',extremes,Precipitation,#d60d2b,wmo,precipitazioni lombardia,2026-06-09T06:32:00+00:00,Italy,0.4797587059988803,1,1,it,MED,Europe
 '7dfe181d54',extremes,Heat Wave,#c40202,wmo,ondata di caldo sion crans montana,2026-06-17T07:33:00+00:00,Switzerland,0.4796905222242993,1,1,it,WCE,Europe
 'e050960c85',extremes,Heat Wave,#c40202,wmo,ondata di caldo marche,2026-06-26T06:36:00+00:00,Italy,0.4795712701355812,2,1,it,MED,Europe
+'da7d718400',extremes,Thunderstorm,#53785a,wmo,temporale pugliese,2026-07-01T06:52:00+00:00,Italy,0.47850300414559227,0,1,it,MED,Europe
 '075cc3fe36',extremes,Thunderstorm,#53785a,wmo,maltempo italia,2026-05-31T06:40:00+00:00,Italy,0.4784074485005685,1,2,it,MED,Europe
+'c2c5933c65',extremes,Thunderstorm,#53785a,wmo,grandine muotathal,2026-07-01T06:52:00+00:00,Switzerland,0.4784031778759917,0,1,it,WCE,Europe
 'a85598b6d2',extremes,Heat Wave,#c40202,wmo,ondata di caldo wohlen albis,2026-06-19T07:39:00+00:00,Switzerland,0.4782429057120845,1,1,it,WCE,Europe
+'20cf93a43c',extremes,Storm,#b3b2b1,wmo,tempesta lugnez valsertal,2026-07-01T06:52:00+00:00,Switzerland,0.4776529632715333,0,1,it,WCE,Europe
 '33c63ac237',extremes,Heat Wave,#c40202,wmo,ondata di caldo aigle leysin,2026-06-18T07:16:00+00:00,Switzerland,0.4776367090325252,1,1,it,WCE,Europe
+'20b3c1ad26',extremes,Storm,#b3b2b1,wmo,mareggiata huttwil willisau,2026-07-01T06:52:00+00:00,Switzerland,0.477240432500681,0,1,it,WCE,Europe
 '42f1336000',extremes,Drought,#edc291,edo,siccità Somalia,2026-06-24T06:30:00+00:00,Somalia,0.4757311887448323,1,1,it,NEAF,Africa
 'fb67dfa7f8',extremes,Heat Wave,#c40202,wmo,ondata di caldo oron – haute broye,2026-06-18T07:16:00+00:00,Switzerland,0.4753454596036901,1,1,it,WCE,Europe
 'c928f81ef5',extremes,Thunderstorm,#53785a,wmo,temporale valle d'aosta,2026-06-23T06:33:00+00:00,Italy,0.4752798116939114,0,1,it,MED,Europe
+'9b3b116112',extremes,Storm,#b3b2b1,wmo,mareggiata langnau eggiwil,2026-07-01T06:52:00+00:00,Switzerland,0.4752423589283205,0,1,it,WCE,Europe
+'3b65857064',extremes,Storm,#b3b2b1,wmo,tempesta emmen hochdorf,2026-07-01T06:52:00+00:00,Switzerland,0.4749960347401445,0,1,it,WCE,Europe
 '925ddc15dd',extremes,Heat Wave,#c40202,wmo,ondata di caldo alta valmaggia,2026-06-26T06:36:00+00:00,Switzerland,0.4749444588993005,1,1,it,WCE,Europe
 '4b8a98e260',extremes,Heat Wave,#c40202,wmo,ondata di caldo glâne,2026-06-17T07:33:00+00:00,Switzerland,0.4747176456786161,1,1,it,WCE,Europe
 '2c65951a8c',extremes,Thunderstorm,#53785a,wmo,grandine veneto,2026-06-22T08:39:00+00:00,Italy,0.4741078980093229,1,2,it,MED,Europe
