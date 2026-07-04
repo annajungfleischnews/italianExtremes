@@ -51,7 +51,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1fea4f642d',extremes,Storm,#b3b2b1,wmo,tempesta svizzera,2026-07-01T06:52:00+00:00,Switzerland,0.5120924803344363,2,1,it,WCE,Europe
 'fdaa0a92ad',extremes,Storm,#b3b2b1,wmo,tempesta campania,2026-06-11T07:14:00+00:00,Italy,0.5086796472971022,2,2,it,MED,Europe
 '540c976e59',extremes,Heat Wave,#c40202,wmo,ondata di caldo sardegna,2026-06-14T07:07:00+00:00,Italy,0.5081276692553441,2,1,it,MED,Europe
-'715d602abe',extremes,Drought,#edc291,edo,secchezza italia,2026-06-30T06:39:00+00:00,Italy,0.5058334837561447,0,1,it,MED,Europe
 '1025c5d048',extremes,Heat Wave,#c40202,wmo,ondata di caldo veneto,2026-06-21T07:16:00+00:00,Italy,0.5056749965348827,2,1,it,MED,Europe
 '5eae3aed3f',extremes,Thunderstorm,#53785a,wmo,grandine basilicata,2026-06-29T07:13:00+00:00,Italy,0.5056723547547561,2,1,it,MED,Europe
 'b2bbe70547',extremes,Heat Wave,#c40202,wmo,ondata di caldo Sarganserland,2026-06-18T07:16:00+00:00,Switzerland,0.502582340432514,1,1,it,WCE,Europe
@@ -114,7 +113,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9495481d82',extremes,Heat Wave,#c40202,wmo,ondata di caldo martigny verbier,2026-06-18T07:16:00+00:00,Switzerland,0.4917764081882857,1,1,it,WCE,Europe
 '1350baf605',extremes,Heat Wave,#c40202,wmo,ondata di caldo Lyss Grenchen,2026-06-18T07:16:00+00:00,Switzerland,0.4913172963378434,1,1,it,WCE,Europe
 'c1ad5b6068',extremes,Heat Wave,#c40202,wmo,ondata di caldo thun belp,2026-06-17T07:33:00+00:00,Switzerland,0.4908813215530566,1,1,it,WCE,Europe
-'ae81011c08',extremes,Thunderstorm,#53785a,wmo,maltempo Küblis klosters,2026-07-01T06:52:00+00:00,Switzerland,0.4907151730739525,0,1,it,WCE,Europe
 '403eda3313',extremes,Heat Wave,#c40202,wmo,ondata di caldo saint cergue,2026-06-17T07:33:00+00:00,Switzerland,0.4906339352911087,1,1,it,WCE,Europe
 '43d19279b3',extremes,Heat Wave,#c40202,wmo,ondata di caldo soletta rothrist,2026-06-18T07:16:00+00:00,Switzerland,0.4902904082214911,1,1,it,WCE,Europe
 '14c0b1f476',extremes,Heat Wave,#c40202,wmo,ondata di caldo Werdenberg,2026-06-17T07:33:00+00:00,Switzerland,0.4895701766500185,1,1,it,WCE,Europe
@@ -276,6 +274,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '323f237847',extremes,Heat Wave,#c40202,wmo,ondata di caldo fribourg,2026-06-20T06:47:00+00:00,Switzerland,0.4302204636317755,2,1,it,WCE,Europe
 '9fa978592e',extremes,Heat Wave,#c40202,wmo,ondata di caldo linthebene gaster,2026-06-21T07:16:00+00:00,Switzerland,0.4301400862349016,2,1,it,WCE,Europe
 '8ef8f7a322',extremes,Heat Wave,#c40202,wmo,ondata di caldo bienne neuchâtel,2026-06-17T07:33:00+00:00,Switzerland,0.4301198680298852,2,1,it,WCE,Europe
+'715d602abe',extremes,Drought,#edc291,edo,secchezza italia,2026-06-30T06:39:00+00:00,Italy,0.43010847619272297,1,1,it,MED,Europe
 '4208a0b339',extremes,Heat Wave,#c40202,wmo,ondata di caldo oberes baselbiet,2026-06-21T07:16:00+00:00,Switzerland,0.4300376046625569,2,1,it,WCE,Europe
 '655291dc6f',extremes,Heat Wave,#c40202,wmo,ondata di caldo pfungen hettlingen,2026-06-17T07:33:00+00:00,Switzerland,0.4299529121506695,2,1,it,WCE,Europe
 'dfb51eb234',extremes,Heat Wave,#c40202,wmo,ondata di caldo goldau ägeri,2026-06-20T06:47:00+00:00,Switzerland,0.4299371079793257,2,1,it,WCE,Europe
@@ -308,7 +307,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c1d5ba6a59',extremes,Thunderstorm,#53785a,wmo,temporale zurzach bülach,2026-07-01T06:52:00+00:00,Switzerland,0.4224053377947989,1,1,it,WCE,Europe
 'c9fee294c5',extremes,Thunderstorm,#53785a,wmo,grandine abruzzo,2026-06-03T07:23:00+00:00,Italy,0.4223741510802524,1,1,it,MED,Europe
 'a03bfb69ba',extremes,Drought,#edc291,edo,periodo di siccità in svizzera,2026-06-02T07:08:00+00:00,Switzerland,0.4221835601098293,1,1,it,WCE,Europe
-'38c74c1062',extremes,Thunderstorm,#53785a,wmo,grandine erstfeld engelberg,2026-07-01T06:52:00+00:00,Switzerland,0.42093816182201077,1,1,it,WCE,Europe
+'38c74c1062',extremes,Thunderstorm,#53785a,wmo,grandine erstfeld engelberg,2026-07-01T06:52:00+00:00,Switzerland,0.4209381618220107,1,1,it,WCE,Europe
+'ae81011c08',extremes,Thunderstorm,#53785a,wmo,maltempo Küblis klosters,2026-07-01T06:52:00+00:00,Switzerland,0.4171078971128596,1,1,it,WCE,Europe
 '29ab340774',extremes,Precipitation,#d60d2b,wmo,acquazzone langnau eggiwil,2026-06-03T07:23:00+00:00,Switzerland,0.4142852927808337,1,1,it,WCE,Europe
 '52b1763615',extremes,Earthquake,#870007,usgs,terremoto el hoyo,2026-06-25T06:32:00+00:00,Argentina,0.4106205265251405,1,1,it,SES,South-America
 '1a2e308d48',extremes,Thunderstorm,#53785a,wmo,temporale molisano,2026-06-03T07:23:00+00:00,Italy,0.4105872969214695,1,1,it,MED,Europe
