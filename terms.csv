@@ -39,7 +39,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0301a561b6',extremes,Thunderstorm,#53785a,wmo,grandine puglia,2026-06-02T07:08:00+00:00,Italy,0.5288809388022297,2,2,it,MED,Europe
 'dcef080672',extremes,Thunderstorm,#53785a,wmo,temporale toscana,2026-06-01T07:30:00+00:00,Italy,0.5277821748271018,2,1,it,MED,Europe
 '2cce7328e9',extremes,Storm,#b3b2b1,wmo,tempesta liguria,2026-06-01T07:30:00+00:00,Italy,0.527675263286514,1,1,it,MED,Europe
-'589d0558b8',extremes,Snow&Ice,#d60d2b,wmo,neve argentina,2026-06-16T08:27:00+00:00,Argentina,0.5272232734357437,1,1,it,SES,South-America
 '902e65f81a',extremes,Thunderstorm,#53785a,wmo,temporale abruzzo,2026-06-17T07:33:00+00:00,Italy,0.5263746903185693,1,1,it,MED,Europe
 'cd8395100f',extremes,Storm,#b3b2b1,wmo,mareggiata puglia,2026-06-02T07:08:00+00:00,Italy,0.5256598955831726,1,1,it,MED,Europe
 'b5cb89d511',extremes,Drought,#edc291,edo,siccità svizzera,2026-06-19T07:39:00+00:00,Switzerland,0.5251883245897708,2,2,it,WCE,Europe
@@ -125,7 +124,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e99283dc2d',extremes,Heat Wave,#c40202,wmo,ondata di caldo emmen hochdorf,2026-06-17T07:33:00+00:00,Switzerland,0.4870186685335232,1,1,it,WCE,Europe
 '365a9a79c6',extremes,Heat Wave,#c40202,wmo,ondata di caldo val de travers,2026-06-18T07:16:00+00:00,Switzerland,0.4868144351712646,1,1,it,WCE,Europe
 'ed766fa753',extremes,Heat Wave,#c40202,wmo,ondata di caldo zurzach bülach,2026-06-17T07:33:00+00:00,Switzerland,0.4865196740380107,1,1,it,WCE,Europe
-'9a08872ada',extremes,Thunderstorm,#53785a,wmo,grandine st. stephan lenk,2026-07-01T06:52:00+00:00,Switzerland,0.4864131527272395,0,1,it,WCE,Europe
 '32e74ad8ff',extremes,Heat Wave,#c40202,wmo,ondata di caldo molisano,2026-06-10T06:49:00+00:00,Italy,0.4862755740537989,2,1,it,MED,Europe
 '37eae1ce40',extremes,Storm,#b3b2b1,wmo,tempesta brienz interlaken,2026-07-01T06:52:00+00:00,Switzerland,0.4861657484107097,0,1,it,WCE,Europe
 '316c1a7868',extremes,Precipitation,#d60d2b,wmo,acquazzone toscana,2026-06-02T07:08:00+00:00,Italy,0.4853711905495621,2,1,it,MED,Europe
@@ -227,6 +225,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '065a434526',extremes,Storm,#b3b2b1,wmo,tempesta Abruzzo,2026-06-04T07:06:00+00:00,Italy,0.4488861207675267,2,1,it,MED,Europe
 '50de04165f',extremes,Thunderstorm,#53785a,wmo,temporalesco marchigiano,2026-06-03T07:23:00+00:00,Italy,0.4488702267517305,2,1,it,MED,Europe
 '5a1b144a5f',extremes,Precipitation,#d60d2b,wmo,pioggia glarona nord mitte,2026-07-01T06:52:00+00:00,Switzerland,0.4484366751281414,0,1,it,WCE,Europe
+'589d0558b8',extremes,Snow&Ice,#d60d2b,wmo,neve argentina,2026-06-16T08:27:00+00:00,Argentina,0.44828979742038216,2,1,it,SES,South-America
 '1339ca75ae',extremes,Thunderstorm,#53785a,wmo,grandine marcia,2026-06-01T07:30:00+00:00,Italy,0.4479462673667376,2,1,it,MED,Europe
 '116616eb5b',extremes,Storm,#b3b2b1,wmo,mareggiata emilia e romagna,2026-06-04T07:06:00+00:00,Italy,0.4472038435047673,2,1,it,MED,Europe
 '9d4c501d75',extremes,Precipitation,#d60d2b,wmo,pioggia glarus süd sernftal,2026-06-04T07:06:00+00:00,Switzerland,0.446419985496626,0,1,it,WCE,Europe
@@ -314,6 +313,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '38c74c1062',extremes,Thunderstorm,#53785a,wmo,grandine erstfeld engelberg,2026-07-01T06:52:00+00:00,Switzerland,0.4209381618220107,1,1,it,WCE,Europe
 'ae81011c08',extremes,Thunderstorm,#53785a,wmo,maltempo Küblis klosters,2026-07-01T06:52:00+00:00,Switzerland,0.4171078971128596,1,1,it,WCE,Europe
 '29ab340774',extremes,Precipitation,#d60d2b,wmo,acquazzone langnau eggiwil,2026-06-03T07:23:00+00:00,Switzerland,0.4142852927808337,1,1,it,WCE,Europe
+'9a08872ada',extremes,Thunderstorm,#53785a,wmo,grandine st. stephan lenk,2026-07-01T06:52:00+00:00,Switzerland,0.41345117981815355,1,1,it,WCE,Europe
 '52b1763615',extremes,Earthquake,#870007,usgs,terremoto el hoyo,2026-06-25T06:32:00+00:00,Argentina,0.4106205265251405,1,1,it,SES,South-America
 '1a2e308d48',extremes,Thunderstorm,#53785a,wmo,temporale molisano,2026-06-03T07:23:00+00:00,Italy,0.4105872969214695,1,1,it,MED,Europe
 '85f34dedd7',extremes,Thunderstorm,#53785a,wmo,temporale veneto,2026-06-03T07:23:00+00:00,Italy,0.4103172205260307,1,1,it,MED,Europe
