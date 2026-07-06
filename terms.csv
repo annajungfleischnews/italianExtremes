@@ -11,6 +11,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b4a448711b',extremes,Heat Wave,#c40202,wmo,ondata di caldo italia,2026-06-09T06:32:00+00:00,Italy,0.6040493840468018,2,1,it,MED,Europe
 'e529bb6ac5',extremes,Precipitation,#d60d2b,wmo,pioggia argentina,2026-06-18T07:16:00+00:00,Argentina,0.5988436105671591,2,2,it,SES,South-America
 '30f7444e18',extremes,Storm,#b3b2b1,wmo,tempesta puglia,2026-06-03T07:23:00+00:00,Italy,0.5935498592867026,2,2,it,MED,Europe
+'7ce1c7450c',extremes,Heat Wave,#c40202,wmo,ondata di caldo sicilia,2026-06-14T07:07:00+00:00,Italy,0.5891321861032863,2,2,it,MED,Europe
 '9b6136ffec',extremes,Heat Wave,#c40202,wmo,ondata di caldo umbria,2026-06-18T07:16:00+00:00,Italy,0.5880765975335341,2,2,it,MED,Europe
 '731c9c6599',extremes,Storm,#b3b2b1,wmo,tempesta basilicata,2026-06-12T07:05:00+00:00,Italy,0.5873367797626216,2,2,it,MED,Europe
 '2acc964cba',extremes,Storm,#b3b2b1,wmo,mareggiata toscana,2026-06-16T08:27:00+00:00,Italy,0.5775453142024729,2,2,it,MED,Europe
@@ -23,7 +24,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b863d00f22',extremes,Drought,#edc291,edo,siccità italia,2026-06-28T06:44:00+00:00,Italy,0.560825951102411,1,3,it,MED,Europe
 '7b5b3b8ad8',extremes,Storm,#b3b2b1,wmo,temporale trentino alto adige,2026-06-08T07:13:00+00:00,Italy,0.5607849810972496,2,2,it,MED,Europe
 '997a2e2157',extremes,Earthquake,#870007,usgs,terremoto argentina,2026-06-06T06:08:00+00:00,Argentina,0.5594341647719867,2,1,it,SES,South-America
-'7ce1c7450c',extremes,Heat Wave,#c40202,wmo,ondata di caldo sicilia,2026-06-14T07:07:00+00:00,Italy,0.5551482926474649,1,1,it,MED,Europe
 'ad1d094d2b',extremes,Thunderstorm,#53785a,wmo,grandine sardegna,2026-07-01T06:52:00+00:00,Italy,0.5545869726364795,2,2,it,MED,Europe
 '57d748873a',extremes,Precipitation,#d60d2b,wmo,pioggia trentino alto adige,2026-06-09T06:32:00+00:00,Italy,0.5540264186764051,1,2,it,MED,Europe
 '99a9404d72',extremes,Drought,#edc291,edo,periodo di siccità italia,2026-05-29T06:39:00+00:00,Italy,0.553542788549534,2,2,it,MED,Europe
