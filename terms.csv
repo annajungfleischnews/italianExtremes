@@ -335,14 +335,22 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd227c65851',extremes,Precipitation,#d60d2b,wmo,pioggia brienz interlaken,2026-06-02T07:08:00+00:00,Switzerland,0.4047629600032,1,1,it,WCE,Europe
 'de4ab1caea',extremes,Precipitation,#d60d2b,wmo,precipitazioni erstfeld engelberg,2026-06-03T07:23:00+00:00,Switzerland,0.4033091885384076,1,1,it,WCE,Europe
 '96fb01e094',extremes,Flood,#030ba1,aidr,inondazioni pluviali in svizzera,2026-07-03T06:09:00+00:00,Switzerland,0.4030190414184205,0,1,it,WCE,Europe
+'078adfde63',extremes,Thunderstorm,#53785a,wmo,maltempo svizzera,2026-07-01T06:52:00+00:00,Switzerland,0.4012639484731821,0,1,it,WCE,Europe
 '27e1d29523',extremes,Precipitation,#d60d2b,wmo,acquazzone schangnau sigriswil,2026-06-03T07:23:00+00:00,Switzerland,0.4000366183259258,1,1,it,WCE,Europe
 '495d5f27a3',extremes,Precipitation,#d60d2b,wmo,pioggia lucerna alpnach,2026-06-03T07:23:00+00:00,Switzerland,0.399029226910465,1,1,it,WCE,Europe
+'6be9519179',extremes,Cold Wave,#a7e9fa,random,ondata di freddo,2026-06-23T06:32:00+00:00,,0.39734515934798426,0,1,it,,
 '50f39bafbb',extremes,Precipitation,#d60d2b,wmo,acquazzone grindelwald,2026-06-02T07:08:00+00:00,Switzerland,0.3972433810515439,1,1,it,WCE,Europe
+'35cc9cbf75',extremes,Precipitation,#d60d2b,random,pioggia torrenziale,2026-06-29T07:12:00+00:00,,0.39680773448138235,0,1,it,,
 '484f861deb',extremes,Precipitation,#d60d2b,wmo,pioggia torrenziale adelboden kandersteg,2026-06-02T07:08:00+00:00,Switzerland,0.3965761368997536,1,1,it,WCE,Europe
 'fcc9a54ff2',extremes,Precipitation,#d60d2b,wmo,pioggia kerenzerberg seeztal,2026-06-03T07:23:00+00:00,Switzerland,0.3961638291280958,1,1,it,WCE,Europe
+'e0f14a84be',extremes,Tropical Cyclone,#4f4f4f,random,centro nazionale degli uragani,2026-06-18T07:16:00+00:00,,0.39595550683917435,0,1,it,,
+'df7e5328ea',extremes,Cold Wave,#a7e9fa,random,ondata di freddo,2026-06-25T06:32:00+00:00,,0.39525592861646697,0,1,it,,
 '3a7960fcd2',extremes,Precipitation,#d60d2b,wmo,pioggia appenzello,2026-06-03T07:23:00+00:00,Switzerland,0.3951796965050087,1,1,it,WCE,Europe
+'d2b5043a66',extremes,Cold Wave,#a7e9fa,random,temperatura minima più bassa,2026-06-25T06:32:00+00:00,,0.39476851903828813,0,1,it,,
 '3368e9441b',extremes,Precipitation,#d60d2b,wmo,pioggia entlebuch,2026-06-03T07:23:00+00:00,Switzerland,0.3946930590333392,1,1,it,WCE,Europe
 'dcbf7954b0',extremes,Precipitation,#d60d2b,wmo,pioggia torrenziale wädenswil rüti,2026-06-03T07:23:00+00:00,Switzerland,0.3943350859250653,1,1,it,WCE,Europe
+'b073fed5b4',extremes,Snow&Ice,#d60d2b,random,gelo,2026-06-25T06:32:00+00:00,,0.39410946964990273,0,1,it,,
+'c4f1f0cbf9',extremes,Iceberg,#d60d2b,random,iceberg arctis,2026-07-05T06:24:00+00:00,,0.3940375371758094,0,1,it,,
 '28afa46279',extremes,Precipitation,#d60d2b,wmo,piogge torrenziali glarus nord mitte,2026-06-03T07:23:00+00:00,Switzerland,0.3933234224319072,1,1,it,WCE,Europe
 '1660e0818c',extremes,Precipitation,#d60d2b,wmo,precipitazioni Obertoggenburg,2026-06-03T07:23:00+00:00,Switzerland,0.3924681623492025,1,1,it,WCE,Europe
 'b7030f8398',extremes,Precipitation,#d60d2b,wmo,precipitazione frutigen kiental,2026-06-03T07:23:00+00:00,Switzerland,0.392116202162535,1,1,it,WCE,Europe
