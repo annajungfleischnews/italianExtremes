@@ -373,10 +373,18 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a1f2c27a9f',extremes,Precipitation,#d60d2b,wmo,acquazzone einsiedeln wägital,2026-06-04T07:06:00+00:00,Switzerland,0.3845362805674561,1,1,it,WCE,Europe
 '9a09042a39',extremes,Precipitation,#d60d2b,wmo,pioggia torrenziale hulftegg untertoggenburg,2026-06-02T07:08:00+00:00,Switzerland,0.3828656632860208,1,1,it,WCE,Europe
 '1d9279f2d9',extremes,Precipitation,#d60d2b,wmo,acquazzone innertkirchen guttannen,2026-06-02T07:08:00+00:00,Switzerland,0.3828064762385595,1,1,it,WCE,Europe
+'d59a7e48d7',extremes,Drought,#edc291,random,evapotraspirazione,2026-07-08T05:37:00+00:00,,0.3827989196223368,0,1,it,,
 'c7ea39dfef',extremes,Thunderstorm,#53785a,wmo,grandine glarus nord mitte,2026-07-01T06:52:00+00:00,Switzerland,0.3827478352472968,0,1,it,WCE,Europe
 '46fd745b7a',extremes,Precipitation,#d60d2b,wmo,pioggia torrenziale liechtenstein,2026-06-04T07:06:00+00:00,Switzerland,0.3824903720310372,1,1,it,WCE,Europe
+'9ae4725cd4',extremes,Thunderstorm,#53785a,wmo,temporale lucerna alpnach,2026-07-01T06:52:00+00:00,Switzerland,0.381887224359805,0,1,it,WCE,Europe
 '5ef9871df1',extremes,Precipitation,#d60d2b,wmo,pioggia torrenziale Grindelwald,2026-06-04T07:06:00+00:00,Switzerland,0.3814101409249535,1,1,it,WCE,Europe
 '794d2f293c',extremes,Precipitation,#d60d2b,wmo,pioggia albulatale,2026-06-10T06:49:00+00:00,Switzerland,0.3813297184558895,1,1,it,WCE,Europe
+'a7380b27b7',extremes,Thunderstorm,#53785a,wmo,forte tempo schangnau sigriswil,2026-07-01T06:52:00+00:00,Switzerland,0.38130660709539055,0,1,it,WCE,Europe
 '9e6e226ae7',extremes,Precipitation,#d60d2b,wmo,precipitazione zuoz,2026-06-10T06:49:00+00:00,Switzerland,0.3812986014516086,1,1,it,WCE,Europe
+'1db5c85114',extremes,Thunderstorm,#53785a,wmo,grandine soletta rothrist,2026-07-01T06:52:00+00:00,Switzerland,0.38105007960738296,0,1,it,WCE,Europe
+'b501178b76',extremes,Thunderstorm,#53785a,wmo,grandine langenthal,2026-07-01T06:52:00+00:00,Switzerland,0.38100303157574306,0,1,it,WCE,Europe
+'a89e3aaedc',extremes,Thunderstorm,#53785a,wmo,grandine Lyss Grenchen,2026-07-01T06:52:00+00:00,Switzerland,0.3806046029369427,0,1,it,WCE,Europe
+'9b0ce65955',extremes,Thunderstorm,#53785a,wmo,maltempo bivio avers,2026-07-01T06:52:00+00:00,Switzerland,0.3805710267478384,0,1,it,WCE,Europe
+'b6cef22543',extremes,Drought,#edc291,random,restrizione idrica,2026-07-01T06:52:00+00:00,,0.37996788345161286,0,1,it,,
 '5b610cf8b5',extremes,Precipitation,#d60d2b,wmo,pioggia flüelen unterschächen,2026-06-02T07:08:00+00:00,Switzerland,0.3782323277890112,1,1,it,WCE,Europe
 '840e458266',extremes,Heat Wave,#c40202,wmo,ondata di caldo marthalen stammheim,2026-06-18T07:16:00+00:00,Switzerland,0.3666336872620235,3,1,it,WCE,Europe
