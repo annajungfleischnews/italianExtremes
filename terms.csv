@@ -5,7 +5,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f14331b9f6',extremes,Thunderstorm,#53785a,wmo,maltempo calabria,2026-06-16T08:27:00+00:00,Italy,0.6314238544690454,1,2,it,MED,Europe
 '8e5338dae6',extremes,Thunderstorm,#53785a,wmo,salve italia,2026-06-26T06:36:00+00:00,Italy,0.6258257987560053,2,2,it,MED,Europe
 'c0e18437c9',extremes,Snow&Ice,#d60d2b,wmo,gelo italia,2026-06-23T06:33:00+00:00,Italy,0.6253348502401703,1,2,it,MED,Europe
-'edae5a8a2b',extremes,Snow&Ice,#d60d2b,wmo,ghiaccio argentino,2026-06-30T06:39:00+00:00,Argentina,0.6154496711956655,0,1,it,SES,South-America
 'c9fee294c5',extremes,Thunderstorm,#53785a,wmo,grandine abruzzo,2026-07-02T06:24:00+00:00,Italy,0.6116155748719602,0,1,it,MED,Europe
 'c8bad6097f',extremes,Heat Wave,#c40202,wmo,ondata di caldo basilicata,2026-06-09T06:32:00+00:00,Italy,0.6089381283157844,2,1,it,MED,Europe
 'bfe8b114a8',extremes,Storm,#b3b2b1,wmo,mareggiata valle d'aosta,2026-07-10T06:27:00+00:00,Italy,0.6069512146905295,0,1,it,MED,Europe
@@ -49,6 +48,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '902e65f81a',extremes,Thunderstorm,#53785a,wmo,temporale abruzzo,2026-06-17T07:33:00+00:00,Italy,0.5263746903185693,1,1,it,MED,Europe
 'cd8395100f',extremes,Storm,#b3b2b1,wmo,mareggiata puglia,2026-06-02T07:08:00+00:00,Italy,0.5256598955831726,1,1,it,MED,Europe
 'b5cb89d511',extremes,Drought,#edc291,edo,siccità svizzera,2026-06-19T07:39:00+00:00,Switzerland,0.5251883245897708,2,2,it,WCE,Europe
+'edae5a8a2b',extremes,Snow&Ice,#d60d2b,wmo,ghiaccio argentino,2026-06-30T06:39:00+00:00,Argentina,0.5232822355163157,1,1,it,SES,South-America
 'd90bfca4a4',extremes,Storm,#b3b2b1,wmo,tempesta sardegna,2026-06-03T07:23:00+00:00,Italy,0.5203119565016185,1,1,it,MED,Europe
 '8742149670',extremes,Thunderstorm,#53785a,wmo,temporale lazio,2026-06-23T06:33:00+00:00,Italy,0.5197018191894329,2,1,it,MED,Europe
 '851e7f751b',extremes,Storm,#b3b2b1,wmo,temporale valle d'aosta,2026-06-02T07:08:00+00:00,Italy,0.5194954747704423,1,1,it,MED,Europe
@@ -181,7 +181,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ac80d677c6',extremes,Storm,#b3b2b1,wmo,tempesta olten gösgen,2026-07-01T06:52:00+00:00,Switzerland,0.4679159264963433,0,1,it,WCE,Europe
 '466f54d5cd',extremes,Thunderstorm,#53785a,wmo,forte maltempo oberes baselbiet,2026-07-01T06:52:00+00:00,Switzerland,0.4672325854930339,0,1,it,WCE,Europe
 '0a36c64301',extremes,Thunderstorm,#53785a,wmo,grandine piemonte,2026-06-19T07:39:00+00:00,Italy,0.4671792477141669,0,1,it,MED,Europe
-'1a2e308d48',extremes,Thunderstorm,#53785a,wmo,temporale molisano,2026-07-02T06:24:00+00:00,Italy,0.46600516197090813,0,1,it,MED,Europe
+'1a2e308d48',extremes,Thunderstorm,#53785a,wmo,temporale molisano,2026-07-02T06:24:00+00:00,Italy,0.4660051619709081,0,1,it,MED,Europe
 'ee371032d3',extremes,Thunderstorm,#53785a,wmo,temporale campania,2026-06-15T08:36:00+00:00,Italy,0.465793825836789,1,1,it,MED,Europe
 'eceb9ef4c9',extremes,Thunderstorm,#53785a,wmo,grandine trentino alto adige,2026-06-26T06:36:00+00:00,Italy,0.4650960016242221,0,1,it,MED,Europe
 '54ce36b275',extremes,Thunderstorm,#53785a,wmo,maltempo liguria,2026-07-01T06:52:00+00:00,Italy,0.4645552297276561,0,1,it,MED,Europe
