@@ -167,7 +167,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'da505455fb',extremes,Thunderstorm,#53785a,wmo,temporale sicilia,2026-06-22T08:39:00+00:00,Italy,0.4739839545833196,0,1,it,MED,Europe
 '6c67a60d9b',extremes,Heat Wave,#c40202,wmo,ondata di caldo turtmanntal,2026-06-18T07:16:00+00:00,Switzerland,0.4737853810081601,1,1,it,WCE,Europe
 '2f2f638d6d',extremes,Heat Wave,#c40202,wmo,ondata di caldo niedersimmental,2026-06-17T07:33:00+00:00,Switzerland,0.4724674563243676,1,1,it,WCE,Europe
-'973af89b5a',extremes,Thunderstorm,#53785a,wmo,temporale calabria,2026-06-22T08:39:00+00:00,Italy,0.4721337733747526,0,1,it,MED,Europe
 '33d861c24d',extremes,Storm,#b3b2b1,wmo,tempesta davos,2026-07-01T06:52:00+00:00,Switzerland,0.4720224414065593,0,1,it,WCE,Europe
 '93f796a1ae',extremes,Thunderstorm,#53785a,wmo,grandine umbria,2026-06-22T08:39:00+00:00,Italy,0.4718067168212474,0,1,it,MED,Europe
 '0812394012',extremes,Thunderstorm,#53785a,wmo,maltempo lazio,2026-06-22T08:39:00+00:00,Italy,0.4714153994831205,0,1,it,MED,Europe
@@ -225,6 +224,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'fc5823cc73',extremes,Precipitation,#d60d2b,wmo,precipitazioni urner oberland,2026-06-04T07:06:00+00:00,Switzerland,0.4447327824951185,0,1,it,WCE,Europe
 '2d8893aa94',extremes,Precipitation,#d60d2b,wmo,acquazzone maderanertal,2026-06-04T07:06:00+00:00,Switzerland,0.444561263454228,0,1,it,WCE,Europe
 'd1d9cf4e58',extremes,Snow&Ice,#d60d2b,wmo,gelida argentina,2026-06-17T07:33:00+00:00,Argentina,0.4438851145281066,2,1,it,SES,South-America
+'973af89b5a',extremes,Thunderstorm,#53785a,wmo,temporale calabria,2026-06-22T08:39:00+00:00,Italy,0.4438729632776306,1,1,it,MED,Europe
 '81fe9e8b0d',extremes,Precipitation,#d60d2b,wmo,pioggia s'charl d'uina,2026-06-10T06:49:00+00:00,Switzerland,0.4432234443321562,0,1,it,WCE,Europe
 'ac418b020e',extremes,Precipitation,#d60d2b,wmo,acquazzone erstfeld engelberg,2026-06-02T07:08:00+00:00,Switzerland,0.443110158057707,0,1,it,WCE,Europe
 '5648577c5c',extremes,Earthquake,#870007,usgs,terremoto scarcelli,2026-06-02T07:08:00+00:00,Italy,0.443057571677128,1,1,it,MED,Europe
@@ -323,12 +323,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '59b529f428',extremes,Thunderstorm,#53785a,random,grandinata,2026-07-08T05:37:00+00:00,,0.4048640837383006,0,1,it,,
 'c928f81ef5',extremes,Thunderstorm,#53785a,wmo,temporale valle d'aosta,2026-06-23T06:33:00+00:00,Italy,0.4044378849398247,1,1,it,MED,Europe
 '3b65857064',extremes,Storm,#b3b2b1,wmo,tempesta emmen hochdorf,2026-07-01T06:52:00+00:00,Switzerland,0.4037466295291228,1,1,it,WCE,Europe
-'28ddd4229b',extremes,Storm,#b3b2b1,wmo,tempesta sumiswald worb,2026-07-01T06:52:00+00:00,Switzerland,0.40352872117619065,1,1,it,WCE,Europe
+'28ddd4229b',extremes,Storm,#b3b2b1,wmo,tempesta sumiswald worb,2026-07-01T06:52:00+00:00,Switzerland,0.4035287211761906,1,1,it,WCE,Europe
 '7e5900487d',extremes,Thunderstorm,#53785a,wmo,grandine molise,2026-07-06T06:52:00+00:00,Italy,0.4034151421123951,1,1,it,MED,Europe
 '2bf3baad76',extremes,Thunderstorm,#53785a,wmo,grandine werdenberg,2026-07-01T06:52:00+00:00,Switzerland,0.4033828580785228,1,1,it,WCE,Europe
 'de4ab1caea',extremes,Precipitation,#d60d2b,wmo,precipitazioni erstfeld engelberg,2026-06-03T07:23:00+00:00,Switzerland,0.4033091885384076,1,1,it,WCE,Europe
 '96fb01e094',extremes,Flood,#030ba1,aidr,inondazioni pluviali in svizzera,2026-07-03T06:09:00+00:00,Switzerland,0.4030190414184205,0,1,it,WCE,Europe
-'8f10e40de2',extremes,Storm,#b3b2b1,wmo,mareggiata adelboden kandersteg,2026-07-01T06:52:00+00:00,Switzerland,0.40256646778029453,1,1,it,WCE,Europe
+'8f10e40de2',extremes,Storm,#b3b2b1,wmo,mareggiata adelboden kandersteg,2026-07-01T06:52:00+00:00,Switzerland,0.4025664677802945,1,1,it,WCE,Europe
 'a5f7d9bde6',extremes,Storm,#b3b2b1,wmo,mareggiata Sarganserland,2026-07-01T06:52:00+00:00,Switzerland,0.4021518565646131,1,1,it,WCE,Europe
 '078adfde63',extremes,Thunderstorm,#53785a,wmo,maltempo svizzera,2026-07-01T06:52:00+00:00,Switzerland,0.4012639484731821,0,1,it,WCE,Europe
 '27e1d29523',extremes,Precipitation,#d60d2b,wmo,acquazzone schangnau sigriswil,2026-06-03T07:23:00+00:00,Switzerland,0.4000366183259258,1,1,it,WCE,Europe
