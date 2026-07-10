@@ -5,7 +5,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f14331b9f6',extremes,Thunderstorm,#53785a,wmo,maltempo calabria,2026-06-16T08:27:00+00:00,Italy,0.6314238544690454,1,2,it,MED,Europe
 '8e5338dae6',extremes,Thunderstorm,#53785a,wmo,salve italia,2026-06-26T06:36:00+00:00,Italy,0.6258257987560053,2,2,it,MED,Europe
 'c0e18437c9',extremes,Snow&Ice,#d60d2b,wmo,gelo italia,2026-06-23T06:33:00+00:00,Italy,0.6253348502401703,1,2,it,MED,Europe
-'c9fee294c5',extremes,Thunderstorm,#53785a,wmo,grandine abruzzo,2026-07-02T06:24:00+00:00,Italy,0.6116155748719602,0,1,it,MED,Europe
 'c8bad6097f',extremes,Heat Wave,#c40202,wmo,ondata di caldo basilicata,2026-06-09T06:32:00+00:00,Italy,0.6089381283157844,2,1,it,MED,Europe
 'bfe8b114a8',extremes,Storm,#b3b2b1,wmo,mareggiata valle d'aosta,2026-07-10T06:27:00+00:00,Italy,0.6069512146905295,0,1,it,MED,Europe
 '27ecdd832f',extremes,Heat Wave,#c40202,wmo,ondata di caldo emilia e romagna,2026-06-18T07:16:00+00:00,Italy,0.6050636969111618,1,1,it,MED,Europe
@@ -50,6 +49,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b5cb89d511',extremes,Drought,#edc291,edo,siccità svizzera,2026-06-19T07:39:00+00:00,Switzerland,0.5251883245897708,2,2,it,WCE,Europe
 'edae5a8a2b',extremes,Snow&Ice,#d60d2b,wmo,ghiaccio argentino,2026-06-30T06:39:00+00:00,Argentina,0.5232822355163157,1,1,it,SES,South-America
 'd90bfca4a4',extremes,Storm,#b3b2b1,wmo,tempesta sardegna,2026-06-03T07:23:00+00:00,Italy,0.5203119565016185,1,1,it,MED,Europe
+'c9fee294c5',extremes,Thunderstorm,#53785a,wmo,grandine abruzzo,2026-07-02T06:24:00+00:00,Italy,0.5200232536411661,1,1,it,MED,Europe
 '8742149670',extremes,Thunderstorm,#53785a,wmo,temporale lazio,2026-06-23T06:33:00+00:00,Italy,0.5197018191894329,2,1,it,MED,Europe
 '851e7f751b',extremes,Storm,#b3b2b1,wmo,temporale valle d'aosta,2026-06-02T07:08:00+00:00,Italy,0.5194954747704423,1,1,it,MED,Europe
 '12060a7df7',extremes,Storm,#b3b2b1,wmo,mareggiata italia,2026-06-13T06:38:00+00:00,Italy,0.5172917719025077,2,1,it,MED,Europe
