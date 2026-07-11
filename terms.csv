@@ -340,6 +340,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '59b5340b69',extremes,Precipitation,#d60d2b,random,fronte meteorologico,2026-06-28T06:44:00+00:00,,0.3906248266873514,0,1,it,,
 'a4e63fa11b',extremes,Snow&Ice,#d60d2b,random,brina invernale,2026-06-29T07:12:00+00:00,,0.3903519486680178,0,1,it,,
 '03a2b00348',extremes,Precipitation,#d60d2b,wmo,pioggia scuol samnaun,2026-06-10T06:49:00+00:00,Switzerland,0.3901941848807681,1,1,it,WCE,Europe
+'16aa48504a',extremes,Cold Wave,#a7e9fa,random,gocce di mercurio,2026-07-10T06:27:00+00:00,,0.38983801103520876,0,1,it,,
 '9269d2eba1',extremes,Earthquake,#870007,usgs,terremoto santa marina salina,2026-06-15T08:36:00+00:00,Italy,0.3896226771778645,1,1,it,MED,Europe
 '4c8bd3e4d4',extremes,Insect Infestation,#d60d2b,random,locuste,2026-06-28T06:44:00+00:00,,0.3893455752412469,0,1,it,,
 '980a973102',extremes,Tropical Cyclone,#4f4f4f,random,ciclone bomba,2026-07-07T06:30:00+00:00,,0.3890651824180554,0,1,it,,
@@ -368,5 +369,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b24c0517bf',extremes,Cold Wave,#a7e9fa,random,il mercurio scende,2026-06-29T07:12:00+00:00,,0.3771897581117563,0,1,it,,
 'e33b8aa5a4',extremes,Thunderstorm,#53785a,wmo,grandine frutigen kental,2026-07-01T06:52:00+00:00,Switzerland,0.3765033602551607,0,1,it,WCE,Europe
 '489b76ee61',extremes,Thunderstorm,#53785a,wmo,grandine obersimmental,2026-07-01T06:52:00+00:00,Switzerland,0.3737181130393081,0,1,it,WCE,Europe
+'76229c9233',extremes,Thunderstorm,#53785a,wmo,grandine laufental,2026-07-01T06:52:00+00:00,Switzerland,0.37254572562428456,0,1,it,WCE,Europe
+'0b8f5a0e51',extremes,Iceberg,#d60d2b,random,iceberg dell'Antartide,2026-06-26T06:35:00+00:00,,0.37242669899417147,0,1,it,,
+'4f33177225',extremes,Thunderstorm,#53785a,wmo,senso di maltempo berna,2026-07-01T06:52:00+00:00,Switzerland,0.37229207205028286,0,1,it,WCE,Europe
+'986e8cd808',extremes,Thunderstorm,#53785a,wmo,forte tempo niedersimmental,2026-07-01T06:52:00+00:00,Switzerland,0.3710926718926298,0,1,it,WCE,Europe
+'29d6e16fd2',extremes,Thunderstorm,#53785a,wmo,grandine appenzello,2026-07-01T06:52:00+00:00,Switzerland,0.3708470835957023,0,1,it,WCE,Europe
+'20c8c3a6c6',extremes,Thunderstorm,#53785a,wmo,forte tempo schanfigg,2026-07-01T06:52:00+00:00,Switzerland,0.3698298131687504,0,1,it,WCE,Europe
+'1e7f1c2625',extremes,Storm,#b3b2b1,random,haboob,2026-07-08T05:37:00+00:00,,0.36766125385888754,0,1,it,,
 '840e458266',extremes,Heat Wave,#c40202,wmo,ondata di caldo marthalen stammheim,2026-06-18T07:16:00+00:00,Switzerland,0.3666336872620235,3,1,it,WCE,Europe
 'a7380b27b7',extremes,Thunderstorm,#53785a,wmo,forte tempo schangnau sigriswil,2026-07-01T06:52:00+00:00,Switzerland,0.3241106160310819,1,1,it,WCE,Europe
