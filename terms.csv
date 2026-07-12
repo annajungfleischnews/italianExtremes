@@ -18,7 +18,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd90bfca4a4',extremes,Storm,#b3b2b1,wmo,tempesta sardegna,2026-07-02T06:24:00+00:00,Italy,0.587863659807322,0,1,it,MED,Europe
 '731c9c6599',extremes,Storm,#b3b2b1,wmo,tempesta basilicata,2026-06-12T07:05:00+00:00,Italy,0.5873367797626216,2,2,it,MED,Europe
 '2acc964cba',extremes,Storm,#b3b2b1,wmo,mareggiata toscana,2026-06-16T08:27:00+00:00,Italy,0.5775453142024729,2,2,it,MED,Europe
-'99a9404d72',extremes,Drought,#edc291,edo,periodo di siccità italia,2026-06-22T08:39:00+00:00,Italy,0.5773713474244082,0,1,it,MED,Europe
 'cb15bc1996',extremes,Heat Wave,#c40202,wmo,ondata di caldo puglia,2026-06-25T06:32:00+00:00,Italy,0.5752039040995228,1,1,it,MED,Europe
 '165e1b5216',extremes,Drought,#edc291,edo,siccità libia,2026-06-22T08:39:00+00:00,Libya,0.5738011265802588,0,1,it,SAH,Africa
 'b96cc738bc',extremes,Precipitation,#d60d2b,wmo,pioggia piemonte,2026-06-03T07:23:00+00:00,Italy,0.5728260754983474,1,2,it,MED,Europe
@@ -28,6 +27,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '507412aefc',extremes,Storm,#b3b2b1,wmo,tempesta italia,2026-06-02T07:08:00+00:00,Italy,0.5664969148863008,1,2,it,MED,Europe
 '25e89c2734',extremes,Thunderstorm,#53785a,wmo,salve toscana,2026-06-21T07:16:00+00:00,Italy,0.5649549161021921,1,1,it,MED,Europe
 '6c6666b2af',extremes,Precipitation,#d60d2b,wmo,precipitazioni argentina,2026-06-18T07:16:00+00:00,Argentina,0.5644615668440263,2,2,it,SES,South-America
+'99a9404d72',extremes,Drought,#edc291,edo,periodo di siccità italia,2026-06-22T08:39:00+00:00,Italy,0.5619466095415162,1,1,it,MED,Europe
 'b863d00f22',extremes,Drought,#edc291,edo,siccità italia,2026-06-28T06:44:00+00:00,Italy,0.560825951102411,1,3,it,MED,Europe
 '7b5b3b8ad8',extremes,Storm,#b3b2b1,wmo,temporale trentino alto adige,2026-06-08T07:13:00+00:00,Italy,0.5607849810972496,2,2,it,MED,Europe
 '997a2e2157',extremes,Earthquake,#870007,usgs,terremoto argentina,2026-06-06T06:08:00+00:00,Argentina,0.5594341647719867,2,1,it,SES,South-America
@@ -218,7 +218,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e762488b7b',extremes,Earthquake,#870007,usgs,terremoto caluula,2026-06-28T06:44:00+00:00,Somalia,0.4337849616999333,2,1,it,NEAF,Africa
 'ed1a520466',extremes,Precipitation,#d60d2b,wmo,pioggia torrenziale Obertoggenburg,2026-07-01T06:52:00+00:00,Switzerland,0.433720848680713,0,1,it,WCE,Europe
 '4495d1fc35',extremes,Thunderstorm,#53785a,wmo,maltempo friuli venezia giulia,2026-06-15T08:36:00+00:00,Italy,0.4337109465883232,1,1,it,MED,Europe
-'a33960f8b5',extremes,Precipitation,#d60d2b,wmo,pioggia Liechtenstein,2026-07-01T06:52:00+00:00,Switzerland,0.43323729199071903,0,1,it,WCE,Europe
+'a33960f8b5',extremes,Precipitation,#d60d2b,wmo,pioggia Liechtenstein,2026-07-01T06:52:00+00:00,Switzerland,0.433237291990719,0,1,it,WCE,Europe
 '618e955f78',extremes,Drought,#edc291,edo,mancanza di pioggia in svizzera,2026-06-27T06:08:00+00:00,Switzerland,0.4331318075126569,1,1,it,WCE,Europe
 'c02b040746',extremes,Heat Wave,#c40202,wmo,ondata di caldo landquart coira,2026-06-18T07:16:00+00:00,Switzerland,0.4326670419566941,1,1,it,WCE,Europe
 'b77d2e68e3',extremes,Storm,#b3b2b1,wmo,tempesta molisana,2026-06-11T07:14:00+00:00,Italy,0.4322534871483346,2,1,it,MED,Europe
@@ -379,7 +379,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'dc5bf960b0',extremes,Snow&Ice,#d60d2b,random,tempesta di neve,2026-07-12T05:43:00+00:00,,0.3565843698774905,0,1,it,,
 '053bb10e09',extremes,Heat Wave,#c40202,random,estate indiana,2026-07-11T05:26:00+00:00,,0.3556617877339828,0,1,it,,
 'ea1c03418f',extremes,Snow&Ice,#d60d2b,random,nevischio,2026-06-24T06:29:00+00:00,,0.3555401294808705,0,1,it,,
-'80c06ab8a0',extremes,Cold Wave,#a7e9fa,random,crollo della temperatura,2026-06-24T06:29:00+00:00,,0.35471404471161466,0,1,it,,
-'f90601fa23',extremes,Volcano,#b83202,random,eruzione del vulcano,2026-07-03T06:09:00+00:00,,0.34890633158280415,0,1,it,,
-'560b05d603',extremes,Heat Wave,#c40202,random,ondata di caldo,2026-07-09T06:27:00+00:00,,0.34684906385754494,0,1,it,,
+'80c06ab8a0',extremes,Cold Wave,#a7e9fa,random,crollo della temperatura,2026-06-24T06:29:00+00:00,,0.3547140447116146,0,1,it,,
+'f90601fa23',extremes,Volcano,#b83202,random,eruzione del vulcano,2026-07-03T06:09:00+00:00,,0.3489063315828041,0,1,it,,
+'560b05d603',extremes,Heat Wave,#c40202,random,ondata di caldo,2026-07-09T06:27:00+00:00,,0.3468490638575449,0,1,it,,
 'a7380b27b7',extremes,Thunderstorm,#53785a,wmo,forte tempo schangnau sigriswil,2026-07-01T06:52:00+00:00,Switzerland,0.3241106160310819,1,1,it,WCE,Europe
