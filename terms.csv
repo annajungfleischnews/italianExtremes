@@ -375,5 +375,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '29d6e16fd2',extremes,Thunderstorm,#53785a,wmo,grandine appenzello,2026-07-01T06:52:00+00:00,Switzerland,0.3708470835957023,0,1,it,WCE,Europe
 '20c8c3a6c6',extremes,Thunderstorm,#53785a,wmo,forte tempo schanfigg,2026-07-01T06:52:00+00:00,Switzerland,0.3698298131687504,0,1,it,WCE,Europe
 '1e7f1c2625',extremes,Storm,#b3b2b1,random,haboob,2026-07-08T05:37:00+00:00,,0.3676612538588875,0,1,it,,
+'a652c78afc',extremes,Drought,#edc291,random,megasiccità,2026-06-22T08:39:00+00:00,,0.3666670870406553,0,1,it,,
 '840e458266',extremes,Heat Wave,#c40202,wmo,ondata di caldo marthalen stammheim,2026-06-18T07:16:00+00:00,Switzerland,0.3666336872620235,3,1,it,WCE,Europe
+'5ea4d45f08',extremes,Tropical Cyclone,#4f4f4f,random,approdo,2026-07-09T06:27:00+00:00,,0.3651119068786956,0,1,it,,
+'deaa4b70a0',extremes,Storm,#b3b2b1,random,tempesta di sabbia,2026-07-03T06:09:00+00:00,,0.36354266581964506,0,1,it,,
+'0a8e5743d9',extremes,Landslide,#572c03,random,frana,2026-07-06T06:52:00+00:00,,0.36348326031163364,0,1,it,,
+'3c309ee7c5',extremes,Flood,#030ba1,aidr,pioggia torrenziale svizzera,2026-07-09T06:28:00+00:00,Switzerland,0.35980417433161277,0,1,it,WCE,Europe
+'45500dcb47',extremes,Precipitation,#d60d2b,random,precipitazioni record,2026-07-05T06:24:00+00:00,,0.35937032279838427,0,1,it,,
+'053bb10e09',extremes,Heat Wave,#c40202,random,estate indiana,2026-07-11T05:26:00+00:00,,0.3556617877339828,0,1,it,,
+'ea1c03418f',extremes,Snow&Ice,#d60d2b,random,nevischio,2026-06-24T06:29:00+00:00,,0.35554012948087055,0,1,it,,
 'a7380b27b7',extremes,Thunderstorm,#53785a,wmo,forte tempo schangnau sigriswil,2026-07-01T06:52:00+00:00,Switzerland,0.3241106160310819,1,1,it,WCE,Europe
