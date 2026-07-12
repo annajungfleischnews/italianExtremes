@@ -19,9 +19,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '731c9c6599',extremes,Storm,#b3b2b1,wmo,tempesta basilicata,2026-06-12T07:05:00+00:00,Italy,0.5873367797626216,2,2,it,MED,Europe
 '2acc964cba',extremes,Storm,#b3b2b1,wmo,mareggiata toscana,2026-06-16T08:27:00+00:00,Italy,0.5775453142024729,2,2,it,MED,Europe
 'cb15bc1996',extremes,Heat Wave,#c40202,wmo,ondata di caldo puglia,2026-06-25T06:32:00+00:00,Italy,0.5752039040995228,1,1,it,MED,Europe
-'165e1b5216',extremes,Drought,#edc291,edo,siccità libia,2026-06-22T08:39:00+00:00,Libya,0.5738011265802588,0,1,it,SAH,Africa
 'b96cc738bc',extremes,Precipitation,#d60d2b,wmo,pioggia piemonte,2026-06-03T07:23:00+00:00,Italy,0.5728260754983474,1,2,it,MED,Europe
-'d5d4b91634',extremes,Earthquake,#870007,usgs,terremoto vinchina,2026-07-12T05:43:00+00:00,Argentina,0.5727791322988534,0,1,it,SWS,South-America
 '02711610b5',extremes,Storm,#b3b2b1,wmo,tempesta argentina,2026-06-26T06:36:00+00:00,Argentina,0.5716624076168487,1,1,it,SES,South-America
 '98067269b6',extremes,Heat Wave,#c40202,wmo,ondata di caldo piemonte,2026-06-18T07:16:00+00:00,Italy,0.5670282282134606,1,1,it,MED,Europe
 '507412aefc',extremes,Storm,#b3b2b1,wmo,tempesta italia,2026-06-02T07:08:00+00:00,Italy,0.5664969148863008,1,2,it,MED,Europe
@@ -54,7 +52,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ac9b4f5444',extremes,Storm,#b3b2b1,wmo,mareggiata argentina,2026-06-26T06:36:00+00:00,Argentina,0.5193665856256301,1,1,it,SES,South-America
 '9745b37167',extremes,Storm,#b3b2b1,wmo,marcia della tempesta,2026-07-11T05:27:00+00:00,Italy,0.5192276137744795,1,1,it,MED,Europe
 '12060a7df7',extremes,Storm,#b3b2b1,wmo,mareggiata italia,2026-06-13T06:38:00+00:00,Italy,0.5172917719025077,2,1,it,MED,Europe
-'7104ad3c83',extremes,Thunderstorm,#53785a,wmo,temporale italia,2026-07-07T06:30:00+00:00,Italy,0.5164787574889222,0,1,it,MED,Europe
 'bfe8b114a8',extremes,Storm,#b3b2b1,wmo,mareggiata valle d'aosta,2026-07-10T06:27:00+00:00,Italy,0.51590853248695,1,1,it,MED,Europe
 'a0092fba89',extremes,Thunderstorm,#53785a,wmo,temporale sardegna,2026-06-24T06:30:00+00:00,Italy,0.5157145893069116,1,2,it,MED,Europe
 '008b58f095',extremes,Storm,#b3b2b1,wmo,mareggiata piemonte,2026-06-23T06:33:00+00:00,Italy,0.5147109258225229,1,1,it,MED,Europe
@@ -111,6 +108,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '47f4d3e73c',extremes,Heat Wave,#c40202,wmo,ondata di caldo thal,2026-06-20T06:47:00+00:00,Switzerland,0.4945111392657151,1,1,it,WCE,Europe
 '6ded337d1f',extremes,Heat Wave,#c40202,wmo,ondata di caldo langnau eggiwil,2026-06-18T07:16:00+00:00,Switzerland,0.4944457255488379,1,1,it,WCE,Europe
 'b1d7a75a38',extremes,Storm,#b3b2b1,wmo,tempesta sicilia,2026-07-01T06:52:00+00:00,Italy,0.4943503399518048,1,1,it,MED,Europe
+'7104ad3c83',extremes,Thunderstorm,#53785a,wmo,temporale italia,2026-07-07T06:30:00+00:00,Italy,0.49395842886558394,1,2,it,MED,Europe
 'ff2fb99e65',extremes,Heat Wave,#c40202,wmo,ondata di caldo hulftegg untertoggenburg,2026-06-21T07:16:00+00:00,Switzerland,0.4939473661044999,1,1,it,WCE,Europe
 'edde214339',extremes,Heat Wave,#c40202,wmo,ondata di caldo entlebuch,2026-06-18T07:16:00+00:00,Switzerland,0.4937734822058486,1,1,it,WCE,Europe
 '4ce21d4729',extremes,Heat Wave,#c40202,wmo,ondata di caldo st.gallen rorschach,2026-06-17T07:33:00+00:00,Switzerland,0.493670457916354,1,1,it,WCE,Europe
@@ -131,7 +129,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0c355d5b91',extremes,Heat Wave,#c40202,wmo,ondata di caldo préalpes vaudoises,2026-06-17T07:33:00+00:00,Switzerland,0.4891530683288358,1,1,it,WCE,Europe
 '116616eb5b',extremes,Storm,#b3b2b1,wmo,mareggiata emilia e romagna,2026-06-30T06:39:00+00:00,Italy,0.4890593691432571,1,1,it,MED,Europe
 '23cf4b65f8',extremes,Heat Wave,#c40202,wmo,ondata di caldo nidau ins,2026-06-19T07:39:00+00:00,Switzerland,0.489018270215285,1,1,it,WCE,Europe
+'165e1b5216',extremes,Drought,#edc291,edo,siccità libia,2026-06-22T08:39:00+00:00,Libya,0.48773095759322,1,1,it,SAH,Africa
 'e99283dc2d',extremes,Heat Wave,#c40202,wmo,ondata di caldo emmen hochdorf,2026-06-17T07:33:00+00:00,Switzerland,0.4870186685335232,1,1,it,WCE,Europe
+'d5d4b91634',extremes,Earthquake,#870007,usgs,terremoto vinchina,2026-07-12T05:43:00+00:00,Argentina,0.48686226245402536,1,1,it,SWS,South-America
 '365a9a79c6',extremes,Heat Wave,#c40202,wmo,ondata di caldo val de travers,2026-06-18T07:16:00+00:00,Switzerland,0.4868144351712646,1,1,it,WCE,Europe
 'ed766fa753',extremes,Heat Wave,#c40202,wmo,ondata di caldo zurzach bülach,2026-06-17T07:33:00+00:00,Switzerland,0.4865196740380107,1,1,it,WCE,Europe
 '32e74ad8ff',extremes,Heat Wave,#c40202,wmo,ondata di caldo molisano,2026-06-10T06:49:00+00:00,Italy,0.4862755740537989,2,1,it,MED,Europe
