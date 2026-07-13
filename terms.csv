@@ -88,7 +88,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '93ee21e413',extremes,Heat Wave,#c40202,wmo,ondata di caldo gersau engelbergertal,2026-06-17T07:33:00+00:00,Switzerland,0.4991752348742161,1,1,it,WCE,Europe
 'f4d16ac321',extremes,Heat Wave,#c40202,wmo,ondata di caldo schiers,2026-06-17T07:33:00+00:00,Switzerland,0.4984495317397461,1,1,it,WCE,Europe
 'd9f5a28608',extremes,Heat Wave,#c40202,wmo,ondata di caldo basso moesano,2026-06-19T07:39:00+00:00,Switzerland,0.4983826956822877,1,1,it,WCE,Europe
-'4fd8d48f37',extremes,Thunderstorm,#53785a,wmo,grandine lombardia,2026-06-25T06:32:00+00:00,Italy,0.49835941133662254,1,2,it,MED,Europe
+'4fd8d48f37',extremes,Thunderstorm,#53785a,wmo,grandine lombardia,2026-06-25T06:32:00+00:00,Italy,0.4983594113366225,1,2,it,MED,Europe
 'b9a82bfdaa',extremes,Storm,#b3b2b1,wmo,tempesta veneta,2026-06-18T07:16:00+00:00,Italy,0.4980715957617809,1,1,it,MED,Europe
 'f6f32944d1',extremes,Heat Wave,#c40202,wmo,ondata di caldo gros de vaud,2026-06-18T07:16:00+00:00,Switzerland,0.4980533575876665,1,1,it,WCE,Europe
 '16e539790d',extremes,Heat Wave,#c40202,wmo,ondata di caldo Schangnau sigriswil,2026-06-17T07:33:00+00:00,Switzerland,0.4978181741697524,1,1,it,WCE,Europe
@@ -155,6 +155,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7dfe181d54',extremes,Heat Wave,#c40202,wmo,ondata di caldo sion crans montana,2026-06-17T07:33:00+00:00,Switzerland,0.4796905222242993,1,1,it,WCE,Europe
 'e050960c85',extremes,Heat Wave,#c40202,wmo,ondata di caldo marche,2026-06-26T06:36:00+00:00,Italy,0.4795712701355812,2,1,it,MED,Europe
 '075cc3fe36',extremes,Thunderstorm,#53785a,wmo,maltempo italia,2026-05-31T06:40:00+00:00,Italy,0.4784074485005685,1,2,it,MED,Europe
+'19fac590f8',extremes,Thunderstorm,#53785a,wmo,maltempo molisano,2026-07-09T06:27:00+00:00,Italy,0.4783004952367737,0,1,it,MED,Europe
 '3c9f3a79d5',extremes,Heat Wave,#c40202,wmo,ondata di caldo bellinzonese,2026-06-17T07:33:00+00:00,Switzerland,0.4782637902772484,1,1,it,WCE,Europe
 'a85598b6d2',extremes,Heat Wave,#c40202,wmo,ondata di caldo wohlen albis,2026-06-19T07:39:00+00:00,Switzerland,0.4782429057120845,1,1,it,WCE,Europe
 '33c63ac237',extremes,Heat Wave,#c40202,wmo,ondata di caldo aigle leysin,2026-06-18T07:16:00+00:00,Switzerland,0.4776367090325252,1,1,it,WCE,Europe
@@ -355,6 +356,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '81fe9e8b0d',extremes,Precipitation,#d60d2b,wmo,pioggia s'charl d'uina,2026-06-10T06:49:00+00:00,Switzerland,0.3767399276823328,1,1,it,WCE,Europe
 'e33b8aa5a4',extremes,Thunderstorm,#53785a,wmo,grandine frutigen kental,2026-07-01T06:52:00+00:00,Switzerland,0.3765033602551607,0,1,it,WCE,Europe
 '9cb8d8900f',extremes,Precipitation,#d60d2b,wmo,precipitazioni st.gallen rorschach,2026-07-01T06:52:00+00:00,Switzerland,0.3759571580616154,1,1,it,WCE,Europe
+'f9a3abc8c2',extremes,Landslide,#572c03,random,colata di fango,2026-07-13T05:53:00+00:00,,0.37589377702526733,0,1,it,,
 '41da126106',extremes,Precipitation,#d60d2b,wmo,pioggia torrenziale muotathal,2026-07-01T06:52:00+00:00,Switzerland,0.3744789410342616,1,1,it,WCE,Europe
 '489b76ee61',extremes,Thunderstorm,#53785a,wmo,grandine obersimmental,2026-07-01T06:52:00+00:00,Switzerland,0.3737181130393081,0,1,it,WCE,Europe
 '18788a2839',extremes,Precipitation,#d60d2b,wmo,pioggia torrenziale langnau eggiwil,2026-07-01T06:52:00+00:00,Switzerland,0.3734847569605072,1,1,it,WCE,Europe
@@ -373,6 +375,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0a8e5743d9',extremes,Landslide,#572c03,random,frana,2026-07-06T06:52:00+00:00,,0.3634832603116336,0,1,it,,
 '3c309ee7c5',extremes,Flood,#030ba1,aidr,pioggia torrenziale svizzera,2026-07-09T06:28:00+00:00,Switzerland,0.3598041743316127,0,1,it,WCE,Europe
 '45500dcb47',extremes,Precipitation,#d60d2b,random,precipitazioni record,2026-07-05T06:24:00+00:00,,0.3593703227983842,0,1,it,,
+'206696c508',extremes,Flood,#030ba1,aidr,alluvione improvvisa in svizzera,2026-07-13T05:53:00+00:00,Switzerland,0.35705431516591685,0,1,it,WCE,Europe
 'dc5bf960b0',extremes,Snow&Ice,#d60d2b,random,tempesta di neve,2026-07-12T05:43:00+00:00,,0.3565843698774905,0,1,it,,
 '053bb10e09',extremes,Heat Wave,#c40202,random,estate indiana,2026-07-11T05:26:00+00:00,,0.3556617877339828,0,1,it,,
 'ea1c03418f',extremes,Snow&Ice,#d60d2b,random,nevischio,2026-06-24T06:29:00+00:00,,0.3555401294808705,0,1,it,,
@@ -382,9 +385,14 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0a98fdd376',extremes,Snow Avalanche,#deddd5,random,valanga,2026-07-04T05:59:00+00:00,,0.3416037647905608,0,1,it,,
 'a5ff1cde4a',extremes,Drought,#edc291,random,umidità del suolo,2026-06-22T08:39:00+00:00,,0.3413961467016578,0,1,it,,
 'c0ea0632ba',extremes,Heat Wave,#c40202,random,caldo,2026-07-06T06:52:00+00:00,,0.3380330567639508,0,1,it,,
+'283b154c38',extremes,Wet Spell,#d60d2b,random,periodo umido,2026-07-13T05:53:00+00:00,,0.3377343370635751,0,1,it,,
 '8a1a9038c3',extremes,Storm,#b3b2b1,random,bufera di neve,2026-07-05T06:24:00+00:00,,0.3349572219878221,0,1,it,,
 '8447ef896b',extremes,Snow&Ice,#d60d2b,random,fanghiglia di neve,2026-06-27T06:08:00+00:00,,0.3344678764312723,0,1,it,,
 '5b9a300a13',extremes,Flood,#030ba1,aidr,inondazione della svizzera,2026-07-02T06:24:00+00:00,Switzerland,0.3342111783595121,0,1,it,WCE,Europe
 'c948617fef',extremes,Heat Wave,#c40202,random,esposizione al calore estremo,2026-07-10T06:27:00+00:00,,0.3282259996265538,0,1,it,,
 '1405131905',extremes,Thunderstorm,#53785a,random,grandine,2026-06-24T06:29:00+00:00,,0.3265237780577882,0,1,it,,
+'fa9e452d04',extremes,Precipitation,#d60d2b,random,temporale,2026-07-12T05:43:00+00:00,,0.3241903917294725,0,1,it,,
 'a7380b27b7',extremes,Thunderstorm,#53785a,wmo,forte tempo schangnau sigriswil,2026-07-01T06:52:00+00:00,Switzerland,0.3241106160310819,1,1,it,WCE,Europe
+'3e4b341619',extremes,Storm,#b3b2b1,random,tempesta,2026-07-02T06:23:00+00:00,,0.32278699770650066,0,1,it,,
+'15a9c61e3e',extremes,Landslide,#572c03,random,frana,2026-07-02T06:23:00+00:00,,0.3220307512324878,0,1,it,,
+'f4e1bf0fdf',extremes,Flood,#030ba1,random,epidemia di laghi glaciali,2026-07-02T06:23:00+00:00,,0.3199009295456448,0,1,it,,
