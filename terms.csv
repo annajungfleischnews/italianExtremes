@@ -108,7 +108,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '47f4d3e73c',extremes,Heat Wave,#c40202,wmo,ondata di caldo thal,2026-06-20T06:47:00+00:00,Switzerland,0.4945111392657151,1,1,it,WCE,Europe
 '6ded337d1f',extremes,Heat Wave,#c40202,wmo,ondata di caldo langnau eggiwil,2026-06-18T07:16:00+00:00,Switzerland,0.4944457255488379,1,1,it,WCE,Europe
 'b1d7a75a38',extremes,Storm,#b3b2b1,wmo,tempesta sicilia,2026-07-01T06:52:00+00:00,Italy,0.4943503399518048,1,1,it,MED,Europe
-'7104ad3c83',extremes,Thunderstorm,#53785a,wmo,temporale italia,2026-07-07T06:30:00+00:00,Italy,0.49395842886558394,1,2,it,MED,Europe
+'7104ad3c83',extremes,Thunderstorm,#53785a,wmo,temporale italia,2026-07-07T06:30:00+00:00,Italy,0.4939584288655839,1,2,it,MED,Europe
 'ff2fb99e65',extremes,Heat Wave,#c40202,wmo,ondata di caldo hulftegg untertoggenburg,2026-06-21T07:16:00+00:00,Switzerland,0.4939473661044999,1,1,it,WCE,Europe
 'edde214339',extremes,Heat Wave,#c40202,wmo,ondata di caldo entlebuch,2026-06-18T07:16:00+00:00,Switzerland,0.4937734822058486,1,1,it,WCE,Europe
 '4ce21d4729',extremes,Heat Wave,#c40202,wmo,ondata di caldo st.gallen rorschach,2026-06-17T07:33:00+00:00,Switzerland,0.493670457916354,1,1,it,WCE,Europe
@@ -131,7 +131,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '23cf4b65f8',extremes,Heat Wave,#c40202,wmo,ondata di caldo nidau ins,2026-06-19T07:39:00+00:00,Switzerland,0.489018270215285,1,1,it,WCE,Europe
 '165e1b5216',extremes,Drought,#edc291,edo,siccità libia,2026-06-22T08:39:00+00:00,Libya,0.48773095759322,1,1,it,SAH,Africa
 'e99283dc2d',extremes,Heat Wave,#c40202,wmo,ondata di caldo emmen hochdorf,2026-06-17T07:33:00+00:00,Switzerland,0.4870186685335232,1,1,it,WCE,Europe
-'d5d4b91634',extremes,Earthquake,#870007,usgs,terremoto vinchina,2026-07-12T05:43:00+00:00,Argentina,0.48686226245402536,1,1,it,SWS,South-America
+'d5d4b91634',extremes,Earthquake,#870007,usgs,terremoto vinchina,2026-07-12T05:43:00+00:00,Argentina,0.4868622624540253,1,1,it,SWS,South-America
 '365a9a79c6',extremes,Heat Wave,#c40202,wmo,ondata di caldo val de travers,2026-06-18T07:16:00+00:00,Switzerland,0.4868144351712646,1,1,it,WCE,Europe
 'ed766fa753',extremes,Heat Wave,#c40202,wmo,ondata di caldo zurzach bülach,2026-06-17T07:33:00+00:00,Switzerland,0.4865196740380107,1,1,it,WCE,Europe
 '32e74ad8ff',extremes,Heat Wave,#c40202,wmo,ondata di caldo molisano,2026-06-10T06:49:00+00:00,Italy,0.4862755740537989,2,1,it,MED,Europe
@@ -180,7 +180,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9d6cac03c7',extremes,Precipitation,#d60d2b,wmo,precipitazioni svizzera,2026-07-01T06:52:00+00:00,Switzerland,0.4685795248009386,0,1,it,WCE,Europe
 '0d99295f2f',extremes,Drought,#edc291,edo,mancanza di pioggia somalia,2026-06-09T06:33:00+00:00,Somalia,0.4682824044166739,1,1,it,NEAF,Africa
 'ee371032d3',extremes,Thunderstorm,#53785a,wmo,temporale campania,2026-06-15T08:36:00+00:00,Italy,0.465793825836789,1,1,it,MED,Europe
-'eceb9ef4c9',extremes,Thunderstorm,#53785a,wmo,grandine trentino alto adige,2026-06-26T06:36:00+00:00,Italy,0.4650960016242221,0,1,it,MED,Europe
 '54ce36b275',extremes,Thunderstorm,#53785a,wmo,maltempo liguria,2026-07-01T06:52:00+00:00,Italy,0.4645552297276561,0,1,it,MED,Europe
 '757cf38b46',extremes,Heat Wave,#c40202,wmo,ondata di caldo lausanne lavaux,2026-06-18T07:16:00+00:00,Switzerland,0.4638405161044969,1,1,it,WCE,Europe
 'e3a5e377d1',extremes,Heat Wave,#c40202,wmo,ondata di caldo val d'hérens,2026-06-23T06:33:00+00:00,Switzerland,0.4633201470660377,1,1,it,WCE,Europe
@@ -309,6 +308,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '35cc9cbf75',extremes,Precipitation,#d60d2b,random,pioggia torrenziale,2026-06-29T07:12:00+00:00,,0.3968077344813823,0,1,it,,
 '1a2e308d48',extremes,Thunderstorm,#53785a,wmo,temporale molisano,2026-07-02T06:24:00+00:00,Italy,0.3961043876752718,1,1,it,MED,Europe
 'e0f14a84be',extremes,Tropical Cyclone,#4f4f4f,random,centro nazionale degli uragani,2026-06-18T07:16:00+00:00,,0.3959555068391743,0,1,it,,
+'eceb9ef4c9',extremes,Thunderstorm,#53785a,wmo,grandine trentino alto adige,2026-06-26T06:36:00+00:00,Italy,0.39563163138058877,1,1,it,MED,Europe
 'df7e5328ea',extremes,Cold Wave,#a7e9fa,random,ondata di freddo,2026-06-25T06:32:00+00:00,,0.3952559286164669,0,1,it,,
 'ce37661cdd',extremes,Cold Wave,#a7e9fa,random,giorno più freddo,2026-07-08T05:37:00+00:00,,0.3947742728866846,0,1,it,,
 'd2b5043a66',extremes,Cold Wave,#a7e9fa,random,temperatura minima più bassa,2026-06-25T06:32:00+00:00,,0.3947685190382881,0,1,it,,
