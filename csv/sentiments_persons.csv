@@ -1,128 +1,65 @@
 ,phrase,label,sentiment,subjectivity,language,count
 Cyclone Harry,Cyclone Harry,PERSON,0.03273682336182339,0.5617699430199431,en,15.599999999999996
-Lorenzo Tedici,Lorenzo Tedici,PERSON,-0.07377049180327867,0.3306010928961749,en,6.1
+Lorenzo Tedici,Lorenzo Tedici,PERSON,-0.036764705882352915,0.37745098039215685,en,6.8
 Gian Piero Gasperini,Gian Piero Gasperini,PERSON,0.4595959595959596,0.6060606060606061,en,3.3
+Mattia Gussoni,Mattia Gussoni,PERSON,0.061728395061728385,0.12345679012345677,en,2.7
 Federico Brescia,Federico Brescia,PERSON,0.0892857142857143,0.14652014652014653,en,2.5999999999999996
 Claudio Ranieri,Claudio Ranieri,PERSON,0.27777777777777785,0.4166666666666667,en,2.4
 Marta Di,Marta Di,PERSON,0.03535353535353535,0.17108585858585862,en,2.4
 Donald Trump,Donald Trump,PERSON,-0.043939393939393945,0.31742424242424244,en,2.0
 Alessandro Gilioli,Alessandro Gilioli,PERSON,0.0,0.0,en,1.9
 Melania Trump,Melania Trump,PERSON,0.1732456140350877,0.3903508771929825,en,1.9
-Mel Crotonese,Mel Crotonese,PERSON,0.0,0.0,en,1.7
-Mattia Gussoni,Mattia Gussoni,PERSON,0.0,0.0,en,1.7
+Fabio Rovazzi,Fabio Rovazzi,PERSON,0.10167464114832536,0.21929824561403508,en,1.9
+Claudio Lotito,Claudio Lotito,PERSON,0.4228395061728395,0.47067901234567905,en,1.8
 Vito Bardi,Vito Bardi,PERSON,-0.21568627450980385,0.715686274509804,en,1.7
+Mel Crotonese,Mel Crotonese,PERSON,0.0,0.0,en,1.7
 Massa Martana,Massa Martana,PERSON,0.0457516339869281,0.21568627450980393,en,1.7
-De Martin,De Martin,PERSON,0.43749999999999994,0.37500000000000006,en,1.6
-John Ternus,John Ternus,PERSON,0.04261363636363636,0.45454545454545453,en,1.6
-Katherine Adams,Katherine Adams,PERSON,0.18229166666666666,0.625,en,1.6
-Craig Federighi,Craig Federighi,PERSON,-0.6136363636363636,1.0482954545454544,en,1.6
 John Giannandrea,John Giannandrea,PERSON,-0.14583333333333331,0.6770833333333334,en,1.6
+John Ternus,John Ternus,PERSON,0.04261363636363636,0.45454545454545453,en,1.6
+Craig Federighi,Craig Federighi,PERSON,-0.6136363636363636,1.0482954545454544,en,1.6
+Katherine Adams,Katherine Adams,PERSON,0.18229166666666666,0.625,en,1.6
+De Martin,De Martin,PERSON,0.43749999999999994,0.37500000000000006,en,1.6
 Roseto Valfortore,Roseto Valfortore,PERSON,-0.028125000000000008,0.4177083333333333,en,1.6
-Lame Rosse,Lame Rosse,PERSON,-0.16987179487179485,0.9679487179487178,en,1.3
-Domenico Caliendo,Domenico Caliendo,PERSON,-0.5675262237762237,0.8181818181818182,en,1.3
-Santiago de Compostela,Santiago de Compostela,PERSON,0.1923076923076923,0.5512820512820513,en,1.3
-Checco Zalone,Checco Zalone,PERSON,0.0,0.0,en,1.3
-Lake Cauma,Lake Cauma,PERSON,0.17582417582417584,0.41208791208791207,en,1.3
-Google Gemini,Google Gemini,PERSON,-0.032301032301032304,0.7592407592407592,en,1.3
-Daniela Santanché,Daniela Santanché,PERSON,0.0,0.0,en,1.3
-Palazzolo Acreide,Palazzolo Acreide,PERSON,0.0,0.0,en,1.3
-Val Brembana,Val Brembana,PERSON,-0.32967032967032966,0.5494505494505495,en,1.3
-Ascoli Piceno,Ascoli Piceno,PERSON,-0.09615384615384615,0.7692307692307692,en,1.3
 Tony Dallara,Tony Dallara,PERSON,0.1923076923076923,0.2564102564102564,en,1.3
-Cala Violina,Cala Violina,PERSON,0.2692307692307692,0.7747252747252746,en,1.3
-Sam Altman,Sam Altman,PERSON,-0.09038461538461538,0.3362179487179487,en,1.3
-Tim Cook,Tim Cook,PERSON,0.05244755244755244,0.5594405594405595,en,1.3
 Milan Cortina,Milan Cortina,PERSON,0.1923076923076923,0.2564102564102564,en,1.3
+Tim Cook,Tim Cook,PERSON,0.05244755244755244,0.5594405594405595,en,1.3
+Checco Zalone,Checco Zalone,PERSON,0.0,0.0,en,1.3
+Daniela Santanché,Daniela Santanché,PERSON,0.0,0.0,en,1.3
+Ascoli Piceno,Ascoli Piceno,PERSON,-0.09615384615384615,0.7692307692307692,en,1.3
+Domenico Caliendo,Domenico Caliendo,PERSON,-0.5675262237762237,0.8181818181818182,en,1.3
+Google Gemini,Google Gemini,PERSON,-0.032301032301032304,0.7592407592407592,en,1.3
+Val Brembana,Val Brembana,PERSON,-0.32967032967032966,0.5494505494505495,en,1.3
+Cala Violina,Cala Violina,PERSON,0.2692307692307692,0.7747252747252746,en,1.3
+Lake Cauma,Lake Cauma,PERSON,0.17582417582417584,0.41208791208791207,en,1.3
+Palazzolo Acreide,Palazzolo Acreide,PERSON,0.0,0.0,en,1.3
 Andrea Passanisi,Andrea Passanisi,PERSON,0.0,0.0,en,1.3
-Orta San Giulio,Orta San Giulio,PERSON,0.20833333333333334,1.0,en,1.2
+Marcell Jacobs,Marcell Jacobs,PERSON,0.0,0.0,en,1.3
+Tyra Grant,Tyra Grant,PERSON,0.2692307692307692,0.41025641025641024,en,1.3
+Lame Rosse,Lame Rosse,PERSON,-0.16987179487179485,0.9679487179487178,en,1.3
+Santiago de Compostela,Santiago de Compostela,PERSON,0.1923076923076923,0.5512820512820513,en,1.3
+Sam Altman,Sam Altman,PERSON,-0.09038461538461538,0.3362179487179487,en,1.3
 Lake Orta,Lake Orta,PERSON,0.20833333333333334,1.0,en,1.2
-Rocca Imperiale,Rocca Imperiale,PERSON,-0.30833333333333335,0.4583333333333333,en,1.0
-Asd Arcipelagi,Asd Arcipelagi,PERSON,0.2,0.2,en,1.0
-Peter Thiel,Peter Thiel,PERSON,0.0,0.0,en,1.0
-Matt Danzeisen,Matt Danzeisen,PERSON,0.0,0.0,en,1.0
-Mount Sibilla,Mount Sibilla,PERSON,0.0,0.0,en,1.0
-Monte Sibilla,Monte Sibilla,PERSON,-0.012499999999999997,0.3375,en,1.0
-Cala Mariolu,Cala Mariolu,PERSON,0.2,0.45,en,1.0
-Anci Marche,Anci Marche,PERSON,-0.6999999999999998,0.6666666666666666,en,1.0
-Lake Braies,Lake Braies,PERSON,0.0,0.0,en,1.0
-Genuario Aliandro,Genuario Aliandro,PERSON,-0.6999999999999998,0.6666666666666666,en,1.0
-MotoGP France,MotoGP France,PERSON,-0.1,0.6,en,1.0
-Marco Bezzecchi,Marco Bezzecchi,PERSON,0.0,0.0,en,1.0
+Orta San Giulio,Orta San Giulio,PERSON,0.20833333333333334,1.0,en,1.2
+Emmanuelle Girard,Emmanuelle Girard,PERSON,0.15,0.3055555555555556,en,1.0
 Rafael Jodar,Rafael Jodar,PERSON,0.07166666666666668,0.4383333333333333,en,1.0
-Jared Isaacman,Jared Isaacman,PERSON,0.0,0.25,en,1.0
-Luciano Darderi,Luciano Darderi,PERSON,0.07166666666666668,0.4383333333333333,en,1.0
-Vincenzo Nettis,Vincenzo Nettis,PERSON,0.03333333333333333,0.06666666666666667,en,1.0
-Montenero di Bisaccia,Montenero di Bisaccia,PERSON,0.0,0.0,en,1.0
-Donatella Tesei,Donatella Tesei,PERSON,-0.16666666666666666,0.7333333333333334,en,1.0
-Giorgio Chiellini,Giorgio Chiellini,PERSON,0.0,0.5,en,1.0
-Matteo Salvini,Matteo Salvini,PERSON,0.0,0.0,en,1.0
-Sydney Sweeney,Sydney Sweeney,PERSON,0.0,0.0,en,1.0
-Nello Musumeci,Nello Musumeci,PERSON,0.3333333333333333,1.0,en,1.0
-Francesco Roberti,Francesco Roberti,PERSON,0.0,0.0,en,1.0
-Pope Leo XIV,Pope Leo XIV,PERSON,0.0,0.0,en,1.0
-Robert Prevost,Robert Prevost,PERSON,-0.06666666666666667,0.35000000000000003,en,1.0
-Sergio Mat,Sergio Mat,PERSON,-0.06666666666666667,0.35000000000000003,en,1.0
-Roberto Di Punzio,Roberto Di Punzio,PERSON,0.0,0.0,en,1.0
-Guido Crosetto,Guido Crosetto,PERSON,0.0,0.0,en,1.0
-Frost Ranieri-Gasperini,Frost Ranieri-Gasperini,PERSON,-0.15555555555555559,0.2888888888888889,en,1.0
-Stefano Capozucca,Stefano Capozucca,PERSON,0.0,0.0,en,1.0
-Rocca Calascio,Rocca Calascio,PERSON,0.09,0.24666666666666667,en,1.0
-Alessandro Nesta,Alessandro Nesta,PERSON,0.0,0.5,en,1.0
-Il Corriere dello,Il Corriere dello,PERSON,0.0,0.0,en,1.0
-Massimiliano Allegri,Massimiliano Allegri,PERSON,-0.1,0.35,en,1.0
-Giorgia Meloni,Giorgia Meloni,PERSON,0.0,0.1,en,1.0
 Gran Sasso,Gran Sasso,PERSON,-0.15000000000000002,0.25,en,1.0
-Antonio Giannone,Antonio Giannone,PERSON,0.15,0.31666666666666665,en,1.0
-Pierpaolo Matrone,Pierpaolo Matrone,PERSON,0.3,0.6,en,1.0
-Federalberghi Calabria,Federalberghi Calabria,PERSON,0.4,1.0,en,1.0
-Balneari Calabria,Balneari Calabria,PERSON,-0.09999999999999992,0.6458333333333333,en,1.0
-Stefano Babini,Stefano Babini,PERSON,0.3333333333333333,1.0,en,1.0
-Maurizio Sarri,Maurizio Sarri,PERSON,0.26666666666666666,0.48333333333333334,en,1.0
-Max Allegri,Max Allegri,PERSON,0.0,0.0,en,1.0
-De Vries,De Vries,PERSON,0.0,0.0,en,1.0
 Lorenzo Prudenzano,Lorenzo Prudenzano,PERSON,0.03333333333333333,0.16666666666666666,en,1.0
-Lanfranco Fabriani,Lanfranco Fabriani,PERSON,0.0,0.0,en,1.0
-Roberto Samaden,Roberto Samaden,PERSON,0.0,0.0,en,1.0
-Roberto Danovaro,Roberto Danovaro,PERSON,0.0,0.0,en,1.0
-Fillea Cgil Marche,Fillea Cgil Marche,PERSON,0.0,0.0,en,1.0
-Andrea Kimi Antonelli,Andrea Kimi Antonelli,PERSON,0.43333333333333335,0.8333333333333334,en,1.0
-Giacomo Saccomanno,Giacomo Saccomanno,PERSON,0.0,0.0,en,1.0
-Giacomo Francesco Saccomanno,Giacomo Francesco Saccomanno,PERSON,0.0,0.3,en,1.0
-Serena Williams,Serena Williams,PERSON,0.0,0.0,en,1.0
-Francesco Lollobrigida,Francesco Lollobrigida,PERSON,0.6666666666666666,1.0,en,1.0
-Enver Hoxha,Enver Hoxha,PERSON,0.19732142857142856,0.34910714285714284,en,1.0
-Matteo Zuppi,Matteo Zuppi,PERSON,-0.05,0.05,en,1.0
-Val Resia Don,Val Resia Don,PERSON,-0.05,0.05,en,1.0
-Val Formazza,Val Formazza,PERSON,0.0,0.0,en,1.0
-the Cynical Beautician,the Cynical Beautician,PERSON,-0.2833333333333333,0.5333333333333333,en,1.0
-La Frua,La Frua,PERSON,0.0,0.0,en,1.0
-Lake Trasimeno,Lake Trasimeno,PERSON,0.0,0.0,en,1.0
-Alba Chiara,Alba Chiara,PERSON,0.25,0.3333333333333333,en,1.0
-The Alba Chiara Hospice,The Alba Chiara Hospice,PERSON,0.31,0.5833333333333333,en,1.0
-Eugenio Giani,Eugenio Giani,PERSON,0.03333333333333333,0.06666666666666667,en,1.0
-Gianni Biondillo,Gianni Biondillo,PERSON,0.25833333333333336,0.625,en,1.0
-Marco Malvaldi,Marco Malvaldi,PERSON,0.25833333333333336,0.625,en,1.0
-Francesca Scotti,Francesca Scotti,PERSON,0.25833333333333336,0.625,en,1.0
-Julian Alvarez,Julian Alvarez,PERSON,0.0,0.0,en,1.0
-Anbi Massimo Gargano,Anbi Massimo Gargano,PERSON,0.18333333333333335,0.35555555555555557,en,1.0
-Arpa Piemonte,Arpa Piemonte,PERSON,0.016666666666666673,0.5,en,1.0
-Clio Zammatteo,Clio Zammatteo,PERSON,-0.2833333333333333,0.5333333333333333,en,1.0
-Cristina Fogazzi,Cristina Fogazzi,PERSON,-0.2833333333333333,0.5333333333333333,en,1.0
 Luca Perazzini,Luca Perazzini,PERSON,0.03333333333333333,0.16666666666666666,en,1.0
-Salim El Koudri,Salim El Koudri,PERSON,-0.1277777777777778,0.19444444444444448,en,1.0
 Cristian Gualdi,Cristian Gualdi,PERSON,0.03333333333333333,0.16666666666666666,en,1.0
 Infinite Mourinho,Infinite Mourinho,PERSON,0.1,0.25,en,1.0
 Florentino Perez,Florentino Perez,PERSON,0.1,0.25,en,1.0
-Carlo Ancelotti,Carlo Ancelotti,PERSON,1.0,0.3,en,1.0
+De Vries,De Vries,PERSON,0.0,0.0,en,1.0
 Maximilian Günther,Maximilian Günther,PERSON,0.3333333333333333,0.5,en,1.0
 Formula E,Formula E,PERSON,0.3333333333333333,0.5,en,1.0
-Claudio Lotito,Claudio Lotito,PERSON,0.5,0.5,en,1.0
+Nicola Pietrangeli,Nicola Pietrangeli,PERSON,0.0,0.688888888888889,en,1.0
 Totò Cuffaro,Totò Cuffaro,PERSON,-0.08333333333333333,0.6666666666666666,en,1.0
 Leonardo Botta,Leonardo Botta,PERSON,0.5681818181818181,0.7272727272727273,en,1.0
 "Totò ""Vasavasa","Totò ""Vasavasa",PERSON,0.5681818181818181,0.7272727272727273,en,1.0
 El Koudri,El Koudri,PERSON,0.2,0.1,en,1.0
+Salim El Koudri,Salim El Koudri,PERSON,-0.1277777777777778,0.19444444444444448,en,1.0
 Jannik Sinne,Jannik Sinne,PERSON,0.0,0.0,en,1.0
-the Cinica Beautician,the Cinica Beautician,PERSON,0.0,0.625,en,1.0
+Kiro Pro+,Kiro Pro+,PERSON,0.4,0.8,en,1.0
+Henri Matisse,Henri Matisse,PERSON,-0.2,0.3,en,1.0
 Bandite di,Bandite di,PERSON,0.175,0.5035714285714286,en,1.0
 Lake Pio,Lake Pio,PERSON,0.0,0.0,en,1.0
 Serie C,Serie C,PERSON,-0.2018097643097643,0.35307239057239054,en,1.0
@@ -131,18 +68,131 @@ Reggio Calabria,Reggio Calabria,PERSON,0.14285714285714285,0.26785714285714285,e
 James Webb,James Webb,PERSON,0.375,1.0,en,1.0
 Apogeo Editore,Apogeo Editore,PERSON,0.0,0.0,en,1.0
 Roland Garros,Roland Garros,PERSON,0.0,0.0,en,1.0
+Lisa Jackson,Lisa Jackson,PERSON,0.0,0.0,en,1.0
+Cala Mariolu,Cala Mariolu,PERSON,0.2,0.45,en,1.0
+Luciano Darderi,Luciano Darderi,PERSON,0.07166666666666668,0.4383333333333333,en,1.0
 Nico Gonzalez,Nico Gonzalez,PERSON,-0.8,1.0,en,1.0
-Douglas Luiz,Douglas Luiz,PERSON,-0.8,1.0,en,1.0
+Frost Ranieri-Gasperini,Frost Ranieri-Gasperini,PERSON,-0.15555555555555559,0.2888888888888889,en,1.0
+Wayne Gretzky,Wayne Gretzky,PERSON,1.0,1.0,en,1.0
+Stefano Capozucca,Stefano Capozucca,PERSON,0.0,0.0,en,1.0
+Rio Ferdinand,Rio Ferdinand,PERSON,0.0,0.0,en,1.0
+Rocca Calascio,Rocca Calascio,PERSON,0.09,0.24666666666666667,en,1.0
+Il Corriere dello,Il Corriere dello,PERSON,0.0,0.0,en,1.0
+Massimiliano Allegri,Massimiliano Allegri,PERSON,-0.1,0.35,en,1.0
+Max Allegri,Max Allegri,PERSON,0.0,0.0,en,1.0
+Pierpaolo Matrone,Pierpaolo Matrone,PERSON,0.3,0.6,en,1.0
+Federalberghi Calabria,Federalberghi Calabria,PERSON,0.4,1.0,en,1.0
+Balneari Calabria,Balneari Calabria,PERSON,-0.09999999999999992,0.6458333333333333,en,1.0
+Donatella Tesei,Donatella Tesei,PERSON,-0.16666666666666666,0.7333333333333334,en,1.0
+Maurizio Sarri,Maurizio Sarri,PERSON,0.26666666666666666,0.48333333333333334,en,1.0
+Alessandro Nesta,Alessandro Nesta,PERSON,0.0,0.5,en,1.0
+Giorgio Chiellini,Giorgio Chiellini,PERSON,0.0,0.5,en,1.0
+Asd Arcipelagi,Asd Arcipelagi,PERSON,0.2,0.2,en,1.0
+Peter Thiel,Peter Thiel,PERSON,0.0,0.0,en,1.0
+Matt Danzeisen,Matt Danzeisen,PERSON,0.0,0.0,en,1.0
+Mount Sibilla,Mount Sibilla,PERSON,0.0,0.0,en,1.0
+Monte Sibilla,Monte Sibilla,PERSON,-0.012499999999999997,0.3375,en,1.0
+Genuario Aliandro,Genuario Aliandro,PERSON,-0.6999999999999998,0.6666666666666666,en,1.0
+MotoGP France,MotoGP France,PERSON,-0.1,0.6,en,1.0
+Marco Bezzecchi,Marco Bezzecchi,PERSON,0.0,0.0,en,1.0
+Jared Isaacman,Jared Isaacman,PERSON,0.0,0.25,en,1.0
+Vincenzo Nettis,Vincenzo Nettis,PERSON,0.03333333333333333,0.06666666666666667,en,1.0
+Edgar Degas,Edgar Degas,PERSON,-0.2,0.3,en,1.0
 Val di Fiemme,Val di Fiemme,PERSON,0.0,0.0,en,1.0
-Gennaro Gattuso,Gennaro Gattuso,PERSON,1.0,0.3,en,1.0
-Jannik Sinner,Jannik Sinner,PERSON,0.0,0.05,en,1.0
-Federico Giubilato,Federico Giubilato,PERSON,0.1,0.2,en,1.0
+Douglas Luiz,Douglas Luiz,PERSON,-0.8,1.0,en,1.0
+Marie Bouzkova,Marie Bouzkova,PERSON,0.25,0.3333333333333333,en,1.0
+Francesca Scotti,Francesca Scotti,PERSON,0.25833333333333336,0.625,en,1.0
+Julian Alvarez,Julian Alvarez,PERSON,0.0,0.0,en,1.0
+Anbi Massimo Gargano,Anbi Massimo Gargano,PERSON,0.18333333333333335,0.35555555555555557,en,1.0
+Campi Flegrei,Campi Flegrei,PERSON,0.0,0.0,en,1.0
+Arpa Piemonte,Arpa Piemonte,PERSON,0.016666666666666673,0.5,en,1.0
+Paul Cézanne,Paul Cézanne,PERSON,-0.2,0.3,en,1.0
+Pozzolo dixit,Pozzolo dixit,PERSON,0.125,0.24375,en,1.0
+Emanuele Pozzolo,Emanuele Pozzolo,PERSON,0.125,0.24375,en,1.0
+Più libri liberi,Più libri liberi,PERSON,0.15,0.43333333333333335,en,1.0
+Passeaggio al Bosco,Passeaggio al Bosco,PERSON,0.15,0.43333333333333335,en,1.0
+dei Rospigliosi,dei Rospigliosi,PERSON,0.0,0.0,en,1.0
+Katie Boulter,Katie Boulter,PERSON,0.25,0.3333333333333333,en,1.0
+Vadym Ermolaev,Vadym Ermolaev,PERSON,0.075,0.55,en,1.0
+Sergio Mat,Sergio Mat,PERSON,-0.06666666666666667,0.35000000000000003,en,1.0
+Giuseppe Valditara,Giuseppe Valditara,PERSON,0.0,0.0,en,1.0
+Adolfo Urso,Adolfo Urso,PERSON,0.0,0.0,en,1.0
+Orazio Schillaci,Orazio Schillaci,PERSON,0.0,0.0,en,1.0
+Clemente Mastella,Clemente Mastella,PERSON,-0.5571428571428572,0.6285714285714286,en,1.0
+Benevento Clemente Mastella,Benevento Clemente Mastella,PERSON,0.0,0.0,en,1.0
+Monte Conero,Monte Conero,PERSON,0.0,0.0,en,1.0
+Andrea Marino,Andrea Marino,PERSON,0.125,0.675,en,1.0
+Nicole Pellegrini,Nicole Pellegrini,PERSON,0.0,0.0,en,1.0
+Ausl Reggio Emilia,Ausl Reggio Emilia,PERSON,0.0,0.0,en,1.0
+Marco Di Lecce,Marco Di Lecce,PERSON,0.0,0.0,en,1.0
+Stefano Geniere Nigra,Stefano Geniere Nigra,PERSON,0.0,0.0,en,1.0
+Ausl Romagna,Ausl Romagna,PERSON,0.0,0.0,en,1.0
+Marco Malvaldi,Marco Malvaldi,PERSON,0.25833333333333336,0.625,en,1.0
+Gianni Biondillo,Gianni Biondillo,PERSON,0.25833333333333336,0.625,en,1.0
+Eugenio Giani,Eugenio Giani,PERSON,0.03333333333333333,0.06666666666666667,en,1.0
+Il Fatto,Il Fatto,PERSON,0.26111111111111107,0.34722222222222227,en,1.0
+Pierre-Auguste Renoir,Pierre-Auguste Renoir,PERSON,-0.2,0.3,en,1.0
+the Cinica Beautician,the Cinica Beautician,PERSON,0.0,0.625,en,1.0
+Cristina Fogazzi,Cristina Fogazzi,PERSON,-0.2833333333333333,0.5333333333333333,en,1.0
+the Cynical Beautician,the Cynical Beautician,PERSON,-0.2833333333333333,0.5333333333333333,en,1.0
+Clio Zammatteo,Clio Zammatteo,PERSON,-0.2833333333333333,0.5333333333333333,en,1.0
+Roberto Samaden,Roberto Samaden,PERSON,0.0,0.0,en,1.0
+Roberto Danovaro,Roberto Danovaro,PERSON,0.0,0.0,en,1.0
+Fillea Cgil Marche,Fillea Cgil Marche,PERSON,0.0,0.0,en,1.0
+Andrea Kimi Antonelli,Andrea Kimi Antonelli,PERSON,0.43333333333333335,0.8333333333333334,en,1.0
+Giacomo Saccomanno,Giacomo Saccomanno,PERSON,0.0,0.0,en,1.0
+Giacomo Francesco Saccomanno,Giacomo Francesco Saccomanno,PERSON,0.0,0.3,en,1.0
+Serena Williams,Serena Williams,PERSON,0.0,0.0,en,1.0
+Vincent Van Gogh,Vincent Van Gogh,PERSON,-0.2,0.3,en,1.0
+Francesco Lollobrigida,Francesco Lollobrigida,PERSON,0.6666666666666666,1.0,en,1.0
+Enver Hoxha,Enver Hoxha,PERSON,0.19732142857142856,0.34910714285714284,en,1.0
+Pichetto Fratin,Pichetto Fratin,PERSON,-0.1,0.4,en,1.0
+Matteo Zuppi,Matteo Zuppi,PERSON,-0.05,0.05,en,1.0
+Val Resia Don,Val Resia Don,PERSON,-0.05,0.05,en,1.0
+Simona Carbone,Simona Carbone,PERSON,0.23484848484848483,0.7272727272727273,en,1.0
+Lanfranco Fabriani,Lanfranco Fabriani,PERSON,0.0,0.0,en,1.0
+Val Formazza,Val Formazza,PERSON,0.0,0.0,en,1.0
+La Frua,La Frua,PERSON,0.0,0.0,en,1.0
+Lake Trasimeno,Lake Trasimeno,PERSON,0.0,0.0,en,1.0
+Alba Chiara,Alba Chiara,PERSON,0.25,0.3333333333333333,en,1.0
+The Alba Chiara Hospice,The Alba Chiara Hospice,PERSON,0.31,0.5833333333333333,en,1.0
+Roberto Di Punzio,Roberto Di Punzio,PERSON,0.0,0.0,en,1.0
+Robert Prevost,Robert Prevost,PERSON,-0.06666666666666667,0.35000000000000003,en,1.0
+Stella Pende,Stella Pende,PERSON,0.0,0.0,en,1.0
+New hydrogeological,New hydrogeological,PERSON,0.13636363636363635,0.45454545454545453,en,1.0
+Ornella Vanoni,Ornella Vanoni,PERSON,0.0,0.0,en,1.0
+Kinetic US,Kinetic US,PERSON,0.26666666666666666,0.6333333333333333,en,1.0
+The Val di Fu,The Val di Fu,PERSON,0.0,0.0,en,1.0
+Appiano Gentile,Appiano Gentile,PERSON,0.10000000000000002,0.3833333333333333,en,1.0
+Lake Bolsena,Lake Bolsena,PERSON,-0.037500000000000026,0.4125,en,1.0
+Antonio Angelucci,Antonio Angelucci,PERSON,0.0,0.0,en,1.0
+Riccardo Pecini,Riccardo Pecini,PERSON,0.0,0.0625,en,1.0
+post-Tim Cook,post-Tim Cook,PERSON,0.0,0.0,en,1.0
+Arianna Meloni,Arianna Meloni,PERSON,0.06818181818181818,0.2772727272727273,en,1.0
+Alì Terme,Alì Terme,PERSON,0.0,0.0,en,1.0
+Alessandra Todde,Alessandra Todde,PERSON,-0.23333333333333328,0.3055555555555555,en,1.0
+Carlo Calenda,Carlo Calenda,PERSON,0.1,0.1,en,1.0
+Renato Schifani,Renato Schifani,PERSON,0.0,0.0,en,1.0
+Rossella Fiamingo,Rossella Fiamingo,PERSON,0.0,0.0,en,1.0
+Giuliano Sangiorgi,Giuliano Sangiorgi,PERSON,0.1,0.4,en,1.0
+realme P4 Power,realme P4 Power,PERSON,-0.4,0.8500000000000001,en,1.0
+Antonio Tajani,Antonio Tajani,PERSON,-0.08124999999999996,0.34791666666666665,en,1.0
+Mario Tozzi,Mario Tozzi,PERSON,0.16,0.5399999999999999,en,1.0
+Sella Nevea,Sella Nevea,PERSON,0.13333333333333333,0.39999999999999997,en,1.0
+Laura Marmorale,Laura Marmorale,PERSON,0.25,0.4,en,1.0
+The Stiffe Caves,The Stiffe Caves,PERSON,0.0,0.0,en,1.0
+Don Giovanni Gatto,Don Giovanni Gatto,PERSON,0.0,0.0,en,1.0
+Giampaolo Lampis,Giampaolo Lampis,PERSON,0.06818181818181818,0.22727272727272727,en,1.0
+Luca Verna,Luca Verna,PERSON,0.06818181818181818,0.22727272727272727,en,1.0
+Bryce Canyon,Bryce Canyon,PERSON,0.45,0.5,en,1.0
+Von Allmen,Von Allmen,PERSON,0.4166666666666667,0.4444444444444444,en,1.0
 Caterina Balivo,Caterina Balivo,PERSON,0.19318181818181818,0.675,en,1.0
+Il Fatto Quotidiano,Il Fatto Quotidiano,PERSON,0.0,0.0,en,1.0
+CGIL Marche,CGIL Marche,PERSON,0.25,0.5,en,1.0
 Mohamed Shahin,Mohamed Shahin,PERSON,0.0,0.0,en,1.0
-Narges Mohammadi,Narges Mohammadi,PERSON,-0.0875,0.1875,en,1.0
-Emmanuelle Girard,Emmanuelle Girard,PERSON,0.15,0.3055555555555556,en,1.0
 Volodymyr Zelensky,Volodymyr Zelensky,PERSON,-0.02121212121212122,0.28484848484848485,en,1.0
 Licia Colò,Licia Colò,PERSON,-0.575,0.65,en,1.0
+Charlotte De Bruyne,Charlotte De Bruyne,PERSON,-0.16666666666666666,0.1416666666666667,en,1.0
 Clair Obscur Expedition 33,Clair Obscur Expedition 33,PERSON,0.0,0.0,en,1.0
 Timothée Chalamet,Timothée Chalamet,PERSON,0.1,0.25,en,1.0
 A19 Pro,A19 Pro,PERSON,0.6000000000000001,1.25,en,1.0
@@ -152,6 +202,7 @@ Carlo Nesti,Carlo Nesti,PERSON,0.0,0.0,en,1.0
 PIERO ANGEL,PIERO ANGEL,PERSON,0.5333333333333333,0.6166666666666667,en,1.0
 the Calanchi di Piana,the Calanchi di Piana,PERSON,0.0,0.0,en,1.0
 Dalia Gubbay,Dalia Gubbay,PERSON,0.0,0.1,en,1.0
+Rosa Marchant,Rosa Marchant,PERSON,-0.16666666666666666,0.1416666666666667,en,1.0
 Il Messaggero,Il Messaggero,PERSON,0.0,0.0,en,1.0
 Milan Cortina -1,Milan Cortina -1,PERSON,0.0,0.0,en,1.0
 Chison Valleys,Chison Valleys,PERSON,0.025,0.19999999999999998,en,1.0
@@ -159,42 +210,53 @@ Christian Manfredini,Christian Manfredini,PERSON,0.0,0.0,en,1.0
 San Giuliano,San Giuliano,PERSON,0.0,0.30000000000000004,en,1.0
 del Clitunno,del Clitunno,PERSON,-0.2,0.3,en,1.0
 Vincenzo Cosenza,Vincenzo Cosenza,PERSON,0.011111111111111112,0.2722222222222222,en,1.0
+Narges Mohammadi,Narges Mohammadi,PERSON,-0.0875,0.1875,en,1.0
 Daniele Vicari,Daniele Vicari,PERSON,0.4681818181818182,0.6022727272727273,en,1.0
 Alessandro Borghi,Alessandro Borghi,PERSON,0.4681818181818182,0.6022727272727273,en,1.0
 Walter Bonatti,Walter Bonatti,PERSON,0.4681818181818182,0.6022727272727273,en,1.0
 ​​Alta Val Venosta,​​Alta Val Venosta,PERSON,0.4681818181818182,0.6022727272727273,en,1.0
-Il Fatto Quotidiano,Il Fatto Quotidiano,PERSON,0.0,0.0,en,1.0
-Kinetic US,Kinetic US,PERSON,0.26666666666666666,0.6333333333333333,en,1.0
-Antonio Angelucci,Antonio Angelucci,PERSON,0.0,0.0,en,1.0
-Vincent Van Gogh,Vincent Van Gogh,PERSON,-0.2,0.3,en,1.0
-Arturo Brachetti,Arturo Brachetti,PERSON,0.0,0.0,en,1.0
-Niklas Pyyhtia,Niklas Pyyhtia,PERSON,0.2,0.3,en,1.0
-Andrea Stöllner,Andrea Stöllner,PERSON,0.0,0.0,en,1.0
-Ornella Vanoni,Ornella Vanoni,PERSON,0.0,0.0,en,1.0
-Rosa Marchant,Rosa Marchant,PERSON,-0.16666666666666666,0.1416666666666667,en,1.0
-Charlotte De Bruyne,Charlotte De Bruyne,PERSON,-0.16666666666666666,0.1416666666666667,en,1.0
-Stella Pende,Stella Pende,PERSON,0.0,0.0,en,1.0
-Appiano Gentile,Appiano Gentile,PERSON,0.10000000000000002,0.3833333333333333,en,1.0
-Cristian Chivu,Cristian Chivu,PERSON,0.22727272727272727,0.5454545454545454,en,1.0
-Amar Subramanya,Amar Subramanya,PERSON,0.21212121212121213,0.40151515151515155,en,1.0
-Paul Cézanne,Paul Cézanne,PERSON,-0.2,0.3,en,1.0
-Pierre-Auguste Renoir,Pierre-Auguste Renoir,PERSON,-0.2,0.3,en,1.0
-Riccardo Pecini,Riccardo Pecini,PERSON,0.0,0.0625,en,1.0
-Edgar Degas,Edgar Degas,PERSON,-0.2,0.3,en,1.0
-Henri Matisse,Henri Matisse,PERSON,-0.2,0.3,en,1.0
-Kiro Pro+,Kiro Pro+,PERSON,0.4,0.8,en,1.0
-Nicola Pietrangeli,Nicola Pietrangeli,PERSON,0.0,0.688888888888889,en,1.0
-Lisa Jackson,Lisa Jackson,PERSON,0.0,0.0,en,1.0
-Rio Ferdinand,Rio Ferdinand,PERSON,0.0,0.0,en,1.0
-Wayne Gretzky,Wayne Gretzky,PERSON,1.0,1.0,en,1.0
-Aaron Judge,Aaron Judge,PERSON,1.0,1.0,en,1.0
-Fleur Jaeggy,Fleur Jaeggy,PERSON,0.1,0.1,en,1.0
-Christopher Kay,Christopher Kay,PERSON,0.0,0.0,en,1.0
-Arianna Meloni,Arianna Meloni,PERSON,0.06818181818181818,0.2772727272727273,en,1.0
-CGIL Marche,CGIL Marche,PERSON,0.25,0.5,en,1.0
-The Val di Fu,The Val di Fu,PERSON,0.0,0.0,en,1.0
+Gregorio Paltrinieri,Gregorio Paltrinieri,PERSON,0.0,0.0,en,1.0
+De Zerbi,De Zerbi,PERSON,0.0,0.0,en,1.0
+Pope Leo XIV,Pope Leo XIV,PERSON,0.0,0.0,en,1.0
+Lake Braies,Lake Braies,PERSON,0.0,0.0,en,1.0
+Lake Livigno,Lake Livigno,PERSON,0.4777777777777778,0.6444444444444445,en,1.0
+Cna Calabria,Cna Calabria,PERSON,-0.6999999999999998,0.6666666666666666,en,1.0
+Federico Pellegrino,Federico Pellegrino,PERSON,0.05,0.6916666666666667,en,1.0
+Venezia Giulia,Venezia Giulia,PERSON,0.0,0.0,en,1.0
+Castelluccio di Norcia,Castelluccio di Norcia,PERSON,-0.08666666666666664,0.58,en,1.0
 Orobie Prealps,Orobie Prealps,PERSON,-0.3,0.1,en,1.0
-Lake Bolsena,Lake Bolsena,PERSON,-0.037500000000000026,0.4125,en,1.0
+Federico Giubilato,Federico Giubilato,PERSON,0.1,0.2,en,1.0
+Carlo Ancelotti,Carlo Ancelotti,PERSON,1.0,0.3,en,1.0
+Moira Orfei,Moira Orfei,PERSON,0.0,0.0,en,1.0
+Rocca Imperiale,Rocca Imperiale,PERSON,-0.30833333333333335,0.4583333333333333,en,1.0
+Anci Marche,Anci Marche,PERSON,-0.6999999999999998,0.6666666666666666,en,1.0
+Fleur Jaeggy,Fleur Jaeggy,PERSON,0.1,0.1,en,1.0
+Amar Subramanya,Amar Subramanya,PERSON,0.21212121212121213,0.40151515151515155,en,1.0
+Roberto De Zerbi,Roberto De Zerbi,PERSON,-0.2,0.5,en,1.0
+Antonio Giannone,Antonio Giannone,PERSON,0.15,0.31666666666666665,en,1.0
+Giorgia Meloni,Giorgia Meloni,PERSON,0.0,0.1,en,1.0
+Matteo Salvini,Matteo Salvini,PERSON,0.0,0.0,en,1.0
+Guido Crosetto,Guido Crosetto,PERSON,0.0,0.0,en,1.0
+Aaron Judge,Aaron Judge,PERSON,1.0,1.0,en,1.0
+Nello Musumeci,Nello Musumeci,PERSON,0.3333333333333333,1.0,en,1.0
+Stefano Babini,Stefano Babini,PERSON,0.3333333333333333,1.0,en,1.0
+Montenero di Bisaccia,Montenero di Bisaccia,PERSON,0.0,0.0,en,1.0
+Niklas Pyyhtia,Niklas Pyyhtia,PERSON,0.2,0.3,en,1.0
+Sydney Sweeney,Sydney Sweeney,PERSON,0.0,0.0,en,1.0
+Francesco Roberti,Francesco Roberti,PERSON,0.0,0.0,en,1.0
+Arturo Brachetti,Arturo Brachetti,PERSON,0.0,0.0,en,1.0
+Tetyana Berezhna,Tetyana Berezhna,PERSON,0.041666666666666664,0.15277777777777776,en,1.0
+Andriy Sybiga,Andriy Sybiga,PERSON,0.041666666666666664,0.15277777777777776,en,1.0
+Bodo Glimt,Bodo Glimt,PERSON,-0.265,0.46499999999999997,en,1.0
+Fabio Capello,Fabio Capello,PERSON,-0.265,0.46499999999999997,en,1.0
+Olympique Marseille,Olympique Marseille,PERSON,-0.2,0.5,en,1.0
+Thomas Frank,Thomas Frank,PERSON,-0.2,0.5,en,1.0
+Cristian Chivu,Cristian Chivu,PERSON,0.22727272727272727,0.5454545454545454,en,1.0
+Christopher Kay,Christopher Kay,PERSON,0.0,0.0,en,1.0
+YouTuber Markiplier,YouTuber Markiplier,PERSON,0.0,0.0,en,1.0
+Harry bis,Harry bis,PERSON,-0.1333333333333333,0.2027777777777778,en,1.0
+Cima di Costabella,Cima di Costabella,PERSON,0.5,1.0,en,1.0
+Monte Baldo,Monte Baldo,PERSON,0.5,1.0,en,1.0
 Gardesan Prealps,Gardesan Prealps,PERSON,0.5,1.0,en,1.0
 Corriere della Sera,Corriere della Sera,PERSON,0.0,0.0,en,1.0
 Federico La Penna,Federico La Penna,PERSON,-0.17333333333333334,0.4133333333333333,en,1.0
@@ -209,43 +271,7 @@ Saint Moritz,Saint Moritz,PERSON,0.1,0.0,en,1.0
 Alessandro Galavotti,Alessandro Galavotti,PERSON,0.0,0.0,en,1.0
 Matilde Lorenzi,Matilde Lorenzi,PERSON,0.35714285714285715,0.5714285714285714,en,1.0
 Matteo Pagliuso,Matteo Pagliuso,PERSON,0.0,0.0,en,1.0
+Andrea Stöllner,Andrea Stöllner,PERSON,0.0,0.0,en,1.0
 Adriano Panatta,Adriano Panatta,PERSON,0.0,0.05,en,1.0
-Moira Orfei,Moira Orfei,PERSON,0.0,0.0,en,1.0
-Fabio Capello,Fabio Capello,PERSON,-0.265,0.46499999999999997,en,1.0
-Bodo Glimt,Bodo Glimt,PERSON,-0.265,0.46499999999999997,en,1.0
-Andriy Sybiga,Andriy Sybiga,PERSON,0.041666666666666664,0.15277777777777776,en,1.0
-Tetyana Berezhna,Tetyana Berezhna,PERSON,0.041666666666666664,0.15277777777777776,en,1.0
-Lake Livigno,Lake Livigno,PERSON,0.4777777777777778,0.6444444444444445,en,1.0
-Cna Calabria,Cna Calabria,PERSON,-0.6999999999999998,0.6666666666666666,en,1.0
-Federico Pellegrino,Federico Pellegrino,PERSON,0.05,0.6916666666666667,en,1.0
-Venezia Giulia,Venezia Giulia,PERSON,0.0,0.0,en,1.0
-Castelluccio di Norcia,Castelluccio di Norcia,PERSON,-0.08666666666666664,0.58,en,1.0
-Monte Baldo,Monte Baldo,PERSON,0.5,1.0,en,1.0
-Cima di Costabella,Cima di Costabella,PERSON,0.5,1.0,en,1.0
-Harry bis,Harry bis,PERSON,-0.1333333333333333,0.2027777777777778,en,1.0
-Laura Marmorale,Laura Marmorale,PERSON,0.25,0.4,en,1.0
-post-Tim Cook,post-Tim Cook,PERSON,0.0,0.0,en,1.0
-Alì Terme,Alì Terme,PERSON,0.0,0.0,en,1.0
-Alessandra Todde,Alessandra Todde,PERSON,-0.23333333333333328,0.3055555555555555,en,1.0
-Carlo Calenda,Carlo Calenda,PERSON,0.1,0.1,en,1.0
-New hydrogeological,New hydrogeological,PERSON,0.13636363636363635,0.45454545454545453,en,1.0
-Renato Schifani,Renato Schifani,PERSON,0.0,0.0,en,1.0
-Giuliano Sangiorgi,Giuliano Sangiorgi,PERSON,0.1,0.4,en,1.0
-realme P4 Power,realme P4 Power,PERSON,-0.4,0.8500000000000001,en,1.0
-Antonio Tajani,Antonio Tajani,PERSON,-0.08124999999999996,0.34791666666666665,en,1.0
-Mario Tozzi,Mario Tozzi,PERSON,0.16,0.5399999999999999,en,1.0
-Sella Nevea,Sella Nevea,PERSON,0.13333333333333333,0.39999999999999997,en,1.0
-The Stiffe Caves,The Stiffe Caves,PERSON,0.0,0.0,en,1.0
-YouTuber Markiplier,YouTuber Markiplier,PERSON,0.0,0.0,en,1.0
-Don Giovanni Gatto,Don Giovanni Gatto,PERSON,0.0,0.0,en,1.0
-Giampaolo Lampis,Giampaolo Lampis,PERSON,0.06818181818181818,0.22727272727272727,en,1.0
-Luca Verna,Luca Verna,PERSON,0.06818181818181818,0.22727272727272727,en,1.0
-Bryce Canyon,Bryce Canyon,PERSON,0.45,0.5,en,1.0
-Von Allmen,Von Allmen,PERSON,0.4166666666666667,0.4444444444444444,en,1.0
-Gregorio Paltrinieri,Gregorio Paltrinieri,PERSON,0.0,0.0,en,1.0
-Rossella Fiamingo,Rossella Fiamingo,PERSON,0.0,0.0,en,1.0
-De Zerbi,De Zerbi,PERSON,0.0,0.0,en,1.0
-Roberto De Zerbi,Roberto De Zerbi,PERSON,-0.2,0.5,en,1.0
-Olympique Marseille,Olympique Marseille,PERSON,-0.2,0.5,en,1.0
-Thomas Frank,Thomas Frank,PERSON,-0.2,0.5,en,1.0
-dei Rospigliosi,dei Rospigliosi,PERSON,0.0,0.0,en,1.0
+Jannik Sinner,Jannik Sinner,PERSON,0.0,0.05,en,1.0
+Gennaro Gattuso,Gennaro Gattuso,PERSON,1.0,0.3,en,1.0
