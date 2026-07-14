@@ -2,17 +2,23 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0e11501646',extremes,Storm,#b3b2b1,wmo,tempesta emilia e romagna,2026-06-29T07:13:00+00:00,Italy,0.6585843713373157,1,2,it,MED,Europe
 'e9be999d01',extremes,Thunderstorm,#53785a,wmo,grandine calabria,2026-06-24T06:30:00+00:00,Italy,0.6504804731532696,2,2,it,MED,Europe
 '6076c8543a',extremes,Storm,#b3b2b1,wmo,mareggiata liguria,2026-06-21T07:16:00+00:00,Italy,0.6439180860339336,1,2,it,MED,Europe
+'757a24f6e9',extremes,Thunderstorm,#53785a,wmo,ave emilia e romagna,2026-07-14T05:14:00+00:00,Italy,0.6436272807799814,0,1,it,MED,Europe
+'51f6808ed3',extremes,Thunderstorm,#53785a,wmo,temporale liguria,2026-07-14T05:14:00+00:00,Italy,0.6382410776034755,0,1,it,MED,Europe
 '5bf34f285a',extremes,Earthquake,#870007,usgs,terremoto italia,2026-06-12T07:05:00+00:00,Italy,0.6355455892839332,5,3,it,MED,Europe
 'f14331b9f6',extremes,Thunderstorm,#53785a,wmo,maltempo calabria,2026-06-16T08:27:00+00:00,Italy,0.6314238544690454,1,2,it,MED,Europe
 '8e5338dae6',extremes,Thunderstorm,#53785a,wmo,salve italia,2026-06-26T06:36:00+00:00,Italy,0.6258257987560053,2,2,it,MED,Europe
 'c0e18437c9',extremes,Snow&Ice,#d60d2b,wmo,gelo italia,2026-06-23T06:33:00+00:00,Italy,0.6253348502401703,1,2,it,MED,Europe
+'c88b43e0ba',extremes,Snow&Ice,#d60d2b,wmo,gelo argentino,2026-06-30T06:39:00+00:00,Argentina,0.6186394502958334,0,1,it,SES,South-America
+'d73c88d78a',extremes,Storm,#b3b2b1,wmo,mareggiata veneto,2026-07-14T05:14:00+00:00,Italy,0.618593825741608,0,1,it,MED,Europe
 'c8bad6097f',extremes,Heat Wave,#c40202,wmo,ondata di caldo basilicata,2026-06-09T06:32:00+00:00,Italy,0.6089381283157844,2,1,it,MED,Europe
 '27ecdd832f',extremes,Heat Wave,#c40202,wmo,ondata di caldo emilia e romagna,2026-06-18T07:16:00+00:00,Italy,0.6050636969111618,1,1,it,MED,Europe
 '819f6fe0b0',extremes,Heat Wave,#c40202,wmo,ondata di caldo lombardia,2026-06-17T07:33:00+00:00,Italy,0.6049101606128852,1,1,it,MED,Europe
+'997a2e2157',extremes,Earthquake,#870007,usgs,terremoto argentina,2026-06-27T06:08:00+00:00,Argentina,0.6045187961079218,0,1,it,SES,South-America
 'b4a448711b',extremes,Heat Wave,#c40202,wmo,ondata di caldo italia,2026-06-09T06:32:00+00:00,Italy,0.6040493840468018,2,1,it,MED,Europe
 'e529bb6ac5',extremes,Precipitation,#d60d2b,wmo,pioggia argentina,2026-06-18T07:16:00+00:00,Argentina,0.5988436105671591,2,2,it,SES,South-America
 'f9eb244a9a',extremes,Drought,#edc291,edo,mancanza di pioggia italia,2026-06-20T06:47:00+00:00,Italy,0.598790927824127,1,2,it,MED,Europe
 '30f7444e18',extremes,Storm,#b3b2b1,wmo,tempesta puglia,2026-06-03T07:23:00+00:00,Italy,0.5935498592867026,2,2,it,MED,Europe
+'3d4ffbc119',extremes,Storm,#b3b2b1,wmo,tempesta friuli venezia giulia,2026-07-14T05:14:00+00:00,Italy,0.5919648917322721,0,1,it,MED,Europe
 '7ce1c7450c',extremes,Heat Wave,#c40202,wmo,ondata di caldo sicilia,2026-06-14T07:07:00+00:00,Italy,0.5891321861032863,2,2,it,MED,Europe
 '9b6136ffec',extremes,Heat Wave,#c40202,wmo,ondata di caldo umbria,2026-06-18T07:16:00+00:00,Italy,0.5880765975335341,2,2,it,MED,Europe
 'd90bfca4a4',extremes,Storm,#b3b2b1,wmo,tempesta sardegna,2026-07-02T06:24:00+00:00,Italy,0.587863659807322,0,1,it,MED,Europe
@@ -23,6 +29,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '02711610b5',extremes,Storm,#b3b2b1,wmo,tempesta argentina,2026-06-26T06:36:00+00:00,Argentina,0.5716624076168487,1,1,it,SES,South-America
 '98067269b6',extremes,Heat Wave,#c40202,wmo,ondata di caldo piemonte,2026-06-18T07:16:00+00:00,Italy,0.5670282282134606,1,1,it,MED,Europe
 '507412aefc',extremes,Storm,#b3b2b1,wmo,tempesta italia,2026-06-02T07:08:00+00:00,Italy,0.5664969148863008,1,2,it,MED,Europe
+'bb9ac4cdb7',extremes,Precipitation,#d60d2b,wmo,acquazzone trentino alto adige,2026-07-14T05:14:00+00:00,Italy,0.5662470535440344,0,1,it,MED,Europe
 '25e89c2734',extremes,Thunderstorm,#53785a,wmo,salve toscana,2026-06-21T07:16:00+00:00,Italy,0.5649549161021921,1,1,it,MED,Europe
 '6c6666b2af',extremes,Precipitation,#d60d2b,wmo,precipitazioni argentina,2026-06-18T07:16:00+00:00,Argentina,0.5644615668440263,2,2,it,SES,South-America
 '99a9404d72',extremes,Drought,#edc291,edo,periodo di siccità italia,2026-06-22T08:39:00+00:00,Italy,0.5619466095415162,1,1,it,MED,Europe
@@ -32,6 +39,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ad1d094d2b',extremes,Thunderstorm,#53785a,wmo,grandine sardegna,2026-07-01T06:52:00+00:00,Italy,0.5545869726364795,2,2,it,MED,Europe
 '57d748873a',extremes,Precipitation,#d60d2b,wmo,pioggia trentino alto adige,2026-06-09T06:32:00+00:00,Italy,0.5540264186764051,1,2,it,MED,Europe
 'b6c9b0cd21',extremes,Thunderstorm,#53785a,wmo,maltempo valle d'aosta,2026-06-19T07:39:00+00:00,Italy,0.5522275990704444,1,2,it,MED,Europe
+'c60253873f',extremes,Precipitation,#d60d2b,wmo,acquazzone lombardia,2026-07-14T05:14:00+00:00,Italy,0.5504413373660145,0,1,it,MED,Europe
 '50de04165f',extremes,Thunderstorm,#53785a,wmo,temporalesco marchigiano,2026-07-06T06:52:00+00:00,Italy,0.5492631743339993,1,1,it,MED,Europe
 '572704ba2e',extremes,Thunderstorm,#53785a,wmo,temporale lombardia,2026-05-31T06:40:00+00:00,Italy,0.5465907782745022,1,2,it,MED,Europe
 '0ad538a863',extremes,Heat Wave,#c40202,wmo,ondata di caldo in svizzera,2026-06-17T07:33:00+00:00,Switzerland,0.5419400244391158,2,2,it,WCE,Europe
