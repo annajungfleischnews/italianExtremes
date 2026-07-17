@@ -1,5 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'51f6808ed3',extremes,Thunderstorm,#53785a,wmo,temporale liguria,2026-07-14T05:14:00+00:00,Italy,0.6605217176296208,1,2,it,MED,Europe
 '0e11501646',extremes,Storm,#b3b2b1,wmo,tempesta emilia e romagna,2026-06-29T07:13:00+00:00,Italy,0.6585843713373157,1,2,it,MED,Europe
 '3d4ffbc119',extremes,Storm,#b3b2b1,wmo,tempesta friuli venezia giulia,2026-07-14T05:14:00+00:00,Italy,0.6533201729724313,1,2,it,MED,Europe
 'e9be999d01',extremes,Thunderstorm,#53785a,wmo,grandine calabria,2026-06-24T06:30:00+00:00,Italy,0.6504804731532696,2,2,it,MED,Europe
@@ -29,6 +28,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6c6666b2af',extremes,Precipitation,#d60d2b,wmo,precipitazioni argentina,2026-06-18T07:16:00+00:00,Argentina,0.5644615668440263,2,2,it,SES,South-America
 '60031a8fb9',extremes,Thunderstorm,#53785a,wmo,grandine friuli venezia giulia,2026-07-14T05:14:00+00:00,Italy,0.5629672509244178,1,2,it,MED,Europe
 '99a9404d72',extremes,Drought,#edc291,edo,periodo di siccità italia,2026-06-22T08:39:00+00:00,Italy,0.5619466095415162,1,1,it,MED,Europe
+'51f6808ed3',extremes,Thunderstorm,#53785a,wmo,temporale liguria,2026-07-14T05:14:00+00:00,Italy,0.5614435949851776,2,1,it,MED,Europe
 'b863d00f22',extremes,Drought,#edc291,edo,siccità italia,2026-06-28T06:44:00+00:00,Italy,0.560825951102411,1,3,it,MED,Europe
 '7b5b3b8ad8',extremes,Storm,#b3b2b1,wmo,temporale trentino alto adige,2026-06-08T07:13:00+00:00,Italy,0.5607849810972496,2,2,it,MED,Europe
 'da7d718400',extremes,Thunderstorm,#53785a,wmo,temporale pugliese,2026-07-01T06:52:00+00:00,Italy,0.5573276135237534,1,2,it,MED,Europe
@@ -41,7 +41,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0ad538a863',extremes,Heat Wave,#c40202,wmo,ondata di caldo in svizzera,2026-06-17T07:33:00+00:00,Switzerland,0.5419400244391158,2,2,it,WCE,Europe
 '32e74ad8ff',extremes,Heat Wave,#c40202,wmo,ondata di caldo molisano,2026-07-08T05:37:00+00:00,Italy,0.5413114528018174,1,1,it,MED,Europe
 '5f8d35147a',extremes,Heat Wave,#c40202,wmo,ondata di caldo abruzzo,2026-07-08T05:37:00+00:00,Italy,0.5400642439350203,1,1,it,MED,Europe
-'7685a9c1a1',extremes,Storm,#b3b2b1,wmo,mareggiata trentino alto adige,2026-07-11T05:27:00+00:00,Italy,0.5339689960835915,1,1,it,MED,Europe
 '78021233b7',extremes,Heat Wave,#c40202,wmo,ondata di caldo toscana,2026-06-17T07:33:00+00:00,Italy,0.5320867055048268,2,1,it,MED,Europe
 '997a2e2157',extremes,Earthquake,#870007,usgs,terremoto argentina,2026-06-27T06:08:00+00:00,Argentina,0.5303411266917336,1,1,it,SES,South-America
 'd464543475',extremes,Heat Wave,#c40202,wmo,ondata di caldo lazio,2026-06-18T07:16:00+00:00,Italy,0.5289977761851851,2,1,it,MED,Europe
@@ -199,7 +198,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '925c8e1c57',extremes,Thunderstorm,#53785a,wmo,maltempo lombardia,2026-07-16T05:25:00+00:00,Italy,0.4579830649048776,0,1,it,MED,Europe
 '9cf1d947d6',extremes,Heat Wave,#c40202,wmo,ondata di caldo friuli venezia giulia,2026-06-21T07:16:00+00:00,Italy,0.4555167502811814,2,1,it,MED,Europe
 'a68fadbbf5',extremes,Drought,#edc291,edo,siccità svizzera,2026-06-12T07:05:00+00:00,Switzerland,0.4554581710837199,1,1,it,WCE,Europe
-'f58a7f1229',extremes,Precipitation,#d60d2b,wmo,pioggia svizzera,2026-07-01T06:52:00+00:00,Switzerland,0.4554064567661099,0,1,it,WCE,Europe
+'7685a9c1a1',extremes,Storm,#b3b2b1,wmo,mareggiata trentino alto adige,2026-07-11T05:27:00+00:00,Italy,0.45387364667105273,2,1,it,MED,Europe
 '740ea7b0aa',extremes,Heat Wave,#c40202,wmo,ondata di caldo obersimmental,2026-06-18T07:16:00+00:00,Switzerland,0.4525158162456633,1,1,it,WCE,Europe
 '56da66adf9',extremes,Thunderstorm,#53785a,wmo,maltempo Basilicata,2026-06-16T08:27:00+00:00,Italy,0.4509304295887089,1,1,it,MED,Europe
 '45278c4de3',extremes,Drought,#edc291,edo,periodo di siccità in Somalia,2026-06-13T06:38:00+00:00,Somalia,0.4507720775301588,1,1,it,NEAF,Africa
@@ -288,9 +287,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f032d51644',extremes,Thunderstorm,#53785a,wmo,forte tempo goldau ägeri,2026-07-15T05:15:00+00:00,Switzerland,0.4101504268147769,1,1,it,WCE,Europe
 '2acf700cee',extremes,Storm,#b3b2b1,wmo,mareggiata albulatale,2026-07-15T05:15:00+00:00,Switzerland,0.4075560816093357,1,1,it,WCE,Europe
 'b61425b9f1',extremes,Thunderstorm,#53785a,wmo,temporale olten gösgen,2026-07-15T05:15:00+00:00,Switzerland,0.407368652995522,1,1,it,WCE,Europe
-'dbd187ded6',extremes,Thunderstorm,#53785a,wmo,maltempo brigels,2026-07-15T05:15:00+00:00,Switzerland,0.40721492084706074,1,1,it,WCE,Europe
+'dbd187ded6',extremes,Thunderstorm,#53785a,wmo,maltempo brigels,2026-07-15T05:15:00+00:00,Switzerland,0.4072149208470607,1,1,it,WCE,Europe
 'c2c5933c65',extremes,Thunderstorm,#53785a,wmo,grandine muotathal,2026-07-01T06:52:00+00:00,Switzerland,0.4066427011945929,1,1,it,WCE,Europe
 '19fac590f8',extremes,Thunderstorm,#53785a,wmo,maltempo molisano,2026-07-09T06:27:00+00:00,Italy,0.4065554209512576,1,1,it,MED,Europe
+'f58a7f1229',extremes,Precipitation,#d60d2b,wmo,pioggia svizzera,2026-07-01T06:52:00+00:00,Switzerland,0.4064624249178601,1,1,it,WCE,Europe
 '20cf93a43c',extremes,Storm,#b3b2b1,wmo,tempesta lugnez valsertal,2026-07-01T06:52:00+00:00,Switzerland,0.4060050187808033,1,1,it,WCE,Europe
 '20b3c1ad26',extremes,Storm,#b3b2b1,wmo,mareggiata huttwil willisau,2026-07-01T06:52:00+00:00,Switzerland,0.4056543676255788,1,1,it,WCE,Europe
 'da505455fb',extremes,Thunderstorm,#53785a,wmo,temporale sicilia,2026-06-22T08:39:00+00:00,Italy,0.4052866013958216,1,1,it,MED,Europe
@@ -362,11 +362,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e33b8aa5a4',extremes,Thunderstorm,#53785a,wmo,grandine frutigen kental,2026-07-01T06:52:00+00:00,Switzerland,0.3765033602551607,0,1,it,WCE,Europe
 '9cb8d8900f',extremes,Precipitation,#d60d2b,wmo,precipitazioni st.gallen rorschach,2026-07-01T06:52:00+00:00,Switzerland,0.3759571580616154,1,1,it,WCE,Europe
 'f9a3abc8c2',extremes,Landslide,#572c03,random,colata di fango,2026-07-13T05:53:00+00:00,,0.3758937770252673,0,1,it,,
-'41da126106',extremes,Precipitation,#d60d2b,wmo,pioggia torrenziale muotathal,2026-07-01T06:52:00+00:00,Switzerland,0.3744789410342616,1,1,it,WCE,Europe
 '489b76ee61',extremes,Thunderstorm,#53785a,wmo,grandine obersimmental,2026-07-01T06:52:00+00:00,Switzerland,0.3737181130393081,0,1,it,WCE,Europe
 '18788a2839',extremes,Precipitation,#d60d2b,wmo,pioggia torrenziale langnau eggiwil,2026-07-01T06:52:00+00:00,Switzerland,0.3734847569605072,1,1,it,WCE,Europe
 '76229c9233',extremes,Thunderstorm,#53785a,wmo,grandine laufental,2026-07-01T06:52:00+00:00,Switzerland,0.3725457256242845,0,1,it,WCE,Europe
-'0b8f5a0e51',extremes,Iceberg,#d60d2b,random,iceberg dell'Antartide,2026-06-26T06:35:00+00:00,,0.3724266989941714,0,1,it,,
 '4f33177225',extremes,Thunderstorm,#53785a,wmo,senso di maltempo berna,2026-07-01T06:52:00+00:00,Switzerland,0.3722920720502828,0,1,it,WCE,Europe
 '986e8cd808',extremes,Thunderstorm,#53785a,wmo,forte tempo niedersimmental,2026-07-01T06:52:00+00:00,Switzerland,0.3710926718926298,0,1,it,WCE,Europe
 'b55290ca0d',extremes,Drought,#edc291,edo,siccità argentina,2026-07-07T06:30:00+00:00,Argentina,0.3709770329926267,1,1,it,SES,South-America
@@ -419,9 +417,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9aceadd432',extremes,Heat Wave,#c40202,random,caldo record,2026-07-14T05:14:00+00:00,,0.3218331095844046,0,1,it,,
 'f4e1bf0fdf',extremes,Flood,#030ba1,random,epidemia di laghi glaciali,2026-07-02T06:23:00+00:00,,0.3199009295456448,0,1,it,,
 '845dd2d698',extremes,Storm,#b3b2b1,random,tornado,2026-07-07T06:30:00+00:00,,0.3192716333762291,0,1,it,,
+'41da126106',extremes,Precipitation,#d60d2b,wmo,pioggia torrenziale muotathal,2026-07-01T06:52:00+00:00,Switzerland,0.31830709987912237,2,1,it,WCE,Europe
 'd306e1819b',extremes,Iceberg,#d60d2b,eonet,iceberg d33a,2026-06-24T06:29:00+00:00,,0.3177282142465205,0,1,it,EAN,
 'c036822c6f',extremes,Wildfire,#d60d2b,acwe,incendio victoria,2026-07-04T05:59:00+00:00,Australia,0.3176040838071118,0,1,it,SAU,Oceania
 '0642c90e96',extremes,Iceberg,#d60d2b,eonet,iceberg b22f,2026-06-24T06:29:00+00:00,Antarctica,0.3170366054315546,0,1,it,WAN,Antarctica
+'0b8f5a0e51',extremes,Iceberg,#d60d2b,random,iceberg dell'Antartide,2026-06-26T06:35:00+00:00,,0.3165626941450457,1,1,it,,
 'b87a41f64c',extremes,Iceberg,#d60d2b,eonet,iceberg a76c,2026-06-24T06:29:00+00:00,Antarctica,0.3160494325111736,0,1,it,WAN,Antarctica
 '10fd2d8d46',extremes,Iceberg,#d60d2b,eonet,iceberg a81,2026-06-24T06:29:00+00:00,Antarctica,0.3159814968609215,0,1,it,EAN,Antarctica
 '87931b9f82',extremes,Landslide,#572c03,aidr,colata di fango in Australia,2026-06-27T06:09:00+00:00,Australia,0.3153357645281435,0,1,it,EAU,Oceania
