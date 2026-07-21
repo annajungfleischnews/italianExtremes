@@ -1,6 +1,7 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 'b4a448711b',extremes,Heat Wave,#c40202,wmo,ondata di caldo italia,2026-06-30T06:39:00+00:00,Italy,0.7197854295532098,3,3,it,MED,Europe
 '507412aefc',extremes,Storm,#b3b2b1,wmo,tempesta italia,2026-07-15T05:15:00+00:00,Italy,0.7096199199324089,1,3,it,MED,Europe
+'540c976e59',extremes,Heat Wave,#c40202,wmo,ondata di caldo sardegna,2026-07-08T05:37:00+00:00,Italy,0.6588832841098734,0,1,it,MED,Europe
 '0e11501646',extremes,Storm,#b3b2b1,wmo,tempesta emilia e romagna,2026-06-29T07:13:00+00:00,Italy,0.6585843713373157,1,2,it,MED,Europe
 '3d4ffbc119',extremes,Storm,#b3b2b1,wmo,tempesta friuli venezia giulia,2026-07-14T05:14:00+00:00,Italy,0.6533201729724313,1,2,it,MED,Europe
 'e9be999d01',extremes,Thunderstorm,#53785a,wmo,grandine calabria,2026-06-24T06:30:00+00:00,Italy,0.6504804731532696,2,2,it,MED,Europe
@@ -9,6 +10,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f14331b9f6',extremes,Thunderstorm,#53785a,wmo,maltempo calabria,2026-06-16T08:27:00+00:00,Italy,0.6314238544690454,1,2,it,MED,Europe
 '8e5338dae6',extremes,Thunderstorm,#53785a,wmo,salve italia,2026-06-26T06:36:00+00:00,Italy,0.6258257987560053,2,2,it,MED,Europe
 'c0e18437c9',extremes,Snow&Ice,#d60d2b,wmo,gelo italia,2026-06-23T06:33:00+00:00,Italy,0.6253348502401703,1,2,it,MED,Europe
+'589d0558b8',extremes,Snow&Ice,#d60d2b,wmo,neve argentina,2026-07-07T06:30:00+00:00,Argentina,0.6162938187839266,0,1,it,SES,South-America
 'a68fadbbf5',extremes,Drought,#edc291,edo,siccità svizzera,2026-07-04T05:59:00+00:00,Switzerland,0.615134606616892,1,2,it,WCE,Europe
 '27ecdd832f',extremes,Heat Wave,#c40202,wmo,ondata di caldo emilia e romagna,2026-06-18T07:16:00+00:00,Italy,0.6050636969111618,1,1,it,MED,Europe
 '819f6fe0b0',extremes,Heat Wave,#c40202,wmo,ondata di caldo lombardia,2026-06-17T07:33:00+00:00,Italy,0.6049101606128852,1,1,it,MED,Europe
@@ -25,6 +27,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'cb15bc1996',extremes,Heat Wave,#c40202,wmo,ondata di caldo puglia,2026-06-25T06:32:00+00:00,Italy,0.5752039040995228,1,1,it,MED,Europe
 '02711610b5',extremes,Storm,#b3b2b1,wmo,tempesta argentina,2026-06-26T06:36:00+00:00,Argentina,0.5716624076168487,1,1,it,SES,South-America
 '98067269b6',extremes,Heat Wave,#c40202,wmo,ondata di caldo piemonte,2026-06-18T07:16:00+00:00,Italy,0.5670282282134606,1,1,it,MED,Europe
+'45278c4de3',extremes,Drought,#edc291,edo,periodo di siccità in Somalia,2026-07-12T05:43:00+00:00,Somalia,0.5657235841897169,0,1,it,NEAF,Africa
 '25e89c2734',extremes,Thunderstorm,#53785a,wmo,salve toscana,2026-06-21T07:16:00+00:00,Italy,0.5649549161021921,1,1,it,MED,Europe
 '6c6666b2af',extremes,Precipitation,#d60d2b,wmo,precipitazioni argentina,2026-06-18T07:16:00+00:00,Argentina,0.5644615668440263,2,2,it,SES,South-America
 '60031a8fb9',extremes,Thunderstorm,#53785a,wmo,grandine friuli venezia giulia,2026-07-14T05:14:00+00:00,Italy,0.5629672509244178,1,2,it,MED,Europe
@@ -76,6 +79,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5eae3aed3f',extremes,Thunderstorm,#53785a,wmo,grandine basilicata,2026-06-29T07:13:00+00:00,Italy,0.5056723547547561,2,1,it,MED,Europe
 'a4f740835f',extremes,Storm,#b3b2b1,wmo,tempesta piemontese,2026-06-27T06:08:00+00:00,Italy,0.5050064540763431,1,1,it,MED,Europe
 '30b7b41a32',extremes,Storm,#b3b2b1,wmo,mareggiata marcia,2026-06-30T06:39:00+00:00,Italy,0.5046579265571418,1,1,it,MED,Europe
+'d7ca6f870f',extremes,Thunderstorm,#53785a,wmo,forte tempo bellinzonese,2026-07-21T05:36:00+00:00,Switzerland,0.5043216441499053,0,1,it,WCE,Europe
 'cd04e0e60c',extremes,Heat Wave,#c40202,wmo,ondata di caldo lötschental naters,2026-06-20T06:47:00+00:00,Switzerland,0.502434493680972,1,1,it,WCE,Europe
 '4b03494102',extremes,Heat Wave,#c40202,wmo,ondata di caldo delémont bellelay,2026-06-17T07:33:00+00:00,Switzerland,0.5019980768925082,1,1,it,WCE,Europe
 'd5e5e0e53d',extremes,Heat Wave,#c40202,wmo,ondata di caldo basse groviera,2026-06-17T07:33:00+00:00,Switzerland,0.5019715307254623,1,1,it,WCE,Europe
@@ -421,15 +425,19 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3654676c51',extremes,Thunderstorm,#53785a,wmo,temporale effretikon,2026-07-17T05:27:00+00:00,Switzerland,0.3656551127505623,0,1,it,WCE,Europe
 'd36feac4de',extremes,Precipitation,#d60d2b,wmo,pioggia torrenziale Werdenberg,2026-07-01T06:52:00+00:00,Switzerland,0.3651670496128931,1,1,it,WCE,Europe
 '5e83ae49e2',extremes,Thunderstorm,#53785a,wmo,temporale zofingen triengen,2026-07-17T05:27:00+00:00,Switzerland,0.3650407496864475,0,1,it,WCE,Europe
+'538eadceb4',extremes,Heat Wave,#c40202,random,inverno mite,2026-07-20T05:54:00+00:00,,0.36503768375828716,0,1,it,,
 'b4ba3c3a5b',extremes,Precipitation,#d60d2b,wmo,precipitazioni schangnau sigriswil,2026-07-01T06:52:00+00:00,Switzerland,0.3649525629837259,1,1,it,WCE,Europe
+'e0755238dd',extremes,Thunderstorm,#53785a,wmo,grandine wohlen albis,2026-07-15T05:15:00+00:00,Switzerland,0.36463103894912746,0,1,it,WCE,Europe
 '0d99295f2f',extremes,Drought,#edc291,edo,mancanza di pioggia somalia,2026-06-29T07:13:00+00:00,Somalia,0.364181237969305,1,1,it,NEAF,Africa
+'91f910fa28',extremes,Thunderstorm,#53785a,wmo,temporale st. stephan lenk,2026-07-17T05:27:00+00:00,Switzerland,0.36413771404374884,0,1,it,WCE,Europe
+'699533932c',extremes,Thunderstorm,#53785a,wmo,forte maltempo kerenzerberg seeztal,2026-07-15T05:15:00+00:00,Switzerland,0.36404806710656973,0,1,it,WCE,Europe
 'deaa4b70a0',extremes,Storm,#b3b2b1,random,tempesta di sabbia,2026-07-03T06:09:00+00:00,,0.363542665819645,0,1,it,,
 '0a8e5743d9',extremes,Landslide,#572c03,random,frana,2026-07-06T06:52:00+00:00,,0.3634832603116336,0,1,it,,
 'ce37661cdd',extremes,Cold Wave,#a7e9fa,random,giorno più freddo,2026-07-08T05:37:00+00:00,,0.3632367246809546,1,2,it,,
 '35cc9cbf75',extremes,Precipitation,#d60d2b,random,pioggia torrenziale,2026-06-29T07:12:00+00:00,,0.3631866643091749,1,1,it,,
 'e8b8cff6fc',extremes,Precipitation,#d60d2b,wmo,precipitazioni wädenswil rüti,2026-07-01T06:52:00+00:00,Switzerland,0.3630740996145863,1,1,it,WCE,Europe
 'fbf7b23074',extremes,Precipitation,#d60d2b,wmo,acquazzone glarus süd grosstal,2026-07-01T06:52:00+00:00,Switzerland,0.3615359069386374,1,1,it,WCE,Europe
-'d2b5043a66',extremes,Cold Wave,#a7e9fa,random,temperatura minima più bassa,2026-06-25T06:32:00+00:00,,0.36145333118254486,1,1,it,,
+'d2b5043a66',extremes,Cold Wave,#a7e9fa,random,temperatura minima più bassa,2026-06-25T06:32:00+00:00,,0.3614533311825448,1,1,it,,
 '3c309ee7c5',extremes,Flood,#030ba1,aidr,pioggia torrenziale svizzera,2026-07-09T06:28:00+00:00,Switzerland,0.3598041743316127,0,1,it,WCE,Europe
 '45500dcb47',extremes,Precipitation,#d60d2b,random,precipitazioni record,2026-07-05T06:24:00+00:00,,0.3593703227983842,0,1,it,,
 '74184858b2',extremes,Precipitation,#d60d2b,wmo,pioggia torrenziale kerenzerberg seeztal,2026-07-01T06:52:00+00:00,Switzerland,0.3586055626709559,1,1,it,WCE,Europe
@@ -448,7 +456,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '078adfde63',extremes,Thunderstorm,#53785a,wmo,maltempo svizzera,2026-07-01T06:52:00+00:00,Switzerland,0.3410743562022048,1,1,it,WCE,Europe
 'c0ea0632ba',extremes,Heat Wave,#c40202,random,caldo,2026-07-06T06:52:00+00:00,,0.3380330567639508,0,1,it,,
 '283b154c38',extremes,Wet Spell,#d60d2b,random,periodo umido,2026-07-13T05:53:00+00:00,,0.3377343370635751,0,1,it,,
-'e0f14a84be',extremes,Tropical Cyclone,#4f4f4f,random,centro nazionale degli uragani,2026-06-18T07:16:00+00:00,,0.33656218081329814,1,1,it,,
+'e0f14a84be',extremes,Tropical Cyclone,#4f4f4f,random,centro nazionale degli uragani,2026-06-18T07:16:00+00:00,,0.3365621808132981,1,1,it,,
 '8a1a9038c3',extremes,Storm,#b3b2b1,random,bufera di neve,2026-07-05T06:24:00+00:00,,0.3349572219878221,0,1,it,,
 '8447ef896b',extremes,Snow&Ice,#d60d2b,random,fanghiglia di neve,2026-06-27T06:08:00+00:00,,0.3344678764312723,0,1,it,,
 '5b9a300a13',extremes,Flood,#030ba1,aidr,inondazione della svizzera,2026-07-02T06:24:00+00:00,Switzerland,0.3342111783595121,0,1,it,WCE,Europe
