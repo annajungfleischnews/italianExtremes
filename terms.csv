@@ -1,12 +1,12 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 'b4a448711b',extremes,Heat Wave,#c40202,wmo,ondata di caldo italia,2026-06-30T06:39:00+00:00,Italy,0.7197854295532098,3,3,it,MED,Europe
 '507412aefc',extremes,Storm,#b3b2b1,wmo,tempesta italia,2026-07-15T05:15:00+00:00,Italy,0.7096199199324089,1,3,it,MED,Europe
-'540c976e59',extremes,Heat Wave,#c40202,wmo,ondata di caldo sardegna,2026-07-08T05:37:00+00:00,Italy,0.6588832841098734,0,1,it,MED,Europe
 '0e11501646',extremes,Storm,#b3b2b1,wmo,tempesta emilia e romagna,2026-06-29T07:13:00+00:00,Italy,0.6585843713373157,1,2,it,MED,Europe
 '3d4ffbc119',extremes,Storm,#b3b2b1,wmo,tempesta friuli venezia giulia,2026-07-14T05:14:00+00:00,Italy,0.6533201729724313,1,2,it,MED,Europe
 'e9be999d01',extremes,Thunderstorm,#53785a,wmo,grandine calabria,2026-06-24T06:30:00+00:00,Italy,0.6504804731532696,2,2,it,MED,Europe
 'd90bfca4a4',extremes,Storm,#b3b2b1,wmo,tempesta sardegna,2026-07-02T06:24:00+00:00,Italy,0.6498341258362237,1,2,it,MED,Europe
 '5bf34f285a',extremes,Earthquake,#870007,usgs,terremoto italia,2026-06-12T07:05:00+00:00,Italy,0.6355455892839332,5,3,it,MED,Europe
+'540c976e59',extremes,Heat Wave,#c40202,wmo,ondata di caldo sardegna,2026-07-08T05:37:00+00:00,Italy,0.6331836146752106,1,2,it,MED,Europe
 'f14331b9f6',extremes,Thunderstorm,#53785a,wmo,maltempo calabria,2026-06-16T08:27:00+00:00,Italy,0.6314238544690454,1,2,it,MED,Europe
 '8e5338dae6',extremes,Thunderstorm,#53785a,wmo,salve italia,2026-06-26T06:36:00+00:00,Italy,0.6258257987560053,2,2,it,MED,Europe
 'c0e18437c9',extremes,Snow&Ice,#d60d2b,wmo,gelo italia,2026-06-23T06:33:00+00:00,Italy,0.6253348502401703,1,2,it,MED,Europe
@@ -425,12 +425,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3654676c51',extremes,Thunderstorm,#53785a,wmo,temporale effretikon,2026-07-17T05:27:00+00:00,Switzerland,0.3656551127505623,0,1,it,WCE,Europe
 'd36feac4de',extremes,Precipitation,#d60d2b,wmo,pioggia torrenziale Werdenberg,2026-07-01T06:52:00+00:00,Switzerland,0.3651670496128931,1,1,it,WCE,Europe
 '5e83ae49e2',extremes,Thunderstorm,#53785a,wmo,temporale zofingen triengen,2026-07-17T05:27:00+00:00,Switzerland,0.3650407496864475,0,1,it,WCE,Europe
-'538eadceb4',extremes,Heat Wave,#c40202,random,inverno mite,2026-07-20T05:54:00+00:00,,0.36503768375828716,0,1,it,,
+'538eadceb4',extremes,Heat Wave,#c40202,random,inverno mite,2026-07-20T05:54:00+00:00,,0.3650376837582871,0,1,it,,
 'b4ba3c3a5b',extremes,Precipitation,#d60d2b,wmo,precipitazioni schangnau sigriswil,2026-07-01T06:52:00+00:00,Switzerland,0.3649525629837259,1,1,it,WCE,Europe
-'e0755238dd',extremes,Thunderstorm,#53785a,wmo,grandine wohlen albis,2026-07-15T05:15:00+00:00,Switzerland,0.36463103894912746,0,1,it,WCE,Europe
+'e0755238dd',extremes,Thunderstorm,#53785a,wmo,grandine wohlen albis,2026-07-15T05:15:00+00:00,Switzerland,0.3646310389491274,0,1,it,WCE,Europe
 '0d99295f2f',extremes,Drought,#edc291,edo,mancanza di pioggia somalia,2026-06-29T07:13:00+00:00,Somalia,0.364181237969305,1,1,it,NEAF,Africa
-'91f910fa28',extremes,Thunderstorm,#53785a,wmo,temporale st. stephan lenk,2026-07-17T05:27:00+00:00,Switzerland,0.36413771404374884,0,1,it,WCE,Europe
-'699533932c',extremes,Thunderstorm,#53785a,wmo,forte maltempo kerenzerberg seeztal,2026-07-15T05:15:00+00:00,Switzerland,0.36404806710656973,0,1,it,WCE,Europe
+'91f910fa28',extremes,Thunderstorm,#53785a,wmo,temporale st. stephan lenk,2026-07-17T05:27:00+00:00,Switzerland,0.3641377140437488,0,1,it,WCE,Europe
+'699533932c',extremes,Thunderstorm,#53785a,wmo,forte maltempo kerenzerberg seeztal,2026-07-15T05:15:00+00:00,Switzerland,0.3640480671065697,0,1,it,WCE,Europe
 'deaa4b70a0',extremes,Storm,#b3b2b1,random,tempesta di sabbia,2026-07-03T06:09:00+00:00,,0.363542665819645,0,1,it,,
 '0a8e5743d9',extremes,Landslide,#572c03,random,frana,2026-07-06T06:52:00+00:00,,0.3634832603116336,0,1,it,,
 'ce37661cdd',extremes,Cold Wave,#a7e9fa,random,giorno più freddo,2026-07-08T05:37:00+00:00,,0.3632367246809546,1,2,it,,
