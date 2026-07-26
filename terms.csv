@@ -13,7 +13,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5bf34f285a',extremes,Earthquake,#870007,usgs,terremoto italia,2026-06-12T07:05:00+00:00,Italy,0.6355455892839332,5,3,it,MED,Europe
 '4495d1fc35',extremes,Thunderstorm,#53785a,wmo,maltempo friuli venezia giulia,2026-07-10T06:27:00+00:00,Italy,0.6339931424969548,0,1,it,MED,Europe
 '540c976e59',extremes,Heat Wave,#c40202,wmo,ondata di caldo sardegna,2026-07-08T05:37:00+00:00,Italy,0.6331836146752106,1,2,it,MED,Europe
-'c985419a7b',extremes,Thunderstorm,#53785a,wmo,tempo forte umbria,2026-07-25T05:29:00+00:00,Italy,0.6315422684686185,0,1,it,MED,Europe
 'f14331b9f6',extremes,Thunderstorm,#53785a,wmo,maltempo calabria,2026-06-16T08:27:00+00:00,Italy,0.6314238544690454,1,2,it,MED,Europe
 '8e5338dae6',extremes,Thunderstorm,#53785a,wmo,salve italia,2026-06-26T06:36:00+00:00,Italy,0.6258257987560053,2,2,it,MED,Europe
 'c0e18437c9',extremes,Snow&Ice,#d60d2b,wmo,gelo italia,2026-06-23T06:33:00+00:00,Italy,0.6253348502401703,1,2,it,MED,Europe
@@ -40,6 +39,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '98067269b6',extremes,Heat Wave,#c40202,wmo,ondata di caldo piemonte,2026-06-18T07:16:00+00:00,Italy,0.5670282282134606,1,1,it,MED,Europe
 '25e89c2734',extremes,Thunderstorm,#53785a,wmo,salve toscana,2026-06-21T07:16:00+00:00,Italy,0.5649549161021921,1,1,it,MED,Europe
 '6c6666b2af',extremes,Precipitation,#d60d2b,wmo,precipitazioni argentina,2026-06-18T07:16:00+00:00,Argentina,0.5644615668440263,2,2,it,SES,South-America
+'c985419a7b',extremes,Thunderstorm,#53785a,wmo,tempo forte umbria,2026-07-25T05:29:00+00:00,Italy,0.5636111081983256,1,1,it,MED,Europe
 '60031a8fb9',extremes,Thunderstorm,#53785a,wmo,grandine friuli venezia giulia,2026-07-14T05:14:00+00:00,Italy,0.5629672509244178,1,2,it,MED,Europe
 '99a9404d72',extremes,Drought,#edc291,edo,periodo di siccità italia,2026-06-22T08:39:00+00:00,Italy,0.5619466095415162,1,1,it,MED,Europe
 '51f6808ed3',extremes,Thunderstorm,#53785a,wmo,temporale liguria,2026-07-14T05:14:00+00:00,Italy,0.5614435949851776,2,1,it,MED,Europe
