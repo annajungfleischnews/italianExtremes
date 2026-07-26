@@ -20,18 +20,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '16664cc668',extremes,Heat Wave,#c40202,wmo,ondata di caldo verzasca,2026-07-08T05:37:00+00:00,Switzerland,0.606117112222405,0,1,it,WCE,Europe
 '27ecdd832f',extremes,Heat Wave,#c40202,wmo,ondata di caldo emilia e romagna,2026-06-18T07:16:00+00:00,Italy,0.6050636969111618,1,1,it,MED,Europe
 '819f6fe0b0',extremes,Heat Wave,#c40202,wmo,ondata di caldo lombardia,2026-06-17T07:33:00+00:00,Italy,0.6049101606128852,1,1,it,MED,Europe
-'d5e5e0e53d',extremes,Heat Wave,#c40202,wmo,ondata di caldo basse groviera,2026-07-11T05:27:00+00:00,Switzerland,0.6021480741910227,0,1,it,WCE,Europe
 'e86bb6f3ad',extremes,Heat Wave,#c40202,wmo,ondata di caldo aarau lenzburg,2026-07-09T06:27:00+00:00,Switzerland,0.602062945843478,0,1,it,WCE,Europe
 '572704ba2e',extremes,Thunderstorm,#53785a,wmo,temporale lombardia,2026-07-14T05:14:00+00:00,Italy,0.6008461121283016,1,2,it,MED,Europe
-'757cf38b46',extremes,Heat Wave,#c40202,wmo,ondata di caldo lausanne lavaux,2026-07-10T06:27:00+00:00,Switzerland,0.6001005947470797,0,1,it,WCE,Europe
-'0b0a5d6b0a',extremes,Heat Wave,#c40202,wmo,ondata di caldo franches montagnes,2026-07-12T05:43:00+00:00,Switzerland,0.5994894928699969,0,1,it,WCE,Europe
 'ddc0b2c2fb',extremes,Storm,#b3b2b1,wmo,mareggiata campania,2026-07-25T05:29:00+00:00,Italy,0.5992796859200119,0,1,it,MED,Europe
 'e529bb6ac5',extremes,Precipitation,#d60d2b,wmo,pioggia argentina,2026-06-18T07:16:00+00:00,Argentina,0.5988436105671591,2,2,it,SES,South-America
 'f9eb244a9a',extremes,Drought,#edc291,edo,mancanza di pioggia italia,2026-06-20T06:47:00+00:00,Italy,0.598790927824127,1,2,it,MED,Europe
-'6f8f50b514',extremes,Heat Wave,#c40202,wmo,ondata di caldo vispertal nanztal,2026-07-10T06:27:00+00:00,Switzerland,0.5984015552534305,0,1,it,WCE,Europe
 'e9f196dfee',extremes,Heat Wave,#c40202,wmo,ondata di caldo mendrisiotto,2026-07-09T06:27:00+00:00,Switzerland,0.5969130913402756,0,1,it,WCE,Europe
-'ed766fa753',extremes,Heat Wave,#c40202,wmo,ondata di caldo zurzach bülach,2026-07-08T05:37:00+00:00,Switzerland,0.5951419641102835,0,1,it,WCE,Europe
-'7dfe181d54',extremes,Heat Wave,#c40202,wmo,ondata di caldo sion crans montana,2026-07-08T05:37:00+00:00,Switzerland,0.5931601104950486,0,1,it,WCE,Europe
 'ff6ccdf11f',extremes,Precipitation,#d60d2b,wmo,piogge torrenziali veneto,2026-07-25T05:29:00+00:00,Italy,0.5912774878185119,1,2,it,MED,Europe
 '0c3d21da24',extremes,Precipitation,#d60d2b,wmo,acquazzone italia,2026-07-25T05:29:00+00:00,Italy,0.5896823107253296,0,1,it,MED,Europe
 '7ce1c7450c',extremes,Heat Wave,#c40202,wmo,ondata di caldo sicilia,2026-06-14T07:07:00+00:00,Italy,0.5891321861032863,2,2,it,MED,Europe
@@ -93,11 +87,15 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '213b1f3ceb',extremes,Heat Wave,#c40202,wmo,ondata di caldo limmattal,2026-07-09T06:27:00+00:00,Switzerland,0.5126382244220372,1,1,it,WCE,Europe
 'df19823d7f',extremes,Precipitation,#d60d2b,wmo,acquazzone valle d'aosta,2026-07-25T05:29:00+00:00,Italy,0.5124581013528897,1,1,it,MED,Europe
 '1fea4f642d',extremes,Storm,#b3b2b1,wmo,tempesta svizzera,2026-07-01T06:52:00+00:00,Switzerland,0.5120924803344363,2,1,it,WCE,Europe
+'d5e5e0e53d',extremes,Heat Wave,#c40202,wmo,ondata di caldo basse groviera,2026-07-11T05:27:00+00:00,Switzerland,0.5118258630623692,1,1,it,WCE,Europe
 '4b8a98e260',extremes,Heat Wave,#c40202,wmo,ondata di caldo glâne,2026-07-11T05:27:00+00:00,Switzerland,0.5115090694001436,1,1,it,WCE,Europe
 '8a67a1fe5c',extremes,Heat Wave,#c40202,wmo,ondata di caldo bex villars,2026-07-11T05:27:00+00:00,Switzerland,0.511020737970632,1,1,it,WCE,Europe
+'757cf38b46',extremes,Heat Wave,#c40202,wmo,ondata di caldo lausanne lavaux,2026-07-10T06:27:00+00:00,Switzerland,0.5100855055350177,1,1,it,WCE,Europe
 'b862f62894',extremes,Storm,#b3b2b1,wmo,mareggiata basilicata,2026-07-04T05:59:00+00:00,Italy,0.5099023260189545,1,1,it,MED,Europe
 '02328cb582',extremes,Heat Wave,#c40202,wmo,ondata di caldo murten kerzers,2026-07-08T05:37:00+00:00,Switzerland,0.509589017659733,1,1,it,WCE,Europe
+'0b0a5d6b0a',extremes,Heat Wave,#c40202,wmo,ondata di caldo franches montagnes,2026-07-12T05:43:00+00:00,Switzerland,0.5095660689394973,1,1,it,WCE,Europe
 '0f960d8a1a',extremes,Heat Wave,#c40202,wmo,ondata di caldo Sciaffusa,2026-07-15T05:15:00+00:00,Switzerland,0.5091609599510774,1,1,it,WCE,Europe
+'6f8f50b514',extremes,Heat Wave,#c40202,wmo,ondata di caldo vispertal nanztal,2026-07-10T06:27:00+00:00,Switzerland,0.5086413219654159,1,1,it,WCE,Europe
 '9d36efcb9c',extremes,Thunderstorm,#53785a,wmo,maltempo sicilia,2026-06-24T06:30:00+00:00,Italy,0.5086353776603244,2,2,it,MED,Europe
 '5d8c69af03',extremes,Heat Wave,#c40202,wmo,ondata di caldo vallon de saint imier,2026-07-09T06:27:00+00:00,Switzerland,0.5073900233935327,1,1,it,WCE,Europe
 'd4d8b57886',extremes,Storm,#b3b2b1,wmo,mareggiata sicilia,2026-07-24T05:36:00+00:00,Italy,0.5067038790905329,1,1,it,MED,Europe
@@ -105,10 +103,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5022ceabea',extremes,Storm,#b3b2b1,wmo,mareggiata abruzzo,2026-07-07T06:30:00+00:00,Italy,0.5061341036748515,1,1,it,MED,Europe
 '323f237847',extremes,Heat Wave,#c40202,wmo,ondata di caldo fribourg,2026-07-12T05:43:00+00:00,Switzerland,0.5059959309942624,1,1,it,WCE,Europe
 'c60253873f',extremes,Precipitation,#d60d2b,wmo,acquazzone lombardia,2026-07-14T05:14:00+00:00,Italy,0.5059751967611124,1,1,it,MED,Europe
+'ed766fa753',extremes,Heat Wave,#c40202,wmo,ondata di caldo zurzach bülach,2026-07-08T05:37:00+00:00,Switzerland,0.5058706694937409,1,1,it,WCE,Europe
 '1025c5d048',extremes,Heat Wave,#c40202,wmo,ondata di caldo veneto,2026-06-21T07:16:00+00:00,Italy,0.5056749965348827,2,1,it,MED,Europe
 '5eae3aed3f',extremes,Thunderstorm,#53785a,wmo,grandine basilicata,2026-06-29T07:13:00+00:00,Italy,0.5056723547547561,2,1,it,MED,Europe
 'a4f740835f',extremes,Storm,#b3b2b1,wmo,tempesta piemontese,2026-06-27T06:08:00+00:00,Italy,0.5050064540763431,1,1,it,MED,Europe
 '30b7b41a32',extremes,Storm,#b3b2b1,wmo,mareggiata marcia,2026-06-30T06:39:00+00:00,Italy,0.5046579265571418,1,1,it,MED,Europe
+'7dfe181d54',extremes,Heat Wave,#c40202,wmo,ondata di caldo sion crans montana,2026-07-08T05:37:00+00:00,Switzerland,0.5041860939207913,1,1,it,WCE,Europe
 '3caca873cf',extremes,Heat Wave,#c40202,wmo,ondata di caldo rheinfelden,2026-07-10T06:27:00+00:00,Switzerland,0.5035209753060537,1,1,it,WCE,Europe
 'cd04e0e60c',extremes,Heat Wave,#c40202,wmo,ondata di caldo lötschental naters,2026-06-20T06:47:00+00:00,Switzerland,0.502434493680972,1,1,it,WCE,Europe
 'c08bb125c4',extremes,Heat Wave,#c40202,wmo,ondata di caldo estavayer cudrefin,2026-07-12T05:43:00+00:00,Switzerland,0.5022308600799971,1,1,it,WCE,Europe
@@ -187,6 +187,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a85598b6d2',extremes,Heat Wave,#c40202,wmo,ondata di caldo wohlen albis,2026-06-19T07:39:00+00:00,Switzerland,0.4782429057120845,1,1,it,WCE,Europe
 '33c63ac237',extremes,Heat Wave,#c40202,wmo,ondata di caldo aigle leysin,2026-06-18T07:16:00+00:00,Switzerland,0.4776367090325252,1,1,it,WCE,Europe
 '93f796a1ae',extremes,Thunderstorm,#53785a,wmo,grandine umbria,2026-06-22T08:39:00+00:00,Italy,0.4763357392980603,1,2,it,MED,Europe
+'d59a7e48d7',extremes,Drought,#edc291,random,evapotraspirazione,2026-07-08T05:37:00+00:00,,0.47582912667898625,1,2,it,,
 '42f1336000',extremes,Drought,#edc291,edo,siccità Somalia,2026-06-24T06:30:00+00:00,Somalia,0.4757311887448323,1,1,it,NEAF,Africa
 'fb67dfa7f8',extremes,Heat Wave,#c40202,wmo,ondata di caldo oron – haute broye,2026-06-18T07:16:00+00:00,Switzerland,0.4753454596036901,1,1,it,WCE,Europe
 '97e8e6e190',extremes,Heat Wave,#c40202,wmo,ondata di caldo locarnese,2026-06-18T07:16:00+00:00,Switzerland,0.4752821800134931,1,1,it,WCE,Europe
@@ -327,10 +328,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '54a03cd7ed',extremes,Thunderstorm,#53785a,wmo,grandine schanfigg,2026-07-17T05:27:00+00:00,Switzerland,0.3881518564740625,1,1,it,WCE,Europe
 '9dde0f70a9',extremes,Storm,#b3b2b1,wmo,mareggiata wädenswil rüti,2026-07-01T06:52:00+00:00,Switzerland,0.3874531139057766,1,1,it,WCE,Europe
 'f826a35d99',extremes,Storm,#b3b2b1,wmo,mareggiata domleschg,2026-07-01T06:52:00+00:00,Switzerland,0.3852308601615375,1,1,it,WCE,Europe
-'a332492124',extremes,Thunderstorm,#53785a,wmo,grandine burgdorf limpachtal,2026-07-01T06:52:00+00:00,Switzerland,0.3849250497408851,0,1,it,WCE,Europe
-'dd614fc1aa',extremes,Thunderstorm,#53785a,wmo,temporale laufental,2026-07-17T05:27:00+00:00,Switzerland,0.3842413739065528,0,1,it,WCE,Europe
-'d3ba87fa7d',extremes,Thunderstorm,#53785a,wmo,temporale wohlen albis,2026-07-17T05:27:00+00:00,Switzerland,0.3829720099151779,0,1,it,WCE,Europe
-'d59a7e48d7',extremes,Drought,#edc291,random,evapotraspirazione,2026-07-08T05:37:00+00:00,,0.3827989196223368,0,1,it,,
 'c7ea39dfef',extremes,Thunderstorm,#53785a,wmo,grandine glarus nord mitte,2026-07-01T06:52:00+00:00,Switzerland,0.3827478352472968,0,1,it,WCE,Europe
 '1ce91c6dc6',extremes,Thunderstorm,#53785a,wmo,temporale glarus süd grosstal,2026-07-15T05:15:00+00:00,Switzerland,0.3825085785793583,0,1,it,WCE,Europe
 '5a1b144a5f',extremes,Precipitation,#d60d2b,wmo,pioggia glarona nord mitte,2026-07-01T06:52:00+00:00,Switzerland,0.3811711738589202,1,1,it,WCE,Europe
@@ -435,7 +432,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '47d8de0f18',extremes,Thunderstorm,#53785a,wmo,grandine kerenzerberg seeztal,2026-07-01T06:52:00+00:00,Switzerland,0.3298807221863277,1,1,it,WCE,Europe
 '6e95406eaf',extremes,Thunderstorm,#53785a,wmo,maltempo entlebuch,2026-07-17T05:27:00+00:00,Switzerland,0.3287825607417564,1,1,it,WCE,Europe
 'c948617fef',extremes,Heat Wave,#c40202,random,esposizione al calore estremo,2026-07-10T06:27:00+00:00,,0.3282259996265538,0,1,it,,
+'a332492124',extremes,Thunderstorm,#53785a,wmo,grandine burgdorf limpachtal,2026-07-01T06:52:00+00:00,Switzerland,0.3271862922797523,1,1,it,WCE,Europe
+'dd614fc1aa',extremes,Thunderstorm,#53785a,wmo,temporale laufental,2026-07-17T05:27:00+00:00,Switzerland,0.32660516782056986,1,1,it,WCE,Europe
 '1405131905',extremes,Thunderstorm,#53785a,random,grandine,2026-06-24T06:29:00+00:00,,0.3265237780577882,0,1,it,,
+'d3ba87fa7d',extremes,Thunderstorm,#53785a,wmo,temporale wohlen albis,2026-07-17T05:27:00+00:00,Switzerland,0.3255262084279012,1,1,it,WCE,Europe
 '9ae4725cd4',extremes,Thunderstorm,#53785a,wmo,temporale lucerna alpnach,2026-07-01T06:52:00+00:00,Switzerland,0.3246041407058342,1,1,it,WCE,Europe
 'eac6b2d6d2',extremes,Thunderstorm,#53785a,wmo,grandine albulatal,2026-07-17T05:27:00+00:00,Switzerland,0.3244673610297496,1,1,it,WCE,Europe
 'fa9e452d04',extremes,Precipitation,#d60d2b,random,temporale,2026-07-12T05:43:00+00:00,,0.3241903917294725,0,1,it,,
