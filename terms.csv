@@ -14,7 +14,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f14331b9f6',extremes,Thunderstorm,#53785a,wmo,maltempo calabria,2026-06-16T08:27:00+00:00,Italy,0.6314238544690454,1,2,it,MED,Europe
 '8e5338dae6',extremes,Thunderstorm,#53785a,wmo,salve italia,2026-06-26T06:36:00+00:00,Italy,0.6258257987560053,2,2,it,MED,Europe
 'c0e18437c9',extremes,Snow&Ice,#d60d2b,wmo,gelo italia,2026-06-23T06:33:00+00:00,Italy,0.6253348502401703,1,2,it,MED,Europe
-'3a23ad42fe',extremes,Precipitation,#d60d2b,wmo,pioggia torrenziale argentina,2026-07-09T06:27:00+00:00,Argentina,0.61577683513917,0,1,it,SES,South-America
 'a68fadbbf5',extremes,Drought,#edc291,edo,siccità svizzera,2026-07-04T05:59:00+00:00,Switzerland,0.615134606616892,1,2,it,WCE,Europe
 '640b0c1fe5',extremes,Storm,#b3b2b1,wmo,tempesta umbria,2026-07-26T05:46:00+00:00,Italy,0.6111828360354833,0,1,it,MED,Europe
 '27ecdd832f',extremes,Heat Wave,#c40202,wmo,ondata di caldo emilia e romagna,2026-06-18T07:16:00+00:00,Italy,0.6050636969111618,1,1,it,MED,Europe
@@ -71,6 +70,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b5cb89d511',extremes,Drought,#edc291,edo,siccità svizzera,2026-06-19T07:39:00+00:00,Switzerland,0.5251883245897708,2,2,it,WCE,Europe
 '589d0558b8',extremes,Snow&Ice,#d60d2b,wmo,neve argentina,2026-07-07T06:30:00+00:00,Argentina,0.5239997609663376,1,1,it,SES,South-America
 'd1d9cf4e58',extremes,Snow&Ice,#d60d2b,wmo,gelida argentina,2026-07-08T05:37:00+00:00,Argentina,0.523782421431853,1,1,it,SES,South-America
+'3a23ad42fe',extremes,Precipitation,#d60d2b,wmo,pioggia torrenziale argentina,2026-07-09T06:27:00+00:00,Argentina,0.5235603248682945,1,1,it,SES,South-America
 'edae5a8a2b',extremes,Snow&Ice,#d60d2b,wmo,ghiaccio argentino,2026-06-30T06:39:00+00:00,Argentina,0.5232822355163157,1,1,it,SES,South-America
 'ae340540d6',extremes,Precipitation,#d60d2b,wmo,acquazzone argentina,2026-07-09T06:27:00+00:00,Argentina,0.5228405620504228,1,1,it,SES,South-America
 'c9fee294c5',extremes,Thunderstorm,#53785a,wmo,grandine abruzzo,2026-07-02T06:24:00+00:00,Italy,0.5200232536411661,1,1,it,MED,Europe
