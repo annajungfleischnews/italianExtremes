@@ -7,9 +7,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e9be999d01',extremes,Thunderstorm,#53785a,wmo,grandine calabria,2026-06-24T06:30:00+00:00,Italy,0.6504804731532696,2,2,it,MED,Europe
 'd90bfca4a4',extremes,Storm,#b3b2b1,wmo,tempesta sardegna,2026-07-02T06:24:00+00:00,Italy,0.6498341258362237,1,2,it,MED,Europe
 '78021233b7',extremes,Heat Wave,#c40202,wmo,ondata di caldo toscana,2026-07-08T05:37:00+00:00,Italy,0.6494492632694827,1,3,it,MED,Europe
+'4495d1fc35',extremes,Thunderstorm,#53785a,wmo,maltempo friuli venezia giulia,2026-07-10T06:27:00+00:00,Italy,0.6402443061224116,1,2,it,MED,Europe
 'd464543475',extremes,Heat Wave,#c40202,wmo,ondata di caldo lazio,2026-07-09T06:27:00+00:00,Italy,0.6390681413373058,1,2,it,MED,Europe
 'f733595ffd',extremes,Thunderstorm,#53785a,wmo,marche di maltempo,2026-07-23T05:40:00+00:00,Italy,0.6388355061009064,1,3,it,MED,Europe
-'4495d1fc35',extremes,Thunderstorm,#53785a,wmo,maltempo friuli venezia giulia,2026-07-10T06:27:00+00:00,Italy,0.6339931424969548,0,1,it,MED,Europe
 '540c976e59',extremes,Heat Wave,#c40202,wmo,ondata di caldo sardegna,2026-07-08T05:37:00+00:00,Italy,0.6331836146752106,1,2,it,MED,Europe
 'f14331b9f6',extremes,Thunderstorm,#53785a,wmo,maltempo calabria,2026-06-16T08:27:00+00:00,Italy,0.6314238544690454,1,2,it,MED,Europe
 '8e5338dae6',extremes,Thunderstorm,#53785a,wmo,salve italia,2026-06-26T06:36:00+00:00,Italy,0.6258257987560053,2,2,it,MED,Europe
@@ -317,7 +317,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5a1b144a5f',extremes,Precipitation,#d60d2b,wmo,pioggia glarona nord mitte,2026-07-01T06:52:00+00:00,Switzerland,0.3811711738589202,1,1,it,WCE,Europe
 '1db5c85114',extremes,Thunderstorm,#53785a,wmo,grandine soletta rothrist,2026-07-01T06:52:00+00:00,Switzerland,0.3810500796073829,0,1,it,WCE,Europe
 'a4b2a872ef',extremes,Thunderstorm,#53785a,wmo,maltempo thun belp,2026-07-01T06:52:00+00:00,Switzerland,0.3800582007484785,1,1,it,WCE,Europe
-'eef64a3ccc',extremes,Thunderstorm,#53785a,wmo,maltempo landquart coira,2026-07-01T06:52:00+00:00,Switzerland,0.3785006724443805,0,1,it,WCE,Europe
 '57c93dc0d1',extremes,Thunderstorm,#53785a,wmo,grandine entlebuch,2026-07-01T06:52:00+00:00,Switzerland,0.3779244687767675,0,1,it,WCE,Europe
 'bcd4d36ed9',extremes,Thunderstorm,#53785a,wmo,maltempo savognin,2026-07-15T05:15:00+00:00,Switzerland,0.3778523401749771,0,1,it,WCE,Europe
 '2ff5ad616c',extremes,Thunderstorm,#53785a,wmo,forte tempo innertkirchen guttannen,2026-07-15T05:15:00+00:00,Switzerland,0.3774756522668034,0,1,it,WCE,Europe
@@ -415,20 +414,21 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1405131905',extremes,Thunderstorm,#53785a,random,grandine,2026-06-24T06:29:00+00:00,,0.3265237780577882,0,1,it,,
 'd3ba87fa7d',extremes,Thunderstorm,#53785a,wmo,temporale wohlen albis,2026-07-17T05:27:00+00:00,Switzerland,0.3255262084279012,1,1,it,WCE,Europe
 'c7ea39dfef',extremes,Thunderstorm,#53785a,wmo,grandine glarus nord mitte,2026-07-01T06:52:00+00:00,Switzerland,0.3253356599602022,1,1,it,WCE,Europe
-'1ce91c6dc6',extremes,Thunderstorm,#53785a,wmo,temporale glarus süd grosstal,2026-07-15T05:15:00+00:00,Switzerland,0.32513229179245456,1,1,it,WCE,Europe
+'1ce91c6dc6',extremes,Thunderstorm,#53785a,wmo,temporale glarus süd grosstal,2026-07-15T05:15:00+00:00,Switzerland,0.3251322917924545,1,1,it,WCE,Europe
 '9ae4725cd4',extremes,Thunderstorm,#53785a,wmo,temporale lucerna alpnach,2026-07-01T06:52:00+00:00,Switzerland,0.3246041407058342,1,1,it,WCE,Europe
 'eac6b2d6d2',extremes,Thunderstorm,#53785a,wmo,grandine albulatal,2026-07-17T05:27:00+00:00,Switzerland,0.3244673610297496,1,1,it,WCE,Europe
 'fa9e452d04',extremes,Precipitation,#d60d2b,random,temporale,2026-07-12T05:43:00+00:00,,0.3241903917294725,0,1,it,,
 'a7380b27b7',extremes,Thunderstorm,#53785a,wmo,forte tempo schangnau sigriswil,2026-07-01T06:52:00+00:00,Switzerland,0.3241106160310819,1,1,it,WCE,Europe
-'b501178b76',extremes,Thunderstorm,#53785a,wmo,grandine langenthal,2026-07-01T06:52:00+00:00,Switzerland,0.32385257683938157,1,1,it,WCE,Europe
-'7743d33a50',extremes,Thunderstorm,#53785a,wmo,temporale schiers,2026-07-17T05:27:00+00:00,Switzerland,0.32376953502160943,1,1,it,WCE,Europe
-'a89e3aaedc',extremes,Thunderstorm,#53785a,wmo,grandine Lyss Grenchen,2026-07-01T06:52:00+00:00,Switzerland,0.32351391249640127,1,1,it,WCE,Europe
-'9b0ce65955',extremes,Thunderstorm,#53785a,wmo,maltempo bivio avers,2026-07-01T06:52:00+00:00,Switzerland,0.32348537273566264,1,1,it,WCE,Europe
-'b6cef22543',extremes,Drought,#edc291,random,restrizione idrica,2026-07-01T06:52:00+00:00,,0.32297270093387087,1,1,it,,
+'b501178b76',extremes,Thunderstorm,#53785a,wmo,grandine langenthal,2026-07-01T06:52:00+00:00,Switzerland,0.3238525768393815,1,1,it,WCE,Europe
+'7743d33a50',extremes,Thunderstorm,#53785a,wmo,temporale schiers,2026-07-17T05:27:00+00:00,Switzerland,0.3237695350216094,1,1,it,WCE,Europe
+'a89e3aaedc',extremes,Thunderstorm,#53785a,wmo,grandine Lyss Grenchen,2026-07-01T06:52:00+00:00,Switzerland,0.3235139124964012,1,1,it,WCE,Europe
+'9b0ce65955',extremes,Thunderstorm,#53785a,wmo,maltempo bivio avers,2026-07-01T06:52:00+00:00,Switzerland,0.3234853727356626,1,1,it,WCE,Europe
+'b6cef22543',extremes,Drought,#edc291,random,restrizione idrica,2026-07-01T06:52:00+00:00,,0.3229727009338708,1,1,it,,
 '3e4b341619',extremes,Storm,#b3b2b1,random,tempesta,2026-07-02T06:23:00+00:00,,0.3227869977065006,0,1,it,,
-'a0485daa84',extremes,Thunderstorm,#53785a,wmo,temporale rheintal,2026-07-01T06:52:00+00:00,Switzerland,0.32244668825210415,1,1,it,WCE,Europe
+'a0485daa84',extremes,Thunderstorm,#53785a,wmo,temporale rheintal,2026-07-01T06:52:00+00:00,Switzerland,0.3224466882521041,1,1,it,WCE,Europe
 '15a9c61e3e',extremes,Landslide,#572c03,random,frana,2026-07-02T06:23:00+00:00,,0.3220307512324878,0,1,it,,
 '9aceadd432',extremes,Heat Wave,#c40202,random,caldo record,2026-07-14T05:14:00+00:00,,0.3218331095844046,0,1,it,,
+'eef64a3ccc',extremes,Thunderstorm,#53785a,wmo,maltempo landquart coira,2026-07-01T06:52:00+00:00,Switzerland,0.3217255715777234,1,1,it,WCE,Europe
 '8626b81b9b',extremes,Flood,#030ba1,emdat,alluvione zamora chinchipe,2026-07-21T05:36:00+00:00,Ecuador,0.3200075473236523,0,1,it,NWS,South-America
 'f4e1bf0fdf',extremes,Flood,#030ba1,random,epidemia di laghi glaciali,2026-07-02T06:23:00+00:00,,0.3199009295456448,0,1,it,,
 '845dd2d698',extremes,Storm,#b3b2b1,random,tornado,2026-07-07T06:30:00+00:00,,0.3192716333762291,0,1,it,,
