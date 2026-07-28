@@ -12,13 +12,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f733595ffd',extremes,Thunderstorm,#53785a,wmo,marche di maltempo,2026-07-23T05:40:00+00:00,Italy,0.6388355061009064,1,3,it,MED,Europe
 '540c976e59',extremes,Heat Wave,#c40202,wmo,ondata di caldo sardegna,2026-07-08T05:37:00+00:00,Italy,0.6331836146752106,1,2,it,MED,Europe
 'f14331b9f6',extremes,Thunderstorm,#53785a,wmo,maltempo calabria,2026-06-16T08:27:00+00:00,Italy,0.6314238544690454,1,2,it,MED,Europe
-'98067269b6',extremes,Heat Wave,#c40202,wmo,ondata di caldo piemonte,2026-07-09T06:27:00+00:00,Italy,0.6270695859943781,0,1,it,MED,Europe
 '8e5338dae6',extremes,Thunderstorm,#53785a,wmo,salve italia,2026-06-26T06:36:00+00:00,Italy,0.6258257987560053,2,2,it,MED,Europe
 'c0e18437c9',extremes,Snow&Ice,#d60d2b,wmo,gelo italia,2026-06-23T06:33:00+00:00,Italy,0.6253348502401703,1,2,it,MED,Europe
 'c377e67829',extremes,Heat Wave,#c40202,wmo,ondata di caldo campania,2026-07-17T05:27:00+00:00,Italy,0.6229963792522561,0,1,it,MED,Europe
+'98067269b6',extremes,Heat Wave,#c40202,wmo,ondata di caldo piemonte,2026-07-09T06:27:00+00:00,Italy,0.6218737488095071,1,3,it,MED,Europe
 '819f6fe0b0',extremes,Heat Wave,#c40202,wmo,ondata di caldo lombardia,2026-07-12T05:43:00+00:00,Italy,0.6209186673142838,0,1,it,MED,Europe
 'a68fadbbf5',extremes,Drought,#edc291,edo,siccità svizzera,2026-07-04T05:59:00+00:00,Switzerland,0.615134606616892,1,2,it,WCE,Europe
-'d9f5a28608',extremes,Heat Wave,#c40202,wmo,ondata di caldo basso moesano,2026-07-10T06:27:00+00:00,Switzerland,0.6058614763450647,0,1,it,WCE,Europe
 '0ad538a863',extremes,Heat Wave,#c40202,wmo,ondata di caldo in svizzera,2026-07-08T05:37:00+00:00,Switzerland,0.605340106680509,0,1,it,WCE,Europe
 '27ecdd832f',extremes,Heat Wave,#c40202,wmo,ondata di caldo emilia e romagna,2026-06-18T07:16:00+00:00,Italy,0.6050636969111618,1,1,it,MED,Europe
 '09cd3138c0',extremes,Heat Wave,#c40202,wmo,ondata di caldo vallée du trient,2026-07-12T05:43:00+00:00,Switzerland,0.6019824203460742,0,1,it,WCE,Europe
@@ -76,6 +75,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '51f6808ed3',extremes,Thunderstorm,#53785a,wmo,temporale liguria,2026-07-14T05:14:00+00:00,Italy,0.515327115737401,3,1,it,MED,Europe
 '16664cc668',extremes,Heat Wave,#c40202,wmo,ondata di caldo verzasca,2026-07-08T05:37:00+00:00,Switzerland,0.5151995453890443,1,1,it,WCE,Europe
 '3840c76d04',extremes,Storm,#b3b2b1,wmo,tempesta calabria,2026-07-03T06:09:00+00:00,Italy,0.5150626802441135,1,1,it,MED,Europe
+'d9f5a28608',extremes,Heat Wave,#c40202,wmo,ondata di caldo basso moesano,2026-07-10T06:27:00+00:00,Switzerland,0.514982254893305,1,1,it,WCE,Europe
 'fdaa0a92ad',extremes,Storm,#b3b2b1,wmo,tempesta campania,2026-07-04T05:59:00+00:00,Italy,0.5147394017130803,1,1,it,MED,Europe
 '008b58f095',extremes,Storm,#b3b2b1,wmo,mareggiata piemonte,2026-06-23T06:33:00+00:00,Italy,0.5147109258225229,1,1,it,MED,Europe
 '0a43eb8b74',extremes,Heat Wave,#c40202,wmo,ondata di caldo vouvry,2026-07-10T06:27:00+00:00,Switzerland,0.5141118228449327,1,1,it,WCE,Europe
