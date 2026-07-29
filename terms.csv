@@ -15,14 +15,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8e5338dae6',extremes,Thunderstorm,#53785a,wmo,salve italia,2026-06-26T06:36:00+00:00,Italy,0.6258257987560053,2,2,it,MED,Europe
 'c0e18437c9',extremes,Snow&Ice,#d60d2b,wmo,gelo italia,2026-06-23T06:33:00+00:00,Italy,0.6253348502401703,1,2,it,MED,Europe
 '98067269b6',extremes,Heat Wave,#c40202,wmo,ondata di caldo piemonte,2026-07-09T06:27:00+00:00,Italy,0.6218737488095071,1,3,it,MED,Europe
-'819f6fe0b0',extremes,Heat Wave,#c40202,wmo,ondata di caldo lombardia,2026-07-12T05:43:00+00:00,Italy,0.6209186673142838,0,1,it,MED,Europe
 'a68fadbbf5',extremes,Drought,#edc291,edo,siccità svizzera,2026-07-04T05:59:00+00:00,Switzerland,0.615134606616892,1,2,it,WCE,Europe
 'c377e67829',extremes,Heat Wave,#c40202,wmo,ondata di caldo campania,2026-07-17T05:27:00+00:00,Italy,0.6026854126585354,1,1,it,MED,Europe
-'23cf4b65f8',extremes,Heat Wave,#c40202,wmo,ondata di caldo nidau ins,2026-07-10T06:27:00+00:00,Switzerland,0.6016785501061204,0,1,it,WCE,Europe
 '18e7fdcc5f',extremes,Heat Wave,#c40202,wmo,l'ondata di caldo li contiene pienamente,2026-07-10T06:27:00+00:00,Switzerland,0.6011362443472185,0,1,it,WCE,Europe
 '572704ba2e',extremes,Thunderstorm,#53785a,wmo,temporale lombardia,2026-07-14T05:14:00+00:00,Italy,0.6008461121283016,1,2,it,MED,Europe
 'e529bb6ac5',extremes,Precipitation,#d60d2b,wmo,pioggia argentina,2026-06-18T07:16:00+00:00,Argentina,0.5988436105671591,2,2,it,SES,South-America
 'f9eb244a9a',extremes,Drought,#edc291,edo,mancanza di pioggia italia,2026-06-20T06:47:00+00:00,Italy,0.598790927824127,1,2,it,MED,Europe
+'819f6fe0b0',extremes,Heat Wave,#c40202,wmo,ondata di caldo lombardia,2026-07-12T05:43:00+00:00,Italy,0.5984979388838079,1,2,it,MED,Europe
 '1025c5d048',extremes,Heat Wave,#c40202,wmo,ondata di caldo veneto,2026-07-12T05:43:00+00:00,Italy,0.5974876641899348,1,2,it,MED,Europe
 'ff6ccdf11f',extremes,Precipitation,#d60d2b,wmo,piogge torrenziali veneto,2026-07-25T05:29:00+00:00,Italy,0.5912774878185119,1,2,it,MED,Europe
 '5511bac479',extremes,Heat Wave,#c40202,wmo,ondata di caldo luganese,2026-07-10T06:27:00+00:00,Switzerland,0.5900373336899218,0,1,it,WCE,Europe
@@ -97,6 +96,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e86bb6f3ad',extremes,Heat Wave,#c40202,wmo,ondata di caldo aarau lenzburg,2026-07-09T06:27:00+00:00,Switzerland,0.5117535039669563,1,1,it,WCE,Europe
 '09cd3138c0',extremes,Heat Wave,#c40202,wmo,ondata di caldo vallée du trient,2026-07-12T05:43:00+00:00,Switzerland,0.511685057294163,1,1,it,WCE,Europe
 '4b8a98e260',extremes,Heat Wave,#c40202,wmo,ondata di caldo glâne,2026-07-11T05:27:00+00:00,Switzerland,0.5115090694001436,1,1,it,WCE,Europe
+'23cf4b65f8',extremes,Heat Wave,#c40202,wmo,ondata di caldo nidau ins,2026-07-10T06:27:00+00:00,Switzerland,0.5114267675902023,1,1,it,WCE,Europe
 '8a67a1fe5c',extremes,Heat Wave,#c40202,wmo,ondata di caldo bex villars,2026-07-11T05:27:00+00:00,Switzerland,0.511020737970632,1,1,it,WCE,Europe
 'fa57f9f0f0',extremes,Heat Wave,#c40202,wmo,ondata di caldo olten gösgen,2026-07-09T06:27:00+00:00,Switzerland,0.5102193261628294,1,1,it,WCE,Europe
 '8e76e97181',extremes,Heat Wave,#c40202,wmo,ondata di caldo morges cossonay,2026-07-09T06:27:00+00:00,Switzerland,0.5101848894930425,1,1,it,WCE,Europe
@@ -278,7 +278,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '20cf93a43c',extremes,Storm,#b3b2b1,wmo,tempesta lugnez valsertal,2026-07-01T06:52:00+00:00,Switzerland,0.4060050187808033,1,1,it,WCE,Europe
 'a822664054',extremes,Storm,#b3b2b1,wmo,tempesta wahlern plaffeien,2026-07-15T05:15:00+00:00,Switzerland,0.4058101728842139,1,1,it,WCE,Europe
 '20b3c1ad26',extremes,Storm,#b3b2b1,wmo,mareggiata huttwil willisau,2026-07-01T06:52:00+00:00,Switzerland,0.4056543676255788,1,1,it,WCE,Europe
-'da505455fb',extremes,Thunderstorm,#53785a,wmo,temporale sicilia,2026-06-22T08:39:00+00:00,Italy,0.4052866013958216,1,1,it,MED,Europe
 'b1d56de062',extremes,Snow&Ice,#d60d2b,random,brina,2026-07-07T06:30:00+00:00,,0.4049894102741714,1,2,it,,
 '390332f107',extremes,Storm,#b3b2b1,wmo,tempesta küblis klosters,2026-07-17T05:27:00+00:00,Switzerland,0.4046350221331534,1,1,it,WCE,Europe
 'c928f81ef5',extremes,Thunderstorm,#53785a,wmo,temporale valle d'aosta,2026-06-23T06:33:00+00:00,Italy,0.4044378849398247,1,1,it,MED,Europe
