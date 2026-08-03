@@ -5,7 +5,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9d51f7a7ec',extremes,Thunderstorm,#53785a,wmo,temporale piemontese,2026-07-15T05:15:00+00:00,Italy,0.6819022556249225,2,2,it,MED,Europe
 'e0e81271b7',extremes,Drought,#edc291,edo,periodo di siccità libia,2026-07-13T05:53:00+00:00,Libya,0.670638653659035,1,2,it,SAH,Africa
 'e529bb6ac5',extremes,Precipitation,#d60d2b,wmo,pioggia argentina,2026-07-30T05:24:00+00:00,Argentina,0.6546900129999947,1,2,it,SES,South-America
-'3d4ffbc119',extremes,Storm,#b3b2b1,wmo,tempesta friuli venezia giulia,2026-07-14T05:14:00+00:00,Italy,0.6533201729724313,1,2,it,MED,Europe
 'e9be999d01',extremes,Thunderstorm,#53785a,wmo,grandine calabria,2026-06-24T06:30:00+00:00,Italy,0.6504804731532696,2,2,it,MED,Europe
 'd90bfca4a4',extremes,Storm,#b3b2b1,wmo,tempesta sardegna,2026-07-02T06:24:00+00:00,Italy,0.6498341258362237,1,2,it,MED,Europe
 '4495d1fc35',extremes,Thunderstorm,#53785a,wmo,maltempo friuli venezia giulia,2026-07-10T06:27:00+00:00,Italy,0.6402443061224116,1,2,it,MED,Europe
@@ -36,6 +35,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1025c5d048',extremes,Heat Wave,#c40202,wmo,ondata di caldo veneto,2026-07-12T05:43:00+00:00,Italy,0.5596646945614445,2,2,it,MED,Europe
 'ad1d094d2b',extremes,Thunderstorm,#53785a,wmo,grandine sardegna,2026-07-01T06:52:00+00:00,Italy,0.5581741667410075,3,2,it,MED,Europe
 'da7d718400',extremes,Thunderstorm,#53785a,wmo,temporale pugliese,2026-07-01T06:52:00+00:00,Italy,0.5573276135237534,1,2,it,MED,Europe
+'3d4ffbc119',extremes,Storm,#b3b2b1,wmo,tempesta friuli venezia giulia,2026-07-14T05:14:00+00:00,Italy,0.5556221770265666,2,2,it,MED,Europe
 '0ad538a863',extremes,Heat Wave,#c40202,wmo,ondata di caldo in svizzera,2026-07-08T05:37:00+00:00,Switzerland,0.5526391506784326,1,1,it,WCE,Europe
 'b6c9b0cd21',extremes,Thunderstorm,#53785a,wmo,maltempo valle d'aosta,2026-06-19T07:39:00+00:00,Italy,0.5522275990704444,1,2,it,MED,Europe
 '78021233b7',extremes,Heat Wave,#c40202,wmo,ondata di caldo toscana,2026-07-08T05:37:00+00:00,Italy,0.5520322037790603,2,2,it,MED,Europe
@@ -46,7 +46,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd464543475',extremes,Heat Wave,#c40202,wmo,ondata di caldo lazio,2026-07-09T06:27:00+00:00,Italy,0.5432082501367099,2,1,it,MED,Europe
 '32e74ad8ff',extremes,Heat Wave,#c40202,wmo,ondata di caldo molisano,2026-07-08T05:37:00+00:00,Italy,0.5413114528018174,1,1,it,MED,Europe
 '5f8d35147a',extremes,Heat Wave,#c40202,wmo,ondata di caldo abruzzo,2026-07-08T05:37:00+00:00,Italy,0.5400642439350203,1,1,it,MED,Europe
-'df9ced5b3c',extremes,Precipitation,#d60d2b,wmo,precipitazioni umbre,2026-07-25T05:29:00+00:00,Italy,0.5389535832373947,0,1,it,MED,Europe
 'ee371032d3',extremes,Thunderstorm,#53785a,wmo,temporale campania,2026-07-07T06:30:00+00:00,Italy,0.5377375802309896,2,1,it,MED,Europe
 '14c0b1f476',extremes,Heat Wave,#c40202,wmo,ondata di caldo Werdenberg,2026-07-12T05:43:00+00:00,Switzerland,0.5372164514194433,0,1,it,WCE,Europe
 '365a9a79c6',extremes,Heat Wave,#c40202,wmo,ondata di caldo val de travers,2026-07-29T05:37:00+00:00,Switzerland,0.531409024047095,0,1,it,WCE,Europe
@@ -250,6 +249,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ff2fb99e65',extremes,Heat Wave,#c40202,wmo,ondata di caldo hulftegg untertoggenburg,2026-07-12T05:43:00+00:00,Switzerland,0.4588179978001529,1,1,it,WCE,Europe
 'cc4efe412f',extremes,Heat Wave,#c40202,wmo,ondata di caldo amriswil,2026-07-12T05:43:00+00:00,Switzerland,0.4585988200019302,1,1,it,WCE,Europe
 '2eb4ed0a18',extremes,Heat Wave,#c40202,wmo,ondata di caldo muotathal,2026-07-12T05:43:00+00:00,Switzerland,0.4581189999863045,1,1,it,WCE,Europe
+'df9ced5b3c',extremes,Precipitation,#d60d2b,wmo,precipitazioni umbre,2026-07-25T05:29:00+00:00,Italy,0.4581105457517855,1,1,it,MED,Europe
 'f6ff301646',extremes,Drought,#edc291,edo,siccità in Somalia,2026-07-07T06:30:00+00:00,Somalia,0.4559947275780345,1,1,it,NEAF,Africa
 'a302e20e8c',extremes,Heat Wave,#c40202,wmo,ondata di caldo appenzello,2026-07-12T05:43:00+00:00,Switzerland,0.4552215333001981,1,1,it,WCE,Europe
 '16ea378d6b',extremes,Heat Wave,#c40202,wmo,ondata di caldo liechtenstein,2026-07-12T05:43:00+00:00,Switzerland,0.454367745354363,1,1,it,WCE,Europe
