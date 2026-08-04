@@ -21,6 +21,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '819f6fe0b0',extremes,Heat Wave,#c40202,wmo,ondata di caldo lombardia,2026-07-12T05:43:00+00:00,Italy,0.5984979388838079,1,2,it,MED,Europe
 '9b6136ffec',extremes,Heat Wave,#c40202,wmo,ondata di caldo umbria,2026-07-30T05:24:00+00:00,Italy,0.59594040848275,2,2,it,MED,Europe
 'c8bad6097f',extremes,Heat Wave,#c40202,wmo,ondata di caldo basilicata,2026-07-07T06:30:00+00:00,Italy,0.58895877620789,1,1,it,MED,Europe
+'42f1336000',extremes,Drought,#edc291,edo,siccità Somalia,2026-07-15T05:15:00+00:00,Somalia,0.5769904631602655,1,2,it,NEAF,Africa
 '12060a7df7',extremes,Storm,#b3b2b1,wmo,mareggiata italia,2026-07-04T05:59:00+00:00,Italy,0.575779760668018,1,1,it,MED,Europe
 'cb15bc1996',extremes,Heat Wave,#c40202,wmo,ondata di caldo puglia,2026-06-25T06:32:00+00:00,Italy,0.5752039040995228,1,1,it,MED,Europe
 '02711610b5',extremes,Storm,#b3b2b1,wmo,tempesta argentina,2026-06-26T06:36:00+00:00,Argentina,0.5716624076168487,1,1,it,SES,South-America
@@ -131,7 +132,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ff6ccdf11f',extremes,Precipitation,#d60d2b,wmo,piogge torrenziali veneto,2026-07-25T05:29:00+00:00,Italy,0.5025858796457351,2,1,it,MED,Europe
 'c08bb125c4',extremes,Heat Wave,#c40202,wmo,ondata di caldo estavayer cudrefin,2026-07-12T05:43:00+00:00,Switzerland,0.5022308600799971,1,1,it,WCE,Europe
 '403eda3313',extremes,Heat Wave,#c40202,wmo,ondata di caldo saint cergue,2026-07-11T05:27:00+00:00,Switzerland,0.5022031729352439,1,1,it,WCE,Europe
-'42f1336000',extremes,Drought,#edc291,edo,siccità Somalia,2026-07-15T05:15:00+00:00,Somalia,0.502165233129724,0,1,it,NEAF,Africa
 '0c3d21da24',extremes,Precipitation,#d60d2b,wmo,acquazzone italia,2026-07-25T05:29:00+00:00,Italy,0.5016800091165302,1,1,it,MED,Europe
 '5511bac479',extremes,Heat Wave,#c40202,wmo,ondata di caldo luganese,2026-07-10T06:27:00+00:00,Switzerland,0.5015317336364336,1,1,it,WCE,Europe
 'cd8395100f',extremes,Storm,#b3b2b1,wmo,mareggiata puglia,2026-07-20T05:54:00+00:00,Italy,0.5014400318644848,1,1,it,MED,Europe
