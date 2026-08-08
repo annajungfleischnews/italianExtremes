@@ -189,7 +189,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'edaa90837c',extremes,Heat Wave,#c40202,wmo,ondata di caldo nyon terre sainte,2026-07-09T06:27:00+00:00,Switzerland,0.4894629761222807,1,1,it,WCE,Europe
 '9d36efcb9c',extremes,Thunderstorm,#53785a,wmo,maltempo sicilia,2026-07-29T05:37:00+00:00,Italy,0.4893838906195429,0,1,it,MED,Europe
 'c1ad5b6068',extremes,Heat Wave,#c40202,wmo,ondata di caldo thun belp,2026-07-28T05:31:00+00:00,Switzerland,0.4893594159050624,1,1,it,WCE,Europe
-'0812394012',extremes,Thunderstorm,#53785a,wmo,maltempo lazio,2026-08-03T05:57:00+00:00,Italy,0.4891287642928457,0,1,it,MED,Europe
 '116616eb5b',extremes,Storm,#b3b2b1,wmo,mareggiata emilia e romagna,2026-06-30T06:39:00+00:00,Italy,0.4890593691432571,1,1,it,MED,Europe
 '25e89c2734',extremes,Thunderstorm,#53785a,wmo,salve toscana,2026-07-25T05:29:00+00:00,Italy,0.4876380449087861,0,1,it,MED,Europe
 'dfb51eb234',extremes,Heat Wave,#c40202,wmo,ondata di caldo goldau ägeri,2026-07-13T05:53:00+00:00,Switzerland,0.4871679618876872,1,1,it,WCE,Europe
@@ -273,7 +272,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8dbdda11a1',extremes,Thunderstorm,#53785a,wmo,maltempo piemonte,2026-07-10T06:27:00+00:00,Italy,0.4373473636976377,1,1,it,MED,Europe
 'cb207f7e4e',extremes,Drought,#edc291,edo,mancanza di pioggia argentina,2026-07-19T05:37:00+00:00,Argentina,0.4355193231007057,1,1,it,SES,South-America
 'e4c0eb1729',extremes,Wildfire,#d60d2b,random,incendio boschivo,2026-07-11T05:26:00+00:00,,0.4333069425912465,1,3,it,,
-'0ea04eeac6',extremes,Earthquake,#870007,usgs,terremoto torre caracciolo,2026-08-06T05:33:00+00:00,Italy,0.43069555344482685,1,1,it,MED,Europe
+'0ea04eeac6',extremes,Earthquake,#870007,usgs,terremoto torre caracciolo,2026-08-06T05:33:00+00:00,Italy,0.4306955534448268,1,1,it,MED,Europe
 'cefc77a4b3',extremes,Storm,#b3b2b1,wmo,tempesta svizzera,2026-07-01T06:52:00+00:00,Switzerland,0.4296997359689059,1,1,it,WCE,Europe
 '1dc0ec5609',extremes,Thunderstorm,#53785a,wmo,maltempo pfungen hettlingen,2026-07-01T06:52:00+00:00,Switzerland,0.4289330589241898,1,1,it,WCE,Europe
 'd7ca6f870f',extremes,Thunderstorm,#53785a,wmo,forte tempo bellinzonese,2026-07-21T05:36:00+00:00,Switzerland,0.4286733975274195,1,1,it,WCE,Europe
@@ -293,6 +292,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f646bbf69f',extremes,Storm,#b3b2b1,wmo,tempesta emmen hochdorf,2026-07-15T05:15:00+00:00,Switzerland,0.4178472544047359,1,1,it,WCE,Europe
 '96377dab08',extremes,Thunderstorm,#53785a,wmo,grandine riein safiental,2026-07-17T05:27:00+00:00,Switzerland,0.4178004304613849,1,1,it,WCE,Europe
 'ba0d68dd8e',extremes,Thunderstorm,#53785a,wmo,temporale einsiedeln wägital,2026-07-15T05:15:00+00:00,Switzerland,0.4177135173987917,1,1,it,WCE,Europe
+'0812394012',extremes,Thunderstorm,#53785a,wmo,maltempo lazio,2026-08-03T05:57:00+00:00,Italy,0.4172595996489188,1,1,it,MED,Europe
 '66206e02fd',extremes,Heat Wave,#c40202,wmo,ondata di caldo zofingen triengen,2026-07-30T05:24:00+00:00,Switzerland,0.4168331254546094,1,1,it,WCE,Europe
 'f6b979e2d2',extremes,Storm,#b3b2b1,wmo,mareggiata obersimmental,2026-07-15T05:15:00+00:00,Switzerland,0.4168167043558902,1,1,it,WCE,Europe
 'fcf50e8283',extremes,Storm,#b3b2b1,wmo,tempesta effretikon,2026-07-15T05:15:00+00:00,Switzerland,0.416265514955544,1,1,it,WCE,Europe
