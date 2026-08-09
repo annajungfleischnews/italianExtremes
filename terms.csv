@@ -27,7 +27,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '572704ba2e',extremes,Thunderstorm,#53785a,wmo,temporale lombardia,2026-07-14T05:14:00+00:00,Italy,0.6008461121283016,1,2,it,MED,Europe
 '819f6fe0b0',extremes,Heat Wave,#c40202,wmo,ondata di caldo lombardia,2026-07-12T05:43:00+00:00,Italy,0.5984979388838079,1,2,it,MED,Europe
 '9b6136ffec',extremes,Heat Wave,#c40202,wmo,ondata di caldo umbria,2026-07-30T05:24:00+00:00,Italy,0.59594040848275,2,2,it,MED,Europe
-'1ad7e87cb2',extremes,Wildfire,#d60d2b,effis,incendio violento italia,2026-08-07T09:56:00+00:00,Italy,0.5927912733085332,0,1,it,MED,Europe
 '02711610b5',extremes,Storm,#b3b2b1,wmo,tempesta argentina,2026-07-17T05:27:00+00:00,Argentina,0.5850218535344747,1,1,it,SES,South-America
 '046e022236',extremes,Wildfire,#d60d2b,effis,wild fire italia l’aquila rocca di cambio,2026-08-08T03:51:00+00:00,Italy,0.5829809310102898,0,1,it,MED,Europe
 'a08d6eacba',extremes,Wildfire,#d60d2b,effis,incendio boschivo italia vibo valentia pizzoni,2026-08-08T03:51:00+00:00,Italy,0.5822624406415126,0,1,it,MED,Europe
@@ -51,6 +50,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '82b8913676',extremes,Storm,#b3b2b1,wmo,mareggiata sardegna,2026-07-25T05:29:00+00:00,Italy,0.5577953725768816,2,1,it,MED,Europe
 'da7d718400',extremes,Thunderstorm,#53785a,wmo,temporale pugliese,2026-07-01T06:52:00+00:00,Italy,0.5573276135237534,1,2,it,MED,Europe
 '3d4ffbc119',extremes,Storm,#b3b2b1,wmo,tempesta friuli venezia giulia,2026-07-14T05:14:00+00:00,Italy,0.5556221770265666,2,2,it,MED,Europe
+'1ad7e87cb2',extremes,Wildfire,#d60d2b,effis,incendio violento italia,2026-08-07T09:56:00+00:00,Italy,0.5543226273122532,1,1,it,MED,Europe
 '0ad538a863',extremes,Heat Wave,#c40202,wmo,ondata di caldo in svizzera,2026-07-08T05:37:00+00:00,Switzerland,0.5526391506784326,1,1,it,WCE,Europe
 '78021233b7',extremes,Heat Wave,#c40202,wmo,ondata di caldo toscana,2026-07-08T05:37:00+00:00,Italy,0.5520322037790603,2,2,it,MED,Europe
 'e050960c85',extremes,Heat Wave,#c40202,wmo,ondata di caldo marche,2026-07-18T05:10:00+00:00,Italy,0.551583122454338,1,1,it,MED,Europe
