@@ -2,14 +2,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b4a448711b',extremes,Heat Wave,#c40202,wmo,ondata di caldo italia,2026-06-30T06:39:00+00:00,Italy,0.7197854295532098,3,3,it,MED,Europe
 'f733595ffd',extremes,Thunderstorm,#53785a,wmo,marche di maltempo,2026-07-23T05:40:00+00:00,Italy,0.6843243865494069,2,3,it,MED,Europe
 '9d51f7a7ec',extremes,Thunderstorm,#53785a,wmo,temporale piemontese,2026-07-15T05:15:00+00:00,Italy,0.6819022556249225,2,2,it,MED,Europe
-'edae5a8a2b',extremes,Snow&Ice,#d60d2b,wmo,ghiaccio argentino,2026-07-21T05:36:00+00:00,Argentina,0.6786074873110026,1,2,it,SES,South-America
 'e0e81271b7',extremes,Drought,#edc291,edo,periodo di siccità libia,2026-07-13T05:53:00+00:00,Libya,0.670638653659035,1,2,it,SAH,Africa
 'f14331b9f6',extremes,Thunderstorm,#53785a,wmo,maltempo calabria,2026-07-23T05:40:00+00:00,Italy,0.6705883123822589,1,2,it,MED,Europe
 'e529bb6ac5',extremes,Precipitation,#d60d2b,wmo,pioggia argentina,2026-07-30T05:24:00+00:00,Argentina,0.6546900129999947,1,2,it,SES,South-America
 '5e27c3e2fc',extremes,Wildfire,#d60d2b,effis,incendio italia messina messina,2026-08-09T03:59:00+00:00,Italy,0.652658089242269,1,2,it,MED,Europe
 '997a2e2157',extremes,Earthquake,#870007,usgs,terremoto argentina,2026-08-07T09:56:00+00:00,Argentina,0.6515636855033746,1,2,it,SES,South-America
 'd90bfca4a4',extremes,Storm,#b3b2b1,wmo,tempesta sardegna,2026-07-02T06:24:00+00:00,Italy,0.6498341258362237,1,2,it,MED,Europe
-'50d4f5eeb6',extremes,Wildfire,#d60d2b,effis,incendio violento italia rieti rieti,2026-08-08T03:51:00+00:00,Italy,0.6480365003807935,0,1,it,MED,Europe
 '902e65f81a',extremes,Thunderstorm,#53785a,wmo,temporale abruzzo,2026-08-02T05:42:00+00:00,Italy,0.6441954078776336,2,2,it,MED,Europe
 '9eb9330edc',extremes,Wildfire,#d60d2b,effis,incendio violento italia firenze firenzuola,2026-08-09T03:59:00+00:00,Italy,0.6437012989151416,0,1,it,MED,Europe
 '4495d1fc35',extremes,Thunderstorm,#53785a,wmo,maltempo friuli venezia giulia,2026-07-10T06:27:00+00:00,Italy,0.6402443061224116,1,2,it,MED,Europe
@@ -33,6 +31,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '71a0eef64a',extremes,Earthquake,#870007,usgs,terremoto santa domenica,2026-07-24T05:35:00+00:00,Italy,0.5818159388497977,1,2,it,MED,Europe
 '75e56eac2a',extremes,Thunderstorm,#53785a,wmo,temporale umbria,2026-07-21T05:36:00+00:00,Italy,0.578646605493293,2,2,it,MED,Europe
 '5e2cca09b3',extremes,Wildfire,#d60d2b,effis,bushfire italia l’aquila rocca di cambio,2026-08-09T03:59:00+00:00,Italy,0.5773434007128428,1,1,it,MED,Europe
+'edae5a8a2b',extremes,Snow&Ice,#d60d2b,wmo,ghiaccio argentino,2026-07-21T05:36:00+00:00,Argentina,0.5771163942143522,2,2,it,SES,South-America
 '42f1336000',extremes,Drought,#edc291,edo,siccità Somalia,2026-07-15T05:15:00+00:00,Somalia,0.5769904631602655,1,2,it,NEAF,Africa
 '690c0d80e6',extremes,Wildfire,#d60d2b,effis,incendio boschivo italia,2026-08-07T09:56:00+00:00,Italy,0.576217729634205,1,1,it,MED,Europe
 '12060a7df7',extremes,Storm,#b3b2b1,wmo,mareggiata italia,2026-07-04T05:59:00+00:00,Italy,0.575779760668018,1,1,it,MED,Europe
@@ -65,6 +64,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0ad538a863',extremes,Heat Wave,#c40202,wmo,ondata di caldo in svizzera,2026-07-08T05:37:00+00:00,Switzerland,0.5526391506784326,1,1,it,WCE,Europe
 '78021233b7',extremes,Heat Wave,#c40202,wmo,ondata di caldo toscana,2026-07-08T05:37:00+00:00,Italy,0.5520322037790603,2,2,it,MED,Europe
 'e050960c85',extremes,Heat Wave,#c40202,wmo,ondata di caldo marche,2026-07-18T05:10:00+00:00,Italy,0.551583122454338,1,1,it,MED,Europe
+'50d4f5eeb6',extremes,Wildfire,#d60d2b,effis,incendio violento italia rieti rieti,2026-08-08T03:51:00+00:00,Italy,0.5508310253236745,1,1,it,MED,Europe
 '50de04165f',extremes,Thunderstorm,#53785a,wmo,temporalesco marchigiano,2026-07-06T06:52:00+00:00,Italy,0.5492631743339993,1,1,it,MED,Europe
 '757a24f6e9',extremes,Thunderstorm,#53785a,wmo,ave emilia e romagna,2026-07-14T05:14:00+00:00,Italy,0.5470831886629842,1,1,it,MED,Europe
 '116616eb5b',extremes,Storm,#b3b2b1,wmo,mareggiata emilia e romagna,2026-08-02T05:42:00+00:00,Italy,0.5462243317635177,1,1,it,MED,Europe
