@@ -4,12 +4,20 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9d51f7a7ec',extremes,Thunderstorm,#53785a,wmo,temporale piemontese,2026-07-15T05:15:00+00:00,Italy,0.6819022556249225,2,2,it,MED,Europe
 'e0e81271b7',extremes,Drought,#edc291,edo,periodo di siccità libia,2026-07-13T05:53:00+00:00,Libya,0.670638653659035,1,2,it,SAH,Africa
 'f14331b9f6',extremes,Thunderstorm,#53785a,wmo,maltempo calabria,2026-07-23T05:40:00+00:00,Italy,0.6705883123822589,1,2,it,MED,Europe
+'68c0fb7041',extremes,Wildfire,#d60d2b,effis,incendio italia caserta sessa aurunca,2026-08-11T04:01:00+00:00,Italy,0.6651285187502474,0,1,it,MED,Europe
+'850a55d358',extremes,Wildfire,#d60d2b,effis,incendio italia reggio di calabria riace,2026-08-11T04:01:00+00:00,Italy,0.6605458984977544,0,1,it,MED,Europe
 'e529bb6ac5',extremes,Precipitation,#d60d2b,wmo,pioggia argentina,2026-07-30T05:24:00+00:00,Argentina,0.6546900129999947,1,2,it,SES,South-America
 '5e27c3e2fc',extremes,Wildfire,#d60d2b,effis,incendio italia messina messina,2026-08-09T03:59:00+00:00,Italy,0.652658089242269,1,2,it,MED,Europe
 '997a2e2157',extremes,Earthquake,#870007,usgs,terremoto argentina,2026-08-07T09:56:00+00:00,Argentina,0.6515636855033746,1,2,it,SES,South-America
+'ddf559b463',extremes,Wildfire,#d60d2b,effis,macchia d'olio italia frosinone guarcino,2026-08-11T04:01:00+00:00,Italy,0.6513267025062335,0,1,it,MED,Europe
 'd90bfca4a4',extremes,Storm,#b3b2b1,wmo,tempesta sardegna,2026-07-02T06:24:00+00:00,Italy,0.6498341258362237,1,2,it,MED,Europe
+'a94d703621',extremes,Wildfire,#d60d2b,effis,incendio boschivo italia vibo valentia cessaniti,2026-08-11T04:01:00+00:00,Italy,0.649141124725281,0,1,it,MED,Europe
+'6da463bace',extremes,Wildfire,#d60d2b,effis,incendio boschivo italia messina barcellona pozzo di gotto,2026-08-11T04:01:00+00:00,Italy,0.6468431138378485,0,1,it,MED,Europe
 '902e65f81a',extremes,Thunderstorm,#53785a,wmo,temporale abruzzo,2026-08-02T05:42:00+00:00,Italy,0.6441954078776336,2,2,it,MED,Europe
 '4495d1fc35',extremes,Thunderstorm,#53785a,wmo,maltempo friuli venezia giulia,2026-07-10T06:27:00+00:00,Italy,0.6402443061224116,1,2,it,MED,Europe
+'1bc13e6f05',extremes,Wildfire,#d60d2b,effis,macchia d'olio italia catanzaro gizzeria,2026-08-11T04:01:00+00:00,Italy,0.6378822357787158,0,1,it,MED,Europe
+'14417a1c86',extremes,Wildfire,#d60d2b,effis,incendio boschivo italia catanzaro lamezia terme,2026-08-11T04:01:00+00:00,Italy,0.6333987506273542,0,1,it,MED,Europe
+'b7ac867020',extremes,Wildfire,#d60d2b,effis,incendio boschivo italia catanzaro gizzeria,2026-08-11T04:01:00+00:00,Italy,0.6322292718548418,0,1,it,MED,Europe
 'e8249b82d7',extremes,Wildfire,#d60d2b,effis,incendio boschivo foggia italia,2026-08-08T03:51:00+00:00,Italy,0.6317322841464807,0,1,it,MED,Europe
 '047ca2539e',extremes,Wildfire,#d60d2b,effis,macchia d'olio roma italia,2026-08-09T03:59:00+00:00,Italy,0.6304251020368172,0,1,it,MED,Europe
 '382ac7dbd0',extremes,Wildfire,#d60d2b,effis,macchia d'olio latina italia,2026-08-09T03:59:00+00:00,Italy,0.6299514321088258,0,1,it,MED,Europe
