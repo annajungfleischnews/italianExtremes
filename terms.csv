@@ -16,11 +16,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '12060a7df7',extremes,Storm,#b3b2b1,wmo,mareggiata italia,2026-07-25T05:29:00+00:00,Italy,0.6189053591017637,2,1,it,MED,Europe
 'a68fadbbf5',extremes,Drought,#edc291,edo,siccità svizzera,2026-07-04T05:59:00+00:00,Switzerland,0.615134606616892,1,2,it,WCE,Europe
 'cd3d048b5a',extremes,Precipitation,#d60d2b,wmo,pioggia italia,2026-07-25T05:29:00+00:00,Italy,0.6103032939080616,2,3,it,MED,Europe
-'c88b43e0ba',extremes,Snow&Ice,#d60d2b,wmo,gelo argentino,2026-08-11T04:01:00+00:00,Argentina,0.6077274783229809,0,1,it,SES,South-America
 'da505455fb',extremes,Thunderstorm,#53785a,wmo,temporale sicilia,2026-07-27T06:05:00+00:00,Italy,0.6075432491291958,1,2,it,MED,Europe
-'c3acc1216a',extremes,Wildfire,#d60d2b,effis,incendio italia matera rotondella,2026-08-12T04:22:00+00:00,Italy,0.6069405563589838,0,1,it,MED,Europe
 '540c976e59',extremes,Heat Wave,#c40202,wmo,ondata di caldo sardegna,2026-07-08T05:37:00+00:00,Italy,0.6067933361102926,2,2,it,MED,Europe
-'561cd55015',extremes,Wildfire,#d60d2b,effis,incendio boschivo latina italia,2026-08-09T03:59:00+00:00,Italy,0.6055072327174162,1,2,it,MED,Europe
 '6639b35762',extremes,Wildfire,#d60d2b,effis,incendio boschivo potenza italia,2026-08-13T04:26:00+00:00,Italy,0.6054548061889317,0,1,it,MED,Europe
 'c8bad6097f',extremes,Heat Wave,#c40202,wmo,ondata di caldo basilicata,2026-07-31T05:51:00+00:00,Italy,0.6053954417339866,1,1,it,MED,Europe
 'ddcb5d8eb9',extremes,Thunderstorm,#53785a,wmo,maltempo emilia e romagna,2026-07-18T05:10:00+00:00,Italy,0.6052918981669624,2,3,it,MED,Europe
@@ -36,6 +33,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9b6136ffec',extremes,Heat Wave,#c40202,wmo,ondata di caldo umbria,2026-07-30T05:24:00+00:00,Italy,0.59594040848275,2,2,it,MED,Europe
 '8e5338dae6',extremes,Thunderstorm,#53785a,wmo,salve italia,2026-08-07T04:37:00+00:00,Italy,0.5936031050619202,2,2,it,MED,Europe
 'd35eaa61f3',extremes,Heat Wave,#c40202,meteo,alta temperatura italia,2026-08-07T11:06:00+00:00,Italy,0.5909773263614202,2,2,it,MED,Europe
+'561cd55015',extremes,Wildfire,#d60d2b,effis,incendio boschivo latina italia,2026-08-09T03:59:00+00:00,Italy,0.5899811778098037,2,2,it,MED,Europe
 '02711610b5',extremes,Storm,#b3b2b1,wmo,tempesta argentina,2026-07-17T05:27:00+00:00,Argentina,0.5850218535344747,1,1,it,SES,South-America
 '71a0eef64a',extremes,Earthquake,#870007,usgs,terremoto santa domenica,2026-07-24T05:35:00+00:00,Italy,0.5818159388497977,1,2,it,MED,Europe
 '75e56eac2a',extremes,Thunderstorm,#53785a,wmo,temporale umbria,2026-07-21T05:36:00+00:00,Italy,0.578646605493293,2,2,it,MED,Europe
@@ -149,8 +147,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9745b37167',extremes,Storm,#b3b2b1,wmo,marcia della tempesta,2026-07-11T05:27:00+00:00,Italy,0.5192276137744795,1,1,it,MED,Europe
 '117e9a9455',extremes,Storm,#b3b2b1,wmo,mareggiata calabria,2026-07-24T05:36:00+00:00,Italy,0.5169780322576724,1,1,it,MED,Europe
 'e3a5e377d1',extremes,Heat Wave,#c40202,wmo,ondata di caldo val d'hérens,2026-07-14T05:14:00+00:00,Switzerland,0.5169325194526738,1,1,it,WCE,Europe
+'c88b43e0ba',extremes,Snow&Ice,#d60d2b,wmo,gelo argentino,2026-08-11T04:01:00+00:00,Argentina,0.5165683565745337,1,1,it,SES,South-America
 'ae7c5ba2c1',extremes,Heat Wave,#c40202,wmo,ondata di caldo val de ruz colombier,2026-07-11T05:27:00+00:00,Switzerland,0.5160479669303265,1,1,it,WCE,Europe
 'bfe8b114a8',extremes,Storm,#b3b2b1,wmo,mareggiata valle d'aosta,2026-07-10T06:27:00+00:00,Italy,0.51590853248695,1,1,it,MED,Europe
+'c3acc1216a',extremes,Wildfire,#d60d2b,effis,incendio italia matera rotondella,2026-08-12T04:22:00+00:00,Italy,0.5158994729051363,1,1,it,MED,Europe
 '6c6666b2af',extremes,Precipitation,#d60d2b,wmo,precipitazioni argentina,2026-07-30T05:24:00+00:00,Argentina,0.5154601465782865,1,1,it,SES,South-America
 '51f6808ed3',extremes,Thunderstorm,#53785a,wmo,temporale liguria,2026-07-14T05:14:00+00:00,Italy,0.515327115737401,3,1,it,MED,Europe
 '16664cc668',extremes,Heat Wave,#c40202,wmo,ondata di caldo verzasca,2026-07-08T05:37:00+00:00,Switzerland,0.5151995453890443,1,1,it,WCE,Europe
