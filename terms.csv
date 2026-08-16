@@ -224,6 +224,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '93ee21e413',extremes,Heat Wave,#c40202,wmo,ondata di caldo gersau engelbergertal,2026-07-12T05:43:00+00:00,Switzerland,0.4968495927104989,1,1,it,WCE,Europe
 '8ef8f7a322',extremes,Heat Wave,#c40202,wmo,ondata di caldo bienne neuchâtel,2026-07-09T06:27:00+00:00,Switzerland,0.4966125879454793,1,1,it,WCE,Europe
 '92fd344243',extremes,Heat Wave,#c40202,wmo,ondata di caldo laufental,2026-07-12T05:43:00+00:00,Switzerland,0.4959507736741654,1,1,it,WCE,Europe
+'0a36c64301',extremes,Thunderstorm,#53785a,wmo,grandine piemonte,2026-07-14T05:14:00+00:00,Italy,0.4958075689721627,1,2,it,MED,Europe
 '72ffb98e6f',extremes,Heat Wave,#c40202,wmo,ondata di caldo flüelen unterschächen,2026-07-13T05:53:00+00:00,Switzerland,0.4957621340167348,1,1,it,WCE,Europe
 '046e022236',extremes,Wildfire,#d60d2b,effis,wild fire italia l’aquila rocca di cambio,2026-08-08T03:51:00+00:00,Italy,0.4955337913587463,1,1,it,MED,Europe
 'bf3ba4966a',extremes,Heat Wave,#c40202,wmo,ondata di caldo domleschg,2026-07-13T05:53:00+00:00,Switzerland,0.4949680011734956,1,1,it,WCE,Europe
@@ -284,7 +285,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f9a3abc8c2',extremes,Landslide,#572c03,random,colata di fango,2026-07-13T05:53:00+00:00,,0.4701097704714772,1,2,it,,
 '59b529f428',extremes,Thunderstorm,#53785a,random,grandinata,2026-07-08T05:37:00+00:00,,0.4700345611775555,1,2,it,,
 '80fa381938',extremes,Thunderstorm,#53785a,wmo,temporale friuli venezia giulia,2026-07-15T05:15:00+00:00,Italy,0.4697548550061472,1,2,it,MED,Europe
-'0a36c64301',extremes,Thunderstorm,#53785a,wmo,grandine piemonte,2026-07-14T05:14:00+00:00,Italy,0.4690621864913144,0,1,it,MED,Europe
 '90cbdf698e',extremes,Heat Wave,#c40202,wmo,ondata di caldo geneve,2026-07-31T05:51:00+00:00,Switzerland,0.4690470536021744,1,1,it,WCE,Europe
 '7a263703cd',extremes,Heat Wave,#c40202,wmo,ondata di caldo sarnen lungern,2026-07-12T05:43:00+00:00,Switzerland,0.4676632871671176,1,1,it,WCE,Europe
 '4ce21d4729',extremes,Heat Wave,#c40202,wmo,ondata di caldo st.gallen rorschach,2026-07-12T05:43:00+00:00,Switzerland,0.4668438399427276,1,1,it,WCE,Europe
