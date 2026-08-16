@@ -8,21 +8,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e529bb6ac5',extremes,Precipitation,#d60d2b,wmo,pioggia argentina,2026-07-30T05:24:00+00:00,Argentina,0.6546900129999947,1,2,it,SES,South-America
 '997a2e2157',extremes,Earthquake,#870007,usgs,terremoto argentina,2026-08-07T09:56:00+00:00,Argentina,0.6515636855033746,1,2,it,SES,South-America
 'd90bfca4a4',extremes,Storm,#b3b2b1,wmo,tempesta sardegna,2026-07-02T06:24:00+00:00,Italy,0.6498341258362237,1,2,it,MED,Europe
-'ce6c3047c4',extremes,Wildfire,#d60d2b,effis,macchia d'olio italia como como,2026-08-15T03:13:00+00:00,Italy,0.6482287512568882,0,1,it,WCE,Europe
 '02711610b5',extremes,Storm,#b3b2b1,wmo,tempesta argentina,2026-07-17T05:27:00+00:00,Argentina,0.6478686355043035,2,2,it,SES,South-America
-'4a1aad10f1',extremes,Wildfire,#d60d2b,effis,fuoco selvaggio italia pordenone tramonti di sotto,2026-08-15T03:13:00+00:00,Italy,0.6461208951899199,0,1,it,WCE,Europe
-'812e9e4e70',extremes,Wildfire,#d60d2b,effis,incendio italia udine tolmezzo,2026-08-14T04:24:00+00:00,Italy,0.6450190143867486,0,1,it,WCE,Europe
 '902e65f81a',extremes,Thunderstorm,#53785a,wmo,temporale abruzzo,2026-08-02T05:42:00+00:00,Italy,0.6441954078776336,2,2,it,MED,Europe
-'c766b34375',extremes,Wildfire,#d60d2b,effis,incendio violento italia cosenza scala coeli,2026-08-14T04:24:00+00:00,Italy,0.6440267342862682,0,1,it,MED,Europe
-'67ec2b407b',extremes,Wildfire,#d60d2b,effis,macchia d'olio italia bari ruvo di puglia,2026-08-14T04:24:00+00:00,Italy,0.6439514976373231,0,1,it,MED,Europe
-'b07044c40e',extremes,Wildfire,#d60d2b,effis,incendio boschivo italia bari ruvo di puglia,2026-08-14T04:24:00+00:00,Italy,0.6435687760931836,0,1,it,MED,Europe
-'1fddab769d',extremes,Wildfire,#d60d2b,effis,incendio boschivo italia foggia accadia,2026-08-14T04:24:00+00:00,Italy,0.6421572873748435,0,1,it,MED,Europe
-'7e28328f61',extremes,Wildfire,#d60d2b,effis,incendio boschivo italia foggia biccari,2026-08-14T04:24:00+00:00,Italy,0.6416490290260374,0,1,it,MED,Europe
-'f1ce7e7efe',extremes,Wildfire,#d60d2b,effis,incendio italia latina monte san biagio,2026-08-14T04:24:00+00:00,Italy,0.6407396240039066,0,1,it,MED,Europe
-'5d1525b986',extremes,Wildfire,#d60d2b,effis,incendio boschivo italia cosenza tortora,2026-08-07T09:56:00+00:00,Italy,0.6403959402453768,0,1,it,MED,Europe
 '4495d1fc35',extremes,Thunderstorm,#53785a,wmo,maltempo friuli venezia giulia,2026-07-10T06:27:00+00:00,Italy,0.6402443061224116,1,2,it,MED,Europe
-'9eba3fc3b3',extremes,Wildfire,#d60d2b,effis,incendio boschivo italia udine amaro,2026-08-16T03:28:00+00:00,Italy,0.6377328263138184,0,1,it,WCE,Europe
-'375f6bd238',extremes,Wildfire,#d60d2b,effis,incendio boschivo salerno italia,2026-08-12T04:22:00+00:00,Italy,0.6345062356345251,0,1,it,MED,Europe
 'cb15bc1996',extremes,Heat Wave,#c40202,wmo,ondata di caldo puglia,2026-07-17T05:27:00+00:00,Italy,0.6274206113521362,1,2,it,MED,Europe
 'a03bfb69ba',extremes,Drought,#edc291,edo,periodo di siccità in svizzera,2026-07-18T05:10:00+00:00,Switzerland,0.6245401016082883,1,2,it,WCE,Europe
 '0ea7108e6e',extremes,Heat Wave,#c40202,wmo,ondata di caldo calabria,2026-08-07T09:56:00+00:00,Italy,0.6227889956916326,2,2,it,MED,Europe
@@ -91,26 +79,38 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '78021233b7',extremes,Heat Wave,#c40202,wmo,ondata di caldo toscana,2026-07-08T05:37:00+00:00,Italy,0.5520322037790603,2,2,it,MED,Europe
 'a94d703621',extremes,Wildfire,#d60d2b,effis,incendio boschivo italia vibo valentia cessaniti,2026-08-11T04:01:00+00:00,Italy,0.5517699560164888,1,1,it,MED,Europe
 'e050960c85',extremes,Heat Wave,#c40202,wmo,ondata di caldo marche,2026-07-18T05:10:00+00:00,Italy,0.551583122454338,1,1,it,MED,Europe
+'ce6c3047c4',extremes,Wildfire,#d60d2b,effis,macchia d'olio italia como como,2026-08-15T03:13:00+00:00,Italy,0.550994438568355,1,1,it,WCE,Europe
 '50d4f5eeb6',extremes,Wildfire,#d60d2b,effis,incendio violento italia rieti rieti,2026-08-08T03:51:00+00:00,Italy,0.5508310253236745,1,1,it,MED,Europe
 '410aad01f0',extremes,Wildfire,#d60d2b,effis,incendio italia roma grottaferrata,2026-08-14T04:24:00+00:00,Italy,0.5500086939266077,1,1,it,MED,Europe
 'bc07c23ed1',extremes,Wildfire,#d60d2b,effis,incendio vercelli italia,2026-08-07T09:56:00+00:00,Italy,0.5499946562845152,1,2,it,WCE,Europe
 '6da463bace',extremes,Wildfire,#d60d2b,effis,incendio boschivo italia messina barcellona pozzo di gotto,2026-08-11T04:01:00+00:00,Italy,0.5498166467621712,1,1,it,MED,Europe
 'fb96ddc2b9',extremes,Wildfire,#d60d2b,effis,incendio italia potenza ginestra,2026-08-14T04:24:00+00:00,Italy,0.5493228981293687,1,1,it,MED,Europe
+'4a1aad10f1',extremes,Wildfire,#d60d2b,effis,fuoco selvaggio italia pordenone tramonti di sotto,2026-08-15T03:13:00+00:00,Italy,0.5492027609114319,1,1,it,WCE,Europe
 '29a2ae113b',extremes,Wildfire,#d60d2b,effis,incendio boschivo italia catania catania,2026-08-13T04:26:00+00:00,Italy,0.5487566312330922,1,1,it,MED,Europe
 '1291eb9374',extremes,Wildfire,#d60d2b,effis,incendio italia agrigento naro,2026-08-14T04:24:00+00:00,Italy,0.5486921596793508,1,1,it,MED,Europe
 '51964b17e8',extremes,Wildfire,#d60d2b,effis,incendio boschivo italia latina fondi,2026-08-14T04:24:00+00:00,Italy,0.5486172695153335,1,1,it,MED,Europe
+'812e9e4e70',extremes,Wildfire,#d60d2b,effis,incendio italia udine tolmezzo,2026-08-14T04:24:00+00:00,Italy,0.5482661622287363,1,1,it,WCE,Europe
 '751daa527f',extremes,Wildfire,#d60d2b,effis,incendio boschivo italia potenza melfi,2026-08-13T04:26:00+00:00,Italy,0.547701972757848,1,1,it,MED,Europe
+'c766b34375',extremes,Wildfire,#d60d2b,effis,incendio violento italia cosenza scala coeli,2026-08-14T04:24:00+00:00,Italy,0.5474227241433279,1,1,it,MED,Europe
+'67ec2b407b',extremes,Wildfire,#d60d2b,effis,macchia d'olio italia bari ruvo di puglia,2026-08-14T04:24:00+00:00,Italy,0.5473587729917246,1,1,it,MED,Europe
 '9eb9330edc',extremes,Wildfire,#d60d2b,effis,incendio violento italia firenze firenzuola,2026-08-09T03:59:00+00:00,Italy,0.5471461040778703,1,1,it,MED,Europe
 '757a24f6e9',extremes,Thunderstorm,#53785a,wmo,ave emilia e romagna,2026-07-14T05:14:00+00:00,Italy,0.5470831886629842,1,1,it,MED,Europe
+'b07044c40e',extremes,Wildfire,#d60d2b,effis,incendio boschivo italia bari ruvo di puglia,2026-08-14T04:24:00+00:00,Italy,0.547033459679206,1,1,it,MED,Europe
 '116616eb5b',extremes,Storm,#b3b2b1,wmo,mareggiata emilia e romagna,2026-08-02T05:42:00+00:00,Italy,0.5462243317635177,1,1,it,MED,Europe
+'1fddab769d',extremes,Wildfire,#d60d2b,effis,incendio boschivo italia foggia accadia,2026-08-14T04:24:00+00:00,Italy,0.5458336942686169,1,1,it,MED,Europe
 '713c7f59fc',extremes,Wildfire,#d60d2b,effis,macchia d'olio italia latina itri,2026-08-10T04:13:00+00:00,Italy,0.5458070415505928,1,1,it,MED,Europe
+'7e28328f61',extremes,Wildfire,#d60d2b,effis,incendio boschivo italia foggia biccari,2026-08-14T04:24:00+00:00,Italy,0.5454016746721317,1,1,it,MED,Europe
+'f1ce7e7efe',extremes,Wildfire,#d60d2b,effis,incendio italia latina monte san biagio,2026-08-14T04:24:00+00:00,Italy,0.5446286804033206,1,1,it,MED,Europe
+'5d1525b986',extremes,Wildfire,#d60d2b,effis,incendio boschivo italia cosenza tortora,2026-08-07T09:56:00+00:00,Italy,0.5443365492085703,1,1,it,MED,Europe
 '1bc13e6f05',extremes,Wildfire,#d60d2b,effis,macchia d'olio italia catanzaro gizzeria,2026-08-11T04:01:00+00:00,Italy,0.5421999004119085,1,1,it,MED,Europe
+'9eba3fc3b3',extremes,Wildfire,#d60d2b,effis,incendio boschivo italia udine amaro,2026-08-16T03:28:00+00:00,Italy,0.5420729023667457,1,1,it,WCE,Europe
 '9ed13b0581',extremes,Wildfire,#d60d2b,effis,macchia d'olio italia salerno vibonati,2026-08-13T04:26:00+00:00,Italy,0.5420129442269314,1,1,it,MED,Europe
 '9cc35dbe55',extremes,Wildfire,#d60d2b,effis,incendio italia catania mazzarrone,2026-08-13T04:26:00+00:00,Italy,0.5415493531564989,1,1,it,MED,Europe
 '32e74ad8ff',extremes,Heat Wave,#c40202,wmo,ondata di caldo molisano,2026-07-08T05:37:00+00:00,Italy,0.5413114528018174,1,1,it,MED,Europe
 '5f8d35147a',extremes,Heat Wave,#c40202,wmo,ondata di caldo abruzzo,2026-07-08T05:37:00+00:00,Italy,0.5400642439350203,1,1,it,MED,Europe
 '5feee5cbda',extremes,Wildfire,#d60d2b,effis,incendio violento vibo valentia italia,2026-08-08T03:51:00+00:00,Italy,0.5400034134297081,1,1,it,MED,Europe
 '0463b19b42',extremes,Wildfire,#d60d2b,effis,incendio boschivo l'aquila italia,2026-08-09T03:59:00+00:00,Italy,0.5394961255712778,1,1,it,MED,Europe
+'375f6bd238',extremes,Wildfire,#d60d2b,effis,incendio boschivo salerno italia,2026-08-12T04:22:00+00:00,Italy,0.5394803152893464,1,1,it,MED,Europe
 '5e71b34dbe',extremes,Wildfire,#d60d2b,effis,incendio campobasso italia,2026-08-09T03:59:00+00:00,Italy,0.539394709403427,1,1,it,MED,Europe
 '6f542a0e91',extremes,Wildfire,#d60d2b,effis,incendio boschivo italia salerno calvanico,2026-08-12T04:22:00+00:00,Italy,0.5391602263920068,1,1,it,MED,Europe
 '8eb9ab61eb',extremes,Wildfire,#d60d2b,effis,incendio boschivo italia pavia carbonara al ticino,2026-08-13T04:26:00+00:00,Italy,0.5386913827368792,1,1,it,WCE,Europe
