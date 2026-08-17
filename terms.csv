@@ -274,7 +274,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '55c39b351d',extremes,Storm,#b3b2b1,random,diavolo di polvere,2026-07-14T05:14:00+00:00,,0.4796599583181395,1,2,it,,
 'b5cb89d511',extremes,Drought,#edc291,edo,siccità svizzera,2026-08-01T05:42:00+00:00,Switzerland,0.4772078140945571,0,1,it,WCE,Europe
 '740ea7b0aa',extremes,Heat Wave,#c40202,wmo,ondata di caldo obersimmental,2026-07-28T05:31:00+00:00,Switzerland,0.4763305025356614,1,1,it,WCE,Europe
-'a217a5cf16',extremes,Thunderstorm,#53785a,wmo,maltempo trentino alto adige,2026-07-30T05:24:00+00:00,Italy,0.4762182996621988,0,1,it,MED,Europe
 '7c1cb02879',extremes,Wildfire,#d60d2b,effis,incendio boschivo ragusa italia,2026-08-07T09:56:00+00:00,Italy,0.476106707119236,0,1,it,MED,Europe
 '33189dd77a',extremes,Heat Wave,#c40202,wmo,ondata di caldo luzern alpnach,2026-07-12T05:43:00+00:00,Switzerland,0.4759248121292277,1,1,it,WCE,Europe
 'd59a7e48d7',extremes,Drought,#edc291,random,evapotraspirazione,2026-07-08T05:37:00+00:00,,0.4758291266789862,1,2,it,,
@@ -372,6 +371,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a822664054',extremes,Storm,#b3b2b1,wmo,tempesta wahlern plaffeien,2026-07-15T05:15:00+00:00,Switzerland,0.4058101728842139,1,1,it,WCE,Europe
 '74b1834ef6',extremes,Wildfire,#d60d2b,effis,incendio boschivo cuneo italia,2026-08-07T09:56:00+00:00,Italy,0.40526412521245,1,1,it,MED,Europe
 'b1d56de062',extremes,Snow&Ice,#d60d2b,random,brina,2026-07-07T06:30:00+00:00,,0.4049894102741714,1,2,it,,
+'a217a5cf16',extremes,Thunderstorm,#53785a,wmo,maltempo trentino alto adige,2026-07-30T05:24:00+00:00,Italy,0.404935569712869,1,1,it,MED,Europe
 '390332f107',extremes,Storm,#b3b2b1,wmo,tempesta küblis klosters,2026-07-17T05:27:00+00:00,Switzerland,0.4046350221331534,1,1,it,WCE,Europe
 '64f2fc2dba',extremes,Storm,#b3b2b1,wmo,mareggiata glarona nord mitte,2026-07-15T05:15:00+00:00,Switzerland,0.4042478188221984,1,1,it,WCE,Europe
 '3c3495908e',extremes,Storm,#b3b2b1,wmo,tempesta aarau lenzburg,2026-07-17T05:27:00+00:00,Switzerland,0.4031606318329552,1,1,it,WCE,Europe
