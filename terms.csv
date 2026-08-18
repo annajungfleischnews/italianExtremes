@@ -4,6 +4,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9d51f7a7ec',extremes,Thunderstorm,#53785a,wmo,temporale piemontese,2026-07-15T05:15:00+00:00,Italy,0.6819022556249225,2,2,it,MED,Europe
 '63b8afd7a4',extremes,Storm,#b3b2b1,wmo,tempesta lazio,2026-07-26T05:46:00+00:00,Italy,0.677233258787,1,2,it,MED,Europe
 '5e27c3e2fc',extremes,Wildfire,#d60d2b,effis,incendio italia messina messina,2026-08-09T03:59:00+00:00,Italy,0.6678594358559287,2,2,it,MED,Europe
+'27ecdd832f',extremes,Heat Wave,#c40202,wmo,ondata di caldo emilia e romagna,2026-07-30T05:24:00+00:00,Italy,0.6624714075938113,0,1,it,MED,Europe
 'e529bb6ac5',extremes,Precipitation,#d60d2b,wmo,pioggia argentina,2026-07-30T05:24:00+00:00,Argentina,0.6546900129999947,1,2,it,SES,South-America
 '997a2e2157',extremes,Earthquake,#870007,usgs,terremoto argentina,2026-08-07T09:56:00+00:00,Argentina,0.6515636855033746,1,2,it,SES,South-America
 'd90bfca4a4',extremes,Storm,#b3b2b1,wmo,tempesta sardegna,2026-07-02T06:24:00+00:00,Italy,0.6498341258362237,1,2,it,MED,Europe
@@ -11,12 +12,19 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '902e65f81a',extremes,Thunderstorm,#53785a,wmo,temporale abruzzo,2026-08-02T05:42:00+00:00,Italy,0.6441954078776336,2,2,it,MED,Europe
 '4495d1fc35',extremes,Thunderstorm,#53785a,wmo,maltempo friuli venezia giulia,2026-07-10T06:27:00+00:00,Italy,0.6402443061224116,1,2,it,MED,Europe
 'cb15bc1996',extremes,Heat Wave,#c40202,wmo,ondata di caldo puglia,2026-07-17T05:27:00+00:00,Italy,0.6274206113521362,1,2,it,MED,Europe
+'bfe8b114a8',extremes,Storm,#b3b2b1,wmo,mareggiata valle d'aosta,2026-07-31T05:51:00+00:00,Italy,0.6251208370821962,0,1,it,MED,Europe
 'a03bfb69ba',extremes,Drought,#edc291,edo,periodo di siccità in svizzera,2026-07-18T05:10:00+00:00,Switzerland,0.6245401016082883,1,2,it,WCE,Europe
 '0ea7108e6e',extremes,Heat Wave,#c40202,wmo,ondata di caldo calabria,2026-08-07T09:56:00+00:00,Italy,0.6227889956916326,2,2,it,MED,Europe
 '98067269b6',extremes,Heat Wave,#c40202,wmo,ondata di caldo piemonte,2026-07-09T06:27:00+00:00,Italy,0.6218737488095071,1,3,it,MED,Europe
 '12060a7df7',extremes,Storm,#b3b2b1,wmo,mareggiata italia,2026-07-25T05:29:00+00:00,Italy,0.6189053591017637,2,1,it,MED,Europe
+'b0fbe76275',extremes,Wildfire,#d60d2b,effis,incendio italia latina formia,2026-08-14T04:24:00+00:00,Italy,0.618096723864926,0,1,it,MED,Europe
+'fbc3c6bc05',extremes,Wildfire,#d60d2b,effis,incendio boschivo italia salerno montecorice,2026-08-15T03:13:00+00:00,Italy,0.6153635115199657,0,1,it,MED,Europe
+'c02d0c74d5',extremes,Wildfire,#d60d2b,effis,incendio italia salerno mercato san severino,2026-08-14T04:24:00+00:00,Italy,0.615138801920685,0,1,it,MED,Europe
 'a68fadbbf5',extremes,Drought,#edc291,edo,siccità svizzera,2026-07-04T05:59:00+00:00,Switzerland,0.615134606616892,1,2,it,WCE,Europe
 'd464543475',extremes,Heat Wave,#c40202,wmo,ondata di caldo lazio,2026-07-30T05:24:00+00:00,Italy,0.6131518271193754,2,2,it,MED,Europe
+'9f8caa9198',extremes,Wildfire,#d60d2b,effis,incendio boschivo italia cosenza oriolo,2026-08-14T04:24:00+00:00,Italy,0.6129151325769745,0,1,it,MED,Europe
+'0897f0fe25',extremes,Wildfire,#d60d2b,effis,incendio agrigento italia,2026-08-14T04:24:00+00:00,Italy,0.6124784497773524,0,1,it,MED,Europe
+'5f8d35147a',extremes,Heat Wave,#c40202,wmo,ondata di caldo abruzzo,2026-08-01T05:42:00+00:00,Italy,0.6120573849809833,0,1,it,MED,Europe
 'cd3d048b5a',extremes,Precipitation,#d60d2b,wmo,pioggia italia,2026-07-25T05:29:00+00:00,Italy,0.6103032939080616,2,3,it,MED,Europe
 'da505455fb',extremes,Thunderstorm,#53785a,wmo,temporale sicilia,2026-07-27T06:05:00+00:00,Italy,0.6075432491291958,1,2,it,MED,Europe
 '540c976e59',extremes,Heat Wave,#c40202,wmo,ondata di caldo sardegna,2026-07-08T05:37:00+00:00,Italy,0.6067933361102926,2,2,it,MED,Europe
