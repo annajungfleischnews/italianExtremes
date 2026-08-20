@@ -47,7 +47,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'eceb9ef4c9',extremes,Thunderstorm,#53785a,wmo,grandine trentino alto adige,2026-07-18T05:10:00+00:00,Italy,0.566653093061175,1,2,it,MED,Europe
 '9cf1d947d6',extremes,Heat Wave,#c40202,wmo,ondata di caldo friuli venezia giulia,2026-07-30T05:24:00+00:00,Italy,0.5660042979150712,1,1,it,MED,Europe
 'e67cf9f7ff',extremes,Wildfire,#d60d2b,effis,incendio violento italia vibo valentia sant'onofrio,2026-08-09T03:59:00+00:00,Italy,0.5657747438122598,1,1,it,MED,Europe
-'b1aca6ddef',extremes,Wildfire,#d60d2b,effis,macchia d'olio italia latina sonnino,2026-08-09T03:59:00+00:00,Italy,0.5654836494002469,1,1,it,MED,Europe
 'f37f31b231',extremes,Wildfire,#d60d2b,effis,incendio boschivo italia foggia san paolo di civitate,2026-08-08T03:51:00+00:00,Italy,0.5654547416911992,1,1,it,MED,Europe
 'c74f7180da',extremes,Wildfire,#d60d2b,effis,fuoco selvaggio italia udine amaro,2026-08-14T04:24:00+00:00,Italy,0.5647463315800222,1,1,it,WCE,Europe
 '25e89c2734',extremes,Thunderstorm,#53785a,wmo,salve toscana,2026-07-25T05:29:00+00:00,Italy,0.5646423531724681,1,2,it,MED,Europe
@@ -249,6 +248,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '2f2f638d6d',extremes,Heat Wave,#c40202,wmo,ondata di caldo niedersimmental,2026-07-13T05:53:00+00:00,Switzerland,0.4818317551174654,1,1,it,WCE,Europe
 'bb9ac4cdb7',extremes,Precipitation,#d60d2b,wmo,acquazzone trentino alto adige,2026-07-14T05:14:00+00:00,Italy,0.4813099955124292,1,1,it,MED,Europe
 '45278c4de3',extremes,Drought,#edc291,edo,periodo di siccità in Somalia,2026-07-12T05:43:00+00:00,Somalia,0.4808650465612593,1,1,it,NEAF,Africa
+'b1aca6ddef',extremes,Wildfire,#d60d2b,effis,macchia d'olio italia latina sonnino,2026-08-09T03:59:00+00:00,Italy,0.48066110199020984,2,1,it,MED,Europe
 '68c0fb7041',extremes,Wildfire,#d60d2b,effis,incendio italia caserta sessa aurunca,2026-08-11T04:01:00+00:00,Italy,0.4805553547970537,2,1,it,MED,Europe
 'c250dc5acb',extremes,Wildfire,#d60d2b,effis,incendio italia campobasso montefalcone nel sannio,2026-08-09T03:59:00+00:00,Italy,0.4801145855594386,2,1,it,MED,Europe
 '16e539790d',extremes,Heat Wave,#c40202,wmo,ondata di caldo schangnau sigriswil,2026-07-13T05:53:00+00:00,Switzerland,0.4800977285394786,1,1,it,WCE,Europe
@@ -377,7 +377,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b8eb47bf7f',extremes,Heat Wave,#c40202,random,cupola di calore,2026-07-22T05:35:00+00:00,,0.3454258795399148,0,1,it,,
 '5ea4d45f08',extremes,Tropical Cyclone,#4f4f4f,random,approdo,2026-07-09T06:27:00+00:00,,0.3425701131196185,1,2,it,,
 '6176f14b3f',extremes,Flood,#030ba1,aidr,alluvione svizzera,2026-07-19T05:37:00+00:00,Switzerland,0.3396465258928408,0,1,it,WCE,Europe
-'283b154c38',extremes,Wet Spell,#d60d2b,random,periodo umido,2026-07-13T05:53:00+00:00,,0.3377343370635751,0,1,it,,
 'ef54296dab',extremes,Snow&Ice,#d60d2b,random,lastrone di ghiaccio,2026-07-23T05:39:00+00:00,,0.3329997500485495,0,1,it,,
 '80462e91eb',extremes,Tropical Cyclone,#4f4f4f,random,ciclone,2026-07-22T05:35:00+00:00,,0.3325133210944728,0,1,it,,
 '3fa143a609',extremes,Storm,#b3b2b1,random,bufera di polvere,2026-07-23T05:39:00+00:00,,0.3312457082391634,0,1,it,,
