@@ -1,5 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'9d51f7a7ec',extremes,Thunderstorm,#53785a,wmo,temporale piemontese,2026-07-15T05:15:00+00:00,Italy,0.6819022556249225,2,2,it,MED,Europe
 '63b8afd7a4',extremes,Storm,#b3b2b1,wmo,tempesta lazio,2026-07-26T05:46:00+00:00,Italy,0.677233258787,1,2,it,MED,Europe
 '5e27c3e2fc',extremes,Wildfire,#d60d2b,effis,incendio italia messina messina,2026-08-09T03:59:00+00:00,Italy,0.6678594358559287,2,2,it,MED,Europe
 'e529bb6ac5',extremes,Precipitation,#d60d2b,wmo,pioggia argentina,2026-07-30T05:24:00+00:00,Argentina,0.6546900129999947,1,2,it,SES,South-America
@@ -194,6 +193,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0c3d21da24',extremes,Precipitation,#d60d2b,wmo,acquazzone italia,2026-07-25T05:29:00+00:00,Italy,0.5016800091165302,1,1,it,MED,Europe
 'cd8395100f',extremes,Storm,#b3b2b1,wmo,mareggiata puglia,2026-07-20T05:54:00+00:00,Italy,0.5014400318644848,1,1,it,MED,Europe
 '95738e04d7',extremes,Heat Wave,#c40202,wmo,ondata di caldo turbenthal sirnach,2026-07-29T05:37:00+00:00,Switzerland,0.5010150645987542,1,1,it,WCE,Europe
+'bc244027f5',extremes,Wildfire,#d60d2b,effis,incendio torino italia,2026-08-07T09:56:00+00:00,Italy,0.5002695903849022,1,2,it,WCE,Europe
 '731c9c6599',extremes,Storm,#b3b2b1,wmo,tempesta basilicata,2026-07-24T05:36:00+00:00,Italy,0.4990095078383467,1,1,it,MED,Europe
 '54f5b8faba',extremes,Thunderstorm,#53785a,wmo,temporale trentino alto adige,2026-07-23T05:40:00+00:00,Italy,0.4986745187781612,1,2,it,MED,Europe
 '604d8535c2',extremes,Heat Wave,#c40202,wmo,ondata di caldo burgdorf limpachtal,2026-07-28T05:31:00+00:00,Switzerland,0.497993591688842,1,1,it,WCE,Europe
@@ -247,8 +247,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '35c1fa7ab1',extremes,Wildfire,#d60d2b,effis,fuoco violento italia potenza genzano di lucania,2026-08-12T04:22:00+00:00,Italy,0.473576308731946,2,1,it,MED,Europe
 '1fefacbadb',extremes,Iceberg,#d60d2b,random,distacco del ghiacciaio,2026-07-15T05:15:00+00:00,,0.4730521415973538,1,2,it,,
 'a489be7cf5',extremes,Wildfire,#d60d2b,effis,macchia d'olio italia caltanissetta niscemi,2026-08-10T04:13:00+00:00,Italy,0.4714335474629731,2,1,it,MED,Europe
-'682f2b6237',extremes,Wildfire,#d60d2b,effis,incendio boschivo cosenza italia,2026-08-07T09:56:00+00:00,Italy,0.470638751605922,0,1,it,MED,Europe
-'bc244027f5',extremes,Wildfire,#d60d2b,effis,incendio torino italia,2026-08-07T09:56:00+00:00,Italy,0.4703759357469438,0,1,it,WCE,Europe
 'f9a3abc8c2',extremes,Landslide,#572c03,random,colata di fango,2026-07-13T05:53:00+00:00,,0.4701097704714772,1,2,it,,
 '59b529f428',extremes,Thunderstorm,#53785a,random,grandinata,2026-07-08T05:37:00+00:00,,0.4700345611775555,1,2,it,,
 '80fa381938',extremes,Thunderstorm,#53785a,wmo,temporale friuli venezia giulia,2026-07-15T05:15:00+00:00,Italy,0.4697548550061472,1,2,it,MED,Europe
@@ -328,6 +326,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'eac22875b2',extremes,Thunderstorm,#53785a,wmo,temporale burgdorf limpachtal,2026-07-17T05:27:00+00:00,Switzerland,0.4021152744465933,1,1,it,WCE,Europe
 '8500234aea',extremes,Storm,#b3b2b1,wmo,mareggiata schangnau sigriswil,2026-07-17T05:27:00+00:00,Switzerland,0.4005204921889466,1,1,it,WCE,Europe
 '36c2dad553',extremes,Thunderstorm,#53785a,wmo,grandine val medel sumvitg,2026-07-17T05:27:00+00:00,Switzerland,0.4005183667906762,1,1,it,WCE,Europe
+'682f2b6237',extremes,Wildfire,#d60d2b,effis,incendio boschivo cosenza italia,2026-08-07T09:56:00+00:00,Italy,0.40004293886503367,1,1,it,MED,Europe
 '84dfdca0f8',extremes,Thunderstorm,#53785a,random,grandine,2026-07-29T05:37:00+00:00,,0.3930536126863927,0,1,it,,
 '54a03cd7ed',extremes,Thunderstorm,#53785a,wmo,grandine schanfigg,2026-07-17T05:27:00+00:00,Switzerland,0.3881518564740625,1,1,it,WCE,Europe
 'cedd86dfb6',extremes,Thunderstorm,#53785a,wmo,temporale Liechtenstein,2026-07-15T05:15:00+00:00,Switzerland,0.3754069882870783,0,1,it,WCE,Europe
