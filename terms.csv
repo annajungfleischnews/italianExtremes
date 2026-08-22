@@ -1,8 +1,16 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 '63b8afd7a4',extremes,Storm,#b3b2b1,wmo,tempesta lazio,2026-07-26T05:46:00+00:00,Italy,0.67609831496895,2,2,it,MED,Europe
 '5e27c3e2fc',extremes,Wildfire,#d60d2b,effis,incendio italia messina messina,2026-08-09T03:59:00+00:00,Italy,0.6678594358559287,2,2,it,MED,Europe
+'4a33d67b0a',extremes,Wildfire,#d60d2b,effis,incendio italia salerno colliano,2026-08-21T03:30:00+00:00,Italy,0.6558470663286625,0,1,it,MED,Europe
+'1c89d0bc8e',extremes,Wildfire,#d60d2b,effis,incendio italia caserta sessa aurunca,2026-08-19T03:26:00+00:00,Italy,0.6556921120387397,0,1,it,MED,Europe
 'e529bb6ac5',extremes,Precipitation,#d60d2b,wmo,pioggia argentina,2026-07-30T05:24:00+00:00,Argentina,0.6546900129999947,1,2,it,SES,South-America
+'5cf45bc328',extremes,Wildfire,#d60d2b,effis,macchia d'olio italia firenze barberino val d'elsa,2026-08-21T03:30:00+00:00,Italy,0.6530737534898635,0,1,it,MED,Europe
+'5883909e95',extremes,Wildfire,#d60d2b,effis,incendio boschivo italia reggio di calabria motta san giovanni,2026-08-21T03:30:00+00:00,Italy,0.652826032099135,0,1,it,MED,Europe
 '997a2e2157',extremes,Earthquake,#870007,usgs,terremoto argentina,2026-08-07T09:56:00+00:00,Argentina,0.6515636855033746,1,2,it,SES,South-America
+'69a7224d28',extremes,Wildfire,#d60d2b,effis,incendio italia crotone umbriatico,2026-08-19T03:26:00+00:00,Italy,0.6515368470769436,0,1,it,MED,Europe
+'2ae18a5010',extremes,Wildfire,#d60d2b,effis,incendio caltanissetta italia,2026-08-10T04:13:00+00:00,Italy,0.650985723239521,0,1,it,MED,Europe
+'5da1fdd3af',extremes,Wildfire,#d60d2b,effis,incendio boschivo reggio di calabria italia,2026-08-12T04:22:00+00:00,Italy,0.6501460713526738,0,1,it,MED,Europe
+'74cbd6a909',extremes,Wildfire,#d60d2b,effis,incendio boschivo italia barletta andria trani minervino murge,2026-08-22T03:22:00+00:00,Italy,0.6495223944057987,0,1,it,MED,Europe
 '02711610b5',extremes,Storm,#b3b2b1,wmo,tempesta argentina,2026-07-17T05:27:00+00:00,Argentina,0.6478686355043035,2,2,it,SES,South-America
 '902e65f81a',extremes,Thunderstorm,#53785a,wmo,temporale abruzzo,2026-08-02T05:42:00+00:00,Italy,0.6441954078776336,2,2,it,MED,Europe
 '4495d1fc35',extremes,Thunderstorm,#53785a,wmo,maltempo friuli venezia giulia,2026-07-10T06:27:00+00:00,Italy,0.6402443061224116,1,2,it,MED,Europe
