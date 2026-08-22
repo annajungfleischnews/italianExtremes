@@ -246,7 +246,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '365a9a79c6',extremes,Heat Wave,#c40202,wmo,ondata di caldo val de travers,2026-07-29T05:37:00+00:00,Switzerland,0.4516976704400307,1,1,it,WCE,Europe
 '973af89b5a',extremes,Thunderstorm,#53785a,wmo,temporale calabria,2026-07-24T05:36:00+00:00,Italy,0.4485422041732385,1,1,it,MED,Europe
 '925c8e1c57',extremes,Thunderstorm,#53785a,wmo,maltempo lombardia,2026-07-16T05:25:00+00:00,Italy,0.447935845169146,1,1,it,MED,Europe
-'21cbdf87d9',extremes,Thunderstorm,#53785a,wmo,forte tempo toscana,2026-07-27T06:05:00+00:00,Italy,0.44316239528113927,1,2,it,MED,Europe
+'21cbdf87d9',extremes,Thunderstorm,#53785a,wmo,forte tempo toscana,2026-07-27T06:05:00+00:00,Italy,0.4431623952811392,1,2,it,MED,Europe
 'be99bf68c2',extremes,Thunderstorm,#53785a,wmo,grandine liguria,2026-07-25T05:29:00+00:00,Italy,0.4421337540199782,1,1,it,MED,Europe
 '9d36efcb9c',extremes,Thunderstorm,#53785a,wmo,maltempo sicilia,2026-07-29T05:37:00+00:00,Italy,0.4384549834551829,1,1,it,MED,Europe
 '8742149670',extremes,Thunderstorm,#53785a,wmo,temporale lazio,2026-08-02T05:42:00+00:00,Italy,0.4358305809463204,1,2,it,MED,Europe
@@ -287,6 +287,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '885ba8aa0b',extremes,Wildfire,#d60d2b,effis,incendio boschivo messina italia,2026-08-07T09:56:00+00:00,Italy,0.394293325927161,1,1,it,MED,Europe
 '84dfdca0f8',extremes,Thunderstorm,#53785a,random,grandine,2026-07-29T05:37:00+00:00,,0.3930536126863927,0,1,it,,
 '54a03cd7ed',extremes,Thunderstorm,#53785a,wmo,grandine schanfigg,2026-07-17T05:27:00+00:00,Switzerland,0.3881518564740625,1,1,it,WCE,Europe
+'3fa143a609',extremes,Storm,#b3b2b1,random,bufera di polvere,2026-07-23T05:39:00+00:00,,0.3820088970032889,1,2,it,,
 'cedd86dfb6',extremes,Thunderstorm,#53785a,wmo,temporale Liechtenstein,2026-07-15T05:15:00+00:00,Switzerland,0.3754069882870783,0,1,it,WCE,Europe
 '6edef2c6ba',extremes,Thunderstorm,#53785a,wmo,forte tempo sarnen lungern,2026-07-15T05:15:00+00:00,Switzerland,0.3751290072732498,0,1,it,WCE,Europe
 'f86f66df62',extremes,Thunderstorm,#53785a,wmo,maltempo zofingen triengen,2026-07-15T05:15:00+00:00,Switzerland,0.3744210156617162,0,1,it,WCE,Europe
@@ -311,7 +312,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b8eb47bf7f',extremes,Heat Wave,#c40202,random,cupola di calore,2026-07-22T05:35:00+00:00,,0.3454258795399148,0,1,it,,
 '6176f14b3f',extremes,Flood,#030ba1,aidr,alluvione svizzera,2026-07-19T05:37:00+00:00,Switzerland,0.3396465258928408,0,1,it,WCE,Europe
 '80462e91eb',extremes,Tropical Cyclone,#4f4f4f,random,ciclone,2026-07-22T05:35:00+00:00,,0.3325133210944728,0,1,it,,
-'3fa143a609',extremes,Storm,#b3b2b1,random,bufera di polvere,2026-07-23T05:39:00+00:00,,0.3312457082391634,0,1,it,,
 '8626b81b9b',extremes,Flood,#030ba1,emdat,alluvione zamora chinchipe,2026-07-21T05:36:00+00:00,Ecuador,0.3200075473236523,0,1,it,NWS,South-America
 'f8a513bf41',extremes,Tropical Cyclone,#4f4f4f,random,medicano,2026-07-22T05:35:00+00:00,,0.3111880843581855,1,1,it,,
 '48bbc2ab73',extremes,Thunderstorm,#53785a,wmo,temporale ghana,2026-07-23T05:40:00+00:00,Ghana,0.3090311279189948,0,1,it,WAF,Africa
