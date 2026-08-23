@@ -1,13 +1,21 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 '2ae18a5010',extremes,Wildfire,#d60d2b,effis,incendio caltanissetta italia,2026-08-10T04:13:00+00:00,Italy,0.748114712790554,2,2,it,MED,Europe
 '2aad29daf6',extremes,Wildfire,#d60d2b,effis,incendio firenze italia,2026-08-08T03:51:00+00:00,Italy,0.7367230120896053,2,2,it,MED,Europe
+'89ceda87a2',extremes,Wildfire,#d60d2b,effis,incendio violento reggio di calabria italia,2026-08-14T04:24:00+00:00,Italy,0.7122713235580564,0,1,it,MED,Europe
+'4e7bc5e3bc',extremes,Wildfire,#d60d2b,effis,incendio barletta andria trani italia,2026-08-23T03:30:00+00:00,Italy,0.7083315295832484,0,1,it,MED,Europe
+'675af60a87',extremes,Wildfire,#d60d2b,effis,incendio italia reggio di calabria motta san giovanni,2026-08-23T03:30:00+00:00,Italy,0.6961890912874356,0,1,it,MED,Europe
 '63b8afd7a4',extremes,Storm,#b3b2b1,wmo,tempesta lazio,2026-07-26T05:46:00+00:00,Italy,0.67609831496895,2,2,it,MED,Europe
 '5e27c3e2fc',extremes,Wildfire,#d60d2b,effis,incendio italia messina messina,2026-08-09T03:59:00+00:00,Italy,0.6678594358559287,2,2,it,MED,Europe
+'f5ad5d85c4',extremes,Wildfire,#d60d2b,effis,incendio italia barletta andria trani minervino murge,2026-08-23T03:30:00+00:00,Italy,0.6633997355909981,0,1,it,MED,Europe
+'7d91a412bd',extremes,Wildfire,#d60d2b,effis,incendio boschivo italia cosenza bisignano,2026-08-23T03:30:00+00:00,Italy,0.6576721720862254,0,1,it,MED,Europe
 'e529bb6ac5',extremes,Precipitation,#d60d2b,wmo,pioggia argentina,2026-07-30T05:24:00+00:00,Argentina,0.6546900129999947,1,2,it,SES,South-America
 '997a2e2157',extremes,Earthquake,#870007,usgs,terremoto argentina,2026-08-07T09:56:00+00:00,Argentina,0.6515636855033746,1,2,it,SES,South-America
 '02711610b5',extremes,Storm,#b3b2b1,wmo,tempesta argentina,2026-07-17T05:27:00+00:00,Argentina,0.6478686355043035,2,2,it,SES,South-America
 '902e65f81a',extremes,Thunderstorm,#53785a,wmo,temporale abruzzo,2026-08-02T05:42:00+00:00,Italy,0.6441954078776336,2,2,it,MED,Europe
 '4495d1fc35',extremes,Thunderstorm,#53785a,wmo,maltempo friuli venezia giulia,2026-07-10T06:27:00+00:00,Italy,0.6402443061224116,1,2,it,MED,Europe
+'b5b51167f1',extremes,Wildfire,#d60d2b,effis,incendio frosinone italia,2026-08-11T04:01:00+00:00,Italy,0.6339416583222436,0,1,it,MED,Europe
+'7fc4728e0e',extremes,Wildfire,#d60d2b,effis,incendio violento cosenza italia,2026-08-08T03:51:00+00:00,Italy,0.6323910481605981,0,1,it,MED,Europe
+'35438306f4',extremes,Wildfire,#d60d2b,effis,incendio italia belluno auronzo di cadore,2026-08-19T03:26:00+00:00,Italy,0.6318249463065656,0,1,it,WCE,Europe
 'cb15bc1996',extremes,Heat Wave,#c40202,wmo,ondata di caldo puglia,2026-07-17T05:27:00+00:00,Italy,0.6274206113521362,1,2,it,MED,Europe
 'a03bfb69ba',extremes,Drought,#edc291,edo,periodo di siccità in svizzera,2026-07-18T05:10:00+00:00,Switzerland,0.6245401016082883,1,2,it,WCE,Europe
 '0ea7108e6e',extremes,Heat Wave,#c40202,wmo,ondata di caldo calabria,2026-08-07T09:56:00+00:00,Italy,0.6227889956916326,2,2,it,MED,Europe
