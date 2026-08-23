@@ -1,10 +1,9 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'2ae18a5010',extremes,Wildfire,#d60d2b,effis,incendio caltanissetta italia,2026-08-10T04:13:00+00:00,Italy,0.7034878797535928,1,2,it,MED,Europe
+'2ae18a5010',extremes,Wildfire,#d60d2b,effis,incendio caltanissetta italia,2026-08-10T04:13:00+00:00,Italy,0.748114712790554,2,2,it,MED,Europe
 '63b8afd7a4',extremes,Storm,#b3b2b1,wmo,tempesta lazio,2026-07-26T05:46:00+00:00,Italy,0.67609831496895,2,2,it,MED,Europe
 '5e27c3e2fc',extremes,Wildfire,#d60d2b,effis,incendio italia messina messina,2026-08-09T03:59:00+00:00,Italy,0.6678594358559287,2,2,it,MED,Europe
 'e529bb6ac5',extremes,Precipitation,#d60d2b,wmo,pioggia argentina,2026-07-30T05:24:00+00:00,Argentina,0.6546900129999947,1,2,it,SES,South-America
 '997a2e2157',extremes,Earthquake,#870007,usgs,terremoto argentina,2026-08-07T09:56:00+00:00,Argentina,0.6515636855033746,1,2,it,SES,South-America
-'74cbd6a909',extremes,Wildfire,#d60d2b,effis,incendio boschivo italia barletta andria trani minervino murge,2026-08-22T03:22:00+00:00,Italy,0.6495223944057987,0,1,it,MED,Europe
 '02711610b5',extremes,Storm,#b3b2b1,wmo,tempesta argentina,2026-07-17T05:27:00+00:00,Argentina,0.6478686355043035,2,2,it,SES,South-America
 '902e65f81a',extremes,Thunderstorm,#53785a,wmo,temporale abruzzo,2026-08-02T05:42:00+00:00,Italy,0.6441954078776336,2,2,it,MED,Europe
 '4495d1fc35',extremes,Thunderstorm,#53785a,wmo,maltempo friuli venezia giulia,2026-07-10T06:27:00+00:00,Italy,0.6402443061224116,1,2,it,MED,Europe
@@ -73,6 +72,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3105f93dc3',extremes,Wildfire,#d60d2b,effis,incendio boschivo italia caltanissetta niscemi,2026-08-08T03:51:00+00:00,Italy,0.5537617792487632,1,1,it,MED,Europe
 'e3cfb67afe',extremes,Wildfire,#d60d2b,effis,incendio boschivo italia latina itri,2026-08-09T03:59:00+00:00,Italy,0.5533977972428351,1,1,it,MED,Europe
 '5da1fdd3af',extremes,Wildfire,#d60d2b,effis,incendio boschivo reggio di calabria italia,2026-08-12T04:22:00+00:00,Italy,0.5527741756497727,1,1,it,MED,Europe
+'74cbd6a909',extremes,Wildfire,#d60d2b,effis,incendio boschivo italia barletta andria trani minervino murge,2026-08-22T03:22:00+00:00,Italy,0.552094035244929,1,1,it,MED,Europe
 'a94d703621',extremes,Wildfire,#d60d2b,effis,incendio boschivo italia vibo valentia cessaniti,2026-08-11T04:01:00+00:00,Italy,0.5517699560164888,1,1,it,MED,Europe
 'ce6c3047c4',extremes,Wildfire,#d60d2b,effis,macchia d'olio italia como como,2026-08-15T03:13:00+00:00,Italy,0.550994438568355,1,1,it,WCE,Europe
 '410aad01f0',extremes,Wildfire,#d60d2b,effis,incendio italia roma grottaferrata,2026-08-14T04:24:00+00:00,Italy,0.5500086939266077,1,1,it,MED,Europe
