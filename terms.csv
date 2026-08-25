@@ -46,7 +46,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5bf34f285a',extremes,Earthquake,#870007,usgs,terremoto italia,2026-07-25T05:28:00+00:00,Italy,0.5677475125075554,1,3,it,MED,Europe
 '8db9529a04',extremes,Wildfire,#d60d2b,effis,macchia d'olio italia cosenza tortora,2026-08-19T03:26:00+00:00,Italy,0.5675946838621563,1,1,it,MED,Europe
 '257a8d0f93',extremes,Wildfire,#d60d2b,effis,incendio boschivo italia cosenza longobucco,2026-08-19T03:26:00+00:00,Italy,0.5647109985460411,1,1,it,MED,Europe
-'6ef3299dc1',extremes,Wildfire,#d60d2b,effis,incendio boschivo italia crotone umbriatico,2026-08-19T03:26:00+00:00,Italy,0.5642185020322819,1,1,it,MED,Europe
 'e28776fdc3',extremes,Wildfire,#d60d2b,effis,macchia d'olio italia vibo valentia pizzoni,2026-08-08T03:51:00+00:00,Italy,0.5635349678401186,1,1,it,MED,Europe
 '45267acef2',extremes,Wildfire,#d60d2b,effis,macchia d'olio como italia,2026-08-15T03:13:00+00:00,Italy,0.5635119574031913,1,1,it,WCE,Europe
 '60031a8fb9',extremes,Thunderstorm,#53785a,wmo,grandine friuli venezia giulia,2026-07-14T05:14:00+00:00,Italy,0.5629672509244178,1,2,it,MED,Europe
@@ -55,7 +54,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'fa187f3c8b',extremes,Wildfire,#d60d2b,effis,incendio boschivo italia latina formia,2026-08-14T04:24:00+00:00,Italy,0.5606866407025843,1,1,it,MED,Europe
 'dcef080672',extremes,Thunderstorm,#53785a,wmo,temporale toscana,2026-08-02T05:42:00+00:00,Italy,0.5605178077563264,2,2,it,MED,Europe
 '9e791d8c66',extremes,Wildfire,#d60d2b,effis,macchia d'olio italia frosinone pastena,2026-08-19T03:26:00+00:00,Italy,0.5596865458490768,1,1,it,MED,Europe
-'1025c5d048',extremes,Heat Wave,#c40202,wmo,ondata di caldo veneto,2026-07-12T05:43:00+00:00,Italy,0.5596646945614445,2,2,it,MED,Europe
 '448a898a4f',extremes,Wildfire,#d60d2b,effis,incendio boschivo italia latina sonnino,2026-08-10T04:13:00+00:00,Italy,0.5585537184837419,1,1,it,MED,Europe
 '82b8913676',extremes,Storm,#b3b2b1,wmo,mareggiata sardegna,2026-07-25T05:29:00+00:00,Italy,0.5577953725768816,2,1,it,MED,Europe
 '4a33d67b0a',extremes,Wildfire,#d60d2b,effis,incendio italia salerno colliano,2026-08-21T03:30:00+00:00,Italy,0.5574700063793632,1,1,it,MED,Europe
@@ -159,7 +157,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9f8caa9198',extremes,Wildfire,#d60d2b,effis,incendio boschivo italia cosenza oriolo,2026-08-14T04:24:00+00:00,Italy,0.5209778626904283,1,1,it,MED,Europe
 'f9eb244a9a',extremes,Drought,#edc291,edo,mancanza di pioggia italia,2026-08-04T05:32:00+00:00,Italy,0.5209482414257436,2,1,it,MED,Europe
 'bd32ab2b09',extremes,Wildfire,#d60d2b,effis,incendio violento caserta italia,2026-08-11T04:01:00+00:00,Italy,0.5207995597463257,1,1,it,MED,Europe
-'ac9b4f5444',extremes,Storm,#b3b2b1,wmo,mareggiata argentina,2026-07-17T05:27:00+00:00,Argentina,0.5200195602539873,1,1,it,SES,South-America
 '0ad538a863',extremes,Heat Wave,#c40202,wmo,ondata di caldo in svizzera,2026-07-29T05:37:00+00:00,Switzerland,0.5200067371072332,1,1,it,WCE,Europe
 '640b0c1fe5',extremes,Storm,#b3b2b1,wmo,tempesta umbria,2026-07-26T05:46:00+00:00,Italy,0.5195054106301608,1,1,it,MED,Europe
 'f0a6796d5b',extremes,Wildfire,#d60d2b,effis,macchia d'olio udine italia,2026-08-14T04:24:00+00:00,Italy,0.5194162404832741,1,1,it,WCE,Europe
@@ -224,7 +221,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8e5b367351',extremes,Precipitation,#d60d2b,wmo,precipitazioni italia,2026-07-25T05:29:00+00:00,Italy,0.4832865836003733,2,1,it,MED,Europe
 '5d5d36e81f',extremes,Heat Wave,#c40202,wmo,ondata di caldo effretikon,2026-07-31T05:51:00+00:00,Switzerland,0.4825476393225292,1,1,it,WCE,Europe
 'f969ca6d6d',extremes,Wildfire,#d60d2b,effis,incendio violento udine italia,2026-08-14T04:24:00+00:00,Italy,0.4824324553439785,2,1,it,WCE,Europe
-'9cf1d947d6',extremes,Heat Wave,#c40202,wmo,ondata di caldo friuli venezia giulia,2026-07-30T05:24:00+00:00,Italy,0.48185372822781053,2,1,it,MED,Europe
+'9cf1d947d6',extremes,Heat Wave,#c40202,wmo,ondata di caldo friuli venezia giulia,2026-07-30T05:24:00+00:00,Italy,0.4818537282278105,2,1,it,MED,Europe
 '991fb249a9',extremes,Wildfire,#d60d2b,effis,incendio violento italia vibo valentia pizzoni,2026-08-08T03:51:00+00:00,Italy,0.4816989171357847,2,1,it,MED,Europe
 'a0b5db84c1',extremes,Wildfire,#d60d2b,effis,incendio italia cosenza campana,2026-08-19T03:26:00+00:00,Italy,0.4809127746035368,2,1,it,MED,Europe
 'e67cf9f7ff',extremes,Wildfire,#d60d2b,effis,incendio violento italia vibo valentia sant'onofrio,2026-08-09T03:59:00+00:00,Italy,0.4809085322404208,2,1,it,MED,Europe
@@ -235,6 +232,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c74f7180da',extremes,Wildfire,#d60d2b,effis,fuoco selvaggio italia udine amaro,2026-08-14T04:24:00+00:00,Italy,0.4800343818430188,2,1,it,WCE,Europe
 '25e89c2734',extremes,Thunderstorm,#53785a,wmo,salve toscana,2026-07-25T05:29:00+00:00,Italy,0.4799460001965979,2,1,it,MED,Europe
 '55c39b351d',extremes,Storm,#b3b2b1,random,diavolo di polvere,2026-07-14T05:14:00+00:00,,0.4796599583181395,1,2,it,,
+'6ef3299dc1',extremes,Wildfire,#d60d2b,effis,incendio boschivo italia crotone umbriatico,2026-08-19T03:26:00+00:00,Italy,0.47958572672743954,2,1,it,MED,Europe
 'f5ad5d85c4',extremes,Wildfire,#d60d2b,effis,incendio italia barletta andria trani minervino murge,2026-08-23T03:30:00+00:00,Italy,0.4793063089644961,2,1,it,MED,Europe
 '5eae3aed3f',extremes,Thunderstorm,#53785a,wmo,grandine basilicata,2026-07-26T05:46:00+00:00,Italy,0.4769417548938265,1,2,it,MED,Europe
 '740ea7b0aa',extremes,Heat Wave,#c40202,wmo,ondata di caldo obersimmental,2026-07-28T05:31:00+00:00,Switzerland,0.4763305025356614,1,1,it,WCE,Europe
@@ -283,17 +281,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '885ba8aa0b',extremes,Wildfire,#d60d2b,effis,incendio boschivo messina italia,2026-08-07T09:56:00+00:00,Italy,0.394293325927161,1,1,it,MED,Europe
 '3fa143a609',extremes,Storm,#b3b2b1,random,bufera di polvere,2026-07-23T05:39:00+00:00,,0.3820088970032889,1,2,it,,
 '84dfdca0f8',extremes,Thunderstorm,#53785a,random,grandine,2026-07-29T05:37:00+00:00,,0.3754100021470702,1,2,it,,
-'8af0c97886',extremes,Thunderstorm,#53785a,wmo,maltempo sarganserland,2026-07-17T05:27:00+00:00,Switzerland,0.3738873478125978,0,1,it,WCE,Europe
 '45480a05ce',extremes,Tropical Cyclone,#4f4f4f,random,tifone,2026-07-19T05:37:00+00:00,,0.3700454692000444,0,1,it,,
-'595acbcf9f',extremes,Heat Wave,#c40202,random,giornata più calda,2026-07-18T05:10:00+00:00,,0.3695584958285386,0,1,it,,
-'f47f6a137d',extremes,Thunderstorm,#53785a,wmo,grandine adelboden kandersteg,2026-07-17T05:27:00+00:00,Switzerland,0.3680243629986934,0,1,it,WCE,Europe
 'f4a79cb90e',extremes,Wildfire,#d60d2b,effis,macchia d'olio italia,2026-08-07T09:56:00+00:00,Italy,0.3675074380175454,1,1,it,MED,Europe
-'f6cc881760',extremes,Thunderstorm,#53785a,wmo,temporale sumiswald worb,2026-07-17T05:27:00+00:00,Switzerland,0.3668893657571216,0,1,it,WCE,Europe
 '0d261f252d',extremes,Storm,#b3b2b1,random,tempesta invernale,2026-07-24T05:35:00+00:00,,0.3658785688117937,0,1,it,,
-'3654676c51',extremes,Thunderstorm,#53785a,wmo,temporale effretikon,2026-07-17T05:27:00+00:00,Switzerland,0.3656551127505623,0,1,it,WCE,Europe
-'5e83ae49e2',extremes,Thunderstorm,#53785a,wmo,temporale zofingen triengen,2026-07-17T05:27:00+00:00,Switzerland,0.3650407496864475,0,1,it,WCE,Europe
 '538eadceb4',extremes,Heat Wave,#c40202,random,inverno mite,2026-07-20T05:54:00+00:00,,0.3650376837582871,0,1,it,,
-'91f910fa28',extremes,Thunderstorm,#53785a,wmo,temporale st. stephan lenk,2026-07-17T05:27:00+00:00,Switzerland,0.3641377140437488,0,1,it,WCE,Europe
+'595acbcf9f',extremes,Heat Wave,#c40202,random,giornata più calda,2026-07-18T05:10:00+00:00,,0.3554392428178942,1,2,it,,
 '80c06ab8a0',extremes,Cold Wave,#a7e9fa,random,crollo della temperatura,2026-08-04T05:31:00+00:00,,0.3484538551061619,1,1,it,,
 'b8eb47bf7f',extremes,Heat Wave,#c40202,random,cupola di calore,2026-07-22T05:35:00+00:00,,0.3454258795399148,0,1,it,,
 '6176f14b3f',extremes,Flood,#030ba1,aidr,alluvione svizzera,2026-07-19T05:37:00+00:00,Switzerland,0.3396465258928408,0,1,it,WCE,Europe
