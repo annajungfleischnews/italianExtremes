@@ -1,5 +1,13 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'2e51819031',extremes,Wildfire,#d60d2b,effis,incendio violento crotone italia,2026-08-27T13:00:00+00:00,Italy,0.7767333271795742,0,1,it,MED,Europe
+'119f96e74b',extremes,Wildfire,#d60d2b,effis,incendio violento catanzaro italia,2026-08-27T13:00:00+00:00,Italy,0.7740555927880723,0,1,it,MED,Europe
+'59bed8a698',extremes,Wildfire,#d60d2b,effis,incendio boschivo sud sardegna italia,2026-08-14T04:24:00+00:00,Italy,0.7739280337287774,0,1,it,MED,Europe
 '6e8e733a81',extremes,Wildfire,#d60d2b,effis,incendio foggia italia,2026-08-26T03:34:00+00:00,Italy,0.7654730531591427,1,2,it,MED,Europe
+'eb09e49ed3',extremes,Wildfire,#d60d2b,effis,incendio boschivo matera italia,2026-08-27T13:00:00+00:00,Italy,0.7566132537272567,0,1,it,MED,Europe
+'c044bbec6e',extremes,Wildfire,#d60d2b,effis,incendio violento matera italia,2026-08-26T03:34:00+00:00,Italy,0.7439580483981983,0,1,it,MED,Europe
+'9f1b3546d3',extremes,Wildfire,#d60d2b,effis,incendio boschivo italia catanzaro maida,2026-08-27T13:00:00+00:00,Italy,0.7346582473010617,0,1,it,MED,Europe
+'57213f6c03',extremes,Wildfire,#d60d2b,effis,incendio italia messina roccella valdemone,2026-08-27T13:00:00+00:00,Italy,0.7319738233205396,0,1,it,MED,Europe
+'4b8352459f',extremes,Wildfire,#d60d2b,effis,incendio boschivo italia sud sardegna muravera,2026-08-27T13:00:00+00:00,Italy,0.7207737205910059,0,1,it,MED,Europe
 'e5b3d11872',extremes,Wildfire,#d60d2b,effis,incendio italia foggia manfredonia,2026-08-26T03:34:00+00:00,Italy,0.720507246412428,0,1,it,MED,Europe
 '4e45578ffd',extremes,Wildfire,#d60d2b,effis,incendio italia foggia monte sant'angelo,2026-08-26T03:34:00+00:00,Italy,0.7180549431044442,0,1,it,MED,Europe
 '602c3c0083',extremes,Wildfire,#d60d2b,effis,incendio boschivo foggia italia,2026-08-14T04:24:00+00:00,Italy,0.7125028286555167,0,1,it,MED,Europe
