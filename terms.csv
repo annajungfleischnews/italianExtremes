@@ -72,7 +72,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '69a7224d28',extremes,Wildfire,#d60d2b,effis,incendio italia crotone umbriatico,2026-08-19T03:26:00+00:00,Italy,0.5538063200154021,1,1,it,MED,Europe
 '3105f93dc3',extremes,Wildfire,#d60d2b,effis,incendio boschivo italia caltanissetta niscemi,2026-08-08T03:51:00+00:00,Italy,0.5537617792487632,1,1,it,MED,Europe
 'e3cfb67afe',extremes,Wildfire,#d60d2b,effis,incendio boschivo italia latina itri,2026-08-09T03:59:00+00:00,Italy,0.5533977972428351,1,1,it,MED,Europe
-'5da1fdd3af',extremes,Wildfire,#d60d2b,effis,incendio boschivo reggio di calabria italia,2026-08-12T04:22:00+00:00,Italy,0.5527741756497727,1,1,it,MED,Europe
 '74cbd6a909',extremes,Wildfire,#d60d2b,effis,incendio boschivo italia barletta andria trani minervino murge,2026-08-22T03:22:00+00:00,Italy,0.552094035244929,1,1,it,MED,Europe
 'a48d270610',extremes,Wildfire,#d60d2b,effis,wild fire italia l’aquila roccacasale,2026-08-19T03:26:00+00:00,Italy,0.5520453001467276,1,1,it,MED,Europe
 'a94d703621',extremes,Wildfire,#d60d2b,effis,incendio boschivo italia vibo valentia cessaniti,2026-08-11T04:01:00+00:00,Italy,0.5517699560164888,1,1,it,MED,Europe
@@ -221,7 +220,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c1f822b8d9',extremes,Wildfire,#d60d2b,effis,incendio boschivo italia latina sermoneta,2026-08-14T04:24:00+00:00,Italy,0.4843519094942311,2,1,it,MED,Europe
 '8e5b367351',extremes,Precipitation,#d60d2b,wmo,precipitazioni italia,2026-07-25T05:29:00+00:00,Italy,0.4832865836003733,2,1,it,MED,Europe
 '5d5d36e81f',extremes,Heat Wave,#c40202,wmo,ondata di caldo effretikon,2026-07-31T05:51:00+00:00,Switzerland,0.4825476393225292,1,1,it,WCE,Europe
-'8db9529a04',extremes,Wildfire,#d60d2b,effis,macchia d'olio italia cosenza tortora,2026-08-19T03:26:00+00:00,Italy,0.48245548128283283,2,1,it,MED,Europe
+'8db9529a04',extremes,Wildfire,#d60d2b,effis,macchia d'olio italia cosenza tortora,2026-08-19T03:26:00+00:00,Italy,0.4824554812828328,2,1,it,MED,Europe
 'f969ca6d6d',extremes,Wildfire,#d60d2b,effis,incendio violento udine italia,2026-08-14T04:24:00+00:00,Italy,0.4824324553439785,2,1,it,WCE,Europe
 '9cf1d947d6',extremes,Heat Wave,#c40202,wmo,ondata di caldo friuli venezia giulia,2026-07-30T05:24:00+00:00,Italy,0.4818537282278105,2,1,it,MED,Europe
 '991fb249a9',extremes,Wildfire,#d60d2b,effis,incendio violento italia vibo valentia pizzoni,2026-08-08T03:51:00+00:00,Italy,0.4816989171357847,2,1,it,MED,Europe
@@ -242,6 +241,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '35c1fa7ab1',extremes,Wildfire,#d60d2b,effis,fuoco violento italia potenza genzano di lucania,2026-08-12T04:22:00+00:00,Italy,0.473576308731946,2,1,it,MED,Europe
 'a489be7cf5',extremes,Wildfire,#d60d2b,effis,macchia d'olio italia caltanissetta niscemi,2026-08-10T04:13:00+00:00,Italy,0.4714335474629731,2,1,it,MED,Europe
 'ddf559b463',extremes,Wildfire,#d60d2b,effis,macchia d'olio italia frosinone guarcino,2026-08-11T04:01:00+00:00,Italy,0.4705835425607537,2,1,it,MED,Europe
+'5da1fdd3af',extremes,Wildfire,#d60d2b,effis,incendio boschivo reggio di calabria italia,2026-08-12T04:22:00+00:00,Italy,0.4700080643023068,2,1,it,MED,Europe
 '90cbdf698e',extremes,Heat Wave,#c40202,wmo,ondata di caldo geneve,2026-07-31T05:51:00+00:00,Switzerland,0.4690470536021744,1,1,it,WCE,Europe
 '50d4f5eeb6',extremes,Wildfire,#d60d2b,effis,incendio violento italia rieti rieti,2026-08-08T03:51:00+00:00,Italy,0.4682063715251233,2,1,it,MED,Europe
 '410aad01f0',extremes,Wildfire,#d60d2b,effis,incendio italia roma grottaferrata,2026-08-14T04:24:00+00:00,Italy,0.4675073898376165,2,1,it,MED,Europe
@@ -282,6 +282,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3fa143a609',extremes,Storm,#b3b2b1,random,bufera di polvere,2026-07-23T05:39:00+00:00,,0.3820088970032889,1,2,it,,
 '84dfdca0f8',extremes,Thunderstorm,#53785a,random,grandine,2026-07-29T05:37:00+00:00,,0.3754100021470702,1,2,it,,
 'f4a79cb90e',extremes,Wildfire,#d60d2b,effis,macchia d'olio italia,2026-08-07T09:56:00+00:00,Italy,0.3675074380175454,1,1,it,MED,Europe
-'80462e91eb',extremes,Tropical Cyclone,#4f4f4f,random,ciclone,2026-07-22T05:35:00+00:00,,0.35122318156666554,1,2,it,,
+'80462e91eb',extremes,Tropical Cyclone,#4f4f4f,random,ciclone,2026-07-22T05:35:00+00:00,,0.3512231815666655,1,2,it,,
 '80c06ab8a0',extremes,Cold Wave,#a7e9fa,random,crollo della temperatura,2026-08-04T05:31:00+00:00,,0.3484538551061619,1,1,it,,
 '48bbc2ab73',extremes,Thunderstorm,#53785a,wmo,temporale ghana,2026-07-23T05:40:00+00:00,Ghana,0.3090311279189948,0,1,it,WAF,Africa
