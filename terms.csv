@@ -1,11 +1,9 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 '0ea7108e6e',extremes,Heat Wave,#c40202,wmo,ondata di caldo calabria,2026-08-07T09:56:00+00:00,Italy,0.7281710356372045,4,3,it,MED,Europe
-'9e68619819',extremes,Wildfire,#d60d2b,effis,incendio italia agrigento cattolica eraclea,2026-08-26T03:34:00+00:00,Italy,0.6885200284293531,0,1,it,MED,Europe
-'c2064c21c0',extremes,Wildfire,#d60d2b,effis,incendio boschivo italia palermo caltavuturo,2026-08-25T03:27:00+00:00,Italy,0.6856131778407392,0,1,it,MED,Europe
-'c377e67829',extremes,Heat Wave,#c40202,wmo,ondata di caldo campania,2026-08-27T13:00:00+00:00,Italy,0.6847740073204717,0,1,it,MED,Europe
 '2aa1881458',extremes,Wildfire,#d60d2b,effis,incendio boschivo italia matera pisticci,2026-08-26T03:34:00+00:00,Italy,0.6844053855184457,0,1,it,MED,Europe
 '997a2e2157',extremes,Earthquake,#870007,usgs,terremoto argentina,2026-08-07T09:56:00+00:00,Argentina,0.6596254815240222,2,2,it,SES,South-America
 'e529bb6ac5',extremes,Precipitation,#d60d2b,wmo,pioggia argentina,2026-07-30T05:24:00+00:00,Argentina,0.6546900129999947,1,2,it,SES,South-America
+'c377e67829',extremes,Heat Wave,#c40202,wmo,ondata di caldo campania,2026-08-27T13:00:00+00:00,Italy,0.6532388704531702,1,1,it,MED,Europe
 'e872f50358',extremes,Wildfire,#d60d2b,effis,fuoco violento latina italia,2026-08-28T14:32:00+00:00,Italy,0.6519346221920116,1,1,it,MED,Europe
 '561cd55015',extremes,Wildfire,#d60d2b,effis,incendio boschivo latina italia,2026-08-09T03:59:00+00:00,Italy,0.6516340161383332,3,2,it,MED,Europe
 '6e8e733a81',extremes,Wildfire,#d60d2b,effis,incendio foggia italia,2026-08-26T03:34:00+00:00,Italy,0.6506521101852714,2,1,it,MED,Europe
@@ -36,7 +34,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '675af60a87',extremes,Wildfire,#d60d2b,effis,incendio italia reggio di calabria motta san giovanni,2026-08-23T03:30:00+00:00,Italy,0.5917607275943202,1,1,it,MED,Europe
 'd35eaa61f3',extremes,Heat Wave,#c40202,meteo,alta temperatura italia,2026-08-07T11:06:00+00:00,Italy,0.5909773263614202,2,2,it,MED,Europe
 'b4a448711b',extremes,Heat Wave,#c40202,wmo,ondata di caldo italia,2026-08-11T04:01:00+00:00,Italy,0.5896213531420542,3,3,it,MED,Europe
+'9e68619819',extremes,Wildfire,#d60d2b,effis,incendio italia agrigento cattolica eraclea,2026-08-26T03:34:00+00:00,Italy,0.5852420241649501,1,1,it,MED,Europe
 '59bed8a698',extremes,Wildfire,#d60d2b,effis,incendio boschivo sud sardegna italia,2026-08-14T04:24:00+00:00,Italy,0.5839219673011854,3,1,it,MED,Europe
+'c2064c21c0',extremes,Wildfire,#d60d2b,effis,incendio boschivo italia palermo caltavuturo,2026-08-25T03:27:00+00:00,Italy,0.5827712011646283,1,1,it,MED,Europe
 '71a0eef64a',extremes,Earthquake,#870007,usgs,terremoto santa domenica,2026-07-24T05:35:00+00:00,Italy,0.5818159388497977,1,2,it,MED,Europe
 '75e56eac2a',extremes,Thunderstorm,#53785a,wmo,temporale umbria,2026-07-21T05:36:00+00:00,Italy,0.578646605493293,2,2,it,MED,Europe
 '4fd8d48f37',extremes,Thunderstorm,#53785a,wmo,grandine lombardia,2026-07-26T05:46:00+00:00,Italy,0.5781796988852186,1,1,it,MED,Europe
