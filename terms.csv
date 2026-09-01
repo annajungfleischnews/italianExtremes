@@ -1,4 +1,12 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'31da906479',extremes,Wildfire,#d60d2b,effis,wild fire italia l’aquila pratola peligna,2026-08-31T08:51:00+00:00,Italy,0.7242301205488842,0,1,it,MED,Europe
+'6e0e1924cf',extremes,Wildfire,#d60d2b,effis,incendio boschivo nuoro italia,2026-08-31T08:51:00+00:00,Italy,0.7182507386282388,0,1,it,MED,Europe
+'78e8e631d1',extremes,Wildfire,#d60d2b,effis,incendio boschivo italia messina mongiuffi melia,2026-08-31T08:51:00+00:00,Italy,0.6992543924803211,0,1,it,MED,Europe
+'563353dac4',extremes,Wildfire,#d60d2b,effis,incendio boschivo italia nuoro arzana,2026-08-31T08:51:00+00:00,Italy,0.6942078421730385,0,1,it,MED,Europe
+'f9b046e199',extremes,Wildfire,#d60d2b,effis,macchia d'olio italia caltanissetta serradifalco,2026-08-31T08:51:00+00:00,Italy,0.6910699063610152,0,1,it,MED,Europe
+'540c976e59',extremes,Heat Wave,#c40202,wmo,ondata di caldo sardegna,2026-08-22T03:22:00+00:00,Italy,0.6777868489662562,0,1,it,MED,Europe
+'c51141c7cd',extremes,Wildfire,#d60d2b,effis,incendio boschivo italia foggia san giovanni rotondo,2026-08-25T03:27:00+00:00,Italy,0.6774898329632816,0,1,it,MED,Europe
+'507412aefc',extremes,Storm,#b3b2b1,wmo,tempesta italia,2026-08-25T03:27:00+00:00,Italy,0.6749923635223923,0,1,it,MED,Europe
 '27ecdd832f',extremes,Heat Wave,#c40202,wmo,ondata di caldo emilia e romagna,2026-07-30T05:24:00+00:00,Italy,0.6611706579865286,2,2,it,MED,Europe
 '997a2e2157',extremes,Earthquake,#870007,usgs,terremoto argentina,2026-08-07T09:56:00+00:00,Argentina,0.6596254815240222,2,2,it,SES,South-America
 '561cd55015',extremes,Wildfire,#d60d2b,effis,incendio boschivo latina italia,2026-08-09T03:59:00+00:00,Italy,0.6516340161383332,3,2,it,MED,Europe
