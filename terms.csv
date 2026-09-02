@@ -1,5 +1,13 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 '6e8e733a81',extremes,Wildfire,#d60d2b,effis,incendio foggia italia,2026-08-26T03:34:00+00:00,Italy,0.7478736773588586,4,2,it,MED,Europe
+'150854d8e2',extremes,Wildfire,#d60d2b,effis,incendio italia avellino monteverde,2026-09-02T07:16:00+00:00,Italy,0.7460124281327132,0,1,it,MED,Europe
+'38a36ec0fc',extremes,Wildfire,#d60d2b,effis,incendio avellino italia,2026-09-01T07:57:00+00:00,Italy,0.7407794960303973,0,1,it,MED,Europe
+'6ed3ec9ae9',extremes,Wildfire,#d60d2b,effis,incendio boschivo italia palermo ciminna,2026-09-01T07:57:00+00:00,Italy,0.7398234868812595,0,1,it,MED,Europe
+'50f36d8f48',extremes,Wildfire,#d60d2b,effis,incendio matera italia,2026-09-01T07:57:00+00:00,Italy,0.7359411982351509,0,1,it,MED,Europe
+'c82099ea89',extremes,Wildfire,#d60d2b,effis,incendio boschivo agrigento italia,2026-08-26T03:34:00+00:00,Italy,0.7294239997807197,0,1,it,MED,Europe
+'3575ea4f14',extremes,Wildfire,#d60d2b,effis,incendio boschivo italia agrigento sant'angelo muxaro,2026-08-26T03:34:00+00:00,Italy,0.7183114044090958,0,1,it,MED,Europe
+'03707a65f9',extremes,Wildfire,#d60d2b,effis,incendio italia matera craco,2026-08-31T08:51:00+00:00,Italy,0.7174654533746988,0,1,it,MED,Europe
+'06cb4beea4',extremes,Wildfire,#d60d2b,effis,incendio italia chieti carpineto sinello,2026-09-01T07:57:00+00:00,Italy,0.6918324142093544,0,1,it,MED,Europe
 '902e65f81a',extremes,Thunderstorm,#53785a,wmo,temporale abruzzo,2026-08-02T05:42:00+00:00,Italy,0.6441954078776336,2,2,it,MED,Europe
 '5e27c3e2fc',extremes,Wildfire,#d60d2b,effis,incendio italia messina messina,2026-08-09T03:59:00+00:00,Italy,0.6432805804775393,3,2,it,MED,Europe
 '540c976e59',extremes,Heat Wave,#c40202,wmo,ondata di caldo sardegna,2026-08-22T03:22:00+00:00,Italy,0.6407827879849541,1,2,it,MED,Europe
