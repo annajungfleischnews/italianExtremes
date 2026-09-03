@@ -4,7 +4,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5e27c3e2fc',extremes,Wildfire,#d60d2b,effis,incendio italia messina messina,2026-08-09T03:59:00+00:00,Italy,0.6432805804775393,3,2,it,MED,Europe
 '6e8e733a81',extremes,Wildfire,#d60d2b,effis,incendio foggia italia,2026-08-26T03:34:00+00:00,Italy,0.6356926407550297,5,1,it,MED,Europe
 '0897f0fe25',extremes,Wildfire,#d60d2b,effis,incendio agrigento italia,2026-08-14T04:24:00+00:00,Italy,0.6347717415570165,3,2,it,MED,Europe
-'38a36ec0fc',extremes,Wildfire,#d60d2b,effis,incendio avellino italia,2026-09-01T07:57:00+00:00,Italy,0.6296625716258377,1,1,it,MED,Europe
 'c377e67829',extremes,Heat Wave,#c40202,wmo,ondata di caldo campania,2026-08-27T13:00:00+00:00,Italy,0.626434004115964,2,1,it,MED,Europe
 '50f36d8f48',extremes,Wildfire,#d60d2b,effis,incendio matera italia,2026-09-01T07:57:00+00:00,Italy,0.6255500184998782,1,1,it,MED,Europe
 '63b8afd7a4',extremes,Storm,#b3b2b1,wmo,tempesta lazio,2026-07-26T05:46:00+00:00,Italy,0.6251336127236076,3,2,it,MED,Europe
@@ -27,7 +26,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '540c976e59',extremes,Heat Wave,#c40202,wmo,ondata di caldo sardegna,2026-08-22T03:22:00+00:00,Italy,0.597815684787211,2,2,it,MED,Europe
 '9b6136ffec',extremes,Heat Wave,#c40202,wmo,ondata di caldo umbria,2026-07-30T05:24:00+00:00,Italy,0.59594040848275,2,2,it,MED,Europe
 '78e8e631d1',extremes,Wildfire,#d60d2b,effis,incendio boschivo italia messina mongiuffi melia,2026-08-31T08:51:00+00:00,Italy,0.5943662336082729,1,1,it,MED,Europe
-'d35eaa61f3',extremes,Heat Wave,#c40202,meteo,alta temperatura italia,2026-08-07T11:06:00+00:00,Italy,0.5909773263614202,2,2,it,MED,Europe
 '563353dac4',extremes,Wildfire,#d60d2b,effis,incendio boschivo italia nuoro arzana,2026-08-31T08:51:00+00:00,Italy,0.5900766658470827,1,1,it,MED,Europe
 '06cb4beea4',extremes,Wildfire,#d60d2b,effis,incendio italia chieti carpineto sinello,2026-09-01T07:57:00+00:00,Italy,0.5880575520779512,1,1,it,MED,Europe
 'f9b046e199',extremes,Wildfire,#d60d2b,effis,macchia d'olio italia caltanissetta serradifalco,2026-08-31T08:51:00+00:00,Italy,0.5874094204068628,1,1,it,MED,Europe
@@ -40,6 +38,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '257a8d0f93',extremes,Wildfire,#d60d2b,effis,incendio boschivo italia cosenza longobucco,2026-08-19T03:26:00+00:00,Italy,0.5647109985460411,1,1,it,MED,Europe
 'e28776fdc3',extremes,Wildfire,#d60d2b,effis,macchia d'olio italia vibo valentia pizzoni,2026-08-08T03:51:00+00:00,Italy,0.5635349678401186,1,1,it,MED,Europe
 '27ecdd832f',extremes,Heat Wave,#c40202,wmo,ondata di caldo emilia e romagna,2026-07-30T05:24:00+00:00,Italy,0.5621450742885493,3,2,it,MED,Europe
+'d35eaa61f3',extremes,Heat Wave,#c40202,meteo,alta temperatura italia,2026-08-07T11:06:00+00:00,Italy,0.5618267219526617,3,2,it,MED,Europe
 '850a55d358',extremes,Wildfire,#d60d2b,effis,incendio italia reggio di calabria riace,2026-08-11T04:01:00+00:00,Italy,0.5614640137230912,1,1,it,MED,Europe
 '2e51819031',extremes,Wildfire,#d60d2b,effis,incendio violento crotone italia,2026-08-27T13:00:00+00:00,Italy,0.5611898288872423,2,1,it,MED,Europe
 '997a2e2157',extremes,Earthquake,#870007,usgs,terremoto argentina,2026-08-07T09:56:00+00:00,Argentina,0.5606818392954189,3,1,it,SES,South-America
@@ -96,6 +95,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '047ca2539e',extremes,Wildfire,#d60d2b,effis,macchia d'olio roma italia,2026-08-09T03:59:00+00:00,Italy,0.5358613367312947,1,1,it,MED,Europe
 '5f8d35147a',extremes,Heat Wave,#c40202,wmo,ondata di caldo abruzzo,2026-08-01T05:42:00+00:00,Italy,0.5355353058701994,1,1,it,MED,Europe
 '382ac7dbd0',extremes,Wildfire,#d60d2b,effis,macchia d'olio latina italia,2026-08-09T03:59:00+00:00,Italy,0.5354587172925018,1,1,it,MED,Europe
+'38a36ec0fc',extremes,Wildfire,#d60d2b,effis,incendio avellino italia,2026-09-01T07:57:00+00:00,Italy,0.5352131858819621,2,1,it,MED,Europe
 'dfc325c844',extremes,Wildfire,#d60d2b,effis,incendio boschivo caltanissetta italia,2026-08-08T03:51:00+00:00,Italy,0.5350792799681962,1,1,it,MED,Europe
 '32e74ad8ff',extremes,Heat Wave,#c40202,wmo,ondata di caldo molisano,2026-07-31T05:51:00+00:00,Italy,0.5349718349176004,1,1,it,MED,Europe
 '820812e949',extremes,Wildfire,#d60d2b,effis,incendio italia catanzaro santa caterina dello ionio,2026-08-11T04:01:00+00:00,Italy,0.5349506760243251,1,1,it,MED,Europe
