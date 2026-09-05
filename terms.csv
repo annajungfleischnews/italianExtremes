@@ -267,7 +267,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '21cbdf87d9',extremes,Thunderstorm,#53785a,wmo,forte tempo toscana,2026-07-27T06:05:00+00:00,Italy,0.4431623952811392,1,2,it,MED,Europe
 '4b8352459f',extremes,Wildfire,#d60d2b,effis,incendio boschivo italia sud sardegna muravera,2026-08-27T13:00:00+00:00,Italy,0.4426451611579514,3,1,it,MED,Europe
 '9d36efcb9c',extremes,Thunderstorm,#53785a,wmo,maltempo sicilia,2026-07-29T05:37:00+00:00,Italy,0.4384549834551829,1,1,it,MED,Europe
-'8742149670',extremes,Thunderstorm,#53785a,wmo,temporale lazio,2026-08-02T05:42:00+00:00,Italy,0.4358305809463204,1,2,it,MED,Europe
 '0ea04eeac6',extremes,Earthquake,#870007,usgs,terremoto torre caracciolo,2026-08-06T05:33:00+00:00,Italy,0.4306955534448268,1,1,it,MED,Europe
 '8025b5773e',extremes,Heat Wave,#c40202,wmo,ondata di caldo Yverdon Bevaix,2026-08-01T05:42:00+00:00,Switzerland,0.4282029320315804,2,1,it,WCE,Europe
 'ffa24d4a37',extremes,Heat Wave,#c40202,wmo,ondata di caldo la chaux de fonds le locle,2026-07-30T05:24:00+00:00,Switzerland,0.4207400718245287,1,1,it,WCE,Europe
@@ -281,6 +280,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '682f2b6237',extremes,Wildfire,#d60d2b,effis,incendio boschivo cosenza italia,2026-08-07T09:56:00+00:00,Italy,0.4000429388650336,1,1,it,MED,Europe
 '75e0c27d10',extremes,Wildfire,#d60d2b,effis,incendio cosenza italia,2026-08-07T09:56:00+00:00,Italy,0.3964037980774274,1,1,it,MED,Europe
 '885ba8aa0b',extremes,Wildfire,#d60d2b,effis,incendio boschivo messina italia,2026-08-07T09:56:00+00:00,Italy,0.394293325927161,1,1,it,MED,Europe
+'8742149670',extremes,Thunderstorm,#53785a,wmo,temporale lazio,2026-08-02T05:42:00+00:00,Italy,0.3844979228952814,2,2,it,MED,Europe
 '84dfdca0f8',extremes,Thunderstorm,#53785a,random,grandine,2026-07-29T05:37:00+00:00,,0.3754100021470702,1,2,it,,
 'f4a79cb90e',extremes,Wildfire,#d60d2b,effis,macchia d'olio italia,2026-08-07T09:56:00+00:00,Italy,0.3675074380175454,1,1,it,MED,Europe
 '80c06ab8a0',extremes,Cold Wave,#a7e9fa,random,crollo della temperatura,2026-08-04T05:31:00+00:00,,0.3484538551061619,1,1,it,,
