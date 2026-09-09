@@ -1,6 +1,5 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'2ae18a5010',extremes,Wildfire,#d60d2b,effis,incendio caltanissetta italia,2026-08-31T08:51:00+00:00,Italy,0.7664342703874865,1,2,it,MED,Europe
-'d03bf25296',extremes,Wildfire,#d60d2b,effis,incendio boschivo italia enna assoro,2026-09-07T07:29:00+00:00,Italy,0.7212680770886685,0,1,it,MED,Europe
+'2ae18a5010',extremes,Wildfire,#d60d2b,effis,incendio caltanissetta italia,2026-08-31T08:51:00+00:00,Italy,0.8016191448293635,2,2,it,MED,Europe
 'bd2c627a31',extremes,Wildfire,#d60d2b,effis,incendio italia agrigento racalmuto,2026-09-07T07:29:00+00:00,Italy,0.679565034179219,0,1,it,MED,Europe
 'df74fb9cdf',extremes,Wildfire,#d60d2b,effis,incendio boschivo italia caltanissetta mazzarino,2026-09-08T07:23:00+00:00,Italy,0.6768106567903438,0,1,it,MED,Europe
 '761c540340',extremes,Wildfire,#d60d2b,effis,incendio italia avellino frigento,2026-09-08T07:23:00+00:00,Italy,0.6757403477214319,0,1,it,MED,Europe
@@ -16,6 +15,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1ad7e87cb2',extremes,Wildfire,#d60d2b,effis,incendio violento italia,2026-08-07T09:56:00+00:00,Italy,0.6213242482154152,2,2,it,MED,Europe
 '0ea7108e6e',extremes,Heat Wave,#c40202,wmo,ondata di caldo calabria,2026-08-07T09:56:00+00:00,Italy,0.6206044567478802,6,3,it,MED,Europe
 'd464543475',extremes,Heat Wave,#c40202,wmo,ondata di caldo lazio,2026-07-30T05:24:00+00:00,Italy,0.6131518271193754,2,2,it,MED,Europe
+'d03bf25296',extremes,Wildfire,#d60d2b,effis,incendio boschivo italia enna assoro,2026-09-07T07:29:00+00:00,Italy,0.6130778655253681,1,1,it,MED,Europe
 'cd3d048b5a',extremes,Precipitation,#d60d2b,wmo,pioggia italia,2026-07-25T05:29:00+00:00,Italy,0.6103032939080616,2,3,it,MED,Europe
 'ef3f713866',extremes,Wildfire,#d60d2b,effis,incendio italia reggio di calabria reggio di calabria,2026-08-26T03:34:00+00:00,Italy,0.6093920537828518,2,1,it,MED,Europe
 '7104ad3c83',extremes,Thunderstorm,#53785a,wmo,temporale italia,2026-08-21T03:30:00+00:00,Italy,0.5985023670323193,2,2,it,MED,Europe
@@ -241,4 +241,3 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8742149670',extremes,Thunderstorm,#53785a,wmo,temporale lazio,2026-08-02T05:42:00+00:00,Italy,0.3844979228952814,2,2,it,MED,Europe
 '84dfdca0f8',extremes,Thunderstorm,#53785a,random,grandine,2026-07-29T05:37:00+00:00,,0.3754100021470702,1,2,it,,
 'f4a79cb90e',extremes,Wildfire,#d60d2b,effis,macchia d'olio italia,2026-08-07T09:56:00+00:00,Italy,0.3675074380175454,1,1,it,MED,Europe
-'7c2efe79a1',extremes,Wildfire,#d60d2b,effis,incendio crotone italia,2026-08-07T09:56:00+00:00,Italy,0.3472722618750263,2,1,it,MED,Europe
