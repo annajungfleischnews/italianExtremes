@@ -1,7 +1,7 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 '2ae18a5010',extremes,Wildfire,#d60d2b,effis,incendio caltanissetta italia,2026-08-31T08:51:00+00:00,Italy,0.831526288104959,3,2,it,MED,Europe
 '690c0d80e6',extremes,Wildfire,#d60d2b,effis,incendio boschivo italia,2026-08-27T13:00:00+00:00,Italy,0.7639492215302237,1,2,it,MED,Europe
-'39572a9801',extremes,Wildfire,#d60d2b,effis,incendio italia agrigento agrigento,2026-08-26T03:34:00+00:00,Italy,0.6815101131296007,0,1,it,MED,Europe
+'39572a9801',extremes,Wildfire,#d60d2b,effis,incendio italia agrigento agrigento,2026-08-26T03:34:00+00:00,Italy,0.7294336111601607,1,2,it,MED,Europe
 'c8bad6097f',extremes,Heat Wave,#c40202,wmo,ondata di caldo basilicata,2026-08-23T03:30:00+00:00,Italy,0.6680208890574645,0,1,it,MED,Europe
 '27ecdd832f',extremes,Heat Wave,#c40202,wmo,ondata di caldo emilia e romagna,2026-08-27T13:00:00+00:00,Italy,0.6660739950401262,0,1,it,MED,Europe
 '78021233b7',extremes,Heat Wave,#c40202,wmo,ondata di caldo toscana,2026-08-26T03:34:00+00:00,Italy,0.6649918742492099,0,1,it,MED,Europe
