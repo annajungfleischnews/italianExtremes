@@ -1,6 +1,6 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'c377e67829',extremes,Heat Wave,#c40202,wmo,ondata di caldo campania,2026-08-27T13:00:00+00:00,Italy,0.6717690834985693,3,2,it,MED,Europe
 'e050960c85',extremes,Heat Wave,#c40202,wmo,ondata di caldo marche,2026-08-27T13:00:00+00:00,Italy,0.6544247868687919,3,2,it,MED,Europe
+'c377e67829',extremes,Heat Wave,#c40202,wmo,ondata di caldo campania,2026-08-27T13:00:00+00:00,Italy,0.6478039009737839,4,2,it,MED,Europe
 '5e27c3e2fc',extremes,Wildfire,#d60d2b,effis,incendio italia messina messina,2026-08-09T03:59:00+00:00,Italy,0.6432805804775393,3,2,it,MED,Europe
 '690c0d80e6',extremes,Wildfire,#d60d2b,effis,incendio boschivo italia,2026-08-27T13:00:00+00:00,Italy,0.6373358958055866,3,1,it,MED,Europe
 '6e8e733a81',extremes,Wildfire,#d60d2b,effis,incendio foggia italia,2026-08-26T03:34:00+00:00,Italy,0.6356926407550297,5,1,it,MED,Europe
@@ -228,5 +228,5 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5cf45bc328',extremes,Wildfire,#d60d2b,effis,macchia d'olio italia firenze barberino val d'elsa,2026-08-21T03:30:00+00:00,Italy,0.4010689188619623,3,1,it,MED,Europe
 '5883909e95',extremes,Wildfire,#d60d2b,effis,incendio boschivo italia reggio di calabria motta san giovanni,2026-08-21T03:30:00+00:00,Italy,0.4009167869628812,3,1,it,MED,Europe
 '682f2b6237',extremes,Wildfire,#d60d2b,effis,incendio boschivo cosenza italia,2026-08-07T09:56:00+00:00,Italy,0.4000429388650336,1,1,it,MED,Europe
-'67ec2b407b',extremes,Wildfire,#d60d2b,effis,macchia d'olio italia bari ruvo di puglia,2026-08-14T04:24:00+00:00,Italy,0.39546671348652096,3,1,it,MED,Europe
+'67ec2b407b',extremes,Wildfire,#d60d2b,effis,macchia d'olio italia bari ruvo di puglia,2026-08-14T04:24:00+00:00,Italy,0.3954667134865209,3,1,it,MED,Europe
 '885ba8aa0b',extremes,Wildfire,#d60d2b,effis,incendio boschivo messina italia,2026-08-07T09:56:00+00:00,Italy,0.394293325927161,1,1,it,MED,Europe
