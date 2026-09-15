@@ -1,10 +1,10 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 '997a2e2157',extremes,Earthquake,#870007,usgs,terremoto argentina,2026-08-07T09:56:00+00:00,Argentina,0.628229728401106,4,2,it,SES,South-America
+'c8bad6097f',extremes,Heat Wave,#c40202,wmo,ondata di caldo basilicata,2026-08-23T03:30:00+00:00,Italy,0.6271113100174155,3,2,it,MED,Europe
 '1ad7e87cb2',extremes,Wildfire,#d60d2b,effis,incendio violento italia,2026-08-07T09:56:00+00:00,Italy,0.6213242482154152,2,2,it,MED,Europe
 '0ea7108e6e',extremes,Heat Wave,#c40202,wmo,ondata di caldo calabria,2026-08-07T09:56:00+00:00,Italy,0.6206044567478802,6,3,it,MED,Europe
 '2ae18a5010',extremes,Wildfire,#d60d2b,effis,incendio caltanissetta italia,2026-08-31T08:51:00+00:00,Italy,0.6007777431558328,5,1,it,MED,Europe
 '7104ad3c83',extremes,Thunderstorm,#53785a,wmo,temporale italia,2026-08-21T03:30:00+00:00,Italy,0.597942368794487,4,3,it,MED,Europe
-'c8bad6097f',extremes,Heat Wave,#c40202,wmo,ondata di caldo basilicata,2026-08-23T03:30:00+00:00,Italy,0.5896602588440182,2,1,it,MED,Europe
 '59bed8a698',extremes,Wildfire,#d60d2b,effis,incendio boschivo sud sardegna italia,2026-08-14T04:24:00+00:00,Italy,0.5839219673011854,3,1,it,MED,Europe
 'cb15bc1996',extremes,Heat Wave,#c40202,wmo,ondata di caldo puglia,2026-08-28T14:32:00+00:00,Italy,0.5610966838447923,6,1,it,MED,Europe
 '119f96e74b',extremes,Wildfire,#d60d2b,effis,incendio violento catanzaro italia,2026-08-27T13:00:00+00:00,Italy,0.5592551657893823,2,1,it,MED,Europe
@@ -165,7 +165,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'fb29d91450',extremes,Wildfire,#d60d2b,effis,incendio boschivo italia udine chiusaforte,2026-08-15T03:13:00+00:00,Italy,0.4399182725969445,2,1,it,WCE,Europe
 'f2ecf020a6',extremes,Wildfire,#d60d2b,effis,incendio violento pordenone italia,2026-08-15T03:13:00+00:00,Italy,0.439886229522571,2,1,it,WCE,Europe
 'c3acc1216a',extremes,Wildfire,#d60d2b,effis,incendio italia matera rotondella,2026-08-12T04:22:00+00:00,Italy,0.4385145519693658,2,1,it,MED,Europe
-'6639b35762',extremes,Wildfire,#d60d2b,effis,incendio boschivo potenza italia,2026-08-13T04:26:00+00:00,Italy,0.43744109747150306,2,1,it,MED,Europe
+'6639b35762',extremes,Wildfire,#d60d2b,effis,incendio boschivo potenza italia,2026-08-13T04:26:00+00:00,Italy,0.437441097471503,2,1,it,MED,Europe
 'd765acf121',extremes,Wildfire,#d60d2b,effis,incendio italia reggio di calabria motta san giovanni,2026-08-24T03:32:00+00:00,Italy,0.4374297202633484,3,1,it,MED,Europe
 'fb936a5d0e',extremes,Wildfire,#d60d2b,effis,incendio boschivo catania italia,2026-08-13T04:26:00+00:00,Italy,0.4346042591379335,2,1,it,MED,Europe
 '0564bfb154',extremes,Wildfire,#d60d2b,effis,incendio violento italia crotone crotone,2026-08-27T13:00:00+00:00,Italy,0.4322327226941926,3,1,it,MED,Europe
