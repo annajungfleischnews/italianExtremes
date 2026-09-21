@@ -1,5 +1,5 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'7104ad3c83',extremes,Thunderstorm,#53785a,wmo,temporale italia,2026-08-21T03:30:00+00:00,Italy,0.508251793475314,5,2,it,MED,Europe
+'7104ad3c83',extremes,Thunderstorm,#53785a,wmo,temporale italia,2026-08-21T03:30:00+00:00,Italy,0.5051466076358351,6,2,it,MED,Europe
 '540c976e59',extremes,Heat Wave,#c40202,wmo,ondata di caldo sardegna,2026-08-22T03:22:00+00:00,Italy,0.4941722740087599,4,1,it,MED,Europe
 'e050960c85',extremes,Heat Wave,#c40202,wmo,ondata di caldo marche,2026-08-27T13:00:00+00:00,Italy,0.4618110265857968,6,1,it,MED,Europe
 'd765acf121',extremes,Wildfire,#d60d2b,effis,incendio italia reggio di calabria motta san giovanni,2026-08-24T03:32:00+00:00,Italy,0.4374297202633484,3,1,it,MED,Europe
@@ -71,4 +71,4 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6e9d018ae4',extremes,Wildfire,#d60d2b,effis,incendio boschivo italia agrigento agrigento,2026-08-26T03:34:00+00:00,Italy,0.3588456097940283,4,1,it,MED,Europe
 'f91b15b384',extremes,Wildfire,#d60d2b,effis,incendio italia agrigento siculiana,2026-09-10T07:28:00+00:00,Italy,0.3566803784367166,4,1,it,MED,Europe
 'df74fb9cdf',extremes,Wildfire,#d60d2b,effis,incendio boschivo italia caltanissetta mazzarino,2026-09-08T07:23:00+00:00,Italy,0.3532993929111644,4,1,it,MED,Europe
-'b1597fef88',extremes,Wildfire,#d60d2b,effis,incendio italia salerno cava de' tirreni,2026-09-04T07:23:00+00:00,Italy,0.35053279131394266,4,1,it,MED,Europe
+'b1597fef88',extremes,Wildfire,#d60d2b,effis,incendio italia salerno cava de' tirreni,2026-09-04T07:23:00+00:00,Italy,0.3505327913139426,4,1,it,MED,Europe
