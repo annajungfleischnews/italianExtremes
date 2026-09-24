@@ -1,9 +1,5 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'03707a65f9',extremes,Wildfire,#d60d2b,effis,incendio italia matera craco,2026-08-31T08:51:00+00:00,Italy,0.3745214508206764,4,1,it,MED,Europe
-'0564bfb154',extremes,Wildfire,#d60d2b,effis,incendio violento italia crotone crotone,2026-08-27T13:00:00+00:00,Italy,0.3673978142900637,4,1,it,MED,Europe
 '563353dac4',extremes,Wildfire,#d60d2b,effis,incendio boschivo italia nuoro arzana,2026-08-31T08:51:00+00:00,Italy,0.3623808324133396,4,1,it,MED,Europe
-'ad4c118ccd',extremes,Wildfire,#d60d2b,effis,incendio boschivo italia agrigento aragona,2026-09-09T07:32:00+00:00,Italy,0.3621156249493829,4,1,it,MED,Europe
-'06cb4beea4',extremes,Wildfire,#d60d2b,effis,incendio italia chieti carpineto sinello,2026-09-01T07:57:00+00:00,Italy,0.3611408441698717,4,1,it,MED,Europe
 'c38d8fa5ac',extremes,Wildfire,#d60d2b,effis,fuoco violento italia matera miglionico,2026-09-01T07:57:00+00:00,Italy,0.3586869089825111,4,1,it,MED,Europe
 '0bd1d318bd',extremes,Wildfire,#d60d2b,effis,incendio boschivo italia pescara caramanico terme,2026-09-02T07:16:00+00:00,Italy,0.3568808846499748,4,1,it,MED,Europe
 'f91b15b384',extremes,Wildfire,#d60d2b,effis,incendio italia agrigento siculiana,2026-09-10T07:28:00+00:00,Italy,0.3566803784367166,4,1,it,MED,Europe
@@ -18,9 +14,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'cfc9caaa6d',extremes,Wildfire,#d60d2b,effis,incendio italia foggia sant'agata di puglia,2026-09-04T07:23:00+00:00,Italy,0.3442768108925518,4,1,it,MED,Europe
 '9051965eaf',extremes,Wildfire,#d60d2b,effis,incendio italia salerno maiori,2026-09-01T07:57:00+00:00,Italy,0.3364218614414286,5,1,it,MED,Europe
 '150854d8e2',extremes,Wildfire,#d60d2b,effis,incendio italia avellino monteverde,2026-09-02T07:16:00+00:00,Italy,0.3310096775535092,5,1,it,MED,Europe
-'6ed3ec9ae9',extremes,Wildfire,#d60d2b,effis,incendio boschivo italia palermo ciminna,2026-09-01T07:57:00+00:00,Italy,0.32826361144148886,5,1,it,MED,Europe
+'6ed3ec9ae9',extremes,Wildfire,#d60d2b,effis,incendio boschivo italia palermo ciminna,2026-09-01T07:57:00+00:00,Italy,0.3282636114414888,5,1,it,MED,Europe
 '50f36d8f48',extremes,Wildfire,#d60d2b,effis,incendio matera italia,2026-09-01T07:57:00+00:00,Italy,0.3265410193445519,5,1,it,MED,Europe
 '31da906479',extremes,Wildfire,#d60d2b,effis,wild fire italia l’aquila pratola peligna,2026-08-31T08:51:00+00:00,Italy,0.3213447519600552,5,1,it,MED,Europe
-'d03bf25296',extremes,Wildfire,#d60d2b,effis,incendio boschivo italia enna assoro,2026-09-07T07:29:00+00:00,Italy,0.32003047754090164,5,1,it,MED,Europe
+'d03bf25296',extremes,Wildfire,#d60d2b,effis,incendio boschivo italia enna assoro,2026-09-07T07:29:00+00:00,Italy,0.3200304775409016,5,1,it,MED,Europe
+'03707a65f9',extremes,Wildfire,#d60d2b,effis,incendio italia matera craco,2026-08-31T08:51:00+00:00,Italy,0.3183432331975749,5,1,it,MED,Europe
 '78e8e631d1',extremes,Wildfire,#d60d2b,effis,incendio boschivo italia messina mongiuffi melia,2026-08-31T08:51:00+00:00,Italy,0.3102628887324784,5,1,it,MED,Europe
+'ad4c118ccd',extremes,Wildfire,#d60d2b,effis,incendio boschivo italia agrigento aragona,2026-09-09T07:32:00+00:00,Italy,0.30779828120697544,5,1,it,MED,Europe
+'06cb4beea4',extremes,Wildfire,#d60d2b,effis,incendio italia chieti carpineto sinello,2026-09-01T07:57:00+00:00,Italy,0.30696971754439095,5,1,it,MED,Europe
 'df74fb9cdf',extremes,Wildfire,#d60d2b,effis,incendio boschivo italia caltanissetta mazzarino,2026-09-08T07:23:00+00:00,Italy,0.3003044839744897,5,1,it,MED,Europe
