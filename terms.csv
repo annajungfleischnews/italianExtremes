@@ -1,7 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'ad4c118ccd',extremes,Wildfire,#d60d2b,effis,incendio boschivo italia agrigento aragona,2026-09-09T07:32:00+00:00,Italy,0.3077982812069754,5,1,it,MED,Europe
-'06cb4beea4',extremes,Wildfire,#d60d2b,effis,incendio italia chieti carpineto sinello,2026-09-01T07:57:00+00:00,Italy,0.3069697175443909,5,1,it,MED,Europe
-'0bd1d318bd',extremes,Wildfire,#d60d2b,effis,incendio boschivo italia pescara caramanico terme,2026-09-02T07:16:00+00:00,Italy,0.3033487519524785,5,1,it,MED,Europe
 'c5a072d545',extremes,Wildfire,#d60d2b,effis,incendio italia agrigento casteltermini,2026-09-01T07:57:00+00:00,Italy,0.3027639721097747,5,1,it,MED,Europe
 '629013b478',extremes,Wildfire,#d60d2b,effis,incendio boschivo italia catania mineo,2026-09-01T07:57:00+00:00,Italy,0.3019326236860082,5,1,it,MED,Europe
 'bb7d3cb0a2',extremes,Wildfire,#d60d2b,effis,fuoco selvaggio italia latina fondi,2026-09-03T07:20:00+00:00,Italy,0.3011637969537775,5,1,it,MED,Europe
@@ -9,4 +6,4 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b1597fef88',extremes,Wildfire,#d60d2b,effis,incendio italia salerno cava de' tirreni,2026-09-04T07:23:00+00:00,Italy,0.2979528726168512,5,1,it,MED,Europe
 'cdac17cf2c',extremes,Wildfire,#d60d2b,effis,incendio boschivo italia agrigento licata,2026-09-09T07:32:00+00:00,Italy,0.2945356101975334,5,1,it,MED,Europe
 'd22bdb1689',extremes,Wildfire,#d60d2b,effis,incendio violento italia catanzaro borgia,2026-09-04T07:23:00+00:00,Italy,0.2928886067813576,5,1,it,MED,Europe
-'d03bf25296',extremes,Wildfire,#d60d2b,effis,incendio boschivo italia enna assoro,2026-09-07T07:29:00+00:00,Italy,0.27202590590976633,6,1,it,MED,Europe
+'d03bf25296',extremes,Wildfire,#d60d2b,effis,incendio boschivo italia enna assoro,2026-09-07T07:29:00+00:00,Italy,0.2720259059097663,6,1,it,MED,Europe
