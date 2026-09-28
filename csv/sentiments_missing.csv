@@ -219,54 +219,54 @@ two weeks,two weeks,DATE,,,en,1.7
 6-7 degrees,6-7 degrees,QUANTITY,,,en,1.7
 up to 80 kilometers per hour,up to 80 kilometers per hour,QUANTITY,,,en,1.7
 4pm,4pm,TIME,,,en,1.7
-eight months,eight months,DATE,,,en,1.7
 109,109,CARDINAL,,,en,1.7
-Ten years,Ten years,DATE,,,en,1.7
-April 21st,April 21st,DATE,,,en,1.7
 the early hours,the early hours,TIME,,,en,1.7
+April 21st,April 21st,DATE,,,en,1.7
+Ten years,Ten years,DATE,,,en,1.7
+eight months,eight months,DATE,,,en,1.7
 7.1,7.1,CARDINAL,,,en,1.7
 13,13,DATE,,,en,1.7
 22,22,CARDINAL,,,en,1.7
-"About 4,200 years ago","About 4,200 years ago",DATE,,,en,1.6
-500,500,CARDINAL,,,en,1.6
-iOS 26.2,iOS 26.2,PRODUCT,,,en,1.6
-26.2,26.2,PRODUCT,,,en,1.6
-Pozzuoli,Pozzuoli,NORP,,,en,1.6
-German,German,NORP,,,en,1.6
-This year,This year,DATE,,,en,1.6
-Norwegian,Norwegian,NORP,,,en,1.6
-15 years,15 years,DATE,,,en,1.6
-Second,Second,ORDINAL,,,en,1.6
-"4,200 years ago","4,200 years ago",DATE,,,en,1.6
-quarter,quarter,DATE,,,en,1.6
 autumn,autumn,DATE,,,en,1.6
+Pozzuoli,Pozzuoli,NORP,,,en,1.6
 the Middle Ages,the Middle Ages,DATE,,,en,1.6
+Easter Monday,Easter Monday,EVENT,,,en,1.6
+Second,Second,ORDINAL,,,en,1.6
+German,German,NORP,,,en,1.6
+Norwegian,Norwegian,NORP,,,en,1.6
+quarter,quarter,DATE,,,en,1.6
+"About 4,200 years ago","About 4,200 years ago",DATE,,,en,1.6
+15 years,15 years,DATE,,,en,1.6
 X4,X4,CARDINAL,,,en,1.6
 Christmas week,Christmas week,DATE,,,en,1.6
 three-year,three-year,DATE,,,en,1.6
 Egyptian,Egyptian,NORP,,,en,1.6
+iOS 26.2,iOS 26.2,PRODUCT,,,en,1.6
 seven,seven,CARDINAL,,,en,1.6
-Easter Monday,Easter Monday,EVENT,,,en,1.6
+500,500,CARDINAL,,,en,1.6
+26.2,26.2,PRODUCT,,,en,1.6
+This year,This year,DATE,,,en,1.6
+"4,200 years ago","4,200 years ago",DATE,,,en,1.6
 the day,the day,DATE,,,en,1.5
 Tuscan,Tuscan,NORP,,,en,1.5
 this afternoon,this afternoon,TIME,,,en,1.4
+"over 15,000 hectares","over 15,000 hectares",QUANTITY,,,en,1.3
+Aosta,Aosta,NORP,0.19333333333333336,0.2844444444444445,en,1.3
+Umbrian,Umbrian,NORP,,,en,1.3
+Abruzzo airport,Abruzzo airport,FAC,,,en,1.3
+the same day,the same day,DATE,,,en,1.3
+Siri,Siri,PRODUCT,,,en,1.3
+the Summer Olympics,the Summer Olympics,EVENT,,,en,1.3
+24 degrees,24 degrees,QUANTITY,,,en,1.3
 May 16-17,May 16-17,DATE,,,en,1.3
 3.5,3.5,CARDINAL,,,en,1.3
-"today, Thursday 8 January","today, Thursday 8 January",DATE,,,en,1.3
-"over 15,000 hectares","over 15,000 hectares",QUANTITY,,,en,1.3
-Argentine,Argentine,NORP,,,en,1.3
-Siri,Siri,PRODUCT,,,en,1.3
-Umbrian,Umbrian,NORP,,,en,1.3
-the same day,the same day,DATE,,,en,1.3
-the Summer Olympics,the Summer Olympics,EVENT,,,en,1.3
-over 40 degrees,over 40 degrees,QUANTITY,,,en,1.3
-Abruzzo airport,Abruzzo airport,FAC,,,en,1.3
-Aosta,Aosta,NORP,0.19333333333333336,0.2844444444444445,en,1.3
-the afternoon of July 1st,the afternoon of July 1st,TIME,,,en,1.3
-month,month,DATE,,,en,1.3
-A few more days,A few more days,DATE,,,en,1.3
 "15,000 hectares","15,000 hectares",QUANTITY,,,en,1.3
-24 degrees,24 degrees,QUANTITY,,,en,1.3
+A few more days,A few more days,DATE,,,en,1.3
+month,month,DATE,,,en,1.3
+the afternoon of July 1st,the afternoon of July 1st,TIME,,,en,1.3
+over 40 degrees,over 40 degrees,QUANTITY,,,en,1.3
+Argentine,Argentine,NORP,,,en,1.3
+"today, Thursday 8 January","today, Thursday 8 January",DATE,,,en,1.3
 "3,000","3,000",CARDINAL,,,en,1.3
 the early afternoon,the early afternoon,TIME,,,en,1.3
 2022,2022,DATE,,,en,1.3
@@ -318,19 +318,19 @@ Christmas 2025,Christmas 2025,DATE,,,en,1.3
 35 years,35 years,DATE,,,en,1.3
 the Chiara Prize,the Chiara Prize,WORK_OF_ART,,,en,1.3
 30,30,CARDINAL,,,en,1.3
-May 23-24,May 23-24,DATE,,,en,1.3
+Bible,Bible,WORK_OF_ART,,,en,1.3
+130,130,CARDINAL,,,en,1.3
 2 and 4 years old,2 and 4 years old,DATE,,,en,1.3
 Crans,Crans,NORP,,,en,1.3
-130,130,CARDINAL,,,en,1.3
 50 million,50 million,CARDINAL,,,en,1.3
 73 million years ago,73 million years ago,DATE,,,en,1.3
 the week,the week,DATE,,,en,1.3
 this week,this week,DATE,,,en,1.3
-Bible,Bible,WORK_OF_ART,,,en,1.3
+May 23-24,May 23-24,DATE,,,en,1.3
 weeks,weeks,DATE,,,en,1.3
 30 million,30 million,CARDINAL,,,en,1.3
-twenty-year-old,twenty-year-old,DATE,,,en,1.2
 F9,F9,CARDINAL,,,en,1.2
+twenty-year-old,twenty-year-old,DATE,,,en,1.2
 between 3.7 and 4.2,between 3.7 and 4.2,CARDINAL,,,en,1.2
 a few minutes,a few minutes,TIME,,,en,1.2
 36,36,CARDINAL,,,en,1.2
@@ -368,11 +368,11 @@ Many years,Many years,DATE,,,en,1.0
 Lake Antrona,Lake Antrona,FAC,,,en,1.0
 its first fifteen years,its first fifteen years,DATE,,,en,1.0
 a few weeks,a few weeks,DATE,,,en,1.0
+Ligurian,Ligurian,NORP,0.0,0.0,en,1.0
 Yoga Day,Yoga Day,DATE,,,en,1.0
 15.4 degrees,15.4 degrees,QUANTITY,,,en,1.0
 the winter,the winter,DATE,,,en,1.0
 48%,48%,PERCENT,,,en,1.0
-Le Mans | Times,Le Mans | Times,EVENT,,,en,1.0
 previous years,previous years,DATE,,,en,1.0
 twenty-eighth season,twenty-eighth season,DATE,,,en,1.0
 the Italic Sanctuary,the Italic Sanctuary,FAC,,,en,1.0
@@ -387,9 +387,9 @@ the last five years,the last five years,DATE,,,en,1.0
 6 million,6 million,CARDINAL,,,en,1.0
 The first half of May,The first half of May,DATE,,,en,1.0
 last few hours,last few hours,TIME,,,en,1.0
-Ligurian,Ligurian,NORP,0.0,0.0,en,1.0
-Four,Four,CARDINAL,,,en,1.0
 the Acciuga Hotel,the Acciuga Hotel,FAC,,,en,1.0
+Four,Four,CARDINAL,,,en,1.0
+Le Mans | Times,Le Mans | Times,EVENT,,,en,1.0
 the Week,the Week,DATE,,,en,1.0
 50th,50th,ORDINAL,,,en,1.0
 27 euros,27 euros,MONEY,,,en,1.0
@@ -1273,8 +1273,8 @@ only 10%,only 10%,PERCENT,,,en,1.0
 10001 mAh,10001 mAh,QUANTITY,,,en,1.0
 "10,001 mAh","10,001 mAh",QUANTITY,,,en,1.0
 spring weekends,spring weekends,DATE,,,en,1.0
-Five hundred centuries-old,Five hundred centuries-old,DATE,,,en,1.0
 between 19 and 22 January,between 19 and 22 January,DATE,,,en,1.0
+Five hundred centuries-old,Five hundred centuries-old,DATE,,,en,1.0
 almost 30 billion,almost 30 billion,CARDINAL,,,en,1.0
 the next irrigation season,the next irrigation season,DATE,,,en,1.0
 8 January,8 January,DATE,,,en,1.0
